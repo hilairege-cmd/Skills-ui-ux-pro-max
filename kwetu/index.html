@@ -1,0 +1,1523 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KWETU</title>
+<meta name="description" content="Bistrot Afro-Contemporain à Marseille. Une cuisine de partage, une salle chargée d'histoire, un art de vivre entre Afrique et Méditerranée.">
+<style>
+/* ─── TOKENS ────────────────────────────────────────── */
+:root {
+  --void:    #0D0905;
+  --surface: #1A1008;
+  --raised:  #241608;
+  --amber:   #C4821C;
+  --amber-d: #A06716;
+  --garnet:  #881B29;
+  --stone:   #B89268;
+  --ivory:   #EFE0C6;
+  --muted:   #7D6244;
+  --border:  rgba(180,140,90,0.18);
+
+  --serif:  "Didot","Bodoni MT","Playfair Display",Georgia,"Times New Roman",serif;
+  --sans:   "Gill Sans","Gill Sans MT","Trebuchet MS",system-ui,sans-serif;
+
+  --max: 1200px;
+  --ease: cubic-bezier(0.4,0,0.2,1);
+}
+
+/* ─── RESET ────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--void);
+  color: var(--ivory);
+  font-family: var(--sans);
+  font-size: 17px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+img { max-width: 100%; display: block; }
+a { color: inherit; text-decoration: none; }
+button, input, select, textarea { font-family: inherit; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
+
+/* ─── SCROLLBAR ────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--void); }
+::-webkit-scrollbar-thumb { background: var(--muted); border-radius: 3px; }
+
+/* ─── NAV ──────────────────────────────────────────── */
+.nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 48px;
+  height: 72px;
+  background: linear-gradient(to bottom, rgba(13,9,5,0.92) 0%, transparent 100%);
+  backdrop-filter: blur(2px);
+  border-bottom: 1px solid transparent;
+  transition: background .4s var(--ease), border-color .4s var(--ease);
+}
+.nav.scrolled {
+  background: rgba(13,9,5,0.97);
+  border-color: var(--border);
+}
+.nav-logo {
+  font-family: var(--serif);
+  font-size: 22px;
+  letter-spacing: 0.22em;
+  color: var(--ivory);
+  font-weight: 400;
+}
+.nav-logo span { color: var(--amber); }
+.nav-links {
+  display: flex; align-items: center; gap: 36px;
+  list-style: none;
+}
+.nav-links a {
+  font-size: 11.5px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--stone);
+  transition: color .25s;
+}
+.nav-links a:hover { color: var(--ivory); }
+.nav-cta {
+  background: var(--amber);
+  color: var(--void);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 10px 22px;
+  border: none; cursor: pointer;
+  transition: background .25s, transform .2s;
+}
+.nav-cta:hover { background: var(--amber-d); transform: translateY(-1px); }
+.nav-cta:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+
+.burger {
+  display: none; flex-direction: column; gap: 5px; cursor: pointer;
+  background: none; border: none; padding: 4px;
+}
+.burger span {
+  display: block; width: 24px; height: 1.5px;
+  background: var(--ivory); transition: .3s;
+}
+
+/* ─── HERO ─────────────────────────────────────────── */
+.hero {
+  position: relative;
+  height: 100vh; min-height: 640px;
+  display: flex; flex-direction: column;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+/* Stone-wall / warm interior simulation */
+.hero-bg {
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse 60% 80% at 30% 60%, rgba(180,130,50,0.18) 0%, transparent 60%),
+    radial-gradient(ellipse 40% 50% at 70% 40%, rgba(136,27,41,0.12) 0%, transparent 50%),
+    linear-gradient(165deg, #1C1007 0%, #0D0905 55%, #160B04 100%);
+  z-index: 0;
+}
+
+/* African geometric pattern overlay */
+.hero-pattern {
+  position: absolute; inset: 0; z-index: 1; opacity: 0.04;
+  background-image:
+    repeating-linear-gradient(45deg, var(--amber) 0, var(--amber) 1px, transparent 0, transparent 50%),
+    repeating-linear-gradient(-45deg, var(--amber) 0, var(--amber) 1px, transparent 0, transparent 50%);
+  background-size: 28px 28px;
+}
+
+.hero-img-wrap {
+  position: absolute; inset: 0; z-index: 2;
+  background:
+    /* Fade overlay */
+    linear-gradient(to bottom,
+      rgba(13,9,5,0.55) 0%,
+      rgba(13,9,5,0.1) 30%,
+      rgba(13,9,5,0.3) 60%,
+      rgba(13,9,5,0.88) 100%
+    );
+}
+
+/* Placeholder that looks like a designed graphic, not a broken image */
+.hero-photo {
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(circle at 35% 65%, rgba(196,130,28,0.28) 0%, transparent 45%),
+    radial-gradient(circle at 75% 35%, rgba(136,27,41,0.22) 0%, transparent 40%),
+    url("data:image/svg+xml,%3Csvg width='600' height='400' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3C/defs%3E%3Crect width='600' height='400' filter='url(%23n)' opacity='0.12'/%3E%3C/svg%3E") center/cover,
+    linear-gradient(135deg, #1F1009 0%, #0F0704 40%, #1A0C06 70%, #240E05 100%);
+  background-size: auto, auto, cover, cover;
+}
+
+/* ACTUAL PHOTO SLOT: swap .hero-photo background with:
+   background: url('photos/salle-interieur.jpg') center/cover no-repeat; */
+.hero-photo.has-image {
+  background: url('photos/salle-interieur.jpg') center/cover no-repeat;
+}
+
+.hero-content {
+  position: relative; z-index: 3;
+  padding: 0 64px 72px;
+}
+.hero-eyebrow {
+  font-size: 11px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 20px;
+  opacity: 0;
+  animation: fadeUp 0.9s 0.3s var(--ease) forwards;
+}
+.hero-title {
+  font-family: var(--serif);
+  font-size: clamp(72px, 13vw, 160px);
+  font-weight: 400;
+  line-height: 0.88;
+  letter-spacing: -0.02em;
+  color: var(--ivory);
+  margin-bottom: 28px;
+  text-wrap: balance;
+  opacity: 0;
+  animation: fadeUp 1s 0.5s var(--ease) forwards;
+}
+.hero-title em {
+  font-style: italic;
+  color: var(--amber);
+  display: block;
+}
+.hero-sub {
+  font-size: 13.5px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--stone);
+  margin-bottom: 40px;
+  opacity: 0;
+  animation: fadeUp 1s 0.75s var(--ease) forwards;
+}
+.hero-sub span { margin: 0 14px; opacity: 0.4; }
+
+.hero-actions {
+  display: flex; align-items: center; gap: 24px;
+  opacity: 0;
+  animation: fadeUp 1s 1s var(--ease) forwards;
+}
+.btn-primary {
+  display: inline-block;
+  background: var(--amber);
+  color: var(--void);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 16px 36px;
+  border: none; cursor: pointer;
+  transition: background .25s, transform .2s;
+}
+.btn-primary:hover { background: var(--amber-d); transform: translateY(-2px); }
+.btn-primary:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+
+.btn-ghost {
+  display: inline-flex; align-items: center; gap: 10px;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--stone);
+  border: 1px solid var(--border);
+  padding: 16px 28px;
+  transition: color .25s, border-color .25s;
+}
+.btn-ghost:hover { color: var(--ivory); border-color: rgba(180,140,90,0.4); }
+
+.hero-scroll {
+  position: absolute; bottom: 32px; right: 64px; z-index: 3;
+  display: flex; flex-direction: column; align-items: center; gap: 10px;
+  opacity: 0; animation: fadeIn 1s 1.4s ease forwards;
+}
+.hero-scroll span { font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--muted); writing-mode: vertical-rl; }
+.scroll-line {
+  width: 1px; height: 48px;
+  background: linear-gradient(to bottom, var(--amber), transparent);
+  animation: lineGrow 2s 2s ease infinite;
+}
+
+/* ─── SECTION BASE ─────────────────────────────────── */
+section { position: relative; }
+.container { max-width: var(--max); margin: 0 auto; padding: 0 48px; }
+
+.section-label {
+  display: inline-block;
+  font-size: 9.5px;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--amber);
+}
+.section-title {
+  font-family: var(--serif);
+  font-size: clamp(32px, 4vw, 52px);
+  font-weight: 400;
+  line-height: 1.08;
+  color: var(--ivory);
+  text-wrap: balance;
+  margin-bottom: 24px;
+}
+.section-title em { font-style: italic; color: var(--stone); }
+.body-text {
+  font-size: 16px;
+  color: var(--stone);
+  line-height: 1.8;
+  max-width: 52ch;
+}
+
+/* ─── DIVIDER ──────────────────────────────────────── */
+.divider {
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--border), transparent);
+  margin: 0;
+}
+
+/* ─── INTRO ────────────────────────────────────────── */
+.intro {
+  padding: 120px 0;
+  background: var(--surface);
+}
+.intro-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
+}
+.intro-visual {
+  position: relative;
+}
+.intro-photo {
+  width: 100%;
+  aspect-ratio: 3/4;
+  background:
+    radial-gradient(ellipse at 50% 70%, rgba(196,130,28,0.32) 0%, transparent 60%),
+    linear-gradient(160deg, #241608 0%, #1A1008 50%, #0D0905 100%);
+  overflow: hidden;
+  position: relative;
+}
+/* PHOTO SLOT: terrace with white umbrellas → url('photos/terrasse.jpg') */
+.intro-photo::after {
+  content: "PHOTO\A Terrasse · Parasols blancs";
+  white-space: pre;
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  text-align: center;
+  font-size: 10px; letter-spacing: 0.2em;
+  color: rgba(184,146,104,0.35);
+  text-transform: uppercase;
+}
+.intro-accent {
+  position: absolute;
+  bottom: -24px; right: -24px;
+  width: 120px; height: 120px;
+  background: var(--garnet);
+  z-index: -1;
+}
+.intro-text { padding: 24px 0; }
+.intro-quote {
+  font-family: var(--serif);
+  font-size: 22px;
+  font-style: italic;
+  color: var(--ivory);
+  line-height: 1.5;
+  margin: 32px 0;
+  padding-left: 24px;
+  border-left: 2px solid var(--amber);
+}
+.kwetu-meaning {
+  display: flex; align-items: center; gap: 16px;
+  margin-top: 36px;
+  padding: 20px 24px;
+  background: rgba(196,130,28,0.06);
+  border: 1px solid var(--border);
+}
+.kwetu-meaning .word { font-family: var(--serif); font-size: 28px; color: var(--amber); }
+.kwetu-meaning .def { font-size: 13px; color: var(--muted); letter-spacing: 0.04em; }
+
+/* ─── GALLERY ──────────────────────────────────────── */
+.gallery {
+  padding: 100px 0;
+  background: var(--void);
+}
+.gallery-header {
+  display: flex; align-items: flex-end; justify-content: space-between;
+  margin-bottom: 56px;
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 16px;
+}
+.gallery-item {
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  background: var(--surface);
+}
+.gallery-item:first-child {
+  grid-column: span 2;
+  grid-row: span 2;
+  aspect-ratio: 4/3;
+}
+.gallery-item:not(:first-child) {
+  aspect-ratio: 4/3;
+}
+.gallery-photo {
+  width: 100%; height: 100%;
+  display: flex; align-items: center; justify-content: center;
+  text-align: center;
+  font-size: 9.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(184,146,104,0.3);
+  transition: transform .6s var(--ease), filter .4s;
+}
+.gallery-item:hover .gallery-photo { transform: scale(1.04); filter: brightness(1.1); }
+
+/* Photo placeholders - each with a distinct warm gradient */
+.gp1 { background: radial-gradient(ellipse at 40% 60%, rgba(136,27,41,0.45) 0%, rgba(26,16,8,0.9) 55%), linear-gradient(160deg,#1C1008,#0D0905); }
+.gp2 { background: radial-gradient(ellipse at 60% 40%, rgba(196,130,28,0.3) 0%, rgba(13,9,5,0.95) 60%), linear-gradient(140deg,#1A1008,#0D0905); }
+.gp3 { background: radial-gradient(ellipse at 30% 70%, rgba(110,80,40,0.4) 0%, rgba(13,9,5,0.9) 55%), linear-gradient(160deg,#211204,#0D0905); }
+.gp4 { background: radial-gradient(ellipse at 70% 50%, rgba(184,24,50,0.25) 0%, rgba(26,16,8,0.95) 60%), linear-gradient(135deg,#1A0C06,#0D0905); }
+
+.gallery-caption {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  padding: 24px 20px 18px;
+  background: linear-gradient(transparent, rgba(13,9,5,0.85));
+  font-size: 10px; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--stone);
+  transform: translateY(100%); transition: transform .35s var(--ease);
+}
+.gallery-item:hover .gallery-caption { transform: translateY(0); }
+
+/* ─── AMBIANCE (bar section) ───────────────────────── */
+.ambiance {
+  padding: 120px 0;
+  background: var(--surface);
+}
+.ambiance-grid {
+  display: grid;
+  grid-template-columns: 5fr 4fr;
+  gap: 0;
+  align-items: stretch;
+}
+.ambiance-photo {
+  aspect-ratio: 3/4;
+  background:
+    radial-gradient(ellipse at 50% 80%, rgba(136,27,41,0.7) 0%, rgba(13,9,5,0.6) 50%),
+    linear-gradient(160deg, #1A0508 0%, #0D0905 100%);
+  position: relative;
+  overflow: hidden;
+  display: flex; align-items: center; justify-content: center;
+  text-align: center; font-size: 9.5px; letter-spacing: 0.18em;
+  text-transform: uppercase; color: rgba(136,27,41,0.5);
+}
+/* PHOTO SLOT: bar rouge → url('photos/bar-rouge.jpg') */
+
+.ambiance-text {
+  padding: 72px 64px;
+  background: var(--raised);
+  display: flex; flex-direction: column; justify-content: center;
+}
+.ambiance-stat {
+  display: flex; flex-direction: column;
+  border-left: 2px solid var(--garnet);
+  padding-left: 20px;
+  margin: 36px 0;
+}
+.ambiance-stat .num {
+  font-family: var(--serif);
+  font-size: 52px;
+  color: var(--garnet);
+  line-height: 1;
+}
+.ambiance-stat .label { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+
+.pattern-band {
+  height: 4px;
+  background: repeating-linear-gradient(90deg, var(--amber) 0, var(--amber) 8px, transparent 8px, transparent 16px, var(--garnet) 16px, var(--garnet) 24px, transparent 24px, transparent 32px);
+  margin: 40px 0 0;
+}
+
+/* ─── MENU PREVIEW ─────────────────────────────────── */
+.menu-section {
+  padding: 120px 0;
+  background: var(--void);
+}
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2px;
+  margin-top: 56px;
+}
+.menu-card {
+  background: var(--surface);
+  padding: 40px 32px;
+  border-top: 2px solid transparent;
+  transition: border-color .3s, background .3s;
+  position: relative;
+  overflow: hidden;
+}
+.menu-card::before {
+  content: '';
+  position: absolute; bottom: 0; left: 0; right: 0;
+  height: 1px;
+  background: var(--border);
+}
+.menu-card:hover { background: var(--raised); border-color: var(--amber); }
+.menu-card-icon {
+  font-size: 28px;
+  margin-bottom: 20px;
+  display: block;
+}
+.menu-card-title {
+  font-family: var(--serif);
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--ivory);
+  margin-bottom: 12px;
+}
+.menu-card p { font-size: 14px; color: var(--muted); line-height: 1.7; margin-bottom: 24px; }
+.menu-items { list-style: none; }
+.menu-items li {
+  display: flex; justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 14px;
+}
+.menu-items li:last-child { border-bottom: none; }
+.menu-items .item-name { color: var(--stone); }
+.menu-items .item-price { color: var(--amber); font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+.menu-cta-wrap { text-align: center; margin-top: 48px; }
+
+/* ─── COCKTAIL HIGHLIGHT ───────────────────────────── */
+.cocktail {
+  padding: 100px 0;
+  background: var(--surface);
+  overflow: hidden;
+}
+.cocktail-inner {
+  display: grid;
+  grid-template-columns: 4fr 5fr;
+  gap: 80px;
+  align-items: center;
+}
+.cocktail-text { order: 1; }
+.cocktail-visual { order: 2; }
+.cocktail-photo {
+  aspect-ratio: 3/4;
+  max-width: 480px;
+  margin: 0 auto;
+  background:
+    radial-gradient(ellipse at 50% 60%, rgba(220,100,130,0.3) 0%, transparent 55%),
+    linear-gradient(160deg, #2A1208, #1A0D06);
+  display: flex; align-items: center; justify-content: center;
+  text-align: center; font-size: 9.5px; letter-spacing: 0.18em;
+  text-transform: uppercase; color: rgba(220,100,130,0.35);
+  position: relative;
+}
+/* PHOTO SLOT: cocktail rose → url('photos/cocktail.jpg') */
+.cocktail-photo::before {
+  content: '';
+  position: absolute; top: -16px; right: -16px;
+  width: 80px; height: 80px;
+  border: 1px solid var(--amber);
+  z-index: -1;
+}
+.cocktail-tag {
+  display: inline-block;
+  background: rgba(220,100,130,0.1);
+  border: 1px solid rgba(220,100,130,0.25);
+  color: #D87C96;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  padding: 6px 14px;
+  margin-bottom: 24px;
+}
+.cocktail-list {
+  list-style: none;
+  margin-top: 28px;
+}
+.cocktail-list li {
+  display: flex; align-items: flex-start; gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border);
+}
+.cocktail-list li:last-child { border-bottom: none; }
+.cocktail-list .c-name { font-family: var(--serif); font-size: 17px; color: var(--ivory); }
+.cocktail-list .c-desc { font-size: 13px; color: var(--muted); }
+.cocktail-list .c-price { font-size: 14px; color: var(--amber); margin-left: auto; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* ─── RESERVATION ──────────────────────────────────── */
+.reservation {
+  padding: 120px 0;
+  background: var(--void);
+  position: relative;
+}
+.reservation::before {
+  content: '';
+  position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% 0%, rgba(196,130,28,0.06) 0%, transparent 60%);
+  pointer-events: none;
+}
+.reservation-header { text-align: center; margin-bottom: 64px; }
+.reservation-header .section-title { margin: 0 auto 20px; max-width: 600px; }
+.reservation-header .body-text { margin: 0 auto; text-align: center; max-width: 480px; }
+
+.res-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.res-form { }
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.form-group {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.form-group label {
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.form-group input,
+.form-group select,
+.form-group textarea {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--ivory);
+  padding: 14px 16px;
+  font-size: 15px;
+  outline: none;
+  transition: border-color .25s;
+  appearance: none;
+  -webkit-appearance: none;
+  width: 100%;
+}
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: var(--amber);
+}
+.form-group input::placeholder,
+.form-group textarea::placeholder { color: var(--muted); }
+.form-group select { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M0 0l6 8 6-8z' fill='%237D6244'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 16px center; padding-right: 40px; cursor: pointer; }
+.form-group select option { background: var(--surface); }
+.form-group textarea { resize: vertical; min-height: 100px; }
+
+.form-submit {
+  width: 100%;
+  background: var(--amber);
+  color: var(--void);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  border: none;
+  padding: 18px;
+  cursor: pointer;
+  margin-top: 8px;
+  transition: background .25s, transform .2s;
+}
+.form-submit:hover { background: var(--amber-d); transform: translateY(-2px); }
+.form-submit:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+
+.form-note {
+  margin-top: 14px;
+  font-size: 12px;
+  color: var(--muted);
+  text-align: center;
+}
+
+/* Confirmation message */
+.form-success {
+  display: none;
+  text-align: center;
+  padding: 40px 24px;
+  background: rgba(196,130,28,0.06);
+  border: 1px solid var(--border);
+}
+.form-success.show { display: block; }
+.form-success p { color: var(--stone); font-size: 15px; }
+.form-success strong { display: block; font-family: var(--serif); font-size: 22px; color: var(--amber); margin-bottom: 12px; }
+
+/* Reservation info card */
+.res-info {
+  display: flex; flex-direction: column; gap: 24px;
+}
+.res-info-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 28px;
+}
+.res-info-card h4 {
+  font-family: var(--serif);
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--ivory);
+  margin-bottom: 16px;
+}
+.info-list { list-style: none; }
+.info-list li {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 14px;
+}
+.info-list li:last-child { border-bottom: none; }
+.info-list .day { color: var(--muted); }
+.info-list .hours { color: var(--stone); font-variant-numeric: tabular-nums; }
+.info-list .closed { color: rgba(136,27,41,0.7); }
+
+.phone-link {
+  display: flex; align-items: center; gap: 12px;
+  padding: 20px;
+  background: var(--raised);
+  border: 1px solid var(--border);
+  color: var(--ivory);
+  transition: border-color .25s;
+}
+.phone-link:hover { border-color: var(--amber); }
+.phone-link .phone-icon { font-size: 20px; }
+.phone-link .phone-text small { display: block; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.phone-link .phone-text strong { font-size: 16px; letter-spacing: 0.04em; }
+
+/* ─── DELIVEROO ────────────────────────────────────── */
+.deliveroo-section {
+  padding: 80px 0;
+  background: var(--surface);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.deliveroo-section::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: repeating-linear-gradient(-45deg, transparent, transparent 20px, rgba(196,130,28,0.025) 20px, rgba(196,130,28,0.025) 40px);
+}
+.deliveroo-inner {
+  position: relative;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.deliveroo-badge {
+  display: inline-flex; align-items: center; gap: 12px;
+  background: #00CCBC;
+  color: #fff;
+  padding: 14px 28px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  margin-top: 32px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background .25s, transform .2s;
+}
+.deliveroo-badge:hover { background: #00A89A; transform: translateY(-2px); }
+.deliveroo-badge:focus-visible { outline: 2px solid #00CCBC; outline-offset: 3px; }
+.deliveroo-logo {
+  font-weight: 900;
+  font-size: 17px;
+  letter-spacing: -0.02em;
+}
+.deliveroo-sub {
+  margin-top: 16px;
+  font-size: 12.5px;
+  color: var(--muted);
+}
+
+/* ─── CONTACT ──────────────────────────────────────── */
+.contact {
+  padding: 100px 0 80px;
+  background: var(--void);
+}
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  align-items: start;
+}
+.map-placeholder {
+  aspect-ratio: 4/3;
+  background:
+    linear-gradient(135deg, rgba(36,22,8,1) 0%, rgba(13,9,5,1) 100%);
+  border: 1px solid var(--border);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 12px;
+  color: var(--muted);
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  position: relative;
+  overflow: hidden;
+}
+.map-placeholder::before {
+  content: '';
+  position: absolute; inset: 0;
+  background:
+    repeating-linear-gradient(0deg, transparent, transparent 28px, rgba(180,146,104,0.04) 28px, rgba(180,146,104,0.04) 29px),
+    repeating-linear-gradient(90deg, transparent, transparent 28px, rgba(180,146,104,0.04) 28px, rgba(180,146,104,0.04) 29px);
+}
+.map-pin { font-size: 32px; }
+.contact-details { }
+.contact-block {
+  margin-bottom: 36px;
+  padding-bottom: 36px;
+  border-bottom: 1px solid var(--border);
+}
+.contact-block:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+.contact-block h4 {
+  font-size: 10px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 14px;
+}
+.contact-block p { font-size: 15px; color: var(--stone); line-height: 1.7; }
+.contact-block a { color: var(--stone); border-bottom: 1px solid var(--border); transition: color .2s, border-color .2s; }
+.contact-block a:hover { color: var(--ivory); border-color: var(--amber); }
+
+/* Social icons */
+.social-row {
+  display: flex; gap: 16px; margin-top: 12px;
+}
+.social-btn {
+  display: flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 17px;
+  text-decoration: none;
+  transition: color .25s, border-color .25s, background .25s;
+}
+.social-btn:hover { color: var(--amber); border-color: var(--amber); background: rgba(196,130,28,0.06); }
+.social-btn:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+
+/* ─── FOOTER ───────────────────────────────────────── */
+footer {
+  background: var(--raised);
+  border-top: 1px solid var(--border);
+  padding: 48px 0 32px;
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 64px;
+  align-items: start;
+  margin-bottom: 48px;
+}
+.footer-brand .logo-big {
+  font-family: var(--serif);
+  font-size: 36px;
+  color: var(--ivory);
+  letter-spacing: 0.12em;
+  margin-bottom: 8px;
+}
+.footer-brand .logo-big span { color: var(--amber); }
+.footer-brand p { font-size: 13px; color: var(--muted); max-width: 30ch; line-height: 1.7; }
+.footer-nav-cols {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+.footer-nav-col h5 {
+  font-size: 9.5px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 16px;
+}
+.footer-nav-col ul { list-style: none; }
+.footer-nav-col li { margin-bottom: 10px; }
+.footer-nav-col a {
+  font-size: 14px;
+  color: var(--muted);
+  transition: color .2s;
+}
+.footer-nav-col a:hover { color: var(--stone); }
+.footer-bottom {
+  display: flex; justify-content: space-between; align-items: center;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* ─── ANIMATIONS ───────────────────────────────────── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(28px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes lineGrow {
+  0%   { opacity: 0; transform: scaleY(0); transform-origin: top; }
+  40%  { opacity: 1; transform: scaleY(1); transform-origin: top; }
+  60%  { opacity: 1; transform: scaleY(1); transform-origin: bottom; }
+  100% { opacity: 0; transform: scaleY(0); transform-origin: bottom; }
+}
+
+/* Scroll reveal */
+.reveal {
+  opacity: 0;
+  transform: translateY(36px);
+  transition: opacity 0.7s var(--ease), transform 0.7s var(--ease);
+}
+.reveal.visible { opacity: 1; transform: none; }
+.reveal-delay-1 { transition-delay: 0.1s; }
+.reveal-delay-2 { transition-delay: 0.2s; }
+.reveal-delay-3 { transition-delay: 0.3s; }
+
+/* ─── MOBILE NAV ───────────────────────────────────── */
+.mobile-menu {
+  display: none;
+  position: fixed; inset: 0; z-index: 200;
+  background: rgba(13,9,5,0.98);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+.mobile-menu.open { display: flex; }
+.mobile-menu a {
+  font-family: var(--serif);
+  font-size: 32px;
+  color: var(--ivory);
+  transition: color .25s;
+}
+.mobile-menu a:hover { color: var(--amber); }
+.mobile-close {
+  position: absolute; top: 24px; right: 28px;
+  background: none; border: none; cursor: pointer;
+  font-size: 28px; color: var(--muted);
+}
+
+/* ─── RESPONSIVE ───────────────────────────────────── */
+@media (max-width: 900px) {
+  .nav { padding: 0 24px; }
+  .nav-links, .nav-cta { display: none; }
+  .burger { display: flex; }
+  .hero-content { padding: 0 24px 56px; }
+  .container { padding: 0 24px; }
+  .intro-grid, .ambiance-grid, .cocktail-inner,
+  .res-grid, .contact-grid { grid-template-columns: 1fr; gap: 40px; }
+  .menu-grid { grid-template-columns: 1fr; }
+  .gallery-grid { grid-template-columns: 1fr 1fr; }
+  .gallery-item:first-child { grid-column: span 2; }
+  .footer-grid { grid-template-columns: 1fr; gap: 40px; }
+  .footer-nav-cols { grid-template-columns: repeat(2, 1fr); }
+  .form-row { grid-template-columns: 1fr; }
+  .gallery-header { flex-direction: column; align-items: flex-start; gap: 16px; }
+  .cocktail-visual { order: -1; }
+  .ambiance-photo { aspect-ratio: 16/9; }
+  .intro-accent { display: none; }
+}
+@media (max-width: 560px) {
+  .hero-title { font-size: clamp(52px, 16vw, 80px); }
+  .gallery-grid { grid-template-columns: 1fr; }
+  .gallery-item:first-child { grid-column: span 1; }
+  .footer-nav-cols { grid-template-columns: 1fr; }
+  .footer-bottom { flex-direction: column; gap: 8px; text-align: center; }
+}
+</style>
+</head>
+<body>
+
+<!-- ─── NAVIGATION ──────────────────────────────────── -->
+<nav class="nav" id="nav" role="navigation" aria-label="Navigation principale">
+  <a href="#accueil" class="nav-logo">KWETU<span>.</span></a>
+  <ul class="nav-links" role="list">
+    <li><a href="#histoire">Notre Histoire</a></li>
+    <li><a href="#menu">La Carte</a></li>
+    <li><a href="#reservation">Réservation</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+  <button class="nav-cta" onclick="document.getElementById('reservation').scrollIntoView({behavior:'smooth'})">Réserver une table</button>
+  <button class="burger" aria-label="Ouvrir le menu" onclick="toggleMenu()" id="burger">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<!-- Mobile menu -->
+<div class="mobile-menu" id="mobileMenu" role="dialog" aria-modal="true" aria-label="Menu de navigation">
+  <button class="mobile-close" onclick="toggleMenu()" aria-label="Fermer le menu">✕</button>
+  <a href="#histoire" onclick="toggleMenu()">Notre Histoire</a>
+  <a href="#ambiance" onclick="toggleMenu()">L'Ambiance</a>
+  <a href="#menu" onclick="toggleMenu()">La Carte</a>
+  <a href="#reservation" onclick="toggleMenu()">Réservation</a>
+  <a href="#contact" onclick="toggleMenu()">Contact</a>
+</div>
+
+<!-- ─── HERO ────────────────────────────────────────── -->
+<section class="hero" id="accueil" aria-label="Bienvenue chez KWETU">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <div class="hero-pattern" aria-hidden="true"></div>
+  <div class="hero-img-wrap" aria-hidden="true">
+    <div class="hero-photo" role="img" aria-label="Salle du restaurant KWETU avec mur en pierres et lumières chaudes"></div>
+  </div>
+  <div class="hero-content">
+    <p class="hero-eyebrow">Bistrot Afro-Contemporain · Marseille</p>
+    <h1 class="hero-title">KWE<em>TU</em></h1>
+    <p class="hero-sub">Notre Maison<span aria-hidden="true">·</span>Cuisine de Partage<span aria-hidden="true">·</span>Méditerranée & Afrique</p>
+    <div class="hero-actions">
+      <button class="btn-primary" onclick="document.getElementById('reservation').scrollIntoView({behavior:'smooth'})">Réserver une table</button>
+      <a href="#histoire" class="btn-ghost">Découvrir KWETU</a>
+    </div>
+  </div>
+  <div class="hero-scroll" aria-hidden="true">
+    <span>Défiler</span>
+    <div class="scroll-line"></div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── INTRO ───────────────────────────────────────── -->
+<section class="intro" id="histoire" aria-labelledby="intro-title">
+  <div class="container">
+    <div class="intro-grid">
+      <div class="intro-visual reveal">
+        <div class="intro-photo" role="img" aria-label="Terrasse ensoleillée de KWETU avec parasols blancs à franges"></div>
+        <div class="intro-accent" aria-hidden="true"></div>
+      </div>
+      <div class="intro-text">
+        <span class="section-label reveal">Notre Histoire</span>
+        <h2 class="section-title reveal reveal-delay-1" id="intro-title">
+          Un lieu qui dit<br><em>« chez nous »</em>
+        </h2>
+        <p class="body-text reveal reveal-delay-2">
+          KWETU, en swahili, signifie <strong style="color:var(--ivory)">"notre endroit"</strong>. C'est un bistrot marseillais ancré dans la pierre et la chaleur humaine, où se rencontrent la cuisine d'Afrique et les saveurs de la Méditerranée.
+        </p>
+        <blockquote class="intro-quote reveal reveal-delay-2">
+          « Des recettes qui traversent les mers et s'installent à Marseille, une ville qui n'a jamais eu peur des rencontres. »
+        </blockquote>
+        <p class="body-text reveal reveal-delay-3">
+          Dans notre salle aux murs de pierre centenaires, autour de tables en bois sombre et sous une lumière ambrée, vous trouverez une cuisine de partage généreuse — élaborée avec des producteurs locaux et des épices venues du continent.
+        </p>
+        <div class="kwetu-meaning reveal reveal-delay-3" aria-label="KWETU signifie Notre endroit en swahili">
+          <div>
+            <div class="word">KWETU</div>
+            <div class="def">Swahili</div>
+          </div>
+          <div style="width:1px;background:var(--border);height:40px"></div>
+          <div>
+            <div style="color:var(--ivory);font-size:16px;margin-bottom:4px">Notre endroit</div>
+            <div class="def">Le lieu où l'on est chez soi</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── GALLERY ──────────────────────────────────────── -->
+<section class="gallery" id="galerie" aria-labelledby="gallery-title">
+  <div class="container">
+    <div class="gallery-header">
+      <div>
+        <span class="section-label reveal">L'Ambiance</span>
+        <h2 class="section-title reveal reveal-delay-1" id="gallery-title">Quatre saisons<br><em>de lumière</em></h2>
+      </div>
+      <p class="body-text reveal" style="max-width:32ch;text-align:right">Un cadre qui évolue du déjeuner à la nuit, des pierres brutes aux lumières de fête.</p>
+    </div>
+    <div class="gallery-grid">
+
+      <!-- Slot 1 : salle intérieure mur en pierre (grande photo) -->
+      <div class="gallery-item reveal">
+        <div class="gallery-photo gp2" role="img" aria-label="Salle principale de KWETU, mur en pierres et grandes fenêtres">
+          <span>PHOTO<br>Salle · Mur en pierre</span>
+        </div>
+        <div class="gallery-caption">La salle principale · Pierre & Bois</div>
+      </div>
+
+      <!-- Slot 2 : bar rouge -->
+      <div class="gallery-item reveal reveal-delay-1">
+        <div class="gallery-photo gp1" role="img" aria-label="Bar de KWETU sous lumière rouge, colonnes sombres">
+          <span>PHOTO<br>Bar · Lumière rouge</span>
+        </div>
+        <div class="gallery-caption">Le bar · La nuit rouge</div>
+      </div>
+
+      <!-- Slot 3 : terrasse -->
+      <div class="gallery-item reveal reveal-delay-2">
+        <div class="gallery-photo gp3" role="img" aria-label="Terrasse de KWETU avec parasols blancs à franges">
+          <span>PHOTO<br>Terrasse · Parasols</span>
+        </div>
+        <div class="gallery-caption">La terrasse · En plein air</div>
+      </div>
+
+      <!-- Slot 4 : façade bleue -->
+      <div class="gallery-item reveal reveal-delay-3">
+        <div class="gallery-photo gp4" role="img" aria-label="Façade bleue de KWETU, rue marseillaise">
+          <span>PHOTO<br>Façade · Rue Marseillaise</span>
+        </div>
+        <div class="gallery-caption">La façade · Bleu Marseille</div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── AMBIANCE BAR ─────────────────────────────────── -->
+<section class="ambiance" id="ambiance" aria-labelledby="ambiance-title">
+  <div class="ambiance-grid">
+    <div class="ambiance-photo" role="img" aria-label="Bar de KWETU illuminé en rouge avec arches en pierres et niches">
+      <span style="font-size:9.5px;letter-spacing:0.18em;text-transform:uppercase">PHOTO · Bar Rouge</span>
+    </div>
+    <div class="ambiance-text">
+      <span class="section-label reveal">Le Bar</span>
+      <h2 class="section-title reveal reveal-delay-1" id="ambiance-title">
+        Quand la nuit<br><em>prend couleur</em>
+      </h2>
+      <p class="body-text reveal reveal-delay-2">
+        Derrière les colonnes sombres et les arches de pierre, notre bar s'illumine le soir d'une lumière profonde et rouge. Cocktails afro-inspirés, vins naturels, musique live les vendredis — KWETU s'anime après le dîner.
+      </p>
+      <div class="ambiance-stat reveal reveal-delay-3">
+        <span class="num">12</span>
+        <span class="label">cocktails signature, créés par notre barman</span>
+      </div>
+      <p class="body-text reveal reveal-delay-3" style="font-size:14px">
+        De la Bissap Margarita au Tangawizi Mule, chaque verre raconte un voyage entre continents.
+      </p>
+      <div class="pattern-band reveal" aria-hidden="true"></div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── MENU ─────────────────────────────────────────── -->
+<section class="menu-section" id="menu" aria-labelledby="menu-title">
+  <div class="container">
+    <div style="text-align:center;margin-bottom:8px">
+      <span class="section-label reveal">La Carte</span>
+      <h2 class="section-title reveal reveal-delay-1" id="menu-title" style="margin:0 auto 16px">Un aperçu de nos <em>saveurs</em></h2>
+      <p class="body-text reveal" style="margin:0 auto;text-align:center;max-width:480px">Carte courte, produits frais, cuisine du marché. Elle évolue avec les saisons et les arrivages.</p>
+    </div>
+    <div class="menu-grid">
+
+      <div class="menu-card reveal">
+        <span class="menu-card-icon" aria-hidden="true">◈</span>
+        <h3 class="menu-card-title">Entrées</h3>
+        <p>Petits plats à partager, inspirés des tables africaines où tout le monde pioche dans les mêmes plats.</p>
+        <ul class="menu-items" aria-label="Sélection d'entrées">
+          <li><span class="item-name">Samossa au bœuf épicé</span><span class="item-price">9 €</span></li>
+          <li><span class="item-name">Houmous à l'harissa & pita</span><span class="item-price">8 €</span></li>
+          <li><span class="item-name">Salade de papaye verte</span><span class="item-price">11 €</span></li>
+          <li><span class="item-name">Tataki de thon, sauce miso-gingembre</span><span class="item-price">14 €</span></li>
+        </ul>
+      </div>
+
+      <div class="menu-card reveal reveal-delay-1">
+        <span class="menu-card-icon" aria-hidden="true">◉</span>
+        <h3 class="menu-card-title">Plats</h3>
+        <p>Des recettes généreuses où les épices africaines rencontrent les produits de la Méditerranée.</p>
+        <ul class="menu-items" aria-label="Sélection de plats">
+          <li><span class="item-name">Poulet yassa & riz basmati</span><span class="item-price">22 €</span></li>
+          <li><span class="item-name">Thiéboudienne de la maison</span><span class="item-price">26 €</span></li>
+          <li><span class="item-name">Brochette d'agneau, chermoula</span><span class="item-price">24 €</span></li>
+          <li><span class="item-name">Daurade royale grillée & légumes</span><span class="item-price">28 €</span></li>
+        </ul>
+      </div>
+
+      <div class="menu-card reveal reveal-delay-2">
+        <span class="menu-card-icon" aria-hidden="true">◇</span>
+        <h3 class="menu-card-title">Desserts</h3>
+        <p>Des douceurs qui clôturent le repas sur une note chaude, entre cacao pur et fruits tropicaux.</p>
+        <ul class="menu-items" aria-label="Sélection de desserts">
+          <li><span class="item-name">Fondant chocolat cacao 75%</span><span class="item-price">9 €</span></li>
+          <li><span class="item-name">Mangue rôtie, glace coco</span><span class="item-price">8 €</span></li>
+          <li><span class="item-name">Pastilla au lait & amandes</span><span class="item-price">10 €</span></li>
+          <li><span class="item-name">Café africain & mignardises</span><span class="item-price">7 €</span></li>
+        </ul>
+      </div>
+
+    </div>
+    <div class="menu-cta-wrap reveal">
+      <a href="#" class="btn-ghost" aria-label="Télécharger la carte complète de KWETU">Carte complète →</a>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── COCKTAIL HIGHLIGHT ───────────────────────────── -->
+<section class="cocktail" aria-labelledby="cocktail-title">
+  <div class="container">
+    <div class="cocktail-inner">
+      <div class="cocktail-text">
+        <span class="cocktail-tag" aria-hidden="true">Bar · Cocktails</span>
+        <span class="section-label reveal">Nos Créations</span>
+        <h2 class="section-title reveal reveal-delay-1" id="cocktail-title">
+          Cocktails<br><em>afro-inspirés</em>
+        </h2>
+        <p class="body-text reveal reveal-delay-2">
+          Notre barman compose des cocktails qui traversent les continents. Hibiscus, gingembre, baobab, fleur d'oranger — des ingrédients du terroir africain, dans des verres qui font voyager.
+        </p>
+        <ul class="cocktail-list reveal reveal-delay-3" aria-label="Liste de cocktails signature">
+          <li>
+            <div>
+              <div class="c-name">Bissap Margarita</div>
+              <div class="c-desc">Tequila, bissap (hibiscus), citron vert, sel de mer</div>
+            </div>
+            <div class="c-price">13 €</div>
+          </li>
+          <li>
+            <div>
+              <div class="c-name">Tangawizi Mule</div>
+              <div class="c-desc">Vodka, bière de gingembre maison, citron, menthe</div>
+            </div>
+            <div class="c-price">12 €</div>
+          </li>
+          <li>
+            <div>
+              <div class="c-name">Baobab Spritz</div>
+              <div class="c-desc">Prosecco, poudre de baobab, eau de fleur d'oranger</div>
+            </div>
+            <div class="c-price">14 €</div>
+          </li>
+          <li>
+            <div>
+              <div class="c-name">Dakar Sunset</div>
+              <div class="c-desc">Rhum blanc, jus de tamarind, sirop de canne, citron</div>
+            </div>
+            <div class="c-price">13 €</div>
+          </li>
+        </ul>
+      </div>
+      <div class="cocktail-visual reveal reveal-delay-1">
+        <div class="cocktail-photo" role="img" aria-label="Cocktail rose en coupe, tenu par une main, sur fond chaud">
+          <span style="font-size:9.5px;letter-spacing:0.16em;text-transform:uppercase;color:rgba(220,100,130,0.4)">PHOTO · Cocktail Rose</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── RESERVATION ──────────────────────────────────── -->
+<section class="reservation" id="reservation" aria-labelledby="res-title">
+  <div class="container">
+    <div class="reservation-header reveal">
+      <span class="section-label">Réservation</span>
+      <h2 class="section-title" id="res-title">Réservez votre table<br><em>en ligne</em></h2>
+      <p class="body-text">Réservez directement via ce formulaire. Notre équipe vous confirmera par e-mail dans les 2 heures.</p>
+    </div>
+
+    <div class="res-grid">
+      <!-- FORM -->
+      <div class="res-form reveal">
+        <form id="resForm" novalidate aria-label="Formulaire de réservation">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="res-prenom">Prénom</label>
+              <input type="text" id="res-prenom" name="prenom" placeholder="Marie" required autocomplete="given-name">
+            </div>
+            <div class="form-group">
+              <label for="res-nom">Nom</label>
+              <input type="text" id="res-nom" name="nom" placeholder="Dupont" required autocomplete="family-name">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="res-email">E-mail</label>
+            <input type="email" id="res-email" name="email" placeholder="marie@email.fr" required autocomplete="email">
+          </div>
+          <div class="form-group">
+            <label for="res-tel">Téléphone</label>
+            <input type="tel" id="res-tel" name="tel" placeholder="+33 6 00 00 00 00" autocomplete="tel">
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="res-date">Date</label>
+              <input type="date" id="res-date" name="date" required>
+            </div>
+            <div class="form-group">
+              <label for="res-heure">Heure</label>
+              <select id="res-heure" name="heure" required>
+                <option value="">Choisir…</option>
+                <optgroup label="Déjeuner">
+                  <option>12:00</option><option>12:30</option><option>13:00</option><option>13:30</option>
+                </optgroup>
+                <optgroup label="Dîner">
+                  <option>19:00</option><option>19:30</option><option>20:00</option><option>20:30</option><option>21:00</option>
+                </optgroup>
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="res-couverts">Nombre de couverts</label>
+            <select id="res-couverts" name="couverts" required>
+              <option value="">Sélectionner…</option>
+              <option>1 personne</option>
+              <option>2 personnes</option>
+              <option>3 personnes</option>
+              <option>4 personnes</option>
+              <option>5 personnes</option>
+              <option>6 personnes</option>
+              <option>7+ personnes (groupe)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="res-notes">Demandes spéciales (optionnel)</label>
+            <textarea id="res-notes" name="notes" placeholder="Allergie, anniversaire, chaise haute, régime végétarien…"></textarea>
+          </div>
+          <button type="submit" class="form-submit">Confirmer la réservation</button>
+          <p class="form-note">Réponse par e-mail sous 2h · Annulation gratuite jusqu'à 24h avant</p>
+        </form>
+        <div class="form-success" id="formSuccess" role="status" aria-live="polite">
+          <strong>Demande envoyée !</strong>
+          <p>Merci, nous avons bien reçu votre demande de réservation. Notre équipe vous contactera sous 2 heures pour confirmer.</p>
+        </div>
+      </div>
+
+      <!-- INFO -->
+      <div class="res-info reveal reveal-delay-2">
+        <div class="res-info-card">
+          <h4>Horaires d'ouverture</h4>
+          <ul class="info-list">
+            <li><span class="day">Lundi</span><span class="closed">Fermé</span></li>
+            <li><span class="day">Mardi – Vendredi</span><span class="hours">12h – 14h30 · 19h – 22h30</span></li>
+            <li><span class="day">Samedi</span><span class="hours">12h – 15h · 19h – 23h</span></li>
+            <li><span class="day">Dimanche</span><span class="hours">12h – 16h (brunch)</span></li>
+          </ul>
+        </div>
+
+        <a href="tel:+33491000000" class="phone-link" aria-label="Appeler KWETU au +33 4 91 00 00 00">
+          <span class="phone-icon" aria-hidden="true">☎</span>
+          <div class="phone-text">
+            <small>Réservation par téléphone</small>
+            <strong>+33 4 91 00 00 00</strong>
+          </div>
+        </a>
+
+        <div class="res-info-card">
+          <h4>Groupes & Événements</h4>
+          <p style="font-size:14px;color:var(--muted);line-height:1.7">
+            Pour les groupes de 7 personnes et plus, les séminaires, repas d'affaires ou privatisations, contactez-nous directement par e-mail pour un devis personnalisé.
+          </p>
+          <div style="margin-top:16px">
+            <a href="mailto:contact@kwetu-marseille.fr" class="btn-primary" style="display:inline-block;font-size:10px">Nous écrire</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── DELIVEROO ─────────────────────────────────────── -->
+<section class="deliveroo-section" aria-labelledby="deliveroo-title">
+  <div class="deliveroo-inner reveal">
+    <span class="section-label">Commander à emporter</span>
+    <h2 class="section-title" id="deliveroo-title">
+      KWETU, livré<br><em>chez vous</em>
+    </h2>
+    <p class="body-text" style="margin:0 auto;text-align:center;max-width:440px">
+      Retrouvez notre sélection de plats sur Deliveroo — disponible du mardi au dimanche, jusqu'à 22h.
+    </p>
+    <br>
+    <a href="https://deliveroo.fr" target="_blank" rel="noopener noreferrer" class="deliveroo-badge" aria-label="Commander KWETU sur Deliveroo, livraison à domicile">
+      <span aria-hidden="true">🛵</span>
+      <span>Commander sur <span class="deliveroo-logo">deliveroo</span></span>
+    </a>
+    <p class="deliveroo-sub">Livraison dans un rayon de 5 km autour de notre restaurant · Temps estimé : 30–45 min</p>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── CONTACT ───────────────────────────────────────── -->
+<section class="contact" id="contact" aria-labelledby="contact-title">
+  <div class="container">
+    <span class="section-label reveal">Nous trouver</span>
+    <h2 class="section-title reveal reveal-delay-1" id="contact-title">Venez nous rendre<br><em>visite</em></h2>
+    <div class="contact-grid" style="margin-top:48px">
+      <div class="map-placeholder reveal" role="img" aria-label="Carte indiquant la localisation de KWETU à Marseille">
+        <span class="map-pin" aria-hidden="true">◉</span>
+        <span>Marseille · 13001</span>
+        <!-- Swap with: <iframe src="https://maps.google.com/..." width="100%" height="100%" ...></iframe> -->
+      </div>
+      <div class="contact-details reveal reveal-delay-2">
+        <div class="contact-block">
+          <h4>Adresse</h4>
+          <p>
+            12 Rue de la Paix<br>
+            13001 Marseille<br>
+            <a href="https://goo.gl/maps" target="_blank" rel="noopener noreferrer" aria-label="Ouvrir dans Google Maps">Voir sur Google Maps →</a>
+          </p>
+        </div>
+        <div class="contact-block">
+          <h4>Accès</h4>
+          <p>
+            Métro Vieux-Port (L1/L2) · 5 min à pied<br>
+            Tramway T2 · Arrêt Belsunce<br>
+            Parking Bourse à 200 m
+          </p>
+        </div>
+        <div class="contact-block">
+          <h4>Contact</h4>
+          <p>
+            <a href="tel:+33491000000">+33 4 91 00 00 00</a><br>
+            <a href="mailto:contact@kwetu-marseille.fr">contact@kwetu-marseille.fr</a>
+          </p>
+        </div>
+        <div class="contact-block">
+          <h4>Réseaux sociaux</h4>
+          <div class="social-row">
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Instagram KWETU">Ig</a>
+            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Facebook KWETU">Fb</a>
+            <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="TikTok KWETU">Tk</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ─── FOOTER ────────────────────────────────────────── -->
+<footer role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="logo-big">KWETU<span>.</span></div>
+        <p>Bistrot Afro-Contemporain, Marseille.<br>Notre maison, vos souvenirs.</p>
+      </div>
+      <div class="footer-nav-cols">
+        <div class="footer-nav-col">
+          <h5>Le Restaurant</h5>
+          <ul>
+            <li><a href="#histoire">Notre Histoire</a></li>
+            <li><a href="#galerie">L'Ambiance</a></li>
+            <li><a href="#ambiance">Le Bar</a></li>
+            <li><a href="#menu">La Carte</a></li>
+          </ul>
+        </div>
+        <div class="footer-nav-col">
+          <h5>Réservation</h5>
+          <ul>
+            <li><a href="#reservation">Réserver en ligne</a></li>
+            <li><a href="tel:+33491000000">Par téléphone</a></li>
+            <li><a href="mailto:contact@kwetu-marseille.fr">Événements</a></li>
+            <li><a href="https://deliveroo.fr" target="_blank" rel="noopener noreferrer">Deliveroo</a></li>
+          </ul>
+        </div>
+        <div class="footer-nav-col">
+          <h5>Informations</h5>
+          <ul>
+            <li><a href="#contact">Nous trouver</a></li>
+            <li><a href="#">Mentions légales</a></li>
+            <li><a href="#">Politique de confidentialité</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2025 KWETU Marseille. Tous droits réservés.</span>
+      <span>Fait avec soin à Marseille 🌊</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ─── SCRIPTS ────────────────────────────────────────── -->
+<script>
+/* Nav scroll state */
+const nav = document.getElementById('nav');
+window.addEventListener('scroll', () => {
+  nav.classList.toggle('scrolled', window.scrollY > 60);
+}, { passive: true });
+
+/* Mobile menu */
+function toggleMenu() {
+  const m = document.getElementById('mobileMenu');
+  const open = m.classList.toggle('open');
+  document.getElementById('burger').setAttribute('aria-expanded', open);
+  document.body.style.overflow = open ? 'hidden' : '';
+}
+
+/* Scroll reveal */
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      e.target.classList.add('visible');
+      observer.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.12 });
+document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+/* Reservation form */
+const form = document.getElementById('resForm');
+const success = document.getElementById('formSuccess');
+// Set minimum date to today
+const dateInput = document.getElementById('res-date');
+const today = new Date().toISOString().split('T')[0];
+dateInput.min = today;
+
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
+  const required = form.querySelectorAll('[required]');
+  let valid = true;
+  required.forEach(field => {
+    if (!field.value.trim()) {
+      field.style.borderColor = 'var(--garnet)';
+      valid = false;
+      field.addEventListener('input', () => field.style.borderColor = '', { once: true });
+    }
+  });
+  if (!valid) return;
+  /* In production: send form data to backend or a service like Formspree */
+  form.style.display = 'none';
+  success.classList.add('show');
+});
+
+/* Close mobile menu on resize */
+window.addEventListener('resize', () => {
+  if (window.innerWidth > 900) {
+    document.getElementById('mobileMenu').classList.remove('open');
+    document.body.style.overflow = '';
+  }
+});
+</script>
+</body>
+</html>
