@@ -7,10 +7,10 @@
 
 ## ÉTAT ACTUEL
 
-**Phase :** Phase 0 — Mise en place  
-**Statut :** ⏸ EN ATTENTE DE VALIDATION DE LA BIBLE PAR L'AUTEUR  
-**Date de dernière mise à jour :** Phase 0, initialisation  
-**Prochain chapitre à rédiger :** 001 (après validation)
+**Phase :** Phase 1 — Rédaction  
+**Statut :** ✍ EN COURS — Étape 1 (ch. 1–8)  
+**Date de dernière mise à jour :** Ch. 001 validé  
+**Prochain chapitre à rédiger :** 002
 
 ---
 
@@ -18,11 +18,11 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 0 / 120 |
-| Mots écrits | 0 |
+| Chapitres rédigés | 1 / 120 |
+| Mots écrits | 2 166 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
-| Étape en cours | 1 (à venir) |
+| Étape en cours | 1 (ch. 1–8, budget 20 000) |
 | Dernière étape validée | — (Phase 0) |
 
 ---
@@ -31,7 +31,7 @@
 
 | Étape | Chapitres | Budget | Rédigé | Reste | Statut |
 |-------|-----------|--------|--------|-------|--------|
-| 1 | 1–8 | 20 000 | 0 | 20 000 | ◻ À VENIR |
+| 1 | 1–8 | 20 000 | 2 166 | 17 834 | ✍ EN COURS (ch.001 ✓) |
 | 2 | 9–16 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 3 | 17–25 | 22 500 | 0 | 22 500 | ◻ À VENIR |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **0** | **300 000** | |
+| **TOTAL** | **1–120** | **300 000** | **2 166** | **297 834** | |
 
 ---
 
@@ -111,6 +111,14 @@ Pour reprendre la session après interruption :
 5. Lire `bible/voix.md` intégralement
 6. Lire le chapitre précédent dans `manuscrit/`
 7. Rédiger
+
+---
+
+## JOURNAL DES CHAPITRES RÉDIGÉS
+
+| Ch. | Titre | Mots | Statut |
+|-----|-------|------|--------|
+| 001 | Les Cinq-Vents | 2 166 | ✓ Rédigé |
 
 ---
 

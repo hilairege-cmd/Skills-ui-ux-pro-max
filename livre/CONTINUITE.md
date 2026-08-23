@@ -64,3 +64,39 @@
 [Bible] Règle — La convergence ne s'étend pas au-delà des limites géographiques du Vernay (les cinq rues et leur sous-sol immédiat).  
 
 ---
+
+## CHAPITRE 001 — Faits établis
+
+### Scène et chronologie ch.001
+
+[Ch 001] Chrono — Dimanche 3 novembre 2024, vers 3 h 41 : heure probable de mort de Geffard (montre arrêtée ou lue au moment de la mort). Non confirmé légalement.  
+[Ch 001] Chrono — Lundi 4 novembre 2024, 5 h : Odile Vanel se lève, insomnie.  
+[Ch 001] Chrono — Lundi 4 novembre 2024, 7 h 22 (environ) : Odile découvre Geffard mort dans l'encadrement de sa porte, 11 rue des Charmilles.  
+[Ch 001] Chrono — Lundi 4 novembre 2024, 7 h 22 : appel d'Odile au 15.  
+[Ch 001] Chrono — Lundi 4 novembre 2024, 7 h 38 : arrivée des pompiers (deux hommes, une femme, ambulance de réanimation en double file devant le n° 11).  
+[Ch 001] Chrono — Lundi 4 novembre 2024, 7 h 45 : le pompier Julien interroge Odile dans le hall.  
+[Ch 001] Chrono — Lundi 4 novembre 2024, 8 h 02 : arrivée du médecin de garde (homme jeune, sac à dos médical).  
+[Ch 001] Chrono — Lundi 4 novembre 2024, 8 h 10 : arrivée de deux policiers en uniforme. Ruban de scène de crime à l'entrée du n° 11.  
+[Ch 001] Chrono — Lundi 4 novembre 2024, 8 h 27 : arrivée de la médecin légiste (femme, cinquantaine, imperméable beige, mallette à roulettes).  
+
+### État du corps — Geffard
+
+[Ch 001] Perso — Martin Geffard, état : trouvé mort debout dans l'encadrement de sa porte d'appartement, 11 rue des Charmilles, rez-de-chaussée. Yeux ouverts. Pantalon de semaine, veste de laine. Lunettes portées (branches parallèles, verres à hauteur des yeux — il ne dormait pas avec ses lunettes).  
+[Ch 001] Perso — Martin Geffard, montre : poignet gauche, montre indiquant 3 h 41 au moment de la découverte.  
+[Ch 001] Perso — Martin Geffard, comportement antérieur : deux sorties nocturnes dans les trois semaines précédant sa mort — une vers 1 h 00, une vers 3 h 00. Poussière blanche calcaire sur les chaussures à son retour. Sur le sol du hall, même poudre calcaire.  
+[Ch 001] Perso — Martin Geffard, plan caché : trois jours avant sa première sortie nocturne, Odile l'a croisé avec une grande feuille pliée (plan ou carte). Il l'a pliée en la voyant arriver, geste délibéré. Il a nié toute rénovation.  
+[Ch 001] Perso — Martin Geffard, profession antérieure : technicien retraité des PTT (réseaux téléphoniques). Divorcé, solitaire depuis son divorce.  
+
+### Anomalies observées ch.001
+
+[Ch 001] Anomalie — Le couloir de l'appartement du n° 11 apparaît plus long que les dimensions extérieures de l'immeuble ne le permettent : 10 à 11 mètres selon l'observation d'Odile, au lieu de 7 mètres (façade sur cour : trois fenêtres, environ 7 m). Anomalie notée par Odile, non signalée.  
+[Ch 001] Anomalie — La porte du fond du couloir de l'appartement Geffard (porte du salon) s'est refermée d'elle-même pendant que la médecin légiste dictait ses premières observations. Le pompier Julien l'a remarquée. Il n'a rien dit.  
+[Ch 001] Anomalie — Vers 4 h 45, Odile a eu une légère sensation que quelque chose avait changé dans la rue. Pas un bruit. Juste quelque chose. Non mentionnée lors de l'audition par Julien.  
+[Ch 001] Anomalie — Le lampadaire côté rue Froide (carrefour des Cinq-Vents) était éteint le matin du 4 novembre 2024. En panne régulièrement depuis 2018. Odile a signalé sept fois. Pas de plaque de numérotation sur le poteau.  
+
+### Témoins et intervenants ch.001
+
+[Ch 001] Perso — Julien : pompier, grand, quarantaine, prénom brodé sur la veste. A observé l'anomalie du couloir (deux passages, téléphone-lampe, mesure de l'œil). N'a pas signalé. L'autre pompier présent a haussé les épaules.  
+[Ch 001] Perso — Odile Vanel, déposition : a déclaré ne rien avoir entendu d'inhabituel depuis son appartement la nuit du 3 au 4 novembre. Déclaration incomplète (la sensation de 4 h 45 non mentionnée, les sorties nocturnes de Geffard non évoquées spontanément).  
+
+---
