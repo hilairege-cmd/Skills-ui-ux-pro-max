@@ -303,3 +303,31 @@
 [Ch 009] Lacune — Monographie de Kern, chapitre 7 (pp. 102–134) : non encore reçue. Kern n'a pas apporté le livre.
 
 ---
+## CHAPITRE 010 — Faits établis
+
+### La mesure du carrefour ch.010
+
+[Ch 010] Mesure — Quadrant nord-nord-est du carrefour des Cinq-Vents : 19 m 2 entre l'angle de la rue Froide et l'angle de la rue des Charmilles. Mesurée au télémètre laser, lundi 11 novembre. Si une voie s'y ouvrait, elle aurait ~6 m de large (largeur de la rue Froide). Données documentées dans le carnet de Bréval.
+
+### Yann Cordier ch.010
+
+[Ch 010] Personnage — Yann Cordier : la quarantaine, manteau beige usé, carnet. Carte de visite à la main, écriture manuscrite bleu marine : nom + e-mail + téléphone. Pas de titre, pas d'organisation. Non mandaté. Travaille sur le Vernay depuis mai 2023.
+[Ch 010] Personnage (voix) — Cordier pose des affirmations déguisées en observations : « Vous mesurez le quadrant nord-nord-est. » / « Vous avez trouvé quelque chose dans les galeries. » Pas des questions — des hypothèses vérifiées.
+[Ch 010] Comportement — Cordier connaissait la mesure du quadrant (19 mètres) avant que Bréval la prenne. Il connaît les galeries, le rapport de 1911, et Geffard. Refuse de dire comment il sait. Refuse de montrer ses notes. Donne ce qu'il a décidé de donner, ni plus ni moins.
+[Ch 010] Comportement — Cordier dit qu'il n'est « pas mandaté » — formule précise. Travaille sur Paret depuis mai 2023, dix-huit mois de travail volontaire sur une mort classée accidentelle. Ce n'est pas le profil d'un curieux.
+[Ch 010] Connexion — Cordier sait pour les galeries et pour le rapport de 1911 — il l'a mentionné comme référence connue. Il a dit : « Tout le monde qui s'intéresse sérieusement au Vernay finit par le trouver. »
+
+### Didier Paret ch.010
+
+[Ch 010] Personnage — Didier Paret : 52 ans, 14 rue de la Vanne. Maçon, ouvrier du bâtiment. A travaillé sur des chantiers dans le quartier du Vernay. Non localisé dans les dossiers de Bréval avant cette découverte.
+[Ch 010] Mort — Paret mort en mai 2023, arrêt cardiaque, pas de signe de violence, pas d'antécédent cardiovasculaire. Gendarmerie a classé accidentel en moins de 48h. Mort non documentée dans les appels au numéro inexistant qui avaient été recensés.
+[Ch 010] Confirmation — Historique téléphonique de Paret consulté : dans le registre des appels entrants le jour de sa mort, le numéro inexistant.
+[Ch 010] Connexion — Deux morts confirmés avec le numéro inexistant : Geffard (novembre 2024) et Paret (mai 2023), séparés de 18 mois. Les deux dans le Vernay, les deux arrêt cardiaque, les deux sans antécédent cardiovasculaire.
+
+### Raisonnement Bréval ch.010
+
+[Ch 010] Raisonnement — Deux lectures sur Cordier : (1) ressource avec des informations antérieures à l'instruction ; (2) impliqué dans l'affaire, se positionnant du bon côté. Les deux lectures sont compatibles.
+[Ch 010] Lacune — Paret comme maçon : possible lien avec les chantiers de galeries. Non encore confirmé.
+[Ch 010] Lacune — Relevé téléphonique de Paret confirmé par réquisition. Pas de retour sur les notes de Cordier.
+
+---

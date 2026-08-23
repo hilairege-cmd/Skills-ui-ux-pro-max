@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 2 (ch. 9–16)  
-**Date de dernière mise à jour :** Ch. 009 validé  
-**Prochain chapitre à rédiger :** 010
+**Date de dernière mise à jour :** Ch. 010 validé  
+**Prochain chapitre à rédiger :** 011
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 9 / 120 |
-| Mots écrits | 18 555 |
+| Chapitres rédigés | 10 / 120 |
+| Mots écrits | 20 555 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 2 (ch. 9–16, budget 20 000) |
@@ -32,7 +32,7 @@
 | Étape | Chapitres | Budget | Rédigé | Reste | Statut |
 |-------|-----------|--------|--------|-------|--------|
 | 1 | 1–8 | 20 000 | 16 550 | 3 450 | ✅ ÉTAPE 1 TERMINÉE (ch.001–008 ✓) |
-| 2 | 9–16 | 20 000 | 2 005 | 17 995 | ✍ EN COURS |
+| 2 | 9–16 | 20 000 | 4 005 | 15 995 | ✍ EN COURS |
 | 3 | 17–25 | 22 500 | 0 | 22 500 | ◻ À VENIR |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 5 | 36–43 | 20 000 | 0 | 20 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **18 555** | **281 445** | |
+| **TOTAL** | **1–120** | **300 000** | **20 555** | **279 445** | |
 
 ---
 
@@ -127,6 +127,7 @@ Pour reprendre la session après interruption :
 | 007 | Kern | 2 002 | ✓ Rédigé |
 | 008 | Six branches | 2 000 | ✓ Rédigé — ARRÊT ÉTAPE 1 |
 | 009 | Cinq | 2 005 | ✓ Rédigé |
+| 010 | Cordier | 2 000 | ✓ Rédigé |
 
 ---
 
