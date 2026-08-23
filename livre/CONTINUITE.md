@@ -180,3 +180,22 @@
 [Ch 004] Document — Fiche d'observation Sert à l'admission (11 septembre 2024) : Sert a répété la même phrase pendant quarante minutes : « Le carrefour ne doit pas s'ouvrir. » Fiche obtenue par réquisition dans la matinée, conservée par Ferrand jusqu'à la fin du chapitre.  
 
 ---
+## CHAPITRE 005 — Faits établis
+
+### Descente dans les galeries ch.005
+
+[Ch 005] Perso — Vauthier : technicien à la direction de l'assainissement municipal, vingt-deux ans d'expérience. Mis à disposition par réquisition judiciaire le 5 novembre. Parle en mesures et faits. Connaît les galeries de la Vanne.  
+[Ch 005] Lieu — Cave du n° 11 rue des Charmilles : six mètres sur quatre, hauteur 1m75, sol en terre battue recouvert de poudre calcaire. Trappe nord-ouest (60 cm × 60 cm) avec loquet sans clé et échelle métallique boulonnée.  
+[Ch 005] Technique — Trappe du n° 11 : charnières huilées récemment (quelques semaines). La trappe n'est pas condamnée de facto. Quelqu'un entretient l'accès.  
+[Ch 005] Lieu — Galeries de la Vanne (section documentée) : briques rouges de carrière, voûte en berceau à 1m80, largeur 80 cm, sec, pas de vase. Poudre calcaire sur le sol par plaques — empreintes dans les deux sens, plus d'une fois.  
+[Ch 005] Technique — Cloison de fermeture en parpaing (années 1960-70) posée à l'entrée de la zone non documentée : mortier fendu sur 4 parpaings, refermé. Passage récemment ouvert et refermé avec soin.  
+
+### Chambre hexagonale ch.005
+
+[Ch 005] Lieu — Galerie post-cloison : calcaire gris taillé à la main, très antérieur aux briques (Vauthier : « des siècles, probablement »). Pente descendante d'environ 6 degrés sur 30 mètres. Largeur réduite à 60 cm, voûte à 1m65.  
+[Ch 005] Lieu — Profondeur de la chambre hexagonale : environ 6 mètres sous le niveau des galeries de brique (Vauthier, estimation terrain). Cohérent avec l'annotation de Geffard « 6 ? » sur la carte de la brochure mairie.  
+[Ch 005] Lieu — Chambre hexagonale confirmée sur le terrain : 3 mètres de diamètre (Vauthier), voûte à 2 mètres 10. Sol propre, compact, froid — aucune trace, aucune poudre calcaire. Six branches, une par côté.  
+[Ch 005] Lieu — Sixième branche : plus large que les cinq autres (80 cm vs 60 cm). Appareillage de pierre différent, pierres plus grandes, logique différente. N'est sur aucun plan connu (municipal ou autre). Maçonnerie beaucoup plus ancienne que le reste, époque indéterminable sur le terrain selon Vauthier.  
+[Ch 005] Raisonnement Bréval — Chronologie reconstruite : Geffard → questions tabac-presse sur galeries → brochure mairie cerclée → descente → chambre → plan à main levée (branches 1-5 mesurées, branche 6 sans longueur) → appels numéro inexistant (14 fois en 3 semaines). La chambre est l'événement pivot.  
+
+---
