@@ -222,3 +222,31 @@
 [Ch 006] Procédure — Réquisitions posées par Bréval : (1) noms de tous les membres de la Société depuis 1911 ; (2) historique des propriétaires du n° 11 et des n° 2-12 rue du Puits depuis 1913.  
 
 ---
+## CHAPITRE 007 — Faits établis
+
+### Auguste Kern ch.007
+
+[Ch 007] Personnage — Auguste Kern : 68 ans, historien, auteur de la Monographie historique du quartier du Vernay (1987, 220 pages, épuisée). Retraité depuis 5 ans. Habite à 2 km du Vernay. A habité rue de la Vanne de 1974 à 1991. Était chercheur à l'époque de la monographie.  
+[Ch 007] Personnage — Kern dans les cercles d'histoire locale : « quelqu'un qui savait beaucoup de choses et qui les disait en désordre ». Témoin difficile, pas hostile.  
+[Ch 007] Personnage (voix) — Kern digresse. Il donne des hypothèses en binôme. Il précise les pages. Sa limite est connue d'avance.  
+
+### Informations données par Kern ch.007
+
+[Ch 007] Lieu — Carrefour des Cinq-Vents : angles irréguliers, absence d'îlot central, pas de géométrie planifiée. Hypothèses Kern : (1) rues tracées à des époques différentes ; (2) rues convergent toutes sur un obstacle souterrain non documenté. Kern penche pour la deuxième.  
+[Ch 007] Lieu — Rue Froide : 80 mètres, terminée sur un mur de clôture et un portail rouillé depuis 1847. Propriété derrière : famille Théas jusqu'en 1952, rachetée par la ville et murée. Rien dans les archives sur ce qu'il y avait avant le mur. Théas = famille ancienne du quartier.  
+[Ch 007] Lieu — Rue du Puits : 23 interventions depuis les années 1970 sur fissures récurrentes. Sol qui bouge lentement, de façon continue, depuis l'emprise de l'ancienne carrière vers le nord. Kern l'avait documenté dans le chapitre sept de sa monographie (pp. 102–134, « histoire souterraine du quartier »).  
+[Ch 007] Document — Monographie de Kern (1987) : chapitre sept (pp. 102-134) porte sur l'histoire souterraine du Vernay. Traite des galeries de la Vanne et de « ce que les plans municipaux ne documentent pas ». Kern possède deux exemplaires (travail + relié). Il apportera le relié à Bréval.  
+[Ch 007] Lieu — n° 17 rue des Charmilles : vide depuis 2019. Propriétaire inconnu dans les registres accessibles. Mentionné par Kern sans explication.  
+
+### Ce que Kern refuse de dire ch.007
+
+[Ch 007] Comportement — Kern a répété la même réponse « Il y a eu un accident à la carrière » avec exactement la même formulation les deux fois que Bréval a pressé. Formulation préparée avant l'entretien. Limite décidée d'avance.  
+[Ch 007] Comportement — Kern n'a pas mentionné que Théas (fondateur de la Société, 1911) était lié à la rue Froide (propriété murée). Soit il ne savait pas, soit il a évité le lien.  
+[Ch 007] Comportement — Kern a dit « Je n'ai pas d'informations actuelles sur la Société » deux fois. Formulation précise : ne nie pas de savoir l'histoire de la Société, nie seulement les infos actuelles.  
+
+### La photographie ch.007
+
+[Ch 007] Objet — Photographie laissée tomber par Kern en partant : six hommes en tablier de maçon, devant le carrefour des Cinq-Vents. Au dos, à l'encre délavée : « 14 février 1911 ». La date de l'obstruction provisoire de l'accès à la chambre.  
+[Ch 007] Interprétation Bréval (deux hypothèses non tranchées) — La photographie n'est pas tombée par accident : Kern a décidé de laisser quelque chose, mais pas de le dire. Hypothèse 1 : il s'y trouvait (ou un ancêtre). Hypothèse 2 : il l'avait depuis longtemps, conservée dans son dossier Vernay.  
+
+---

@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 1 (ch. 1–8)  
-**Date de dernière mise à jour :** Ch. 006 validé  
-**Prochain chapitre à rédiger :** 007
+**Date de dernière mise à jour :** Ch. 007 validé  
+**Prochain chapitre à rédiger :** 008
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 6 / 120 |
-| Mots écrits | 12 548 |
+| Chapitres rédigés | 7 / 120 |
+| Mots écrits | 14 550 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 1 (ch. 1–8, budget 20 000) |
@@ -31,7 +31,7 @@
 
 | Étape | Chapitres | Budget | Rédigé | Reste | Statut |
 |-------|-----------|--------|--------|-------|--------|
-| 1 | 1–8 | 20 000 | 12 548 | 7 452 | ✍ EN COURS (ch.001–006 ✓) |
+| 1 | 1–8 | 20 000 | 14 550 | 5 450 | ✍ EN COURS (ch.001–007 ✓) |
 | 2 | 9–16 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 3 | 17–25 | 22 500 | 0 | 22 500 | ◻ À VENIR |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **12 548** | **287 452** | |
+| **TOTAL** | **1–120** | **300 000** | **14 550** | **285 450** | |
 
 ---
 
@@ -124,6 +124,7 @@ Pour reprendre la session après interruption :
 | 004 | Les quatre appels | 2 000 | ✓ Rédigé |
 | 005 | La Vanne | 2 000 | ✓ Rédigé |
 | 006 | 1911 | 2 003 | ✓ Rédigé |
+| 007 | Kern | 2 002 | ✓ Rédigé |
 
 ---
 
