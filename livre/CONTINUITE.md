@@ -199,3 +199,26 @@
 [Ch 005] Raisonnement Bréval — Chronologie reconstruite : Geffard → questions tabac-presse sur galeries → brochure mairie cerclée → descente → chambre → plan à main levée (branches 1-5 mesurées, branche 6 sans longueur) → appels numéro inexistant (14 fois en 3 semaines). La chambre est l'événement pivot.  
 
 ---
+## CHAPITRE 006 — Faits établis
+
+### Archives 1911 ch.006
+
+[Ch 006] Chrono — 16 février 1911 : dossier de gendarmerie sur accident de carrière au nord-ouest du Vernay. Six ouvriers victimes. Trois morts récupérés (accident d'effondrement partiel de galerie). Trois disparus dans « la chambre » (corps non récupérés) : Grégoire, Hubert, Dassot (pas de prénoms dans le rapport). Rapport de 17 pages, écriture à la plume.  
+[Ch 006] Chrono — 14 février 1911 : mention d'une « obstruction provisoire de l'accès » à la chambre. Jamais rouvert officiellement d'après les archives.  
+[Ch 006] Admin — Rapport de gendarmerie 1911, phrase sur les survivants : « Les survivants n'ont pu donner d'informations utiles sur les circonstances de la disparition de leurs camarades. »  
+[Ch 006] Lieu — Emprise de l'ancienne carrière (d'après documents de lotissement de 1913) : correspond à la place du Vernay actuelle et aux numéros 2 à 12 de la rue du Puits. Cohérent avec les fissures chroniques observées en ch.003.  
+[Ch 006] Document — Note manuscrite en fin du dossier de 1911 (ajoutée après, autre écriture) : « Constitution de la Société de Secours Mutuel du Vernay, statuts déposés en préfecture le 17 février 1911. Membres fondateurs : Vanel, Théas, Marchetti. »  
+
+### Société de Secours Mutuel du Vernay ch.006
+
+[Ch 006] Admin — Société de Secours Mutuel du Vernay : fondée le 17 février 1911 (lendemain exact de la fermeture du dossier carrière). Siège social actuel : n° 4 rue Saint-Éloi (Cabinet Delisle Conseil). Représentant légal : F. Delisle. Trois membres actifs déclarés (sans noms). Dernier dépôt de compte : octobre 2024.  
+[Ch 006] Admin — Objet social de la Société : « Assistance mutuelle aux familles des victimes d'accidents de travail dans le quartier du Vernay, et préservation de la mémoire du 16 février 1911. »  
+[Ch 006] Connexion — Nom Vanel : fondateur de la Société en 1911. Odile Vanel, 71 ans, n° 9 rue des Charmilles depuis 1979. Lien généalogique probable (au moins 3 générations). Non confirmé.  
+
+### Raisonnement Bréval ch.006
+
+[Ch 006] Raisonnement — Sixième branche de la chambre : direction nord-nord-est d'après rapport Vauthier. Projetée en surface, direction correspond au 11 rue des Charmilles. Bréval n'a pas encore formulé ce fait.  
+[Ch 006] Connexion — Dépôt de compte de la Société en octobre 2024 = mois des premiers appels nocturnes de Geffard au numéro inexistant. Non confirmé comme lien causal.  
+[Ch 006] Procédure — Réquisitions posées par Bréval : (1) noms de tous les membres de la Société depuis 1911 ; (2) historique des propriétaires du n° 11 et des n° 2-12 rue du Puits depuis 1913.  
+
+---
