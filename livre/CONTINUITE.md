@@ -100,3 +100,35 @@
 [Ch 001] Perso — Odile Vanel, déposition : a déclaré ne rien avoir entendu d'inhabituel depuis son appartement la nuit du 3 au 4 novembre. Déclaration incomplète (la sensation de 4 h 45 non mentionnée, les sorties nocturnes de Geffard non évoquées spontanément).  
 
 ---
+
+## CHAPITRE 002 — Faits établis
+
+### Procédure et intervenants ch.002
+
+[Ch 002] Chrono — Lundi 4 novembre 2024, 9h45 : arrivée du commandant Bréval et du capitaine Ferrand au 11 rue des Charmilles. La technique (photographes de scène de crime) quitte les lieux au même moment.  
+[Ch 002] Chrono — Lundi 4 novembre 2024, vers 10h : Bréval appelle la légiste depuis le couloir de l'appartement pour les résultats préliminaires.  
+[Ch 002] Médico-légal — Cause préliminaire de mort de Geffard : arrêt cardiaque. Aucun traumatisme crânien, aucune violence externe, aucune ligature, aucune piqûre visible. Toxicologie : 48h. Autopsie à venir.  
+[Ch 002] Médico-légal — Position du corps compatible avec un arrêt brutal en phase de déplacement (debout ou en marche).  
+[Ch 002] Médico-légal — Montre de Geffard indiquant 3h41 : compatible avec la fenêtre d'estimation légiste (3h00–4h30).  
+[Ch 002] Admin — Bréval : pas de dossier cardiaque connu pour Geffard à 58 ans.  
+
+### Appartement Geffard — inventaire ch.002
+
+[Ch 002] Lieu — Façade arrière (cour) du n° 11 : trois fenêtres au rez-de-chaussée côté cour, façade estimée à 7 mètres environ. Cour de largeur identique à l'immeuble.  
+[Ch 002] Perso — Geffard, bibliothèque : manuels techniques PTT des années 1980 (câblage, réseaux linéaires, réseaux souterrains de distribution). Dix-huit classeurs de factures et papiers personnels. Aucune photo dans l'appartement.  
+[Ch 002] Perso — Geffard, brochure mairie : livre blanc municipal sur les réseaux souterrains du quartier, marqué à une carte des galeries. Zone hachurée (section non documentée) cerclée au crayon avec annotation manuscrite « 6 ? ».  
+[Ch 002] Perso — Geffard, feuilles froissées (poubelle du bureau) : (1) colonne de mesures/distances sans légende, certaines entourées ou encadrées deux fois ; (2) plan à main levée d'une forme hexagonale avec six branches numérotées, branches 1–5 avec longueurs, branche 6 sans longueur, terminée par un rectangle contenant « ? ». Pièces mises sous pochette par Ferrand.  
+[Ch 002] Perso — Geffard, calendrier : cases d'octobre et des 1er et 2 novembre cochées au stylo bille. Case du 3 novembre (nuit de sa mort) : vide.  
+
+### Téléphonique Geffard
+
+[Ch 002] Téléphonique — Relevé des 30 derniers jours d'appels sortants (réquisition urgente, opérateur) : 14 appels vers un même numéro, répartis sur les trois premières semaines d'octobre. Tous entre 23h00 et 3h30. Durées variables (4 secondes à 18 minutes). Fréquence croissante (3 appels semaine 1, 5 semaine 2, 6 semaine 3).  
+[Ch 002] Téléphonique — Le numéro appelé n'est attribué à aucun abonné, n'existe dans aucun registre opérateur national, n'est pas un numéro de test/service/urgence/désaffecté. Il n'a jamais été attribué. Selon l'opérateur, il ne devrait pas exister.  
+[Ch 002] Téléphonique — Signal de connexion confirmé à chaque appel : quelque chose répond. Aucun appel entrant depuis ce numéro vers Geffard.  
+
+### Anomalie ch.002
+
+[Ch 002] Anomalie — Photo de scène de crime du couloir de l'appartement Geffard (axe porte d'entrée → salon, prise par la technique le matin du 4 novembre) : longueur mesurée par réglette = 11 mètres. Largeur de l'immeuble côté cour estimée à 7 mètres (trois fenêtres). Écart : 4 mètres inexpliqués.  
+[Ch 002] Anomalie — Bréval a traversé le couloir et noté une anomalie visuelle (perspective fausse). Il l'a rationnalisée (lumière d'automne en biais, revêtement de sol sombre, murs non parallèles dans un bâtiment de 1891). Il n'en a pas parlé à Ferrand.  
+
+---

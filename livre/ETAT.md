@@ -10,7 +10,7 @@
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 1 (ch. 1–8)  
 **Date de dernière mise à jour :** Ch. 001 validé  
-**Prochain chapitre à rédiger :** 002
+**Prochain chapitre à rédiger :** 003
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 1 / 120 |
-| Mots écrits | 2 166 |
+| Chapitres rédigés | 2 / 120 |
+| Mots écrits | 4 392 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 1 (ch. 1–8, budget 20 000) |
@@ -31,7 +31,7 @@
 
 | Étape | Chapitres | Budget | Rédigé | Reste | Statut |
 |-------|-----------|--------|--------|-------|--------|
-| 1 | 1–8 | 20 000 | 2 166 | 17 834 | ✍ EN COURS (ch.001 ✓) |
+| 1 | 1–8 | 20 000 | 4 392 | 15 608 | ✍ EN COURS (ch.001–002 ✓) |
 | 2 | 9–16 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 3 | 17–25 | 22 500 | 0 | 22 500 | ◻ À VENIR |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **2 166** | **297 834** | |
+| **TOTAL** | **1–120** | **300 000** | **4 392** | **295 608** | |
 
 ---
 
@@ -119,6 +119,7 @@ Pour reprendre la session après interruption :
 | Ch. | Titre | Mots | Statut |
 |-----|-------|------|--------|
 | 001 | Les Cinq-Vents | 2 166 | ✓ Rédigé |
+| 002 | Commandant Bréval | 2 226 | ✓ Rédigé |
 
 ---
 
