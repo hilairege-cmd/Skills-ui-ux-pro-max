@@ -250,3 +250,23 @@
 [Ch 007] Interprétation Bréval (deux hypothèses non tranchées) — La photographie n'est pas tombée par accident : Kern a décidé de laisser quelque chose, mais pas de le dire. Hypothèse 1 : il s'y trouvait (ou un ancêtre). Hypothèse 2 : il l'avait depuis longtemps, conservée dans son dossier Vernay.  
 
 ---
+## CHAPITRE 008 — Faits établis
+
+### Bilan de la semaine ch.008
+
+[Ch 008] Procédure — Bilan récapitulatif de l'instruction au soir du vendredi 8 novembre. Tous les faits des ch.001–007 sont synthétisés formellement : Geffard, les 4 autres appelants, la chambre, 1911, la Société, Kern, la photographie.  
+[Ch 008] Raisonnement — « Cinq personnes qui avaient appelé la même chose. Cinq trajectoires différentes après l'appel. Un seul mort — pour l'instant. »  
+[Ch 008] Connexion — Kern a mentionné la famille Théas (rue Froide, propriété murée 1952) sans la relier aux membres fondateurs de la Société. Bréval note les deux possibilités sur la photographie : (1) document de recherche, (2) objet conservé sur lui depuis longtemps.  
+
+### L'appel à Camille ch.008
+
+[Ch 008] Personnel — Bréval appelle Camille à 21h pour dire qu'il ne rentre pas ce week-end. Camille dit « Encore. » et raccroche avant qu'il finisse sa phrase. Durée du problème : dix-huit mois.  
+
+### Le carrefour des Cinq-Vents ch.008
+
+[Ch 008] Anomalie — Bréval seul au carrefour des Cinq-Vents à 22h. Il compte les branches : 5 (résultat attendu). Il recommence : 6. Un sixième point dans le quadrant nord-nord-est, entre la rue Froide et la rue des Charmilles, là où la façade est continue et solide. Aucune ouverture. Il recompte une troisième fois : 6.  
+[Ch 008] Anomalie — Le lampadaire côté rue Froide s'éteint au moment exact où Bréval finit son troisième comptage.  
+[Ch 008] Raisonnement Bréval — Cette sixième branche n'est pas dans les archives, pas sur les plans. Direction : nord-nord-est. Cohérente avec la direction de la sixième branche de la chambre hexagonale souterraine.  
+[Ch 008] Important — Ferrand n'était pas présente au comptage. Elle ne sait pas encore que Bréval a compté six.  
+
+---

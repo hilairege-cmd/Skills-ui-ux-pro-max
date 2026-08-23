@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 1 (ch. 1–8)  
-**Date de dernière mise à jour :** Ch. 007 validé  
-**Prochain chapitre à rédiger :** 008
+**Date de dernière mise à jour :** Ch. 008 validé — ARRÊT ÉTAPE 1  
+**Prochain chapitre à rédiger :** 009
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 7 / 120 |
-| Mots écrits | 14 550 |
+| Chapitres rédigés | 8 / 120 |
+| Mots écrits | 16 550 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 1 (ch. 1–8, budget 20 000) |
@@ -31,7 +31,7 @@
 
 | Étape | Chapitres | Budget | Rédigé | Reste | Statut |
 |-------|-----------|--------|--------|-------|--------|
-| 1 | 1–8 | 20 000 | 14 550 | 5 450 | ✍ EN COURS (ch.001–007 ✓) |
+| 1 | 1–8 | 20 000 | 16 550 | 3 450 | ✅ ÉTAPE 1 TERMINÉE (ch.001–008 ✓) |
 | 2 | 9–16 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 3 | 17–25 | 22 500 | 0 | 22 500 | ◻ À VENIR |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **14 550** | **285 450** | |
+| **TOTAL** | **1–120** | **300 000** | **16 550** | **283 450** | |
 
 ---
 
@@ -125,11 +125,34 @@ Pour reprendre la session après interruption :
 | 005 | La Vanne | 2 000 | ✓ Rédigé |
 | 006 | 1911 | 2 003 | ✓ Rédigé |
 | 007 | Kern | 2 002 | ✓ Rédigé |
+| 008 | Six branches | 2 000 | ✓ Rédigé — ARRÊT ÉTAPE 1 |
 
 ---
 
 ## HISTORIQUE DES BILANS D'ÉTAPE
 
-*(aucun bilan d'étape rédigé — Phase 0)*
+### BILAN ÉTAPE 1 — ch. 1–8 (16 550 mots / budget 20 000)
+
+**Faits posés**
+- Martin Geffard mort le 4 novembre 2024 (arrêt cardiaque, couloir 11m/7m). 14 appels nocturnes vers un numéro inexistant.
+- 4 autres appelants : Sert hospitalisé (« le carrefour ne doit pas s'ouvrir »), Peyrac et Cours disparus, Odile Vanel restée.
+- Chambre hexagonale confirmée sous le Vernay (6 branches, sixième non documentée, direction NNE → 11 rue des Charmilles).
+- Accident 1911 : 6 ouvriers, 3 disparus (Grégoire, Hubert, Dassot), chambre obstruée 14 fév.
+- Société de Secours Mutuel du Vernay : fondée 17 fév 1911 (Vanel, Théas, Marchetti), encore active, 3 membres, siège Delisle.
+- Auguste Kern : refuse de parler de 1911, laisse une photographie (6 hommes, 14 fév 1911).
+- Bréval compte 6 branches au carrefour des Cinq-Vents à 22h. Troisième comptage confirmé. Lampadaire éteint au moment précis.
+- Personnel : Camille raccroche avant qu'il finisse sa phrase. Dix-huit mois.
+
+**Questions ouvertes en entrée d'étape 2**
+- Que s'est-il passé exactement dans la chambre le 14 fév 1911 ?
+- Que contient la monographie de Kern, chapitre 7 (pp. 102–134) ?
+- Ferrand comptera-t-elle aussi 6 branches au carrefour ?
+- Qui sont les 3 membres actifs actuels de la Société ?
+- Où sont Peyrac et Cours ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : statut de Camille non confirmé (relation en cours / séparation ?)
 
 ---
