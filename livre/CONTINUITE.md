@@ -156,3 +156,27 @@
 [Ch 003] Téléphonique — Relevé élargi à 6 mois (Ferrand, résultat annoncé en fin de chapitre) : 4 autres résidents du Vernay ont appelé le même numéro inexistant dans les 6 derniers mois. (1) Deux ont déménagé. (2) Un est hospitalisé. (3) La quatrième est Odile Vanel.  
 
 ---
+## CHAPITRE 004 — Faits établis
+
+### Appelants du numéro inexistant ch.004
+
+[Ch 004] Perso — Laurent Peyrac, 51 ans : anciennement 8 rue de la Vanne. Parti août 2024. Intermittent du spectacle, pas de contrat actif depuis juin 2024. Deux appels au numéro inexistant : 12 mai (6 min) et 3 juin (11 min). Statut : introuvable — aucune adresse de départ, pas de lettre de résiliation, pas de changement d'adresse aux impôts. Téléphone résilié depuis septembre. Demandes lancées à CAF et CPAM.  
+[Ch 004] Perso — Nathalie Cours, 38 ans : anciennement 2 rue Saint-Éloi. Partie juillet 2024. Graphiste indépendante, dernière déclaration de revenus : il y a 18 mois. Un appel au numéro inexistant : 14 avril (22 min). Adresse de réexpédition postale à La Rochelle (boîte postale générale). Pas de compte bancaire actif dans les bases consultables sans mandatement formel. Statut : non localisée.  
+[Ch 004] Perso — Jean-Paul Sert, 64 ans : 15 rue du Puits (immeuble avec fissures côté est). Retraité Éducation nationale, ancien professeur d'histoire-géographie. Admis en urgence à l'hôpital Sainte-Marguerite (service de psychiatrie adulte) le 11 septembre 2024 — trouvé prostré dans son couloir par sa fille depuis plusieurs heures. Trois appels au numéro inexistant entre juillet et début septembre 2024. Troisième appel : quinze jours avant l'hospitalisation.  
+
+### Hôpital Sainte-Marguerite ch.004
+
+[Ch 004] Lieu — Hôpital Sainte-Marguerite : service de psychiatrie adulte dans un bâtiment séparé du principal, accès par badge, accueil propre. À 20 minutes du Vernay.  
+[Ch 004] Médical — État de Sert (médecin de service) : stable. Pas de syndrome déficitaire grave, pas de démence, pas de lésion organique. Capacités cognitives préservées. Épisodes de confusion sévère (4 à 12 heures). Entre les épisodes, refus de parler de ce qui a précédé l'hospitalisation — volontaire, cohérent, conscient.  
+[Ch 004] Perso — Sert, entretien Bréval : reconnaît avoir entendu parler de Geffard (informations locales). Dit l'avoir connu « de vue ». Refuse de parler du numéro de téléphone. Dit explicitement : « Je n'ai rien à vous dire sur ce numéro » puis « Vous ne devriez pas continuer à chercher ça. Pas de cette façon. » Se retourne vers la fenêtre et n'ajoute rien.  
+
+### Audition Odile Vanel ch.004
+
+[Ch 004] Perso — Odile Vanel, audition formelle (14h, service PJ) : dit n'avoir aucun souvenir d'avoir appelé le numéro inexistant. L'appel a eu lieu à 2h17 du matin depuis sa ligne fixe. Elle reconnaît dormir mal depuis l'automne et se lever la nuit. Déclare : « Je n'ai jamais appelé ce numéro intentionnellement. » Distinction notée par Bréval : « intentionnellement » et « honnêtement » — précision lexicale d'ancienne enseignante.  
+[Ch 004] Perso — Odile Vanel : connaît Peyrac (8 rue de la Vanne, parti en août), Cours (2 rue Saint-Éloi, partie en juillet), Sert (rue du Puits, hospitalisé en septembre). Les liste dans l'ordre : Cours juillet → Peyrac août → Sert septembre. Dit spontanément : « Et moi j'étais encore là. » Ton : une question qu'elle se pose depuis un moment, pas une constatation.  
+
+### Fiche d'admission Sert ch.004
+
+[Ch 004] Document — Fiche d'observation Sert à l'admission (11 septembre 2024) : Sert a répété la même phrase pendant quarante minutes : « Le carrefour ne doit pas s'ouvrir. » Fiche obtenue par réquisition dans la matinée, conservée par Ferrand jusqu'à la fin du chapitre.  
+
+---
