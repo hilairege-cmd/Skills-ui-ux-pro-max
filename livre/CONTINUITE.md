@@ -132,3 +132,27 @@
 [Ch 002] Anomalie — Bréval a traversé le couloir et noté une anomalie visuelle (perspective fausse). Il l'a rationnalisée (lumière d'automne en biais, revêtement de sol sombre, murs non parallèles dans un bâtiment de 1891). Il n'en a pas parlé à Ferrand.  
 
 ---
+
+## CHAPITRE 003 — Faits établis
+
+### Tour du Vernay ch.003
+
+[Ch 003] Lieu — N° 17 rue des Charmilles : volets fermés, boîte aux lettres sans nom, paillasson non utilisé depuis longtemps. Immeuble vide. Aucun permis de construire en façade. À vérifier : depuis quand vide, dernier locataire.  
+[Ch 003] Lieu — Carrefour des Cinq-Vents : intersection asymétrique, cinq rues à angles irréguliers (rue des Charmilles / rue de la Vanne ≈ 60°, rue Saint-Éloi / rue Froide < 50°). Espace ouvert d'environ 18 mètres de diamètre, sans îlot central ni marquage au sol. Lampadaire côté rue Froide éteint le 4 novembre 2024.  
+[Ch 003] Lieu — Rue du Puits, n° 2 à 12 (côté est) : fissures chroniques sur toutes les façades. Colmatées et réouvertes plusieurs fois. Bandes de résine, agrafes métalliques. N° 6 : lézarde en diagonal du 2e étage au rez-de-chaussée, largeur ~2 doigts. Avis de mairie : programme de surveillance des fissures actives pour le secteur.  
+[Ch 003] Lieu — Rue Saint-Éloi, n° 4 : Cabinet Delisle Conseil (plaque de cuivre). Rideaux tirés, boîte aux lettres pleine au moment de la visite.  
+[Ch 003] Lieu — Place du Vernay : espace libre entre arrières de la rue du Puits et de la rue de la Vanne. Accessible uniquement par deux passages couverts discrets (dont passage sous le n° 3 rue de la Vanne). Sol irrégulier : zones pavées et zones béton de remplissage d'époques diverses, bandes de résine dans les joints. Un banc, quatre arbres. Personne au moment de la visite. Le patron du tabac-presse note que « les gens y vont, c'est juste que personne n'y reste ».  
+[Ch 003] Lieu — Place du Vernay, position : au centre géographique du quartier, au-dessus de l'intersection des cinq rues si l'on projette les axes verticalement. À confirmer sur plans souterrains.  
+
+### Témoignages ch.003
+
+[Ch 003] Perso — Franck Delisle, déposition informelle : propriétaire du n° 11 depuis au moins 17 ans. Bureau au 4 rue Saint-Éloi. A confirmé l'existence d'une trappe d'accès aux galeries dans la cave du n° 11. A dit qu'elle était « condamnée ». N'a pas demandé de nouvelles de son locataire décédé. Langage de la procédure dès la première rencontre.  
+[Ch 003] Perso — Odile Vanel, deuxième entretien : confirme que Geffard était « concentré » depuis deux semaines environ, pas inquiet. Elle l'interprète comme quelqu'un au milieu d'un travail. Il lui a explicitement dit de ne pas continuer à demander. Il portait un plan qu'il a replié en la voyant. Elle n'a pas vu ce que le plan représentait. Elle dit ne pas avoir de clé du n° 11 (dit ça avant qu'on lui demande l'accès).  
+[Ch 003] Perso — Odile Vanel : note que Geffard était technicien PTT depuis 30 ans, connaissait les réseaux souterrains. Elle formule l'hypothèse que son intérêt pour les galeries était antérieur à sa découverte, ou que la découverte a précédé l'intérêt.  
+[Ch 003] Perso — Patron tabac-presse (rue des Charmilles / rue de la Vanne, présent depuis 12 ans) : Geffard venait tous les jours, *Le Monde* et cigarettes roulées. Ces dernières semaines : tenait un carnet, concentré, posait des questions sur les galeries, sur l'histoire du quartier. A demandé spécifiquement ce qu'il y avait sous la place du Vernay. A demandé depuis quand les galeries existaient.  
+
+### Téléphonique élargi ch.003
+
+[Ch 003] Téléphonique — Relevé élargi à 6 mois (Ferrand, résultat annoncé en fin de chapitre) : 4 autres résidents du Vernay ont appelé le même numéro inexistant dans les 6 derniers mois. (1) Deux ont déménagé. (2) Un est hospitalisé. (3) La quatrième est Odile Vanel.  
+
+---
