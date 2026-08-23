@@ -270,3 +270,36 @@
 [Ch 008] Important — Ferrand n'était pas présente au comptage. Elle ne sait pas encore que Bréval a compté six.  
 
 ---
+## CHAPITRE 009 — Faits établis
+
+### Le carrefour le matin ch.009
+
+[Ch 009] Confirmation — Bréval au carrefour des Cinq-Vents à 8h40 (samedi 9 novembre). Soleil bas, novembre. Façade NNE : continue, crépi, volet métallique sur vitrine condamnée, tuyau de gouttière. Pas d'ouverture. Ça ne change pas ce qu'il a compté.
+[Ch 009] Confirmation — Ferrand compte les branches de jour : cinq. Elle fait le tour méthodiquement. Quadrant NNE baigné de lumière, façades continues, aucun intervalle visible.
+[Ch 009] Dialogue — Ferrand dit : « Tu as mal compté la nuit. » Bréval ne répond pas. Il a trois comptages confirmés. Ces faits sont vrais et ne constituent pas une preuve recevable en procédure.
+[Ch 009] Comportement Ferrand — Elle n'a pas posé la question deux fois. Elle attend, ne comble pas le silence. Quand il ne répond pas, elle dit « Bon. On est là pour quoi d'autre ? »
+
+### La rue Froide ch.009
+
+[Ch 009] Lieu — Rue Froide : 80 mètres de long, sans embranchement, terminée sur un mur de clôture et un portail en fer forgé rouillé. Deux immeubles de chaque côté, volets fermés pour la plupart. Sol légèrement surélevé par rapport à la rue de la Vanne (asymétrie du carrefour, déjà noté par Kern).
+[Ch 009] Lieu — Portail : hauteur 2m50, pointes forgées en tête de lance. Rouillé mais solide, fer épais visible sous la rouille. Derrière : cour pavée, végétation haute mal entretenue (ancien jardin), bâtiment bas d'un étage, façade en pierre de taille, volets fermés à tous les niveaux.
+[Ch 009] Lieu — Boîte aux lettres récente (métal gris plastifié, une dizaine d'années) fixée à gauche du portail. Carte cartonnée sous plastique, écriture à la main serrée : « I. Massard ». Adresse : 2 rue Froide.
+[Ch 009] Observation — Un volet en bois peint en vert (peinture refaite dans les dix dernières années) légèrement entrouvert au rez-de-chaussée côté cour. Quelqu'un vit là.
+[Ch 009] Raisonnement Bréval/Ferrand — La propriété Théas rachetée par la ville en 1952 et murée, mais non démolie. Taxe d'habitation payée depuis 1987 = la ville a loué ou vendu l'accès entre 1952 et 1987.
+
+### Irène Massard ch.009
+
+[Ch 009] Personnage — Irène Massard : née 1942, 82 ans. Née Irène Théas. A pris le nom de son mari en 1967. Juriste de formation, notaire jusqu'en 2004, retraite depuis vingt ans. Adresse déclarée aux impôts : 2 rue Froide, Vernay. Taxe d'habitation payée à jour depuis 1987.
+[Ch 009] Connexion — Irène Massard est née Théas. Théas = famille fondatrice de la Société de Secours Mutuel du Vernay (fondateurs 1911). La propriété au 2 rue Froide a appartenu à la famille Théas jusqu'en 1952.
+[Ch 009] Connexion — Irène Massard figure dans les statuts de la Société depuis 1968 (AG extraordinaire, modification des membres). Administratrice. 55 ans d'ancienneté dans la Société. Elle avait 26 ans en 1968, l'année après son mariage (nom Massard pris en 1967).
+[Ch 009] Raisonnement Bréval — Transmission perçue comme obligation, pas comme choix : elle a rejoint la Société l'année de son mariage, comme si l'entrée n'était pas séparable de la constitution d'une identité adulte.
+[Ch 009] Tableau des trois lignées — Delisle : Société, 11 rue des Charmilles. Vanel : Société, 9 rue des Charmilles. Massard (née Théas) : Société, 2 rue Froide. Trois membres actifs déclarés. Trois adresses dans le Vernay. Trois des trois membres fondateurs de 1911 représentés.
+[Ch 009] Lacune — Marchetti (troisième fondateur 1911) : pas encore de descendant identifié dans le Vernay. Réquisition posée : recherche du nom dans les registres d'état civil et les recensements du Vernay depuis 1911.
+
+### Clôture ch.009
+
+[Ch 009] Procédure — Demande officielle d'audition envoyée à Irène Massard (voie électronique + recommandé papier, procédure témoin non mis en cause).
+[Ch 009] Réponse — Irène Massard refuse de recevoir des policiers à son domicile. Réponse par courrier recommandé, lettre fermée par un cachet de cire rouge.
+[Ch 009] Lacune — Monographie de Kern, chapitre 7 (pp. 102–134) : non encore reçue. Kern n'a pas apporté le livre.
+
+---
