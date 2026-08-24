@@ -538,3 +538,24 @@
 [Ch 018] Accroche — La sixième branche pointe vers le nord-nord-est. La ligne aboutit au numéro 11 de la rue des Charmilles. Le même bâtiment. La même adresse.
 
 ---
+## CHAPITRE 019 — Faits établis
+
+### Retour appartement Geffard ch.019
+
+[Ch 019] Scellés — Reconduction signée le mardi matin. Ferrand confirme scellés intacts avant l'arrivée de Bréval. Locataires prévenus, aucun passage inhabituel signalé. Visite du mercredi 27 novembre.
+[Ch 019] Couloir — Revenu à 7m02 (vs 11m le 5 novembre). Mesuré au ruban. Bréval note l'écart sans en tirer de conclusion.
+
+### La carte sur le mur ch.019
+
+[Ch 019] Plan au crayon — Sur le mur gauche du couloir, à 3m du fond. Plan précis, lignes droites, angles réguliers. Bréval le reconnaît immédiatement : même structure rayonnante que le carrefour des Cinq-Vents qu'il avait tracé sur le plan IGN la veille.
+[Ch 019] Plan — Carrefour central, cinq rues identifiables (sans noms) : Charmilles, Vanne, Puits, Saint-Éloi, Froide. Plus une sixième rue, tracée plus légèrement, direction nord-nord-est, s'arrête à mi-chemin du bord du mur.
+[Ch 019] Plan — Dimensions : environ 60cm x 40cm. Hauteur sur le mur : 1m20 du sol. Geffard mesurait 1m82. Hauteur compatible avec stature d'environ 1m50, ou quelqu'un de plus grand plié en avant, ou assis/à genoux.
+[Ch 019] Techniciens (5 novembre) — Auraient dû noter le plan s'il avait été là lors de la première visite. Selon Bréval, possibilité que le plan ait été hors du champ de vision (couloir de 11m, mur du fond à position différente).
+[Ch 019] Deux hypothèses Bréval/Ferrand — 1/ entrée entre le 5 novembre et le 27 novembre malgré les scellés ; 2/ plan présent le 5 novembre sur section de mur non regardée (couloir 11m). Aucune hypothèse éliminée.
+[Ch 019] Vérification demandée — Accès cour intérieure côté jardin : enregistrements disponibles ? Locataires rez-de-chaussée côté cour interrogés.
+[Ch 019] Expertise graphologique demandée en urgence — Laboratoire de police technique et scientifique. Arrivée du technicien : vendredi matin.
+[Ch 019] Rapport graphologique (vendredi 29 novembre) — Écriture : celle de Martin Geffard. Indice de certitude : 97 %. Expertise médico-légale : mort entre 3h00 et 4h30. Le plan a été tracé après la mort de Geffard.
+[Ch 019] Convergence notée — La sixième rue du plan (NNE) correspond à la direction de la sixième branche depuis la chambre hexagonale, tracée par Bréval sur IGN la veille. Même direction. Pas formulé autrement.
+[Ch 019] Accroche — Le plan a été tracé après la mort de Geffard. Écriture Geffard, certitude 97 %.
+
+---
