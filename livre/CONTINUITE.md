@@ -331,3 +331,32 @@
 [Ch 010] Lacune — Relevé téléphonique de Paret confirmé par réquisition. Pas de retour sur les notes de Cordier.
 
 ---
+## CHAPITRE 011 — Faits établis
+
+### Comparaison des deux morts ch.011
+
+[Ch 011] Comparaison — Geffard mort à 3h41, Paret mort à 2h16 : deux morts nocturnes dans la même tranche horaire (après minuit, avant l'aube). Les deux dans des rues branches du carrefour des Cinq-Vents : Geffard rue des Charmilles, Paret rue de la Vanne.
+[Ch 011] Correspondance — Les deux corps trouvés avec les yeux ouverts. Mention dans le constat de décès détaillé, pas dans le résumé du rapport. Anomalie non signalée à l'époque.
+[Ch 011] Correspondance — Les deux morts sans antécédent cardiovasculaire. Arrêt cardiaque comme cause officielle.
+[Ch 011] Procédure — Réquisition historique des appels de Paret (3 mois avant décès) posée. Délai attendu : jusqu'à 15 jours.
+
+### Paret et les galeries ch.011
+
+[Ch 011] Connexion — Chantier municipal de rénovation des galeries d'assainissement sous la rue du Puits et la place du Vernay : juillet-novembre 2022. Entreprise Bâti-Sud. Paret : maçon P2, sous terre du 14 août au 12 octobre 2022. Deux mois dans les galeries du Vernay — les mêmes que Vauthier avait descendues.
+[Ch 011] Contremaître — Stéphane Rougeau (Bâti-Sud, Mérignac) : Paret compétent, pas de problème, sauf les deux-trois dernières semaines où il refusait de descendre dans une section précise — fond du réseau, sous la place du Vernay. A dit « il y avait quelque chose là-dedans » à mi-voix. Dormait mal vers la fin. Rougeau l'a mis en surface pour les derniers jours.
+[Ch 011] Chronologie — Fin du chantier : 12 octobre 2022. Mort de Paret : 9 mai 2023. Écart : 7 mois et 27 jours.
+
+### Le carnet de chantier ch.011
+
+[Ch 011] Objet — Carnet de chantier de Paret : cahier à spirale, couverture plastifiée rouge, pages quadrillées. 16 pages utilisées. Récupéré par sa sœur Véronique Paret (Bordeaux). Transmis par la DDSP Gironde.
+[Ch 011] Contenu du carnet — Premières pages : cotes, matériaux, profondeurs. À partir de page 11 (septembre-octobre 2022) : notes de plus en plus personnelles. Bruit dans la section 4 (pas mécanique, vient de plus bas). La voûte de la chambre est plus haute que le plan. Des tailles dans le calcaire ne correspondent pas aux outils du chantier.
+[Ch 011] Contenu du carnet — Page 14 : Paret a signalé à Rougeau, Rougeau a minimisé. Paret note : « je sais que c'est pas un bruit normal ».
+[Ch 011] Contenu du carnet — Page 15 : un croisement non sur les plans, six branches en tout. Paret a compté deux fois. Rougeau a dit ancienne jonction scellée. Paret note : « Rougeau n'a pas compté. »
+[Ch 011] Accroche — Dernière note du carnet, datée du 12 octobre 2022 : « J'ai vu le carrefour du bas. Ne jamais y retourner. »
+
+### Raisonnement Bréval ch.011
+
+[Ch 011] Connexion — Le « carrefour du bas » = le croisement hexagonal à six branches que Paret a vu sous la place du Vernay. Correspond à la chambre hexagonale décrite par Vauthier.
+[Ch 011] Délai variable — Entre l'exposition et la mort : Paret 7 mois, Geffard durée non encore précisée. Ce n'est pas un délai fixe.
+
+---
