@@ -684,3 +684,27 @@
 
 ---
 
+## CHAPITRE 027 — Faits établis
+
+### Ce que la Société fait ch.027
+
+[Ch 027] Mercredi 11 décembre — Rencontre chez Massard (rue Broussais, 2e étage). Bréval et Ferrand présents.
+[Ch 027] Demain : le 12 décembre 2024. Date cyclique à risque.
+[Ch 027] La procédure du veilleur — Établie en 1911, ajustée deux fois. Pendant les jours du cycle (semaine avant et après la date) : un seul membre mandaté comme veilleur. Reste à l'extérieur des galeries. Surveille les entrées depuis la surface. NE PAS ENTRER dans le réseau pendant les jours du cycle.
+[Ch 027] Exception veilleur — Si quelqu'un entre dans le réseau et ne ressort pas dans le délai prévu, le veilleur peut entrer AVEC UNE CORDE attachée à quelque chose de fixe. Si la corde devient inutilisable (coupe, change de longueur, perd de vue), il ressort immédiatement. Pas de deuxième tentative.
+[Ch 027] Ce que le réseau devient pendant le cycle — Distances changent, temps change. "Des gens qui sont entrés dans le réseau pendant les jours du cycle ne sont pas ressortis dans l'état dans lequel ils étaient entrés." (formulation Massard — pas de confirmation indépendante)
+[Ch 027] Ledoux 1971 — Entré avec corde de 20 m. Dix minutes après son entrée, la corde avait 22 m (deux mètres supplémentaires côté réseau). Collègues tirent : Ledoux revient. Il n'avait plus les mots pour écrire ce qu'il avait vu. A vécu encore 12 ans sans retourner au Vernay.
+[Ch 027] Le terme "absorption" — Introduit par Édouard Vanel en 1911 dans le premier cahier. Quand quelqu'un entre dans le réseau pendant les jours du cycle et que le réseau le retient. Parfois physiquement, parfois autrement (comme Ledoux : revenu physiquement, mais quelque chose n'est pas revenu avec lui).
+[Ch 027] Bilan des absorptions — 11 cas documentés depuis 1798. 7 sans retour (dont 3 disparus de 1911 et Henri Marquet 1971). 4 avec retour. 3 retours partiels (dont Ledoux). 1 seul retour complet : 1978.
+[Ch 027] Marquet 1971 — Il est entré sans corde. Ledoux est entré avec lui pour le chercher. Ledoux est ressorti. Marquet non.
+[Ch 027] 1978 / mari de Massard — Son mari était veilleur. Entrée involontaire d'un habitant du quartier par un accès latéral non répertorié. Le mari de Massard est entré avec une corde (attachée à une grille de fonte). Massard tenait la corde à l'extérieur. Elle a tiré quand la tension a changé. Mari et habitant du quartier ressortis. Habitant entré depuis 3 min (peu exposé). Mari allé "plus loin dans ce que le réseau devient pendant les jours du cycle."
+[Ch 027] Six mois après 1978 — Massard ne dit pas ce qui s'est passé. C'est une limite visible. Elle ne la franchit pas.
+[Ch 027] Mari de Massard aujourd'hui — 82 ans. N'est pas sorti du Vernay depuis 1978. Habite au 7 rue des Charmilles (depuis 1979 — même adresse qu'Hortense Calmès, morte 3 nov 1911, correspondance Geffard 2024).
+[Ch 027] Delisle a d'autres fonctions — Massard ne le désigne pas comme veilleur potentiel. Formulation évasive : "Delisle a d'autres fonctions."
+[Ch 027] Cordier — Membre depuis 3 ans. N'a pas encore la procédure complète. Massard ne lui a pas tout dit. La procédure ne se transmet que quand elle va être nécessaire.
+[Ch 027] Passation — Massard demande à Bréval et Ferrand d'être veilleurs pour le 12 décembre. Un à l'extérieur du réseau avec la corde (anneau dans la maçonnerie de la cave du 11, là depuis 1911, inspecté 1978 et 1988, 500 kg). L'autre en surface pour surveiller les accès.
+[Ch 027] Bréval et Ferrand — Vont décider ce soir (Bréval appelle Massard). Ferrand note sans confirmer.
+[Ch 027] Accroche — "En 1978, c'était mon mari. Je suis allée le chercher. Il est revenu." Elle s'arrêta et ne dit rien de plus sur les six mois qui avaient suivi.
+
+---
+

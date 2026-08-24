@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 4 (ch. 26–35)  
-**Date de dernière mise à jour :** Ch. 026 validé  
-**Prochain chapitre à rédiger :** 027
+**Date de dernière mise à jour :** Ch. 027 validé  
+**Prochain chapitre à rédiger :** 028
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 26 / 120 |
-| Mots écrits | 52 810 |
+| Chapitres rédigés | 27 / 120 |
+| Mots écrits | 54 821 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 4 (ch. 26–35, budget 25 000) |
@@ -34,7 +34,7 @@
 | 1 | 1–8 | 20 000 | 16 550 | 3 450 | ✅ ÉTAPE 1 TERMINÉE (ch.001–008 ✓) |
 | 2 | 9–16 | 20 000 | 16 032 | 3 968 | ✅ ÉTAPE 2 TERMINÉE (ch.009–016 ✓) |
 | 3 | 17–25 | 22 500 | 18 075 | 4 425 | ✅ ÉTAPE 3 TERMINÉE (ch.017–025 ✓) |
-| 4 | 26–35 | 25 000 | 2 153 | 22 847 | ✍ EN COURS |
+| 4 | 26–35 | 25 000 | 4 164 | 20 836 | ✍ EN COURS |
 | 5 | 36–43 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 6 | 44–51 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 7 | 52–61 | 25 000 | 0 | 25 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **52 810** | **247 190** | |
+| **TOTAL** | **1–120** | **300 000** | **54 821** | **245 179** | |
 
 ---
 
@@ -144,6 +144,7 @@ Pour reprendre la session après interruption :
 | 024 | Le cycle | 2 000 | ✓ Rédigé |
 | 025 | Midi au carrefour | 2 000 | ✓ Rédigé — ARRÊT ÉTAPE 3 |
 | 026 | Midi | 2 153 | ✓ Rédigé |
+| 027 | Ce que la Société fait | 2 011 | ✓ Rédigé |
 
 ---
 
