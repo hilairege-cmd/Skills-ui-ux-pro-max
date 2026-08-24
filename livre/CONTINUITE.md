@@ -610,3 +610,19 @@
 [Ch 022] Accroche — Omission délibérée : Delisle membre de la Société depuis 1988, n'a pas déclaré cette appartenance dans le questionnaire.
 
 ---
+## CHAPITRE 023 — Faits établis
+
+### La pression ch.023
+
+[Ch 023] Mercredi 4 décembre — Convocation par Maret (commissaire divisionnaire). Enquête Geffard : trop de ressources pour ses résultats. Maret n'ordonne pas la fermeture, pose la question.
+[Ch 023] Argument procédural de Bréval — Numéro inexistant = fraude aux communications électroniques (art. 323-1 code pénal) = matière pénale. Accord verbal d'un substitut du procureur (à formaliser). Maret accorde deux à trois semaines supplémentaires.
+[Ch 023] Maret / Delisle — Maret a reçu un courrier de Delisle. Il dit à Bréval que "des gens regardent." Pas une instruction, un contexte.
+[Ch 023] Numéro téléphonique de Geffard — Trace dans archives opérateur : numéro actif 1987-1992, abonné Théodore Warnais, adresse : 4 rue Saint-Éloi (propriété actuelle de Delisle, siège de la Société). Warnais mort en 1994. Personne ne peut recevoir ce numéro aujourd'hui — mais les journaux opérateur enregistrent la connexion lors des 14 appels de Geffard.
+[Ch 023] Chemise personnelle de Bréval — Liste non officielle constituée en dehors des heures d'enquête : morts/disparitions liées au Vernay. Contenu : Geffard (3-4 nov 2024), Marquet (disparu 1971 dossier Ledoux), Paret Guillaume (mort 14 mai 2023), disparus 1911 (Grégoire, Hubert, Dassot, 14 fév 1911).
+[Ch 023] Paret Guillaume — Ouvrier municipal, chantier réfection canalisations place du Vernay, août-octobre 2022. Arrêt travail 12 octobre 2022. Reprise novembre. Mort 14 mai 2023, crise cardiaque dans son sommeil. 41 ans. Aucune enquête ouverte. Aucun lien officiel avec les galeries.
+[Ch 023] Dates de référence Massard (cahier 1978-1991) — Massard mentionne deux "dates de référence" : 14 février 1911 et un effondrement de carrière en 1797. Bréval les ajoute à sa liste.
+[Ch 023] Calculs de Bréval — Intervalles en années entre événements : 1797-1911 = 114 ans, 1911-1971 = 60 ans, 1971-2023 = 52 ans. Pas de régularité visible en années. Il soupçonne que la bonne unité est autre (en jours). S'endort à 2h du matin sur ses calculs.
+[Ch 023] Question non résolue — Direction des 14 appels : Geffard cherchait à contacter la Société, ou la Société cherchait à contacter Geffard ?
+[Ch 023] Accroche — Calcul des intervalles en jours commence. "Il rêva de nombres."
+
+---
