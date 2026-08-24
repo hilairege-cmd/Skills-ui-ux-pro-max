@@ -487,3 +487,29 @@
 [Ch 016] Accroche — Dans son rapport, le technicien vidéo avait écrit : « On dirait que l'espace a bougé. » Il avait ensuite barré cette phrase, puis l'avait réécrite en dessous, sans la barrer.
 
 ---
+## CHAPITRE 017 — Faits établis
+
+### La collection Kern ch.017
+
+[Ch 017] Kern — Habite rue Saint-Éloi depuis 41 ans. 80 ans. Appartement : couloir doublé d'étagères (dossiers numérotés au feutre), première pièce avec cartes et plans épinglés au plâtre, deuxième pièce avec boîtes d'archives jusqu'aux deux tiers du plafond. Tout étiqueté de la même écriture serrée.
+[Ch 017] Règle — Kern prête la boîte 1911 uniquement pour consultation sur place. Ne sort pas de l'appartement. "C'est une collection. On ne l'ampute pas."
+[Ch 017] Kern — Pendant que Bréval lit, Kern reste dans son fauteuil, livre ouvert sur les genoux, mais il observe Bréval. Bréval lève les yeux et surprend le regard fixé sur lui. Kern détourne vers la fenêtre sans hâte.
+[Ch 017] Boîte 1911 — Contenu : photographie (6 hommes, 14 fév 1911), carnet de chantier (couverture toile marron), cahier noir fondation Société (Vanel, 17 fév 1911).
+
+### Le carnet de chantier ch.017
+
+[Ch 017] Carnet de chantier — Entrée 12 fév 1911 : "Chambre trouvée ce matin vers les sept heures. Diamètre estimé trois mètres, voûte à deux mètres cinq. Six ouvertures en rayonnement. Calcaire plus ancien que les galeries. Non cartographié."
+[Ch 017] Carnet de chantier — 13 fév : Grégoire entré dans la chambre la veille sans prévenir, introuvable. Hubert veut chercher par la branche nord-nord-est. Marchetti dit non. Remonte.
+[Ch 017] Carnet de chantier — 14 fév : Hubert et Dassot disparus pendant la nuit. "On n'attend plus. On remonte et on ferme."
+[Ch 017] Note — "Branche du nord-nord-est" : c'est par là que Hubert voulait aller. C'est la sixième branche (direction NNE confirmée par les relevés existants). Noté par Bréval.
+
+### Le cahier Vanel ch.017
+
+[Ch 017] Cahier Vanel — Couverture noire, même format que les cahiers de surveillance de Massard. "Fondation — 17 février 1911. Édouard Vanel." Déclaration à la première personne : mission de la Société = ne pas entrer, ne pas laisser entrer, documenter ce qui changeait.
+[Ch 017] Cahier Vanel — Première mesure annuelle : 12 février 1912. Trois mètres de diamètre, voûte à deux mètres cinq. Identique aux mesures du carnet de chantier.
+[Ch 017] Cahier Vanel — Description de la chambre : calcaire "différent de tout calcaire connu dans les carrières du département". Température plus basse que les galeries, constante. Silence : "un silence qui a quelque chose dedans."
+[Ch 017] Cahier Vanel — Passage sans date, écriture plus petite et serrée : deuxième descente de Vanel seul, mars 1912. Sixième ouverture : température encore plus basse que la chambre, perceptible sur le visage depuis l'entrée. Thermomètre sorti. N'a pas osé approcher assez pour mesurer. Même modification d'écriture que Ledoux à partir de la page 7.
+[Ch 017] Bréval note — Durée de lecture ressentie : 20 minutes. Durée réelle : 1h40. 8h40 → 10h20.
+[Ch 017] Accroche — Vers la page 40 du cahier Vanel : une entrée sans date, écriture serrée. "Sixième branche que les hommes ne nomment pas."
+
+---
