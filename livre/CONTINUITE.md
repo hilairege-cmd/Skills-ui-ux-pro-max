@@ -576,3 +576,21 @@
 [Ch 020] Accroche — Caillou de calcaire : cinq encoches → six encoches. "Il ne les compta qu'une fois."
 
 ---
+## CHAPITRE 021 — Faits établis
+
+### Le rapport médical ch.021
+
+[Ch 021] Vendredi 29 novembre — Ferrand à la porte du bureau de Bréval à 8h30. "Tu viens chez le médecin." Pas formulé comme une question. Elle avait déjà le manteau.
+[Ch 021] Docteur Parrain — Médecin du service depuis 5 ans. ECG : normal. Tension : normale. Bilan neurologique rapide : réflexes normaux, coordination normale, mémoire courte intacte. Diagnostic : micro-sommeil debout, durée amplifiée par fatigue chronique.
+[Ch 021] Ce que Bréval n'a pas dit — Le caillou. Pour l'expliquer il aurait fallu tout expliquer. Bréval le garde dans sa poche.
+[Ch 021] Rapport officiel — Bréval note : "29 novembre. Vérification du périmètre, rue des Charmilles, 22h00. Incident non significatif : perte de conscience brève, diagnostic médical : fatigue/micro-sommeil. Aucun impact sur l'enquête."
+[Ch 021] Deux documents parallèles — Rapport officiel (institution, faits vérifiables) + carnet personnel (tout le reste : mesures discordantes, comportement des témoins, éléments hors syntaxe du rapport). Séparation instaurée naturellement au 2e jour de l'enquête.
+[Ch 021] Fragment à 9h42 — En relisant les descriptions de la chambre hexagonale, Bréval a un fragment de mémoire. Il était dans la chambre mais VU D'EN DESSUS — au-dessus de la voûte, à travers la pierre. Chambre hexagonale, six branches, proportions de Vanel. Angle impossible depuis l'intérieur. Pour le voir, il aurait fallu être à 3m50 dans le calcaire compact — aucune galerie connue à cette hauteur.
+[Ch 021] Trois hypothèses non classées — 1/ hallucination de fatigue ; 2/ reconstitution à partir des descriptions lues ; 3/ quelque chose s'est passé pendant les quarante minutes. Les trois notées dans le carnet, sans barre, sans classement.
+[Ch 021] Rapport graphologique (17h) — Écriture : Martin Geffard, 97 %. Plan tracé post mortem (mort entre 3h00 et 4h30). Bréval note dans le carnet : "rapport grapho — 97 % Geffard — tracé post mortem." Sans commentaire. Un fait.
+[Ch 021] Plan cohérent — Bréval tient côte à côte : plan tracé par Geffard après sa mort + fragment vue de dessus depuis la roche. Il ne les lie pas. Il les tient côte à côte et attend.
+[Ch 021] Ferrand a filmé et effacé — À 18h, Ferrand dit à Bréval qu'elle avait filmé l'épisode au carrefour. Elle a regardé la vidéo deux fois le soir, une fois le matin, puis effacé. Elle ne dit pas ce qu'elle a vu dessus. Bréval ne le demande pas.
+[Ch 021] Motif des suppressions — Bréval connecte : technicien vidéo (phrase barrée/réécrite), page 63 de Vanel (arrachée), mot brisé Ledoux, effacement de Ferrand. Voir quelque chose → produire quelque chose → modifier ou supprimer. Pas par peur — pour une raison qu'il n'arrive pas encore à nommer.
+[Ch 021] Accroche — Ferrand a filmé, a regardé trois fois, a effacé. Bréval ne demande pas ce qu'elle avait vu.
+
+---
