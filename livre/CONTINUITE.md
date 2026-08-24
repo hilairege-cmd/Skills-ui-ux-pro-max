@@ -746,3 +746,22 @@
 
 ---
 
+## CHAPITRE 030 — Faits établis
+
+### Vauthier parle ch.030
+
+[Ch 030] Vendredi 13 décembre 2024 — Bréval appelle Vauthier depuis son téléphone personnel (hors cadre officiel). Café rue Laval à 9h.
+[Ch 030] Nuit du 12 décembre (récapitulatif) — Ferrand a tenu la corde (20 m, anneau de maçonnerie). Bréval a surveillé les accès en surface. Massard arrivée à minuit : "Rien cette nuit." (dit sans soulagement ni déception). Bréval a noté trois hypothèses : (a) procédure a fonctionné, (b) rien n'était prévu pour cette date, (c) quelque chose s'est passé ailleurs hors observation. Hypothèses laissées ouvertes.
+[Ch 030] Vauthier, préambule — "Je travaille pour l'assainissement depuis 31 ans. 112 descentes dans le réseau du Vernay depuis 1993. J'ai fait mon travail." Il n'avait pas l'obligation de venir. C'est un signal qu'il veut parler.
+[Ch 030] Raymond Vauthier (grand-père) — Gendarme. Mort en 2006 à 84 ans. En 1993 quand Rémi commence à l'assainissement, Raymond change d'air en apprenant qu'il travaille sur le Vernay. Lui dit : "Il y a quelque chose sous le Vernay. Ne descends jamais sans une corde." Puis : "Tu comprendras si tu descends assez loin. Et si tu descends assez loin, assure-toi d'avoir une corde." Pas d'explication supplémentaire.
+[Ch 030] Vauthier et la corde — Pendant 22 ans (1993-2015) : toujours descendu avec une corde personnelle en plus du protocole (qui n'en prévoit pas). Attachée à quelque chose de solide côté surface.
+[Ch 030] Descente de 2015 — Nuit de juillet 2015 (mardi). Accès rue du Puits encore ouvert. Seul. Corde 25 m attachée à l'anneau de la Vanne. Raison de la descente : relevés de 1989 (technicien indépendant, association de quartier, hors archives officielles) signalaient une cavité non cartographiée en profondeur. Trouvés par Vauthier dans des cartons lors d'un déménagement de bureau.
+[Ch 030] Ce que Vauthier a trouvé en 2015 — La chambre hexagonale. Six branches. Mesures : 4 à 4,5 m de diamètre (branches accessibles), voûte à 2,30 m. A photographié. Resté 30 minutes. NON SIGNALÉ dans les rapports.
+[Ch 030] Sixième branche — Différente des autres (maçonnerie plus récente). Décamètre 25 m envoyé dans la sixième branche : AUCUN FOND. Le décamètre ne touche rien au bout des 25 mètres.
+[Ch 030] Temps dans la chambre vs temps surface — À l'entrée : 23h12. À la sortie : 00h43. 30 minutes vécues dans la chambre = 1h31 écoulées à l'extérieur. Ratio ~3:1. Recompté trois fois. Non expliqué.
+[Ch 030] Suppression photos — Vauthier a effacé les photos de la chambre le soir même. Ne se souvient pas de la raison qu'il s'est donnée. Bréval note connexion avec motif des suppressions : page arrachée cahier 1971, Ferrand efface vidéo, Ledoux barre/réécrit, technicien caméra barre/réécrit.
+[Ch 030] "Je ne retournerai pas là-dedans" — Vauthier le dit d'une voix ordinaire, comme une information technique. Question de Vauthier à la fin : "Est-ce qu'il va arriver quelque chose ?" Bréval : "Je ne sais pas."
+[Ch 030] Accroche — "Je ne retournerai pas là-dedans. Quelle que soit la raison." (voix ordinaire, information technique)
+
+---
+
