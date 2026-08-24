@@ -728,3 +728,21 @@
 
 ---
 
+## CHAPITRE 029 — Faits établis
+
+### L'avocat ch.029
+
+[Ch 029] Jeudi 12 décembre, après-midi/soirée — Bréval rentre chez lui entre Massard le matin et la surveillance du soir (22h).
+[Ch 029] L'appartement — Camille a bougé des choses dans la matinée : lampe du couloir déplacée, livres dans un ordre différent, tapis tiré. Ce n'est pas un rangement passant : c'est une réorganisation dans le sens d'une répartition.
+[Ch 029] L'armoire — Moitié gauche vide (celle de Camille). Bréval ferme les deux battants et sort de la pièce sans réaction organisée.
+[Ch 029] Note de Mathilde sur la table de cuisine — "Papa, je rentre à 18h, bisous." Bréval la plie et la met dans sa poche sans savoir pourquoi (pas l'habitude).
+[Ch 029] Réflexion fauteuil — Bréval pense à la corde de Massard (tenir sans voir, sentir quand la tension change). Puis à Camille. "Tu n'es plus là même quand tu es là" (notée entre crochets depuis décembre). Glissement sans événement identifiable depuis septembre-octobre.
+[Ch 029] Réflexion cycle/enquête — Bréval pense à la phrase de Massard : "Vous êtes dans le cycle depuis le début." Question ouverte : le cycle est-il la cause du reste (enquête, Camille, mots impossibles) ou entre-t-il dans l'enquête par Bréval ? Pas de réponse.
+[Ch 029] Mathilde rentre à 18h — Dîner silencieux pâtes. Camille n'appelle pas. Mathilde ne demande pas où elle est. Elle dit : "T'as l'air fatigué. C'est le travail." Elle range les choses dans des cases qui tiennent (même façon de faire que son père).
+[Ch 029] Carte de visite — Trouvée sous un magazine de bricolage sur la console de l'entrée. "Cabinet Leroux & Associés — Droit de la famille — Maître Isabelle Leroux — Avocate au Barreau. Rue Denfert." Pas à son nom. Dos vierge. Pas cachée, pas exhibée. Posée. Bréval la note dans son carnet et la repose sans la montrer à Mathilde.
+[Ch 029] Bréval ne rappelle pas Camille — Pas de formulation disponible. Ne sait pas si la carte est le premier signe d'un processus ou si le processus est avancé. N'a pas posé la question depuis des semaines.
+[Ch 029] 20h — Mathilde se couche (douche, cheveux humides). Bréval a préparé son sac pour la nuit (corde 20m, lampe, téléphone). Attend dans le salon jusqu'à 22h.
+[Ch 029] Accroche — Mathilde dit : "Papa, c'est quoi un labyrinthe ?" Bréval : "C'est un endroit où on entre, et d'où on a du mal à sortir." Mathilde : "Et toi, t'es où, là ?" Bréval : "Je cherche la sortie."
+
+---
+
