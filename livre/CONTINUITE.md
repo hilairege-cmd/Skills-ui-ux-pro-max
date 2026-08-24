@@ -415,3 +415,22 @@
 [Ch 013] Accroche — Dans le bureau, Bréval essaie d'écrire le mot « carrefour » au sujet d'un détail procédural. Il écrit « carref— » et s'arrête. Il ne peut pas finir le mot. Il ne comprend pas pourquoi.
 
 ---
+## CHAPITRE 014 — Faits établis
+
+### Irène Massard — premier entretien ch.014
+
+[Ch 014] Action — Bréval se présente en civil (jean, manteau sombre), sans convocation, sans carte, vendredi 15 novembre 9h30. Massard l'avait vu jeudi passer avec Ferrand dans la rue Froide.
+[Ch 014] Massard — Elle lui ouvre le portail. L'installe dans la première pièce (livres de droit, d'histoire locale, sept cahiers à couverture noire identiques sur l'étagère du bas). Elle s'assit, mains à plat sur les genoux.
+[Ch 014] Société — Fonction réelle de la Société : surveiller ce qui est sous le Vernay. Pas protéger le quartier. Ce n'est pas une association de solidarité — le nom a été choisi pour la discrétion en 1911.
+[Ch 014] Société — Périmètre de surveillance : état des galeries, accès (qui descend / remonte / combien de temps), personnes posant des questions sur 1911 ou la place du Vernay, modifications dans les immeubles au-dessus du réseau. La Société documente, ne prévient pas.
+[Ch 014] Geffard — Recensé par la Société depuis 2019 (prise de l'appartement du 11 rue des Charmilles, trappe de cave repérée). La Société le documentait.
+[Ch 014] Paret — Hors périmètre de la Société. Présence notée sur le chantier 2022, mais pas ce qu'il avait vu. Décès noté en 2023. Pas d'information à la gendarmerie — la Société ne contacte jamais les autorités.
+[Ch 014] Règle — La Société ne contacte pas les autorités. Jamais. Ce n'est pas dans ses attributions.
+[Ch 014] Lacune — Personne ne surveille la Société. Massard le reconnaît explicitement : « C'est le problème. »
+[Ch 014] Membres actifs — Trois : Franck Delisle (immeuble du 11, rondes), Irène Massard (archives), un troisième non nommé. Bréval dit « Cordier » — Massard ne répond pas.
+[Ch 014] Sert — Bréval évoque Louis Sert. Massard dit qu'elle préfère ne pas aborder Sert aujourd'hui, sans explication.
+[Ch 014] Numéro inexistant — Bréval pose la question. Massard dit qu'elle ne sait pas ce que c'est. Ambiguïté délibérée — vrai ou mensonge, non résolu.
+[Ch 014] Cahier de surveillance — Sept cahiers à couverture noire, étagère du bas. Massard en montre un (1921-1953) sans l'ouvrir. La Société mesure la chambre une fois par an depuis 1921 : 103 années de mesures, même protocole. Massard dit qu'elles varient (implicite — Bréval l'infère, elle ne confirme pas explicitement). Elle le range à clé.
+[Ch 014] Accroche — À la porte : « La dernière fois que quelqu'un a posé les mêmes questions que vous, c'était en 1971. Il n'est pas parti d'ici. »
+
+---
