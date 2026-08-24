@@ -559,3 +559,20 @@
 [Ch 019] Accroche — Le plan a été tracé après la mort de Geffard. Écriture Geffard, certitude 97 %.
 
 ---
+## CHAPITRE 020 — Faits établis
+
+### L'épisode ch.020
+
+[Ch 020] Jeudi 28 novembre, nuit — Bréval se retrouve dans la rue des Charmilles à 22h sans l'avoir décidé. Troisième fois depuis le début de l'enquête qu'il vient au carrefour sans l'avoir planifié.
+[Ch 020] Protocole — Tout passage dans le périmètre se fait avec contact téléphonique maintenu (Ferrand). Instauré après la disparition de Peyrac et Cours.
+[Ch 020] Vérification carrefour — Cinq rues (pas six). Affiches arrêté intactes. Bréval s'arrête au centre, regarde vers le NNE (direction sixième branche/sixième rue du plan).
+[Ch 020] Lampadaire — Le même lampadaire éteint qu'au soir du 13 novembre (angle Charmilles/Puits) présente quelque chose dans le métal du boîtier. Pas de lumière, pas de pulsation visible. Quelque chose dans la qualité de la matière. Bréval le regarde depuis l'îlot central (15m).
+[Ch 020] Dernière note carnet — "22 h 34 — centre carrefour — lampadaire." Lettres inégales, penchées à gauche. Pas l'écriture habituelle. Bréval ne se souvient pas de l'avoir écrite.
+[Ch 020] Gap — Ferrand perd le contact téléphonique à 22h34. Rappelle 3 fois, pas de réponse. Se rend sur place (10-11 minutes).
+[Ch 020] Ce que Ferrand a trouvé — Bréval au centre du carrefour. Debout. Yeux ouverts. Ne répond pas à son nom. Respirait normalement. Pas froid au toucher. Durée : ~25 minutes jusqu'à son retour à 23h14.
+[Ch 020] Retour — Bréval revient à lui à 23h14. Quarante minutes sans mémoire. Aucun fragment, aucune image, aucune sensation datable entre 22h34 et 23h14. L'intervalle est blanc.
+[Ch 020] Comparaison Geffard — État identique à celui dans lequel Geffard avait été trouvé selon les légistes : debout, yeux ouverts, "comme quelqu'un qui n'avait pas eu le temps de tomber." Bréval n'est pas mort.
+[Ch 020] Caillou — Dans la poche gauche du pantalon de Bréval. Il ne l'avait pas apporté — il était dans le tiroir de son bureau depuis le 14 novembre. Le caillou a maintenant SIX encoches au lieu de cinq.
+[Ch 020] Accroche — Caillou de calcaire : cinq encoches → six encoches. "Il ne les compta qu'une fois."
+
+---
