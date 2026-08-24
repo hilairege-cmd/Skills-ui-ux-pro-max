@@ -434,3 +434,35 @@
 [Ch 014] Accroche — À la porte : « La dernière fois que quelqu'un a posé les mêmes questions que vous, c'était en 1971. Il n'est pas parti d'ici. »
 
 ---
+## CHAPITRE 015 — Faits établis
+
+### Le week-end sans téléphoner ch.015
+
+[Ch 015] Action — Bréval passe le week-end (16-17 novembre) sans appeler Vauthier. Il note deux questions sur papier samedi matin (mesures 1921-2024, statut Cordier), puis laisse les questions reposer. La phrase de Massard ("il n'est pas parti d'ici") demande d'être vérifiée avant tout nouveau contact avec Vauthier.
+[Ch 015] Réflexion — Pendant le week-end, Bréval recense les anomalies de Vauthier : pas de mesure de diamètre en notes de première visite, dit 4m02 là où Bréval a noté 3m, reçu l'appel du mercredi sans paraître surpris, rapport fourni dans les délais sans commentaire.
+
+### Le dossier Ledoux ch.015
+
+[Ch 015] Dossier — Ferrand retrouve le dossier Ledoux en 2h15 (demandé la veille par messagerie sécurisée, numérisé le matin). Instruction ouverte 4 septembre 1971 pour la disparition d'Henri Marquet.
+[Ch 015] Marquet — Henri Marquet, 48 ans, ouvrier tourneur retraité, 6 rue du Puits depuis 1958. Vu vivant en dernier le 1er septembre (mercredi matin) par sa propriétaire. Pas de famille proche dans le département (sœur à Lyon non joignable). Pas d'antécédent psychiatrique, pas de dette, pas de conflit connu.
+[Ch 015] Ledoux — Inspecteur Raymond Ledoux. Méthode : cercles concentriques depuis le disparu. Pages 1-6 : calligraphie appliquée. À partir de la page 7 : écriture qui se resserre, stylo appuie plus fort, majuscules plus hautes. Tension.
+[Ch 015] Marquet — Avant sa disparition, Marquet posait des questions sur les galeries au café de la rue Saint-Éloi (travaux récents ? accès dans le quartier ?).
+[Ch 015] Ledoux — Page 8 : trouve trappe du 11 rue des Charmilles (cadenassée). Page 9 : trouve rapport gendarmerie 1911, note connexion avec questions de Marquet. Page 10 : cherche témoins 1911 (tous morts). Frappe à la porte du 2 rue Froide — Irène Théas (la descendante) n'ouvre pas.
+[Ch 015] Marquet — Pages 11-13 : retrait de 200F le vendredi 30 août (deux jours avant disparition). Affaires dans l'appartement (vêtements, documents, livret d'épargne avec 4 000F). Aucun signe de départ préparé.
+[Ch 015] Page 14 — Dernière phrase de Ledoux : « La chambre sous le Vernay est documentée dans le rapport de 1911. L'accès par le 11 rue des Charmilles est confirmé. Je demande une autorisation pour descend— » La phrase s'arrête au milieu du mot « descendre ». Page intacte — pas de déchirure, pas d'arrachage. Le stylo bille s'arrête au milieu d'un mot.
+[Ch 015] Clôture 1971 — Page suivante, écriture différente (plus régulière, plus petite) : « Suite à l'enquête, l'hypothèse d'une disparition volontaire est retenue. Henri Marquet, sans famille proche dans le département, présentait des signes de retrait social dans les semaines précédant sa disparition. Affaire classée sans suite. SGT R. Vauthier, 12 novembre 1971. »
+
+### Le lien généalogique ch.015
+
+[Ch 015] Généalogie — Raymond Vauthier : né 1940 Bordeaux, police 1962, sergent 1968, affecté au commissariat du Vernay 1969-1975, retraite 1992, mort 2011. Fils : Bernard Vauthier (né 1967). Petit-fils : Rémi Vauthier (né 1990).
+[Ch 015] Implication — Rémi Vauthier, géologue de l'enquête, est le petit-fils de Raymond Vauthier, qui a classé sans suite la disparition de Marquet en 1971. Ferrand comprend les implications avant que Bréval les formule. « Tu sais. — Je sais. »
+[Ch 015] Objet — Bréval sort le caillou de sa poche de manteau (l'y avait remis ce matin sans réfléchir) et le pose sur le bureau à côté du dossier Ledoux. Il sait que les deux objets ont un lien, sans encore savoir lequel.
+
+### L'appel téléphonique ch.015
+
+[Ch 015] Action — Bréval demande à Ferrand le dossier de carrière de Ledoux. Procédure requise : réquisition aux archives nationales (dossiers police nationale antérieurs à 1980). Demande transmise par messagerie à 14h30.
+[Ch 015] Appel — Bréval appelle Vauthier. Laboratoire, acoustique silencieuse. Bréval dit : dossier 1971, disparition, classé sans suite, membre de la police locale a signé la clôture — ne dit pas encore le nom.
+[Ch 015] Réaction — Vauthier pose la question "Quel nom ?" plus vite que d'habitude. Après que Bréval dit "Sergent Raymond Vauthier" : silence plus long.
+[Ch 015] Accroche — Bréval demande à Vauthier s'il avait vu ce dossier. Vauthier répond qu'il n'en a jamais entendu parler. Il regardait le plancher quand il dit ça.
+
+---

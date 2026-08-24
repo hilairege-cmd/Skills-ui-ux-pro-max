@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 2 (ch. 9–16)  
-**Date de dernière mise à jour :** Ch. 014 validé  
-**Prochain chapitre à rédiger :** 015
+**Date de dernière mise à jour :** Ch. 015 validé  
+**Prochain chapitre à rédiger :** 016
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 14 / 120 |
-| Mots écrits | 28 570 |
+| Chapitres rédigés | 15 / 120 |
+| Mots écrits | 30 579 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 2 (ch. 9–16, budget 20 000) |
@@ -32,7 +32,7 @@
 | Étape | Chapitres | Budget | Rédigé | Reste | Statut |
 |-------|-----------|--------|--------|-------|--------|
 | 1 | 1–8 | 20 000 | 16 550 | 3 450 | ✅ ÉTAPE 1 TERMINÉE (ch.001–008 ✓) |
-| 2 | 9–16 | 20 000 | 12 020 | 7 980 | ✍ EN COURS |
+| 2 | 9–16 | 20 000 | 14 029 | 5 971 | ✍ EN COURS |
 | 3 | 17–25 | 22 500 | 0 | 22 500 | ◻ À VENIR |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 5 | 36–43 | 20 000 | 0 | 20 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **28 570** | **271 430** | |
+| **TOTAL** | **1–120** | **300 000** | **30 579** | **269 421** | |
 
 ---
 
@@ -132,6 +132,7 @@ Pour reprendre la session après interruption :
 | 012 | Le carrefour du bas | 2 008 | ✓ Rédigé |
 | 013 | Camille | 2 002 | ✓ Rédigé |
 | 014 | Irène Massard | 2 002 | ✓ Rédigé |
+| 015 | 1971 | 2 009 | ✓ Rédigé |
 
 ---
 
