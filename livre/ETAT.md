@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 2 (ch. 9–16)  
-**Date de dernière mise à jour :** Ch. 015 validé  
-**Prochain chapitre à rédiger :** 016
+**Date de dernière mise à jour :** Ch. 016 validé — ARRÊT ÉTAPE 2  
+**Prochain chapitre à rédiger :** 017
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 15 / 120 |
-| Mots écrits | 30 579 |
+| Chapitres rédigés | 16 / 120 |
+| Mots écrits | 32 582 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 2 (ch. 9–16, budget 20 000) |
@@ -32,8 +32,8 @@
 | Étape | Chapitres | Budget | Rédigé | Reste | Statut |
 |-------|-----------|--------|--------|-------|--------|
 | 1 | 1–8 | 20 000 | 16 550 | 3 450 | ✅ ÉTAPE 1 TERMINÉE (ch.001–008 ✓) |
-| 2 | 9–16 | 20 000 | 14 029 | 5 971 | ✍ EN COURS |
-| 3 | 17–25 | 22 500 | 0 | 22 500 | ◻ À VENIR |
+| 2 | 9–16 | 20 000 | 16 032 | 3 968 | ✅ ÉTAPE 2 TERMINÉE (ch.009–016 ✓) |
+| 3 | 17–25 | 22 500 | 0 | 22 500 | ✍ EN COURS |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 5 | 36–43 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 6 | 44–51 | 20 000 | 0 | 20 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **30 579** | **269 421** | |
+| **TOTAL** | **1–120** | **300 000** | **32 582** | **267 418** | |
 
 ---
 
@@ -133,6 +133,7 @@ Pour reprendre la session après interruption :
 | 013 | Camille | 2 002 | ✓ Rédigé |
 | 014 | Irène Massard | 2 002 | ✓ Rédigé |
 | 015 | 1971 | 2 009 | ✓ Rédigé |
+| 016 | La caméra | 2 003 | ✓ Rédigé — ARRÊT ÉTAPE 2 |
 
 ---
 
@@ -161,5 +162,35 @@ Pour reprendre la session après interruption :
 - A-001 : fichiers de référence provisoires
 - A-002 : localisation géographique non fixée
 - A-003 : statut de Camille non confirmé (relation en cours / séparation ?)
+
+---
+
+### BILAN ÉTAPE 2 — ch. 9–16 (16 032 mots / budget 20 000)
+
+**Faits posés**
+- Chambre hexagonale : mesures discordantes entre les deux descentes (3m → 4m02 diamètre ; 2m10 → 2m32 voûte). Vauthier n'a pas de mémoire d'avoir dit 3m.
+- Sixième branche : appareillage différent, calcaire plus récent dans le linteau. Refus de descendre sans relevé préalable.
+- Arrêté conservatoire : interdiction d'accès galeries sous le Vernay (rue du Puits, place du Vernay, 2-12 rue des Charmilles).
+- Le caillou : calcaire gris-beige, cylindre grossier, cinq encoches. Bréval n'a aucun souvenir de l'avoir pris.
+- Société de Secours Mutuel : fonction réelle = surveiller ce qui est sous le Vernay. Trois membres actifs (Delisle, Massard, Cordier implicite). Règle absolue : ne contacte pas les autorités. Personne ne surveille la Société.
+- Irène Massard : 103 années de mesures annuelles de la chambre. Les mesures varient (sens non précisé). Sept cahiers à couverture noire.
+- Dossier Ledoux 1971 : Henri Marquet disparu, Ledoux arrêté page 14 mot brisé à "descend—", classé sans suite par SGT Raymond Vauthier.
+- Lien généalogique : Rémi Vauthier = petit-fils de Raymond Vauthier. Vauthier dit n'en avoir jamais entendu parler. Il regardait le plancher.
+- Caméra de surveillance : nuit 17-18 novembre, 3h47 à 3h52, image modifiée — carrefour semble s'étirer, sixième direction visible. Technicien vidéo : aucune défaillance. Rapport : "On dirait que l'espace a bougé." Barré, réécrit.
+- Personnel : Camille — "Tu n'es plus là même quand tu es là." Bréval ne peut pas écrire le mot "carrefour" en entier.
+
+**Questions ouvertes en entrée d'étape 3**
+- Que contient la monographie de Kern, chapitre 7 (pp. 102–134) ?
+- Que s'est-il passé exactement dans la chambre le 14 fév 1911 ?
+- Que contiennent les 103 années de mesures de la Société ? Dans quel sens varient-elles ?
+- Qu'est-il advenu de l'inspecteur Ledoux après 1971 ?
+- Où sont Peyrac et Cours ?
+- Odile Vanel — lien avec Édouard Vanel 1911 ?
+- Vauthier savait-il ou non pour son grand-père ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : statut de Camille non confirmé
 
 ---

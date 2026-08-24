@@ -466,3 +466,24 @@
 [Ch 015] Accroche — Bréval demande à Vauthier s'il avait vu ce dossier. Vauthier répond qu'il n'en a jamais entendu parler. Il regardait le plancher quand il dit ça.
 
 ---
+## CHAPITRE 016 — Faits établis (ARRÊT ÉTAPE 2)
+
+### La caméra de surveillance ch.016
+
+[Ch 016] Action — Caméra de surveillance posée vendredi 15 novembre au soir sur le carrefour des Cinq-Vents (décision administrative, conséquence de l'arrêté du 13 novembre). Deuxième caméra sur l'entrée rue des Charmilles côté place du Vernay.
+[Ch 016] Action — Ferrand demande la lecture des images de la nuit du 17-18 novembre (dernière nuit propre avant la neige). Le technicien vidéo rend son rapport le mercredi 20 novembre.
+[Ch 016] Vidéo — De 3h47 à 3h52, l'image présente des anomalies : modification progressive (pas de coupure), les proportions du carrefour changent sans axe identifiable, les distances entre façades semblent différentes. Le lampadaire central semble plus loin. Une ligne de fuite supplémentaire apparaît — comme si une sixième direction était visible le temps de cinq minutes, sans rue correspondante. Retour à la normale à 3h52, sans transition.
+[Ch 016] Technicien — Aucune défaillance matérielle constatée. Capteur, alimentation, câblage, connexion : tout normal. Fichier authentique, non modifié.
+[Ch 016] Rapport — La dernière section du rapport du technicien vidéo : « On dirait que l'espace a bougé. » Il avait barré cette phrase, puis l'avait réécrite en dessous, sans la barrer.
+[Ch 016] Ferrand — A regardé la vidéo trois fois. À la troisième, elle regardait les angles. Elle n'a pas dit combien.
+
+### Bilan d'étape ch.016
+
+[Ch 016] Bilan — Deux morts : Geffard (4 novembre, 14 appels, yeux ouverts), Paret (12 mai 2023, carnet du bas, instruction ne jamais y retourner). Aucun antécédent cardiaque.
+[Ch 016] Bilan — Quatre autres personnes : Sert (hospitalisé, "le carrefour ne doit pas s'ouvrir"), Peyrac et Cours (disparus après la nuit du 4 novembre), Odile Vanel (trois convocations refusées/sans signature).
+[Ch 016] Bilan — Marquet 1971 : retrait 200F deux jours avant, affaires dans l'appartement, classé volontaire par le grand-père de Vauthier.
+[Ch 016] Note — Lien Odile Vanel / Édouard Vanel 1911 à vérifier. Noté dans la marge par Bréval.
+[Ch 016] Bilan — Ferrand formule : "Ce n'est pas une enquête normale." Bréval dit : "Non." Sans développer.
+[Ch 016] Accroche — Dans son rapport, le technicien vidéo avait écrit : « On dirait que l'espace a bougé. » Il avait ensuite barré cette phrase, puis l'avait réécrite en dessous, sans la barrer.
+
+---
