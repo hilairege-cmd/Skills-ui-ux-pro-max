@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 2 (ch. 9–16)  
-**Date de dernière mise à jour :** Ch. 017 validé  
-**Prochain chapitre à rédiger :** 018
+**Date de dernière mise à jour :** Ch. 018 validé  
+**Prochain chapitre à rédiger :** 019
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 17 / 120 |
-| Mots écrits | 34 587 |
+| Chapitres rédigés | 18 / 120 |
+| Mots écrits | 36 589 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 2 (ch. 9–16, budget 20 000) |
@@ -33,7 +33,7 @@
 |-------|-----------|--------|--------|-------|--------|
 | 1 | 1–8 | 20 000 | 16 550 | 3 450 | ✅ ÉTAPE 1 TERMINÉE (ch.001–008 ✓) |
 | 2 | 9–16 | 20 000 | 16 032 | 3 968 | ✅ ÉTAPE 2 TERMINÉE (ch.009–016 ✓) |
-| 3 | 17–25 | 22 500 | 2 005 | 20 495 | ✍ EN COURS |
+| 3 | 17–25 | 22 500 | 4 007 | 18 493 | ✍ EN COURS |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 5 | 36–43 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 6 | 44–51 | 20 000 | 0 | 20 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **34 587** | **265 413** | |
+| **TOTAL** | **1–120** | **300 000** | **36 589** | **263 411** | |
 
 ---
 
@@ -135,6 +135,7 @@ Pour reprendre la session après interruption :
 | 015 | 1971 | 2 009 | ✓ Rédigé |
 | 016 | La caméra | 2 003 | ✓ Rédigé — ARRÊT ÉTAPE 2 |
 | 017 | La collection Kern | 2 005 | ✓ Rédigé |
+| 018 | Édouard Vanel | 2 002 | ✓ Rédigé |
 
 ---
 

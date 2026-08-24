@@ -513,3 +513,28 @@
 [Ch 017] Accroche — Vers la page 40 du cahier Vanel : une entrée sans date, écriture serrée. "Sixième branche que les hommes ne nomment pas."
 
 ---
+## CHAPITRE 018 — Faits établis
+
+### Lecture des notes Vanel ch.018
+
+[Ch 018] Bréval — Relit ses notes du bloc pendant le trajet de retour de chez Kern (fait inhabituel). Mardi matin : relit depuis une heure. Quatre pages au crayon, écriture plus petite que d'habitude.
+[Ch 018] Cahier Vanel — Couvre 14 fév 1911 au 22 mars 1912. Style : compte rendu de mission. Langue de contremaître.
+[Ch 018] Disparitions 1911 (selon Vanel) — Grégoire entré dans la chambre mercredi soir, introuvable jeudi matin. Hubert et Dassot, nuit du jeudi au vendredi, entrés par la sixième branche (Marchetti les a vus prendre cette direction). "Vendredi matin nous sommes trois."
+[Ch 018] Fondation Société (selon Vanel) — Quatre raisons : 1/ chambre non cartographiée, 2/ trois morts acceptés comme accident, 3/ quelqu'un devait surveiller, 4/ institution officielle = "mauvaise réponse" (sans explication).
+
+### Odile Vanel ch.018
+
+[Ch 018] Cahier Vanel — Entrée 21 mars 1912 : "Le prénom d'Odile sera porté par les femmes de la famille jusqu'à ce que la Société ait accompli sa mission. Ce n'est pas une obligation légale. C'est une façon de ne pas oublier."
+[Ch 018] Généalogie Vanel — Édouard → Louis → René → Odile. Quatre générations. Odile Vanel : 59 ans, résidente 9 rue des Charmilles depuis 2001. Appelante du 4 novembre (numéro inexistant). Recommandés refusés (pas "absent" : "refus").
+[Ch 018] Question ouverte — Qu'est-ce que les appelants ont entendu au bout du numéro inexistant ? Noté par Bréval dans la marge.
+
+### La sixième branche (selon Vanel 1912) ch.018
+
+[Ch 018] Sixième branche — Vanel descendu seul le 18 mars 1912, 5h du matin, corde 30m, lampe acétylène. Mesure chambre avant : 3m diamètre, voûte 2m05 — inchangé depuis 1911.
+[Ch 018] Sixième branche — Calcaire différent des autres galeries : plus lisse, joints invisibles, pierres "coulées dans un moule". Descente à 5 degrés. À 30m, la galerie continue.
+[Ch 018] Sixième branche — Lumière fixe dans la galerie, devant lui, au-delà des 30m. Pas la sienne (sa lampe est derrière). Lumière fixe, non vacillante. Présente depuis l'entrée dans la branche, pas vue tout de suite. Vanel : "Comme si quelqu'un tenait une lampe dans le noir."
+[Ch 018] Page arrachée — Les dix pages s'arrêtent à mi-phrase au bas de la page 62. Page 63 arrachée proprement. Bréval liste ses interruptions : descend— (Ledoux p.14), "carref—" (son carnet), page 62 Vanel.
+[Ch 018] Carte — Sixième branche direction NNE selon Vanel. Traçage sur plan IGN 1/2000. La ligne aboutit exactement au 11 rue des Charmilles.
+[Ch 018] Accroche — La sixième branche pointe vers le nord-nord-est. La ligne aboutit au numéro 11 de la rue des Charmilles. Le même bâtiment. La même adresse.
+
+---
