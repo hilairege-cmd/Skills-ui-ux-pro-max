@@ -389,3 +389,29 @@
 [Ch 012] Objet — En remontant l'échelle, Bréval découvre dans sa poche de veste un caillou de calcaire gris-beige, taillé grossièrement en cylindre, avec cinq encoches régulières. Il n'a aucun souvenir de l'avoir pris.
 
 ---
+## CHAPITRE 013 — Faits établis
+
+### Le retour à la maison ch.013
+
+[Ch 013] Trajet — Bréval signe l'arrêté à 15h40, rentre à pied, s'arrête au carrefour des Cinq-Vents sans compter les branches. Le caillou est dans sa poche de veste. Il le sentait en marchant — pas encore posé sur son bureau.
+[Ch 013] Appartement — Rue du Moulin-Neuf, troisième étage, immeuble 1975. Ascenseur en panne depuis octobre. Camille et Mathilde présentes. Dîner conservé mais froid.
+[Ch 013] Mathilde — Devoir de géographie : villes européennes et plans de circulation. Plan de ville italienne baroque du XVIIe siècle, place hexagonale, six artères rayonnantes. Mathilde explique que l'hexagone maximise l'espace intérieur pour un périmètre donné (comme les alvéoles d'abeilles). Bréval écoute plus attentivement que prévu.
+
+### Camille ch.013
+
+[Ch 013] Camille — Depuis son entrée, n'adresse aucune phrase directement à Bréval. Gestes précis, terminés, sans surplus. Débarrasse sans commenter l'heure de rentrée (18h30, pas 18h00).
+[Ch 013] Distance — La distance entre Bréval et Camille s'est installée progressivement depuis ce que Camille appelle « le tournant » (18 mois auparavant — coïncide avec la séparation mentionnée ch.002). Bréval a cessé de la mesurer.
+[Ch 013] Citation — Camille dit à Bréval : « Tu n'es plus là même quand tu es là. » Sans crier. Factuel. Elle ajoute que Mathilde range ses affaires dès qu'il rentre, ce qu'elle ne faisait pas avant. Bréval n'avait pas remarqué.
+[Ch 013] Mathilde — Range ses affaires systématiquement dès que Bréval rentre. N'a pas encore les mots pour ce qu'elle sait.
+
+### L'arrêt à mi-phrase ch.013
+
+[Ch 013] Blocage — Bréval veut parler de l'enquête à Camille, cherche un mot d'ouverture. À la place sort : « On descend demain. » Il ne peut pas continuer la phrase quand Camille demande où. Il dit « Laisse tomber. »
+[Ch 013] Blocage — Bréval ne comprend pas pourquoi il n'a pas trouvé les mots pour parler de l'enquête dans sa propre cuisine. Il note l'événement sans l'interpréter.
+
+### Le bureau ch.013
+
+[Ch 013] Objet — Le caillou posé sur le sous-main du bureau sous la lampe. Cinq encoches. Surface lisse entre les encoches, rugueuse dans chacune d'elles — encoches creusées après coup sur un cylindre déjà poli. Pas d'outil moderne identifiable.
+[Ch 013] Accroche — Dans le bureau, Bréval essaie d'écrire le mot « carrefour » au sujet d'un détail procédural. Il écrit « carref— » et s'arrête. Il ne peut pas finir le mot. Il ne comprend pas pourquoi.
+
+---
