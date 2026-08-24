@@ -360,3 +360,32 @@
 [Ch 011] Délai variable — Entre l'exposition et la mort : Paret 7 mois, Geffard durée non encore précisée. Ce n'est pas un délai fixe.
 
 ---
+## CHAPITRE 012 — Faits établis
+
+### Deuxième descente ch.012
+
+[Ch 012] Action — Bréval rappelle Vauthier à 7h30 le mercredi 13 novembre. Lui montre la page 15 du carnet de Paret et la dernière note. Vauthier ne commente pas. « On descend. »
+[Ch 012] Protocole — Ferrand reste en surface. Descente non programmée, zone non balisée. Protocole de sécurité.
+[Ch 012] Parcours — Cave 11 rue des Charmilles, trappe nord (gonds huilés, silencieux), 10 barreaux (8 m), galerie brique 1m50 de large, deux bifurcations gauche, changement de matériau vers calcaire taillé, galerie s'élargit légèrement, voûte monte. La chambre est au bout.
+
+### Mesures et discordances ch.012
+
+[Ch 012] Discordance — La chambre semble plus grande à Bréval que lors de la première descente. Il n'est pas sûr si la chambre a changé ou si c'est sa mémoire de la première visite.
+[Ch 012] Mesure Vauthier — Diamètre : 4 m (axe 1) / 4 m 02 (axe 2). Voûte : 2 m 32.
+[Ch 012] Première descente — Notes de Bréval du 5 novembre : chambre hexagonale, 3 m de diamètre, voûte 2 m 10.
+[Ch 012] Discordance — Vauthier n'a pas de mesure de diamètre dans ses notes de la première descente. N'a pas de souvenir d'avoir dit 3 m. Accepte que si Bréval l'a noté, il l'a dit. Personne ne nomme ce que ça signifie.
+[Ch 012] Sixième branche — Plus large que les cinq autres (constaté lors des deux descentes). Appareillage différent : calcaire plus récent dans le linteau, plus ancien dans les piédroits. Pas le même chantier.
+[Ch 012] Décision — Vauthier refuse de s'engager dans la sixième branche : pas de relevé préalable de ce segment. Photos prises à 2 m de profondeur depuis l'entrée.
+[Ch 012] Décompte — Bréval compte six branches, lentement. Ne dit pas le chiffre à voix haute.
+[Ch 012] Durée — 22 minutes dans la chambre. Vauthier photographie toutes les branches.
+
+### Arrêté conservatoire ch.012
+
+[Ch 012] Mesure administrative — Arrêté conservatoire signé l'après-midi du 13 novembre 2024 : interdiction d'accès aux galeries sous le Vernay pour une durée indéterminée. Périmètre : rue du Puits, place du Vernay, 2-12 rue des Charmilles.
+[Ch 012] Rapport — Vauthier doit rédiger le soir même un rapport comparatif : mesures du 5 novembre (incomplet) / mesures du 13 novembre. Sans interprétation.
+
+### Le caillou ch.012
+
+[Ch 012] Objet — En remontant l'échelle, Bréval découvre dans sa poche de veste un caillou de calcaire gris-beige, taillé grossièrement en cylindre, avec cinq encoches régulières. Il n'a aucun souvenir de l'avoir pris.
+
+---
