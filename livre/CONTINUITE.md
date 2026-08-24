@@ -708,3 +708,23 @@
 
 ---
 
+## CHAPITRE 028 — Faits établis
+
+### Les documents de la Société ch.028
+
+[Ch 028] Jeudi 12 décembre 2024 — La nuit cyclique est ce soir. Bréval et Ferrand chez Massard à 9h. Elle a sélectionné 4 cahiers (sur 7) et les a ouverts à des pages-clés.
+[Ch 028] Cahier 1 (1911) — Rédigé par Édouard Vanel à partir du 18 février 1911 (4 jours après les disparitions). Contenu : relevé des 6 ouvriers (noms, dates entrée/disparition), description chambre hexagonale (14 fév — mesures, 6 branches, matériaux), 3 survivants (Vanel, Théas, Marchetti). Procédure du veilleur pages 8-12 : inchangée depuis 1911 sauf deux ajustements.
+[Ch 028] Ajustements de la procédure — (1) 1971 après Ledoux : ajout de la règle "si la corde devient inutilisable pour n'importe quelle raison, le veilleur ressort, aucune exception." (2) 1978 après mari de Massard : ajout de l'obligation de deux personnes à l'extérieur (un tient la corde, un surveille depuis la surface). Pas de veilleur seul.
+[Ch 028] Cahier 2 (1912-1935) / Pierre Morel, juillet 1914 — Habitant du Vernay, menuisier, entré dans les galeries, pas ressorti. La Société avait 3 membres, 2 absents ce jour-là. Théas (71 ans) descendu le soir avec une corde. 20 minutes. Corde vide au retour. PAS UNE DATE CYCLIQUE (41 248 jours non vérifiés). Question ouverte dans les cahiers. Conclusion : le réseau a des propriétés indépendantes des dates cycliques. La procédure du veilleur s'applique toute l'année.
+[Ch 028] Cas documentés hors cycle — Morel 1914 (confirmé ou probable hors cycle). 2 autres moins documentés : 1923 et 1947. Lacunes de surveillance empêchent de confirmer.
+[Ch 028] Corde Ledoux 1971 mesurée — Mari de Massard a mesuré la corde avant et après. 20 m avant, 22 m après. "Le chanvre ne s'étire pas de dix pour cent." Ce n'est pas ce qui s'est passé.
+[Ch 028] Cahier 3 (1960-1985) / Entrées doubles — Section 1971 écrite à deux mains : Massard (chronologique, factuelle) et son mari (commence chronologiquement puis phrases de plus en plus courtes, interrompues). Mari a arrêté d'écrire dans les cahiers en 1978.
+[Ch 028] La page arrachée du cahier 1971 — Entre la dernière entrée du mari (phrase coupée au milieu d'un verbe) et la reprise de Massard en 1972. Arrachée proprement, à ras du bord gauche. Massard dit : "Je ne sais pas qui l'a arrachée." Ses mains ne bougèrent pas.
+[Ch 028] Camille appelle — Bréval ne décroche pas. Pose le téléphone écran vers le bas. Réflexion : pas de formulation disponible pour expliquer la situation.
+[Ch 028] Cahier 4 (1985-aujourd'hui) — Écriture de Massard seule. Note 1988 : Delisle a rejoint la Société, pris le rôle de surveillance du périmètre extérieur. Note 2003 : "Delisle rachète le 11 rue des Charmilles le 14 mars 2003. Délibération de la Société : cet accès doit être connu et surveillé. Delisle accepte la responsabilité de surveillance directe." (L'ordre — délibération avant ou après achat — non précisé.) Note nov 2024 (Geffard) et ajout ultérieur : "Un commandant de police a demandé à me voir. Il a les calculs."
+[Ch 028] Ce soir (12 décembre) — RDV à 22h à l'entrée de la Vanne, cave du 11. Massard arrive à minuit pour vérification.
+[Ch 028] Événement fondateur du 12 décembre — 12 novembre 1911, place du Vernay : un homme de 60 ans, arrêt cardiaque. Avis de décès. Cahier de Vanel n'en dit pas plus.
+[Ch 028] Accroche — Dans le cahier de 1971, une page avait été arrachée. Irène dit qu'elle ne savait pas qui l'avait arrachée. Bréval nota que ses mains ne bougèrent pas quand elle dit ça.
+
+---
+
