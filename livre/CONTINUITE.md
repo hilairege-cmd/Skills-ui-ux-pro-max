@@ -646,3 +646,41 @@
 [Ch 024] Accroche — La mort de Geffard n'était pas un accident de calendrier. Elle était exacte à la journée.
 
 ---
+## CHAPITRE 025 — Faits établis
+
+### Midi au carrefour ch.025 — ARRÊT ÉTAPE 3
+
+[Ch 025] Vendredi 6 décembre — Ferrand formule : "Si la logique tient, quelqu'un d'autre va mourir dans le Vernay dans vingt-huit jours."
+[Ch 025] Problème procédural — Le cycle de 41 248 jours ne peut pas être présenté à Maret ni utilisé pour ouvrir une enquête préventive. La chemise cartonnée ne peut pas être montrée à l'institution sans requalifier l'enquêteur.
+[Ch 025] Surveillance informelle mise en place — Rondes supplémentaires nuits du 11-12 décembre et autour du 2 janvier. Argument utilisé : anomalie dans le quartier liée à l'enquête Geffard. Bréval sait que c'est insuffisant (mécanisme inconnu).
+[Ch 025] Réflexion sur Geffard — Geffard savait. Il avait appelé 14 fois la Société avant de mourir. Il avait continué à agir après l'arrêt de son cœur (plan sur le mur). Savoir n'a pas suffi.
+[Ch 025] Message à Massard — "Il y a des éléments nouveaux." Elle a rappelé rapidement (2 semaines la première fois).
+[Ch 025] Rendez-vous Massard — Carrefour des Cinq-Vents, mardi 10 décembre à midi. Elle a choisi le lieu. Deux jours avant la date cyclique du 12 décembre.
+[Ch 025] Observation Ferrand — Midi : soleil au plus haut, ombres les plus courtes. Noté en crochets (observation, pas fait établi).
+[Ch 025] 5 questions préparées pour Massard — (1) Sens et chronologie des variations de mesures. (2) Variations précèdent-elles les dates cycliques, de combien. (3) La Société connaît-elle le mécanisme. (4) Qu'est-il arrivé exactement à Geffard. (5) Pourquoi le carrefour pour ce rendez-vous.
+[Ch 025] Ferrand (19h) — Commande les autopsies complètes de Geffard et Paret pour comparaison physique des causes de mort. Continue les vérifications archives 1912.
+[Ch 025] Accroche / fait critique — En relisant son carnet, Bréval trouve une page non écrite consciemment : la carte du Vernay avec cinq rues + la sixième vers NNE. Son écriture. Sa façon de tenir le crayon. Aucun souvenir.
+
+---
+## CHAPITRE 026 — Faits établis
+
+### Midi ch.026
+
+[Ch 026] Mardi 10 décembre, midi — Rencontre au carrefour des Cinq-Vents. Massard est là depuis dix minutes quand Bréval arrive. Elle se tient au centre exact du carrefour, regarde vers NNE à son arrivée.
+[Ch 026] Massard sait déjà — Elle connaît les éléments nouveaux : le calcul de l'intervalle, les deux paires de dates, la date du 12 décembre, la date du 2 janvier. Elle ne dit pas comment.
+[Ch 026] "C'est bien qu'elle soit là" — Massard dit ça de Ferrand. Formulation non anodine. Sens pas encore élucidé.
+[Ch 026] La Société surveille les cycles — Pas les habitants du Vernay, pas les morts. Les cycles. Ce qui se passe pendant les cycles est connu depuis longtemps.
+[Ch 026] La chambre change — Pendant les cycles : dimensions varient (comme observé par Bréval), mais aussi autre chose. Les mesures annuelles donnent un signal sur l'année (3 à 6 mois d'avance avant la date), pas la date exacte. Pour la date exacte : le calcul des 41 248 jours.
+[Ch 026] Périmètre du cycle — Plus large que les galeries elles-mêmes. Gens qui ont un rapport avec la chambre — direct ou indirect. Geffard n'était jamais descendu dans les galeries mais habitait au-dessus : "ça suffit, quelquefois."
+[Ch 026] Geffard et le numéro — Il appelait l'ancien numéro du siège (existait avant 1992). La Société n'a plus ce numéro. Massard ne sait pas où Geffard l'avait trouvé. La question du sens des appels (qui cherchait à joindre qui) reste ouverte.
+[Ch 026] Tracer — Quand quelqu'un entre dans le cycle, il commence à tracer, noter, chercher. Il ne sait pas toujours ce qu'il cherche. Massard formule ça comme une observation empirique, pas une explication.
+[Ch 026] La Société sait limiter, pas empêcher — "Nous savons limiter. Ce n'est pas la même chose." Surveillance des accès, présence humaine dans le carrefour pendant les dates cycliques. "Quelquefois ça suffit. Quelquefois non."
+[Ch 026] Lacune Geffard — "Nous n'avions pas de membre dans cet immeuble depuis dix ans." Delisle avait les clés mais n'était pas là cette nuit-là. Bilan Massard : lacune.
+[Ch 026] Mécanisme — Hypothèses depuis 1911. Aucune confirmée. "Observer quelque chose ne suffit pas à le comprendre."
+[Ch 026] FAIT CRITIQUE — Massard révèle à Bréval qu'il est lui-même dans le cycle : "Vous êtes dans le cycle depuis le début." Trois signes cités : (1) 40 minutes perdues au carrefour des Cinq-Vents (nuit de novembre). (2) Carte du Vernay tracée sans souvenir dans le carnet. (3) Incapacité à prononcer/écrire certains mots.
+[Ch 026] "Pas encore" — Massard n'a encore rien fait pour Bréval parce qu'il n'avait pas accepté de la voir. "On ne peut pas agir sur quelqu'un qui ne sait pas qu'on agit."
+[Ch 026] Rendez-vous jeudi — Massard demande à revoir Bréval jeudi chez elle. Elle demande que Ferrand soit là aussi.
+[Ch 026] Accroche verbatim — Bréval demanda ce qu'elle voulait dire. Elle dit : "Vous avez perdu du temps dans le carrefour. Vous avez dessiné la carte. Vous ne pouvez plus prononcer certains mots. Vous êtes dans le cycle depuis le début."
+
+---
+
