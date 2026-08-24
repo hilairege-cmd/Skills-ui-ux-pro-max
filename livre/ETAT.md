@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 3 (ch. 17–25)  
-**Date de dernière mise à jour :** Ch. 021 validé  
-**Prochain chapitre à rédiger :** 022
+**Date de dernière mise à jour :** Ch. 022 validé  
+**Prochain chapitre à rédiger :** 023
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 21 / 120 |
-| Mots écrits | 42 636 |
+| Chapitres rédigés | 22 / 120 |
+| Mots écrits | 44 656 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 2 (ch. 9–16, budget 20 000) |
@@ -33,7 +33,7 @@
 |-------|-----------|--------|--------|-------|--------|
 | 1 | 1–8 | 20 000 | 16 550 | 3 450 | ✅ ÉTAPE 1 TERMINÉE (ch.001–008 ✓) |
 | 2 | 9–16 | 20 000 | 16 032 | 3 968 | ✅ ÉTAPE 2 TERMINÉE (ch.009–016 ✓) |
-| 3 | 17–25 | 22 500 | 10 054 | 12 446 | ✍ EN COURS |
+| 3 | 17–25 | 22 500 | 12 074 | 10 426 | ✍ EN COURS |
 | 4 | 26–35 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 5 | 36–43 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 6 | 44–51 | 20 000 | 0 | 20 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **42 636** | **257 364** | |
+| **TOTAL** | **1–120** | **300 000** | **44 656** | **255 344** | |
 
 ---
 
@@ -139,6 +139,7 @@ Pour reprendre la session après interruption :
 | 019 | La carte sur le mur | 2 026 | ✓ Rédigé |
 | 020 | L'épisode | 2 002 | ✓ Rédigé |
 | 021 | Le rapport médical | 2 019 | ✓ Rédigé |
+| 022 | Delisle | 2 020 | ✓ Rédigé |
 
 ---
 

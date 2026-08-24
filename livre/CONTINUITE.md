@@ -594,3 +594,19 @@
 [Ch 021] Accroche — Ferrand a filmé, a regardé trois fois, a effacé. Bréval ne demande pas ce qu'elle avait vu.
 
 ---
+## CHAPITRE 022 — Faits établis
+
+### Delisle ch.022
+
+[Ch 022] Lundi 2 décembre — Convocation officielle de Franck Delisle, 9h15. Il vient seul, sans avocat. Propriétaire du 11 rue des Charmilles (depuis 2003, racheté à la succession Moreau) et du 4 rue Saint-Éloi (siège de la Société).
+[Ch 022] Delisle : relation avec Geffard — Propriétaire-locataire, relation contractuelle. Geffard dans l'appartement côté cour depuis mars 2022. Contact direct 2 ou 3 fois en deux ans et demi.
+[Ch 022] Delisle presse pour "mort naturelle" — Arguments : arrêt cardiaque confirmé par légiste, pas de violence, appartement bloqué depuis un mois. Il a un courrier de l'adjoint au commissaire divisionnaire Maret (daté du 29 novembre) : enquête consomme ressources disproportionnées. Maret ne donne pas d'ordre, formule une observation.
+[Ch 022] Note de Maret datée du 29 novembre — Même jour que le rapport médical de Bréval. Quelqu'un a informé Maret dans cet intervalle.
+[Ch 022] Delisle sans avocat — Stratégie : paraître coopératif, éviter qu'un avocat construise une défense visible.
+[Ch 022] Accès cave du 11 — Delisle a un double des clés (avec la gardienne). Les locataires n'ont pas accès à la galerie. Delisle dit n'avoir jamais utilisé l'accès à la Vanne. Le cadenas sur la porte cave était déjà là quand il a racheté en 2003 (posé par le locataire précédent en 2001).
+[Ch 022] Question non posée — Bréval ne pose pas oralement la question sur les associations. Questionnaire : Delisle a répondu "Non" à : "Avez-vous connaissance d'organisations/associations liées à l'enquête ?"
+[Ch 022] Ferrand (18h) — Dossier fiscal : Delisle est membre actif de la Société de Secours Mutuel du Vernay depuis 1988. Cotisation annuelle payée à ce jour. 36 ans de membership.
+[Ch 022] Chronologie Delisle — Membre Société : 1988. Propriétaire du 11 (et du siège de la Société, 4 rue Saint-Éloi) : 2003. Locataire précédent mort : 2019. Geffard dans le logement : mars 2022.
+[Ch 022] Accroche — Omission délibérée : Delisle membre de la Société depuis 1988, n'a pas déclaré cette appartenance dans le questionnaire.
+
+---
