@@ -626,3 +626,23 @@
 [Ch 023] Accroche — Calcul des intervalles en jours commence. "Il rêva de nombres."
 
 ---
+## CHAPITRE 024 — Faits établis
+
+### Le cycle ch.024
+
+[Ch 024] Jeudi 5 décembre — Ferrand a travaillé la nuit sur les dates. Elle a trouvé que l'intervalle entre les événements n'est pas en années mais en jours.
+[Ch 024] Le cycle : 41 248 jours = 113 ans moins 1 jour.
+[Ch 024] Preuve 1 — Louis Carré, mort 15 mai 1910 (place du Vernay, arrêt cardiaque). Guillaume Paret, mort 14 mai 2023. Intervalle : 41 248 jours exactement.
+[Ch 024] Preuve 2 — Hortense Calmès, morte 3 novembre 1911 (7 rue des Charmilles, arrêt cardiaque). Martin Geffard, mort 3 novembre 2024. Intervalle : 41 248 jours exactement.
+[Ch 024] Fondation de la Société — 17 février 1911, trois jours après les disparitions du 14 février. La Société a été fondée pour surveiller le cycle.
+[Ch 024] Date fondatrice 1911-1798 — 14 février 1911 moins 41 248 jours = 15 février 1798. Correspond à la "date de référence 1797-1798" dans les cahiers de Massard.
+[Ch 024] Travail de la Société — Surveiller les dates cycliques. Ce serait son seul vrai travail. Deux options encore ouvertes : ils ne savent pas empêcher / ils savent empêcher et n'ont jamais agi.
+[Ch 024] Hypothèse Massard — Les mesures annuelles de la chambre (qui varient) pourraient être un signal avant les dates cycliques. Système d'alerte possible.
+[Ch 024] Prochaine date à risque — 2 janvier 2025 (28 jours). Fondateur : un homme mort dans la rue des Charmilles le 3 janvier 1912, arrêt cardiaque, 61 ans.
+[Ch 024] Autres dates à venir — Mars 2025, septembre 2025. Ferrand a calculé 5 événements fondateurs en 1910-1912 dont les correspondances tombent en 2023-2025.
+[Ch 024] Archives municipales — Bréval vérifie les avis de décès 1909-1912. 17 décès dans le périmètre : 11 avec cause documentée, 6 en zone grise (arrêt cardiaque sans antécédent, mort dans son sommeil sans précision). Ferrand en avait déjà identifié 3. Bréval note les 3 autres pour vérification.
+[Ch 024] Nouvelle date urgente — 12 novembre 1911 + 41 248 jours = 12 décembre 2024. Dans 7 jours depuis le 5 décembre.
+[Ch 024] Question ouverte — Mécanisme du cycle : astronomique, géologique, autre ?
+[Ch 024] Accroche — La mort de Geffard n'était pas un accident de calendrier. Elle était exacte à la journée.
+
+---
