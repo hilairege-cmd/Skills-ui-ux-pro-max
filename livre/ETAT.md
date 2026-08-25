@@ -8,9 +8,9 @@
 ## ÉTAT ACTUEL
 
 **Phase :** Phase 1 — Rédaction  
-**Statut :** ✍ EN COURS — Étape 5 (ch. 36–43)  
-**Date de dernière mise à jour :** Ch. 045 validé  
-**Prochain chapitre à rédiger :** 046
+**Statut :** ✍ EN COURS — Étape 6 (ch. 44–51)  
+**Date de dernière mise à jour :** Ch. 046 validé  
+**Prochain chapitre à rédiger :** 047
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 45 / 120 |
-| Mots écrits | 92 100 |
+| Chapitres rédigés | 46 / 120 |
+| Mots écrits | 94 108 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 6 (ch. 44–51, budget 20 000) |
@@ -36,14 +36,14 @@
 | 3 | 17–25 | 22 500 | 18 075 | 4 425 | ✅ ÉTAPE 3 TERMINÉE (ch.017–025 ✓) |
 | 4 | 26–35 | 25 000 | 20 779 | 4 221 | ✅ ÉTAPE 4 TERMINÉE (ch.026–035 ✓) |
 | 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
-| 6 | 44–51 | 20 000 | 4 064 | 15 936 | ✍ EN COURS |
+| 6 | 44–51 | 20 000 | 6 072 | 13 928 | ✍ EN COURS |
 | 7 | 52–61 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 8 | 62–69 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **92 100** | **207 900** | |
+| **TOTAL** | **1–120** | **300 000** | **94 108** | **205 892** | |
 
 ---
 
@@ -163,6 +163,7 @@ Pour reprendre la session après interruption :
 | 043 | Kern expose | 2 146 | ✓ Rédigé — ARRÊT ÉTAPE 5 |
 | 044 | Le journal de mesures | 2 012 | ✓ Rédigé |
 | 045 | Chez Kern | 2 052 | ✓ Rédigé |
+| 046 | Le géomètre | 2 008 | ✓ Rédigé |
 
 ---
 

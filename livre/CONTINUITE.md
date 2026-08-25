@@ -1053,3 +1053,21 @@
 [Ch 045] Contraction hors cycle (juin 1995) — Chambre à 3m22 (vs 3m42 en 1994) — contraction hors semaine critique. Corrélée à un chantier de réfection d'égouts rue de la Vanne, ouvert le 2 juin 1995, terrassement à 3m de profondeur, 10 jours. Rappel : 1911 = chantier Vanne avait ouvert l'accès à la chambre.
 [Ch 045] La chambre sélectionne — Kern à Bréval en le raccompagnant : "La chambre sélectionne. Elle ne prend pas tout le monde. Elle prend ceux qui la voient vraiment." Bréval : "Et moi ?" Kern : "Vous êtes là depuis trois mois. Vous êtes encore debout. Vous avez votre réponse." (Trois mois = depuis mars, depuis la première descente seule et la corde 22m→28m.)
 [Ch 045] Accroche — "En partant, Kern lui dit : « Il y a une chose que je n'ai pas dite tout à l'heure. La chambre sélectionne. Elle ne prend pas tout le monde. Elle prend ceux qui la voient vraiment. » Bréval demanda : « Et moi ? » Kern dit : « Vous êtes là depuis trois mois. Vous êtes encore debout. Vous avez votre réponse. »"
+
+---
+
+## CHAPITRE 046 — Faits établis
+
+### Le géomètre ch.046
+
+[Ch 046] Chrono — Juin 2025. Deux séances de mesure (23 juin et 30 juin). Rapport reçu deux semaines plus tard (mi-juillet).
+[Ch 046] Théodore Renard — Géomètre-expert indépendant depuis 2014, ancienne carrière de 20 ans en cabinet. Trouvé dans le registre de l'Ordre des géomètres-experts. Aucun lien avec la brigade, la mairie du quartier ou le Vernay. Convenu : deux séances, matériel professionnel propre (niveau laser, station à réflecteur, carnet rouge).
+[Ch 046] Mesures Renard — Séance 1 (23 juin) : longueur totale point A → chambre = 384,22m. Diamètre chambre est-ouest = 4m22. Angles six branches : somme = 360° ±2°. Sixième branche depuis l'entrée : laser renvoie à 22m. Séance 2 (30 juin) : longueur = 384,24m (+2cm). Diamètre = 4m22 (stable, ±1cm). Angles : 360° ±2°. Variation inter-séances : dans la marge d'incertitude instrumentale.
+[Ch 046] Comportement Renard — Aucun signe de trouble à l'entrée ou à la sortie. Méthode professionnelle régulière. Réactions : "Jolie chambre. Construction ancienne, fin XVIIIe-début XIXe." "Six branches — c'est inhabituel, normalement trois ou quatre." Pour lui, 22m dans la sixième branche est une mesure normale. Aucune anomalie perçue.
+[Ch 046] Cinquième descente Bréval (26 juin, entre les deux séances Renard) — Longueur totale = 386,04m. Diamètre = 4m31 (le plus grand jamais mesuré par Bréval). Angles = 363°. Constat : point bas du cycle (juin), valeurs les plus grandes.
+[Ch 046] Comparaison directe — Renard : 384,22m — 384,24m (stable, Δ=2cm). Bréval sur 5 séances : 384,22m — 388,18m — 385,62m — 386,07m — 386,04m (variable, Δmax=4m). Même lieu, même calibration instrumentale, mesurants différents → résultats différents.
+[Ch 046] Rapport Renard — Conclusion : "Les galeries examinées présentent une structure maçonnée cohérente, des dimensions stables dans les marges d'incertitude instrumentale, et aucune anomalie géologique ou structurelle détectable."
+[Ch 046] Hypothèse Bréval — Note dans le journal : "Renard — deux séances — stable. Moi — quatre séances — variable. Écart non attribuable à l'instrument. Hypothèse : la variation n'est pas dans les galeries. Elle est dans ce que les galeries font à certaines mesures et pas à d'autres." Variable à identifier = le mesurant lui-même.
+[Ch 046] Paradoxe du point bas — Renard mesure en juin (point bas, période de dilatation maximale selon Kern) et obtient des valeurs PLUS stables que Bréval en mai. Si le cycle rendait les mesures instables, Renard aurait dû les trouver instables. Il ne les a pas trouvées instables.
+[Ch 046] Coïncidence corde/laser — Renard mesure 22m depuis l'entrée de la sixième branche avec le laser. En mars, Bréval avait posé 22m de corde depuis la borne jusqu'à l'entrée — deux mesures prises de directions opposées donnent le même chiffre.
+[Ch 046] Accroche — "Ferrand passa dans l'embrasure. Elle regarda le rapport Renard posé sur le bureau. Elle dit : « Il a trouvé quelque chose ? » Bréval dit : « Non. » Elle dit : « C'est une bonne ou une mauvaise nouvelle ? » Il dit : « Je ne sais pas encore. »"
