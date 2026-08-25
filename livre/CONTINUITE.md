@@ -1003,3 +1003,20 @@
 [Ch 042] Bréval sur la liste — Bréval note son propre cas : "commandant PJ — Aucun lien direct avec le sous-sol." Réfléchit à deux lectures : (1) il est l'accident de la liste — le seul sans raison d'être là ; (2) il a un lien non encore identifié. Il raye "Une enquête de surface" et écrit à la place : "Lien non encore identifié."
 [Ch 042] Ferrand — Passe à 16h30, voir les feuilles sans lire les noms. Apporte une info : le numéro de Marchand est toujours bon, adresse changée mais numéro inchangé. Ferrand ne pose pas de question sur le classement.
 [Ch 042] Accroche — "Bréval nota : Geffard — PTT, réseaux téléphoniques. Paret — ouvrier chantier galeries. Sert — il vérifia — électricien réseaux souterrains. Les deux déménagés : un égoutier et une technicienne eau. Lui-même, commandant PJ. Il était le seul sans lien direct avec le sous-sol. Ou il était celui dont le lien n'était pas encore clair."
+
+---
+
+## CHAPITRE 043 — Faits établis
+
+### Kern expose ch.043
+
+[Ch 043] Chrono — Fin avril 2025. Kern appelle la veille au soir, propose le carrefour à 6h. Version B retenue : marche des cinq rues à l'aube.
+[Ch 043] Lieu — Carrefour des Cinq-Vents et les cinq rues du Vernay, fin avril 2025, à l'aube.
+[Ch 043] Révélation Kern : entrées — Kern révèle qu'il est entré dans la chambre seul, pour la première fois en juin 1989, hors période critique, par le 14 rue du Puits (ancienne planche mal fixée à la place de la grille). Il a trouvé la chambre en 40 minutes. Il y est entré cinq fois en tout. Deux fois pendant la semaine critique.
+[Ch 043] Caillou de Kern — Calcaire gris-beige, cylindre grossier, cinq encoches en spirale. Trouvé dans sa poche en rentrant après la première entrée, sans souvenir de l'avoir pris. Une encoche apparaît après chaque entrée, sans que Kern en ait conscience sur le moment. Le caillou "fait le compte."
+[Ch 043] Cinquième entrée — À sa cinquième entrée, Kern s'est arrêté à l'entrée de la sixième branche. Comme Bréval en mars.
+[Ch 043] Absence de successeur — Kern dit qu'il n'y a pas de successeur. La Société surveille sans comprendre. La compréhension ne se transmet pas comme un dossier — seulement à quelqu'un qui a vu. Ses notes (36 ans de travail) seront léguées à la bibliothèque municipale.
+[Ch 043] Caillou de Bréval — Bréval a son propre caillou en poche depuis novembre (trouvé après la première descente avec Vauthier). Il ne le sort pas, ne compte pas les encoches. "Il n'était pas prêt."
+[Ch 043] Tour des rues — Kern montre in situ : 17 rue des Charmilles (accès non répertorié, direction N-23 inexistant) ; rue de la Vanne (chantier 1908 = ouverture d'accès sans création) ; 14 rue du Puits (accès de service depuis 1904) ; rue Saint-Éloi (les trois disparus "peut-être encore là — le temps dans la sixième branche n'est pas le temps ici").
+[Ch 043] Fin d'étape 5 — Kern repart dans son immeuble. Bréval compte cinq rues au carrefour (cinq). Rentre chez lui.
+[Ch 043] Accroche — "Bréval rentra chez lui. L'appartement sentait le renfermé. Il avait oublié d'ouvrir les fenêtres depuis une semaine. Il s'assit dans le noir et attendit que quelque chose se passe. Rien ne se passa. Il trouva ça pire."

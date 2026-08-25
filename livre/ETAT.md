@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 5 (ch. 36–43)  
-**Date de dernière mise à jour :** Ch. 042 validé  
-**Prochain chapitre à rédiger :** 043
+**Date de dernière mise à jour :** Ch. 043 validé — ARRÊT ÉTAPE 5  
+**Prochain chapitre à rédiger :** 044
 
 ---
 
@@ -18,12 +18,12 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 42 / 120 |
-| Mots écrits | 85 890 |
+| Chapitres rédigés | 43 / 120 |
+| Mots écrits | 88 036 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
-| Étape en cours | 5 (ch. 36–43, budget 20 000) |
-| Dernière étape validée | 4 (ch. 26–35) |
+| Étape en cours | 6 (ch. 44–51, budget 20 000) |
+| Dernière étape validée | 5 (ch. 36–43) |
 
 ---
 
@@ -35,15 +35,15 @@
 | 2 | 9–16 | 20 000 | 16 032 | 3 968 | ✅ ÉTAPE 2 TERMINÉE (ch.009–016 ✓) |
 | 3 | 17–25 | 22 500 | 18 075 | 4 425 | ✅ ÉTAPE 3 TERMINÉE (ch.017–025 ✓) |
 | 4 | 26–35 | 25 000 | 20 779 | 4 221 | ✅ ÉTAPE 4 TERMINÉE (ch.026–035 ✓) |
-| 5 | 36–43 | 20 000 | 14 454 | 5 546 | ✍ EN COURS |
-| 6 | 44–51 | 20 000 | 0 | 20 000 | ◻ À VENIR |
+| 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
+| 6 | 44–51 | 20 000 | 0 | 20 000 | ✍ EN COURS |
 | 7 | 52–61 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 8 | 62–69 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **85 890** | **214 110** | |
+| **TOTAL** | **1–120** | **300 000** | **88 036** | **211 964** | |
 
 ---
 
@@ -160,6 +160,7 @@ Pour reprendre la session après interruption :
 | 040 | La page arrachée | 2 021 | ✓ Rédigé |
 | 041 | La monographie de 1987 | 2 033 | ✓ Rédigé |
 | 042 | Les papiers | 2 343 | ✓ Rédigé |
+| 043 | Kern expose | 2 146 | ✓ Rédigé — ARRÊT ÉTAPE 5 |
 
 ---
 
@@ -250,5 +251,32 @@ Pour reprendre la session après interruption :
 - A-001 : fichiers de référence provisoires
 - A-002 : localisation géographique non fixée
 - A-003 : statut de Camille — procédure de séparation probable (carte de visite avocate ch.029)
+
+---
+
+### BILAN ÉTAPE 5 — ch. 36–43 (16 600 mots / budget 20 000)
+
+**Faits posés**
+- Camille quitte l'appartement (début février 2025). Maître Leroux — procédure de séparation de corps (pas divorce) — lettre reçue en avril.
+- Théorie de Kern (mi-février 2025) : points de discontinuité géométrique (Félix Varos 1920). La chambre ne crée pas l'effet — elle l'attire. Deux conditions pour interaction : période cyclique + seul. La corde n'est pas de sécurité — c'est un paramètre géométrique.
+- Signalement 3 janvier 2025 — Édouard Vanel Jr. (né 1978), 17 rue des Charmilles, trouvé à 2h14 à l'intersection Charmilles/Froide, 100m du carrefour, direction N-NE. Bréval en surveillant le périmètre réunissait lui-même les deux conditions.
+- Troisième descente (18 mars 2025) : chambre mesure 4m16 (vs 4m02 vs 3m). Corde posée : 22m. Entrée de la sixième branche. Arrêt à 16m — "pas de peur. Quelque chose d'autre." Remontée. Corde : 28m (+6m). La géométrie non standard hors semaine critique également.
+- Page arrachée (rapport Ledoux 1971) retrouvée en copie carbone dans sous-dossier préfectoral scellé depuis 1972 : Ledoux descendu seul le 15 déc. 1971 (semaine critique), lumière blanche dans sixième branche à 16h09, "La personne disparue est dans la sixième branche. Je le sais. Je ne peux pas l'expliquer." Note à la main : "Je suis remonté. Je ne sais pas si c'est une décision ou une chance." Classé SGT R. Vauthier 20 déc. 1971.
+- Monographie de Kern (1987) lue intégralement. Chapitre 7 : discordances de mesures "que l'état des instruments ne suffit pas à expliquer." Carte p.164 : cinq branches. Dans la marge : trait au crayon N-NE, ajouté par Kern en 1989, sans étiquette. "Pour que quelqu'un le voie, s'il lisait ce livre-là."
+- Feuille Appelants : les cinq appelants du numéro inexistant avaient tous un lien professionnel avec les réseaux souterrains (télécom enterré, électricité enterrée, galeries Vernay 2011-12, égouts, eau). Bréval note son propre cas : "Lien non encore identifié."
+- Kern expose (fin avril 2025) : cinq entrées dans la chambre depuis 1989. Caillou à cinq encoches — le caillou fait le compte automatiquement. Absence de successeur désigné. Notes de 36 ans léguées à la bibliothèque. Bréval a son propre caillou en poche depuis novembre — ne compte pas encore les encoches.
+
+**Questions ouvertes en entrée d'étape 6**
+- Combien d'encoches sur le caillou de Bréval ?
+- Qu'est-il advenu de l'habitant sorti par Massard en 1978 ?
+- Qui est le cinquième membre de la Société (daté 2019) ?
+- Vauthier est-il entré dans la galerie du 17 ?
+- Marchand Sylvie n'a pas rappelé — est-elle joignable ?
+- La chambre sélectionne-t-elle activement, ou Kern se trompe-t-il sur le mécanisme ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : Camille — séparation de corps confirmée (ch042), lettre reçue, Bréval n'a pas répondu
 
 ---
