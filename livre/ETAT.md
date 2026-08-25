@@ -8,9 +8,9 @@
 ## ÉTAT ACTUEL
 
 **Phase :** Phase 1 — Rédaction  
-**Statut :** ✍ EN COURS — Étape 6 (ch. 44–51)  
-**Date de dernière mise à jour :** Ch. 050 validé  
-**Prochain chapitre à rédiger :** 051
+**Statut :** ✍ EN COURS — Étape 7 (ch. 52–61)  
+**Date de dernière mise à jour :** Ch. 051 validé — ARRÊT ÉTAPE 6  
+**Prochain chapitre à rédiger :** 052
 
 ---
 
@@ -18,12 +18,12 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 50 / 120 |
-| Mots écrits | 102 230 |
+| Chapitres rédigés | 51 / 120 |
+| Mots écrits | 104 257 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
-| Étape en cours | 6 (ch. 44–51, budget 20 000) |
-| Dernière étape validée | 5 (ch. 36–43) |
+| Étape en cours | 7 (ch. 52–61, budget 25 000) |
+| Dernière étape validée | 6 (ch. 44–51) |
 
 ---
 
@@ -36,14 +36,14 @@
 | 3 | 17–25 | 22 500 | 18 075 | 4 425 | ✅ ÉTAPE 3 TERMINÉE (ch.017–025 ✓) |
 | 4 | 26–35 | 25 000 | 20 779 | 4 221 | ✅ ÉTAPE 4 TERMINÉE (ch.026–035 ✓) |
 | 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
-| 6 | 44–51 | 20 000 | 14 194 | 5 806 | ✍ EN COURS |
-| 7 | 52–61 | 25 000 | 0 | 25 000 | ◻ À VENIR |
+| 6 | 44–51 | 20 000 | 16 221 | 3 779 | ✅ ÉTAPE 6 TERMINÉE (ch.044–051 ✓) |
+| 7 | 52–61 | 25 000 | 0 | 25 000 | ✍ EN COURS |
 | 8 | 62–69 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **102 230** | **197 770** | |
+| **TOTAL** | **1–120** | **300 000** | **104 257** | **195 743** | |
 
 ---
 
@@ -168,6 +168,7 @@ Pour reprendre la session après interruption :
 | 048 | Massard transmet | 2 080 | ✓ Rédigé |
 | 049 | Le protocole de récupération | 2 030 | ✓ Rédigé |
 | 050 | Déjeuner avec Camille | 2 000 | ✓ Rédigé |
+| 051 | Trente-trois mètres | 2 027 | ✓ Rédigé — ARRÊT ÉTAPE 6 |
 
 ---
 
@@ -285,5 +286,34 @@ Pour reprendre la session après interruption :
 - A-001 : fichiers de référence provisoires
 - A-002 : localisation géographique non fixée
 - A-003 : Camille — séparation de corps confirmée (ch042), lettre reçue, Bréval n'a pas répondu
+
+---
+
+### BILAN ÉTAPE 6 — ch. 44–51 (16 221 mots / budget 20 000)
+
+**Faits posés**
+- Journal de mesures (mai–août 2025) : galerie A→chambre varie de 384m à 388m (non monotone). Chambre est-ouest : 4m06 (juin) → 4m31 (juin Bréval) → 4m34 (août). Angles : 362°–363° (non euclidiennes). La chambre continue de grandir hors du point bas théorique de juin.
+- Kern : cinq descentes documentées, caillou à cinq encoches, notes 1989–2025 léguées à la bibliothèque. Bréval en prise de relais progressif.
+- Géomètre Renard (23 et 30 juin) : mesures stables (384,22m ; 4m22 ; 360°±2°). Laser sixième branche : 22m. Rapport : "aucune anomalie détectable." Bréval (26 juin) : 386,04m, 4m31, 363° — résultats non comparables au même endroit.
+- Cordier (mi-juillet) : échange café rue de la Paix. Montre à Bréval la photocopie de l'article Varos 1922 ("Sur la discontinuité topologique dans les formations géologiques stratifiées") avec annotation manuscrite "Le Vernay, voir aussi" — trouvée aux archives de la bibliothèque municipale. Bréval nie connaître Varos.
+- Massard transmet (fin juillet) : premier appel de sa part en dix mois. Cahier 2010–2024, tableau comparé depuis 1921 (0m88 en déc. 1911 → 4m06 en juin 2024). Calendrier de surveillance : 7–14 décembre, ±5 jours autour du solstice de juin, semaine d'équinoxe d'automne. Six déménagements spontanés documentés depuis 1921. Cycle long de 113 ans : décembre 2025 = deuxième itération. "La première fois, on voit la discontinuité. La deuxième fois, elle nous voit."
+- Protocole de récupération (début août) : Massard remet à Bréval la copie des trois pages dactylographiées de René Massard (1979). Conditions : deux personnes, 50m de corde minimum, personne de surface tient sans jamais lâcher, signaux toutes les 20 secondes, trois tirages lents = remontée, ne jamais interrompre. René Massard entré seul le 11 nov. 1978 — Irène l'a sorti en 40 minutes seule. René a dit : "J'avais oublié que tu étais là. Et quand je m'en suis souvenu, je suis revenu." Caillou de René : une encoche.
+- Déjeuner avec Camille (mi-août) : conversation déraille sur les angles (362° vs 360°), gens qui ne reviennent pas, Bréval admet "peut-être" sur ses propres heures manquantes. Camille : "Ça me fait peur" (pas "tu me fais peur"). Part avant le dessert : "Appelle Mathilde."
+- Câble physique (fin août) : Bréval commande 50m de câble de spéléologie. Descend seul, vendredi 7h30. Alimente le câble depuis le seuil sans entrer : résistance diffuse à partir de 22m (point exact du retour laser Renard), arrêt complet à 33m. Écart de 11m avec la mesure Renard de juin. Chambre ce matin : 4m34 (record). Galerie : 130,38m (−9cm depuis la semaine précédente).
+- Vanel Jr. (fin août) : troisième résident du Vernay parti sans adresse en 18 mois (Lucien Paret juillet 2024, Sylvie Marchand octobre 2024, Édouard Vanel Jr. 27 décembre 2024). Signalement retiré par l'intéressé le 2 août 2025 — sans adresse. Voisin signalant non identifié (dossier complet demandé). Vanel Jr. parti 13 jours après la fin de la semaine critique de décembre.
+
+**Questions ouvertes en entrée d'étape 7**
+- Combien d'encoches sur le caillou de Bréval ? (toujours non compté)
+- Qui a annoté l'article Varos à la bibliothèque ? Kern ? Massard ? Un troisième ?
+- Qui est le signalant de Vanel Jr. ? Qu'a-t-il observé ?
+- La sixième branche suit-elle le même calendrier d'expansion que la chambre ?
+- Bréval tiendra-t-il la corde, ou sera-t-il celui qu'on tient ?
+- Cordier a-t-il accès à d'autres archives susceptibles de recouper Varos et le Vernay ?
+- Que s'est-il passé entre décembre 2024 et mars 2025 que Vanel Jr. ne dit pas ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : Camille — séparation de corps confirmée (ch042), papiers non signés, contact réduit à minimum
 
 ---

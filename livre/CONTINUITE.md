@@ -1136,3 +1136,36 @@
 [Ch 050] Camille — "Tu m'entends ? Tu me parles de géométrie non euclidienne pour expliquer une enquête criminelle." Elle part avant le dessert. Dernière phrase : "Appelle Mathilde. Elle demande de tes nouvelles."
 [Ch 050] "Ça me fait peur" — Camille dit "ça me fait peur" (pas "tu me fais peur"). Bréval note la distinction.
 [Ch 050] Accroche — "Bréval rentra par le boulevard Saint-Michel. Il pensa à ce qu'elle avait dit — 'quelqu'un qui vit dans quelque chose que je ne comprends pas.' Ce n'était pas un reproche. C'était une observation exacte. Il avait commencé à vivre dans quelque chose dont il ne trouvait pas les mots, et les mots qu'il avait — angles, mesures, corde, discontinuité — n'étaient pas faits pour une conversation à table dans un restaurant de la rue de la Harpe. Il s'arrêta au coin de la rue Soufflot. Il ne savait pas si c'était la séparation qui avait créé cet écart ou si c'était l'enquête. Il finit par ne pas trancher. Les deux, peut-être, ensemble."
+
+---
+
+## CHAPITRE 051 — Faits établis
+
+### Trente-trois mètres ch.051
+
+[Ch 051] Chrono — Fin août 2025. Commande du câble le lendemain du déjeuner avec Camille. Descente le vendredi suivant.
+[Ch 051] Câble de spéléologie — 50m, diamètre 9mm, résistance 22 kilonewtons. Choisi parce que le protocole Massard exige 50m minimum. Testé dans le couloir de l'appartement avant la descente.
+[Ch 051] Descente vendredi 7h30 — Brigade vide. Registre : "Descente 14 rue du Puits — cartographie sixième branche — durée estimée 3h." Première section du couloir : 130,38m (vs 130,45m la semaine précédente — −9cm). Chambre est-ouest : 4m34 (record depuis le début des mesures en mai).
+[Ch 051] Chambre 4m34 — Kern avait dit que le maximum était en juin (point bas du cycle). On est fin août. La chambre continue de grandir hors du maximum théorique.
+[Ch 051] Mesure par câble physique — Bréval fixe le câble à la borne de granit avec un nœud de cabestan (protocole Massard). Alimente le câble depuis le seuil SANS entrer dans la sixième branche. Résistance diffuse à partir de 22m (point exact du retour laser de Renard en juin). Progression par à-coups jusqu'à arrêt complet à 33m. Durée : 2 minutes de pression maintenue sans mouvement. Marque au marqueur rouge au seuil d'entrée : 33m.
+[Ch 051] Écart Renard/Bréval — Renard au laser en juin : 22m. Bréval au câble physique en août : 33m. Écart : 11m. "Méthode différente, mesurant différent, résultat différent." Bréval ne note pas son interprétation (résistance diffuse "comme si le câble entrait dans un espace qui prenait la longueur"). Il note les chiffres.
+[Ch 051] La résistance — Commence à 22m exactement (point du retour laser Renard) et dure jusqu'à 33m. Pas un angle de couloir — un couloir ordinaire de 33m ne résiste pas à un câble de 9mm.
+[Ch 051] Implication protocole — 50m de corde = 17m de marge au-delà du point d'arrêt du câble. Le point d'arrêt pourrait être le fond ou simplement le point de résistance irréductible.
+[Ch 051] Question posée — Calendrier sixième branche = calendrier chambre ? Si oui, l'écart de 11m (22m→33m) est cohérent avec la croissance de la chambre entre juin et août.
+[Ch 051] Kern — En déplacement à Lyon, conférence de géologie. Retour prévu première semaine de septembre. Postcard reçue mi-août (formations calcaires du Jura). Bréval note : "à contacter dès retour — 33m vs 22m."
+[Ch 051] Vanel Jr. — Troisième résident du Vernay parti sans laisser d'adresse en 18 mois. Lucien Paret (juillet 2024), Sylvie Marchand (octobre 2024), Édouard Vanel Jr. (27 décembre 2024). Vanel Jr. a retiré lui-même le signalement de désorientation le 2 août 2025 (sept mois après le dépôt). Bail résilié le 27 décembre. Adresse actuelle inconnue.
+[Ch 051] Vanel Jr. — chronologie : semaine critique de décembre (fin vers le 14). Vanel Jr. part le 27 décembre — treize jours après. Signalement déposé le 3 janvier 2025 par un voisin du palier (identité au dossier complet). Voisin a attendu sept jours (fermeture des fêtes) avant de déposer. Bréval demande le dossier complet pour identifier le signalant.
+[Ch 051] Accroche — "Ferrand lui apporta un dossier. Le signalement de disparition temporaire du mois de décembre — Édouard Vanel Jr. — avait été retiré par l'intéressé. Il y avait une note de suivi : Vanel Jr. avait déménagé le 27 décembre. Adresse inconnue. Il était le troisième résident du Vernay à déménager sans laisser d'adresse en dix-huit mois."
+
+---
+
+## BILAN ÉTAPE 6 — ch. 44–51
+
+[Bilan 6] Mesures journal (mai–août 2025) — Galerie A→chambre : 384–388m (non monotone). Angles chambre : 362°–363°. Chambre : 4m06 (juin Renard) → 4m31 (juin Bréval) → 4m34 (août). Croissance hors cycle théorique.
+[Bilan 6] Sixième branche — Renard laser juin : 22m. Bréval câble août : 33m. Écart 11m. Résistance diffuse à partir de 22m.
+[Bilan 6] Massard a transmis — Cahier 2010–2024, tableau comparé 1921–2024, calendrier de surveillance, cycle long 113 ans, protocole de récupération (René Massard 1979). Décembre 2025 = deuxième itération du cycle. "La deuxième fois, elle nous voit."
+[Bilan 6] Cordier — photocopie Varos 1922 (article "Sur la discontinuité topologique...") avec annotation "Le Vernay, voir aussi." Source : archives bibliothèque municipale du quartier.
+[Bilan 6] Résidents disparus — Trois en 18 mois : Paret (juil. 2024), Marchand (oct. 2024), Vanel Jr. (27 déc. 2024). Vanel Jr. parti 13 jours après la fin de la semaine critique. Signalant non identifié.
+[Bilan 6] Personnel — Camille partie avant le dessert. Mathilde demande des nouvelles via Camille. Bréval : "peut-être" sur ses propres heures manquantes.
+[Bilan 6] Bréval n'a toujours pas compté les encoches de son caillou.
+
