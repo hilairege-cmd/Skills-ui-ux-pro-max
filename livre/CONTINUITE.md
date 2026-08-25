@@ -884,3 +884,34 @@
 [Ch 036] Regard final de Camille — "La fatigue de quelqu'un qui a fait tout ce qu'on pouvait faire, et qui a décidé de s'arrêter." Pas de colère.
 [Ch 036] Accroche — "Elle dit en dernier : « Je ne t'en veux pas, Simon. Tu es quelqu'un qui a besoin d'aller au fond des choses, et cette fois le fond est trop profond. » La porte se referma. Bréval resta dans l'entrée jusqu'à ce qu'il entende le taxi démarrer."
 [Ch 036] ÉTAT — Bréval vit maintenant seul dans l'appartement rue du Moulin-Neuf.
+
+---
+
+## CHAPITRE 037 — Faits établis
+
+### La théorie de Kern ch.037
+
+[Ch 037] Chrono — Mi-février 2025. Bréval appelle Kern le mardi matin, Kern le reçoit le lendemain à 10h.
+[Ch 037] Lieu — Appartement de Kern, 8 rue Froide, deuxième étage. Fenêtres sur la rue Froide (80 mètres, étoile du carrefour vue depuis le bas). Salon : rayonnages sur les quatre murs, livres en double rangée, piles aux angles. Livres en plusieurs langues (allemand, anglais, latin, français XIXe).
+[Ch 037] Kern — 37 ans sans dire sa théorie à personne. L'a formulée dans la solitude. La dit maintenant parce que Bréval est un auditeur capable de suivre.
+[Ch 037] La théorie — Trois parties. Durée : 1h15.
+
+[Ch 037] Théorie — Partie 1 : Points de discontinuité géométrique — Des points dans l'espace où les axiomes d'Euclide ne s'appliquent pas. Emplacements précis, définis par des caractéristiques du sous-sol géologique. Kern cite Félix Varos, mathématicien hongrois des années 1920, qui avait théorisé l'existence de telles régions sans exemple empirique. Kern l'a trouvé sous le Vernay. Les relations entre distance, direction et temps cessent d'être stables à ces points.
+
+[Ch 037] Théorie — Partie 2 : L'ouverture de 1911 — La carrière n'a pas créé le point. Il existait avant. Les excavations de 1911 ont atteint la profondeur où la discontinuité commence à être accessible depuis la surface. "Atteindre la discontinuité" ne nécessite pas d'y entrer physiquement — il suffit d'être suffisamment proche. C'est pourquoi les six ouvriers ont réagi, pas parce qu'ils ont fait quelque chose de particulier, mais parce qu'ils étaient là au moment du seuil. Les trois qui ont disparu : en contact depuis plus longtemps. Les trois qui sont remontés : exposition plus courte.
+
+[Ch 037] Théorie — Partie 3 : Les effets — Effets géométriques, pas biologiques. La désorientation temporelle n'est pas une hallucination : c'est une réalité physique. Le temps s'écoule différemment en présence d'une discontinuité géométrique. Analogue à un effet relativiste (corps de masse extrême), de nature différente. La physique standard ne l'exclut pas pour des géométries non standards. Kern se dit empiriste, pas physicien.
+
+[Ch 037] Mesures cycliques — Les données de Massard (112 ans) varient de façon cyclique, pas aléatoire. La chambre se rétrécit et s'élargit selon des proportions calculées par Kern. La période de contraction maximale correspond à ce que la Société appelle "la semaine critique" (autour du 12 décembre et du 2 janvier).
+
+[Ch 037] Deux conditions pour franchir le seuil — 1. Être dans le bon périmètre pendant la période cyclique. 2. Être seul. La présence d'un deuxième être modifie l'interaction avec la discontinuité : ce n'est pas un verrou ou une garde, c'est un paramètre géométrique. La corde n'est pas de sécurité — c'est une instruction technique. Ce n'est pas une métaphore de la vigilance.
+
+[Ch 037] Mission de la Société — "Empêcher quiconque d'entrer seul" : explication technique, pas rituelle. Quelqu'un d'accompagné ne franchit pas le seuil de la même façon qu'un solitaire.
+
+[Ch 037] Théorie non publiée — Kern a essayé en 1990 et 1994. Deux collègues, fragments seulement. Résultat : changement de sujet, pas de réfutation. Pas de forme acceptable pour la publication : pas de données quantitatives vérifiables par d'autres, données dans les cahiers de Massard (accès indirect), un seul point documenté, non reproductible, dans une ville non nommée.
+
+[Ch 037] Autres points — Kern affirme que d'autres points de discontinuité géométrique existent ailleurs. Il n'en a documenté qu'un seul (sous le Vernay).
+
+[Ch 037] Posture de Bréval — N'affirme pas que la théorie est juste. Constate sa cohérence interne : les rapports Vauthier (30 min/91 min), les mesures Massard, les rapports médicaux 1911 deviennent cohérents dans le cadre proposé. "La cohérence d'un cadre n'est pas la preuve de sa justesse."
+
+[Ch 037] Accroche — "Bréval demanda : « Ces points existent ailleurs que dans le Vernay ? » Kern dit : « Oui. Mais je n'en ai documenté qu'un seul. » Il regardait ses mains quand il dit ça."
