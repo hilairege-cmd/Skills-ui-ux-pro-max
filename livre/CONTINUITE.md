@@ -1071,3 +1071,18 @@
 [Ch 046] Paradoxe du point bas — Renard mesure en juin (point bas, période de dilatation maximale selon Kern) et obtient des valeurs PLUS stables que Bréval en mai. Si le cycle rendait les mesures instables, Renard aurait dû les trouver instables. Il ne les a pas trouvées instables.
 [Ch 046] Coïncidence corde/laser — Renard mesure 22m depuis l'entrée de la sixième branche avec le laser. En mars, Bréval avait posé 22m de corde depuis la borne jusqu'à l'entrée — deux mesures prises de directions opposées donnent le même chiffre.
 [Ch 046] Accroche — "Ferrand passa dans l'embrasure. Elle regarda le rapport Renard posé sur le bureau. Elle dit : « Il a trouvé quelque chose ? » Bréval dit : « Non. » Elle dit : « C'est une bonne ou une mauvaise nouvelle ? » Il dit : « Je ne sais pas encore. »"
+
+---
+
+## CHAPITRE 047 — Faits établis
+
+### Cordier, juillet ch.047
+
+[Ch 047] Chrono — Mi-juillet 2025. Quelques jours après réception du rapport Renard.
+[Ch 047] Yann Cordier — Journaliste. Travaille sur le Vernay depuis novembre 2024 (depuis la mort de Geffard). A son propre carnet d'enquête. Méthode : note les confirmations et les non-réponses avec la même valeur informationnelle. Moins de 40 ans.
+[Ch 047] Ce que Cordier sait (juillet 2025) — Deux résidents ont quitté le Vernay sans laisser d'adresse entre juin et novembre 2024 (baux résiliés dans les règles). Geffard mort le 4 novembre, 61 ans, arrêt cardiaque, pas d'antécédents cardiaques. Signalement d'Édouard Vanel Jr. à l'intersection Charmilles-Froide. Existence d'une "cavité principale à six directions" dans le statut de 1911 de la Société. Arrêté conservatoire du 13 novembre. Enquête PJ encore ouverte.
+[Ch 047] Varos trouvé par Cordier — Cordier a trouvé indépendamment l'article de Félix Varos (1922, Académie royale des sciences de Budapest) : "Sur la discontinuité topologique dans les formations géologiques stratifiées." Trouvé en travaillant sur les archives académiques de géologie du sous-sol. Copie de la bibliothèque municipale du quartier. Annotation manuscrite au crayon en bas de page : "Le Vernay, voir aussi." Date et auteur de l'annotation inconnus (registre des consultations remonte à 1985 seulement).
+[Ch 047] Bréval ment — Bréval connaît le nom de Varos (Kern l'avait cité en ch037 comme source de sa théorie des "points de discontinuité géométrique"). Il dit "Non" à Cordier. Premier mensonge documenté de Bréval dans l'enquête.
+[Ch 047] Hypothèse Bréval (brigade, après la rencontre) — L'annotation "Le Vernay, voir aussi" a peut-être été faite par Kern avant sa première descente en 1989. Le registre des consultations depuis 1985 ne contient pas le nom de Kern pour cet article — ou il a consulté avant 1985, ou ce n'est pas lui.
+[Ch 047] Échange tactique — Ni Bréval ni Cordier ne donne l'essentiel de ce qu'il sait. Bréval confirme : la chambre hexagonale existe, l'enquête est ouverte, décision administrative correcte. Cordier retient : les noms des deux résidents disparus. Chacun sait que l'autre en sait plus.
+[Ch 047] Accroche — "Cordier glissa un carton par-dessus la table. Une photocopie d'une page de revue — caractères serrés, titre en haut : « Sur la discontinuité topologique dans les formations géologiques stratifiées », Félix Varos, Académie des sciences, 1922. Il dit : « J'ai trouvé ça en cherchant autre chose. Vous connaissez ce nom ? » Bréval dit : « Non. » Cordier dit : « Moi non plus. Mais quelqu'un a annoté cet article à la main — « Le Vernay, voir aussi » — et la copie vient des archives de la bibliothèque municipale du quartier. »"
