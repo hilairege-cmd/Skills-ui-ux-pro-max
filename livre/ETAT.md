@@ -8,9 +8,9 @@
 ## ÉTAT ACTUEL
 
 **Phase :** Phase 1 — Rédaction  
-**Statut :** ✍ EN COURS — Étape 8 (ch. 62–69)  
-**Date de dernière mise à jour :** Ch. 066 validé — CHECKPOINT 5 chapitres (062–066)  
-**Prochain chapitre à rédiger :** 067
+**Statut :** ✍ EN COURS — Étape 9 (ch. 70–79)  
+**Date de dernière mise à jour :** Ch. 069 validé — ARRÊT ÉTAPE 8  
+**Prochain chapitre à rédiger :** 070
 
 ---
 
@@ -18,11 +18,11 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 66 / 120 |
-| Mots écrits | 137 823 |
+| Chapitres rédigés | 69 / 120 |
+| Mots écrits | 144 251 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
-| Étape en cours | 8 (ch. 62–69, budget 20 000) |
+| Étape en cours | 9 (ch. 70–79, budget 25 000) |
 | Dernière étape validée | 7 (ch. 52–61) |
 
 ---
@@ -38,12 +38,12 @@
 | 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
 | 6 | 44–51 | 20 000 | 16 221 | 3 779 | ✅ ÉTAPE 6 TERMINÉE (ch.044–051 ✓) |
 | 7 | 52–61 | 25 000 | 22 546 | 0 | ✅ ÉTAPE 7 TERMINÉE (ch.052–061 ✓) |
-| 8 | 62–69 | 20 000 | 10 961 | 9 039 | ✍ EN COURS (5/8 rédigés) |
-| 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
+| 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
+| 9 | 70–79 | 25 000 | 0 | 25 000 | ✍ EN COURS |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **137 823** | **162 177** | |
+| **TOTAL** | **1–120** | **300 000** | **144 251** | **155 749** | |
 
 ---
 
@@ -184,6 +184,9 @@ Pour reprendre la session après interruption :
 | 064 | Ce que René a rapporté | 1 997 | ✓ Rédigé |
 | 065 | La liste | 2 280 | ✓ Rédigé |
 | 066 | La procédure exacte de récupération | 2 404 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 067 | Les erreurs des cycles précédents | 2 405 | ✓ Rédigé |
+| 068 | Ce qu'elle a caché | 2 002 | ✓ Rédigé |
+| 069 | La révélation | 2 017 | ✓ Rédigé — ARRÊT ÉTAPE 8 |
 
 ---
 
@@ -367,3 +370,39 @@ Pour reprendre la session après interruption :
 - A-002 : localisation géographique non fixée
 - A-003 : Camille — séparation de corps confirmée (ch042), papiers non signés, contact minimal
 
+
+---
+
+### BILAN ÉTAPE 8 — ch. 62–69 (17 389 mots / budget 20 000)
+
+**Faits posés**
+- Irène Massard — sept sessions du 3 au 11 décembre 2025 : révélation complète de ce qu'elle sait depuis 1978.
+- René Massard (plombier régie des eaux) : trouvé les galeries août 1975. Rejoint la Société 1977 via Théas. Descente 11 novembre 1978, 5h30, seul. Irène tient la corde 40 min — 35 min de fixité, légère tension à 39min, trois signaux à 42min. Caillou trouvé dans sa poche le soir (1 encoche). Protocole écrit en 3 jours sur machine Société. Mort 2013. Dernier mot sur le sujet : « s'il avait eu vingt ans de moins, il ne serait peut-être pas revenu. »
+- Six registres de surveillance : 1978, 1991, 2004, 2017, 2024, 2025. Geffard mort 3 novembre 2024 — hors fenêtre décembre, anomalie notée et classée.
+- Irène membre officielle Société février 1979. Rôle depuis 46 ans : « tenir la chaîne, pas la corde. »
+- Ferrand informait Massard sans s'en rendre compte depuis novembre 2024.
+- Témoignage de René (carnet 1980) : chambre plus grande dedans que dehors, deux galets au centre. Sixième branche : résistance puis attirance. Absence sans passage, sans forme de trou. Avant l'absence : quelque chose de stationnaire dans la branche (ni lumière ni forme, ni ombre). Retour : « une tension dans la direction d'un ailleurs. »
+- René : « Le corps sait des choses que la conscience ne sait pas. »
+- Article Cordier (7 décembre, 7h40) : « Sous le Vernay, une société secrète surveille les galeries depuis 1911. » Source : Delisle, spontané, « peur d'oublier quelque chose d'important. »
+- Liste complète membres Société : 4 non-remontés (Grégoire 1911, Hubert 1911, Dassot 1911, Barral 14 décembre 1931). Ledoux sorti 1971 hors service. Vauthier sorti 2015 amnésie. René sorti 1978 mémoire partielle. Bréval sur liste depuis novembre 2024.
+- Barral 1931 : 4e disparu, même date (14 décembre) que les trois de 1911. Coïncidence ou structure non documentée.
+- Protocole de récupération (original remis à Bréval le 8 décembre) : 3 principes (lien pas sécurité / signal d'en bas / attente active). Fenêtre 45 min. Note I.M. en marge : légère tension à 39min = souvenir du lien, ne pas tirer. Note en haut : « Je l'ai fait une fois. Ça marche. »
+- Quatre erreurs documentées : 1991 Martel (descente solo, 3m câble inexpliqués, dit 10 ans après), 2004 Delisle père (poste abandonné, borne au lieu de personne, Bonneau dit corde tirait vers le bas oralement seulement), 2017 (calendrier non transmis à Vauthier pendant hospitalisation Massard), 2024 Geffard (hors information).
+- Ce que Massard a caché : Vauthier 2015 a dit oralement que la chambre « n'était pas vide » en sortant (non mis dans compte-rendu) ; René 1979 a dit que les 3 hommes de 1911 sont peut-être encore là dans la branche — le temps n'est pas le même là-dedans (jamais dit à personne jusqu'ici).
+- Vauthier : parti « en déplacement » le 8 décembre, rentre le 13, deux appels urgents à la brigade le 9 sans rappel.
+- Transmission formelle (appel téléphonique 11 décembre, 21h30) : Massard a cherché un successeur 10 ans. Bréval est le premier que la chambre a choisi sans qu'elle le demande. Bréval : « Je n'ai pas accepté. » Massard : « Je sais. Mais la chambre, elle, a décidé. »
+- Descente prévue : 12 décembre à 7h. Odile au 9 (câble), Ferrand à l'angle rue du Puits / rue Froide (fenêtre 10h), Leblanc à la brigade.
+
+**Questions ouvertes en entrée d'étape 9**
+- Que s'est-il passé lors des 4 entrées non mémorisées de Bréval (novembre 2024 à présent) ?
+- Les 3 hommes de 1911 et Barral sont-ils encore dans la sixième branche — et si oui, que signifie « encore » ?
+- Vauthier — où est-il allé le 8 décembre ? Que voulait-il dire à Bréval ?
+- Cordier a publié l'article. Va-t-il descendre dans les galeries seul (annoncé dans Étape 9) ?
+- Delisle fils : son état se détériore. Que se passera-t-il pour lui ?
+- Mathilde et Camille : Bréval ne les a pas vues depuis des semaines. Quel est leur état ?
+- La chambre contractée à combien le 12 décembre ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : Camille — séparation de corps confirmée, papiers non signés, contact minimal

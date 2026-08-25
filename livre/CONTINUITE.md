@@ -1453,3 +1453,55 @@
 - Massard donne l'original à Bréval — ne veut pas qu'il reste dans l'appartement pendant la semaine critique. « Si quelque chose m'arrive, je veux qu'il soit sorti d'ici. »
 - Prochain session (9 décembre) : les erreurs des cycles précédents.
 
+
+---
+
+## Ch. 067 — Les erreurs des cycles précédents (9 décembre 2025)
+
+**Sixième session Massard (jour 3 de la semaine critique)**
+- Quatre erreurs documentées des cycles précédents.
+- 1991 — Martel (pseudonyme, toujours vivant, demandé anonymat) : descendu sans autorisation le 11 décembre à l'heure du déjeuner. Corde de 20m (mal estimé — chambre accessible en ~130m depuis grille). Seul. Résultat : en remontant, 17m de corde utilisés sur 20. Trois mètres sans mémoire. Il a remarqué les 3m mais n'en a parlé à Massard que 10 ans plus tard. Erreur triple : sans autorisation, sans surface, mauvaise corde. Erreur principale : ne pas avoir dit immédiatement.
+- 2004 — Delisle père abandonne son poste de surface. Bonneau descend avec bonne corde, Delisle père part après 20min (urgence pro), attache corde à la borne de granit et part. Bonneau remonte seule, trouve Delisle absent. Remonte sans incidence (chance). Bonneau dit à Massard oralement (pas dans compte-rendu officiel) : corde semblait tirer vers le bas dans la galerie principale — impression subjective non mise dans les archives. Massard l'a notée dans son carnet personnel. Erreur double : Delisle père a quitté poste sans transmettre ; Bonneau n'a pas reporté officiellement.
+- 2017 — Massard hospitalisée 10 jours (infection pulmonaire). Martel devait coordonner. N'a pas transmis calendrier de semaine critique à Vauthier (qui n'avait que 2 ans d'ancienneté). Vauthier ne savait pas que c'était la semaine critique — aurait pu descendre ce mois-là si Martel n'avait pas envoyé message le 9 décembre. Erreur : pas de remplaçant identifié pour la coordination, calendrier non transmis. Leçon Massard : « la chaîne ne peut pas avoir de maillon unique. »
+- 2024 — Geffard (3 novembre, hors fenêtre de décembre). Pas membre de la Société. Habitait 11 rue des Charmilles. Massard avait son adresse dans son suivi résidents. Ne savait pas qu'il entrait dans les galeries — pas passé par le 14 rue du Puits (entrée inconnue). Mort hors fenêtre. Erreur : défaut d'information sur ses mouvements.
+- Bréval note en marge (non dit à voix haute) : « Lesquelles ai-je déjà commises. » — Il a descendu seul sans personne à la surface (comme Martel 1991) ; pas eu de poste de surface jusqu'en 2025 (comme erreur Delisle 2004) ; gardé des informations sans les partager (comme Bonneau 2004) ; pris le dossier sans savoir ce qu'était la sixième branche (comme Geffard 2024).
+- Vauthier Rémi : membre depuis 2015. Martel retiré depuis 2016 (68 ans, terme naturel). Bonneau encore membre en province, par courrier depuis 2007. Kern honoraire 1989-présent. Massard écrit à Vauthier ce soir.
+- En fin de session : Vauthier a appelé la brigade deux fois ce matin. Urgent. Sujet non lié à l'article Cordier (il l'a précisé). Bréval appelle en retour — sept sonneries, pas de réponse.
+
+---
+
+## Ch. 068 — Ce qu'elle a caché (10 décembre 2025)
+
+**Septième et dernière session Massard (jour 4 de la semaine critique)**
+- Deux choses cachées — non des erreurs, des décisions délibérées de ne pas transmettre.
+- 1re chose cachée — Ce que Vauthier a dit oralement en janvier 2015 (lendemain de sa descente, venu à l'appartement de Massard) : il n'avait pas de mémoire de l'intérieur. Mais il a dit une troisième chose non mise dans le compte-rendu : en sortant de la sixième branche, dans la chambre, il avait eu l'impression que l'espace n'était pas vide. Formulation exacte : « J'avais l'impression que l'espace n'était pas vide. Comme quand on entre dans une pièce où quelqu'un vient de passer. » Massard ne l'a pas mis dans le compte-rendu officiel : impression subjective, correspondait à ce que Bonneau avait dit sur la corde (non mis non plus), et aurait exigé une explication qu'elle n'avait pas.
+- 2e chose cachée — René en 1979 (noté dans carnet personnel de Massard, pas dans carnet de compilation). Réflexion de René : « Je pense que les trois hommes de 1911 sont peut-être encore là. Pas morts. Pas partis. Là. Dans la sixième branche. La durée que j'ai passée — aucun moyen de la mesurer depuis l'intérieur. De l'extérieur, Irène dit quarante minutes. Depuis l'intérieur, je ne sais pas. Il n'y avait pas d'impression de durée. Si le temps ne fonctionne pas de la même façon là-dedans, les trois hommes de 1911 ne sont peut-être pas dans un passé inaccessible. Peut-être que du leur côté, ils n'ont pas encore bougé. » René a dit ça une fois, ne l'a pas répété, a dit : « Peut-être que je me trompe. »
+- Les deux choses ensemble : ni preuve ni conclusion. Deux données de possibilité sans rapport de causalité confirmé.
+- Massard a gardé les deux depuis 1979 et 2015. Elle les dit maintenant parce qu'elle voulait d'abord être certaine que Bréval descendrait. Décision délibérée de ne pas les dire avant que la décision soit prise. Bréval : « C'est vous qui l'avez décidé pour moi. » Elle : « Oui. C'était l'erreur que je m'étais autorisée à faire. »
+- Vauthier : encore aucun retour. Sa secrétaire dit qu'il est en déplacement depuis le 8 décembre (lundi). Destination inconnue. Il rentrerait le 13 décembre (après la descente prévue). Bréval note : *8 décembre — Vauthier part en déplacement. Destination inconnue. Deux appels urgents à la brigade le 9, puis silence.*
+- Bréval passe devant le 14 rue du Puits en rentrant. Connaît chaque barreau de la grille, chaque marche en pierre. La chambre n'a pas été mesurée depuis le 15 novembre — sera peut-être à 3m87 ou 3m90 maintenant.
+
+---
+
+## Ch. 069 — La révélation (11 décembre 2025 — veille de la descente)
+
+**Cinquième jour de la semaine critique — pas de session prévue**
+- Bréval prépare la descente du lendemain (12 décembre).
+- Matériel disposé sur le bureau de la brigade : câble 50m, frontale + rechange, gants de travail, mètre laser, bougies en boîte métal, carnet de descente (vierge, distinct du carnet d'enquête).
+- Protocole relu depuis le début (chemise cartonnée remise le 8 décembre).
+- Appel à Ferrand (9h) : Odile sera au 9 avec câble à 6h45. Bréval entre par le 14 rue du Puits à 7h00. Ferrand à l'angle rue du Puits / rue Froide, peut voir les deux entrées. Signal surface : Ferrand appelle Odile (qui a le protocole câble). Si urgence brigade → Leblanc (permanence) → Ferrand. Leblanc sait qu'une opération de routine est en cours, ne sait pas quelle galerie.
+- Ferrand, de sa propre initiative : « Si vous êtes sous terre à sept heures et que je ne reçois pas de signal à neuf heures, je vous laisse jusqu'à dix heures. Je ne déclenche rien avant dix heures. » C'est sa fenêtre personnelle (différente du protocole câble d'Odile). Bréval accepte.
+- Appel à Odile (11h) : câble vérifié chaque mètre depuis lundi, prête à 6h30. Connaît le protocole des trois tirages depuis son père. Decision Odile au-delà de 45 minutes : « J'attendrai aussi longtemps qu'il le faudra. C'est la même décision qu'Irène en 1978. »
+- Vauthier : sa secrétaire dit qu'il rentre le 13. Il sera de retour après la descente.
+- Carnet de descente : entrée 14 rue du Puits 7h00. Câble fixé à la borne de granit dans la chambre. Odile au 9 avec deuxième câble. Ferrand à l'angle. Durée maximale prévue : 2 heures. Objectif : chambre, mesures, sixième branche jusqu'au point de retour du câble ou jusqu'à décision.
+- Mathilde : chez la sœur de Camille dans le 20e. A envoyé un dessin — une maison, un soleil, sous le dessin : « Papa dans son labyrinthe. » Elle a dessiné 6 routes en pensant en dessiner 5. Ce n'est pas la première fois.
+- 21h30 — Massard appelle depuis un fixe (01). Première fois avec un fixe.
+- Transmission formelle de Massard : cherche un successeur depuis 10 ans. Candidats antérieurs (Vauthier, Delisle fils, autres membres associés) : soit ne pouvaient pas descendre, soit pouvaient mais ne revenaient pas avec la bonne chose, soit revenaient intacts mais sans comprendre ce qu'ils avaient traversé. Kern a dit à Massard que Bréval « compte les branches la nuit, seul, depuis novembre, sans que personne lui demande. » Il n'est pas entré parce qu'on le lui avait demandé. Il n'est pas là parce qu'elle a frappé à sa porte.
+- Massard : « Vous êtes le premier en dix ans qui soit entré de sa propre initiative et qui soit revenu avec quelque chose. »
+- Bréval : « Je n'ai pas accepté quoi que ce soit. »
+- Massard : « Je sais. Je ne vous demande pas d'accepter ce soir. Je vous dis ce que vous êtes déjà — pas ce que je veux que vous soyez. C'est différent. »
+- Puis : « Mais la chambre, elle a décidé. » Sans triomphe. Comme une information.
+- Bréval après l'appel : ne note rien. « Tenir la chaîne » = ce qu'il fait depuis novembre 2024 sans le nommer : comptages, descentes, carnets, sessions. Ni enquête policière ni exactement ce que la Société fait. Quelque chose qui ressemble aux deux sans être ni l'un ni l'autre.
+- Il n'a pas accepté. Mais : protocole dans le sac, câble prêt depuis lundi, Odile au 9, Ferrand à l'angle, carnet de descente rempli.
+- La descente est le 12 décembre à 7h00.
+
