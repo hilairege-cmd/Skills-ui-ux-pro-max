@@ -1505,3 +1505,79 @@
 - Il n'a pas accepté. Mais : protocole dans le sac, câble prêt depuis lundi, Odile au 9, Ferrand à l'angle, carnet de descente rempli.
 - La descente est le 12 décembre à 7h00.
 
+
+---
+
+## Ch. 070 — La descente (12 décembre 2025)
+
+**Descente dans la sixième branche — jour 6 de la semaine critique**
+- Bréval entre par le 14 rue du Puits à 7h00. Odile Vanel au puits du 9 rue des Charmilles avec câble de 50m. Ferrand à l'angle rue du Puits / rue Froide, fenêtre 10h.
+- Galerie principale : brique puis calcaire à 60m. Trois marches à 80m. Câble fixé à la borne de granit du 14 avant entrée.
+- Chambre : 7h17. Mesure laser : 3m84 (contraction confirmée depuis nov : 4m07 → 3m84). Les deux galets au centre, à leur place. Bougies allumées comme René 1978.
+- Sixième branche : entrée à 7h23. Parois lisses. Variation de la façon dont l'espace répondait. Quelque chose de stationnaire dans la galerie — perçu sans identification de forme ni de lumière.
+- Absence : pas de mémoire entre la chose dans la branche et le souvenir d'Odile. Vide d'environ 1h25.
+- Legère tension à 8h40 depuis la surface (Odile). Trois signaux à 9h00. Remontée.
+- Durée totale depuis entrée chambre : 1h55 (deux fois plus que René 1978).
+- Trace de sang sur gant droit, articulation pouce/index — arc sur le cuir intact, aucune blessure correspondante. René 1978 : paume gauche (confirmé par Odile ce matin).
+- 7h18 — deux résidents du 7 rue des Charmilles trouvés dans la rue sans souvenir depuis 22h la veille (SAMU, pas de blessure, pas d'hypothermie). Précédent documenté : amnésie de surface, 2004, 3 rue Froide.
+- Remontée via galerie principale, sortie 9 rue des Charmilles (puits vertical, Odile présente).
+
+---
+
+## Ch. 071 — Le retour (12 décembre 2025, après-midi/soirée)
+
+**Bilan de la journée post-descente**
+- Ferrand a interrogé le couple du 7 (lui 56 ans professeur, elle 53 ans comptable, quartier depuis 2017) : souvenir → lit à 22h, puis rue, adjacents sans transition. Aucun lien avec la Société ni les galeries. Précédent 2004 (résidente 3 rue Froide) identique — épisode disparu en deux semaines.
+- PV officiel rédigé : « Inspection de maintenance, 12 décembre 2025, 1h55, galerie Vanne, aucune anomalie structurelle. » Classé cote *Activité de routine - galeries*.
+- Appel Massard (11h) : chambre 3m84 confirmée, galets présents, chose stationnaire dans sixième branche non clairement identifiable, câble tenu par Odile tout le trajet. Sang sur gant droit noté.
+- Massard : René avait du sang sur paume gauche 1978 — non mis dans protocole faute de savoir quoi en faire. Odile le savait et se souvenait.
+- Analyse du vide temporel (Bréval, soir) : 1h55 total depuis entrée chambre. 23min chambre → entrée sixième branche. 7min avec notes dans branche. Reste : 1h25 sans mémoire. Plus long que René (40min fixité câble depuis surface).
+- Trace sang gant droit examinée : arc à articulation pouce/index, cuir non endommagé. Comme si la main avait tenu quelque chose de long, un bord de roche ou un câble. Ce n'est pas une trace de frottement ordinaire.
+- Vauthier : rentre le 13 décembre, deux appels urgents le 9 sans rappel depuis.
+- 23h00 — Leblanc signale Delisle vu rue des Charmilles à pied, seul, regardait les façades, n'a pas répondu au bonsoir. S'est arrêté au carrefour des Cinq-Vents. Ce n'est pas son quartier habituel à cette heure-là. Classé : comportement aberrant, à surveiller, ne pas conclure.
+
+---
+
+## Ch. 072 — Vauthier (13 décembre 2025)
+
+**Vauthier révèle ce qu'il n'avait pas dit à Massard en 2015**
+- Vauthier arrive à la brigade à 10h20 sans appeler. Attendu dehors, entre quand Bréval arrive.
+- Ce qu'il dit : en sortant de la sixième branche en 2015, il a constaté que la corde autour de son poignet avait serré fort — marque rouge puis violette, visible plusieurs jours. La tension venait du devant (direction de la sixième branche), pas de la borne derrière lui. Quelque chose avait tiré la corde vers l'intérieur de la branche pendant une durée indéterminée, puis avait lâché.
+- Vauthier : n'a pas dit ça à Massard en 2015 — « ne pouvait pas formuler ». Mêmes raisons que Bonneau 2004 (impression non démontrable, dite oralement, jamais mise dans les archives).
+- Motif de la révélation maintenant : l'article de Cordier. Si quelqu'un entre sans câble et que quelque chose tire depuis l'intérieur, et qu'il n'y a personne à la surface pour maintenir la tension de l'autre côté — Vauthier ne sait pas ce qui se passe mais pense à Martel 1991 (3m de câble inexpliqués).
+- Vauthier a passé son déplacement à Lyon à mettre en ordre ses notes de 2015. A rédigé un compte-rendu écrit (4 pages manuscrites), signé et daté, remis à Bréval.
+- Page 3 du compte-rendu : « La tension venait du devant — de la direction de la sixième branche, pas de la direction de la borne. Quelque chose avait tiré la corde dans la direction de la sixième branche pendant une durée indéterminée. Puis avait lâché. Je ne suis pas en mesure de décrire ce que c'était. »
+- Synthèse de Bréval (4 perspectives) : Vauthier (corde tire depuis intérieur) / Bréval (trace contact gant sans mémoire) / Odile (légère tension à 8h40) / René (résistance qui freine le retour). Quatre données non contradictoires, aucune ne s'explique entièrement par les autres. Ce qui est dans la branche interagit avec les câbles.
+- Cordier (13h) : demande accès aux galeries via Ferrand, motif déclaré commémoration Barral 1931, demande pour le 14 décembre. Refusé. Annonce demande via mairie. Délai mairie : 6 semaines. Bréval : à surveiller.
+
+---
+
+## Ch. 073 — Le 14 décembre 2025
+
+**Dernier jour de la semaine critique**
+- Comptage 6h50 : 5 branches. Dernier comptage de la semaine. Semaine critique se termine à minuit.
+- Bilan des 5 incidents documentés : (1) article Cordier 7 déc. communication ; (2) Vauthier 9 déc. deux appels non répondus, résolu le 13 ; (3) couple du 7, 12 déc. amnésie de surface ; (4) Delisle vu rue des Charmilles 12 déc. 23h, comportement aberrant ; (5) Cordier demande accès 13 déc., refusé.
+- Visite à Massard (10h) : semaine critique close, précédents conformes. L'amnésie de surface du couple du 7 se résorbera comme 2004. Massard : « La chambre reste. Les phénomènes de surface s'estompent. Dans treize ans. »
+- Analyse descente du 12 (deux colonnes) — ce qui correspond aux précédents : absence de mémoire (René 1978, Vauthier 2015) ; durée de fixité du câble ; souvenir de la présence à la surface qui ramène ; chose stationnaire dans la branche (René : « une tension dans la direction d'un ailleurs »). Ce qui est nouveau : durée totale 1h55 (deux fois plus que René) ; trace de sang sur gant droit sans blessure ; corde qui tire depuis intérieur (Vauthier 2015, pas Bréval — mais peut-être même phénomène).
+- Soirée : Bréval chez lui pour voir Mathilde qui rentre de chez la tante. Mathilde a dessiné une maison en coupe avec des souterrains. Elle a dit : « Sous le travail de papa il y a des galeries. »
+- 20h15 — message vocal de Cordier : « Je descends demain. Seul. J'ai trouvé un accès — pas le 14 rue du Puits, un autre. Je ne vous demande pas d'accompagner. Je vous dis où j'en suis, si je ne reviens pas. »
+- Bréval note : Cordier a conscience du risque (a lu les archives, connaît les quatre non-remontés). Il agit en journaliste qui a fait ses recherches. La semaine critique se termine à minuit — il descend le 15 (hors fenêtre de plus haute intensité, mais galerie reste active hors fenêtre : Vauthier 2015 janvier).
+- Appel à Ferrand (22h) : « Cordier descend demain. On cherche l'accès demain matin. »
+
+---
+
+## Ch. 074 — L'accès inconnu (15 décembre 2025)
+
+**Cordier descend par la cave du 11 rue des Charmilles**
+- Ferrand avait fait la demande d'archives mairie en octobre pour les plans de cave du quartier. Réception complémentaire le 14 au soir — lue à 5h le matin.
+- Plan de cave du 11 rue des Charmilles, établi en 1962, propriétaire à l'époque famille Delisle père senior : ligne en pointillé dans le coin nord, direction N-NE, aucune légende, aucune section, aucun matériau — juste la direction avec flèche. Non présente sur aucun plan de réseau actuel (ni Vanne, ni eau, ni autre).
+- Même direction que la sixième branche. Geffard habitait au 11, accès cave depuis son appartement (dossier de propriété).
+- Cordier avait demandé les mêmes plans aux archives en novembre dans le cadre de son article — a eu le plan de 1962. Il est journaliste, même accès public que Ferrand.
+- Bréval appelle Cordier (7h). Cordier est dans le quartier, a fait une reconnaissance la veille au soir. Il confirme connaître le plan de 1962. Il allait descendre seul.
+- Négociation : Bréval propose Ferrand à la surface avec câble. Cordier accepte. Règles imposées : son câble 50m attaché au crochet, Ferrand tient l'autre bout, signal trois tirages = elle tire et maintient, fixité > 45 minutes = elle décide.
+- Cave du 11 (avant l'arrivée de Cordier) : Bréval a les clés depuis novembre (Delisle les avait remises en novembre, disant ne plus être certain de l'état des caves). Coin nord : niche fermée par deux planches de bois récentes, bien ajustées — ni du vieux bois ni de la planche ancienne. Derrière les planches : couloir en calcaire, étroit, air différent — même caractère que la galerie principale. Crochet en fer scellé dans la brique à gauche, vieux, solide. Point d'ancrage établi.
+- Planches récentes : posées par Cordier (reconnaissance) ou par Geffard avant lui, ou par Delisle fils.
+- Problème câble : 30m (Ferrand) trop court si galerie fait 60m jusqu'à carrefour et chambre à 70m supplémentaires. Câble de Cordier : 50m. Encore insuffisant si calcul correct. Peut-être chambre plus proche depuis cet accès.
+- Cordier arrive : sac à dos, matériel spéléologue amateur (frontale, gants, veste technique, câble escalade 50m). Il a préparé ça.
+- Deux câbles attachés au crochet : Ferrand (30m, redondance) + Cordier (50m, usage). Cordier entre dans le couloir calcaire.
+- Delisle et le plan de 1962 : il est membre depuis 2016, fils du propriétaire de 1962. Il peut connaître l'accès. Il a peut-être gardé ça pour lui — ou peut-être pas. Non élucidé.

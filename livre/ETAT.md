@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 9 (ch. 70–79)  
-**Date de dernière mise à jour :** Ch. 069 validé — ARRÊT ÉTAPE 8  
-**Prochain chapitre à rédiger :** 070
+**Date de dernière mise à jour :** Ch. 074 validé — checkpoint 5 chapitres (étape 9)  
+**Prochain chapitre à rédiger :** 075
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 69 / 120 |
-| Mots écrits | 144 251 |
+| Chapitres rédigés | 74 / 120 |
+| Mots écrits | 155 026 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 9 (ch. 70–79, budget 25 000) |
@@ -39,11 +39,11 @@
 | 6 | 44–51 | 20 000 | 16 221 | 3 779 | ✅ ÉTAPE 6 TERMINÉE (ch.044–051 ✓) |
 | 7 | 52–61 | 25 000 | 22 546 | 0 | ✅ ÉTAPE 7 TERMINÉE (ch.052–061 ✓) |
 | 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
-| 9 | 70–79 | 25 000 | 0 | 25 000 | ✍ EN COURS |
+| 9 | 70–79 | 25 000 | 10 775 | 14 225 | ✍ EN COURS |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **144 251** | **155 749** | |
+| **TOTAL** | **1–120** | **300 000** | **155 026** | **144 974** | |
 
 ---
 
@@ -187,6 +187,11 @@ Pour reprendre la session après interruption :
 | 067 | Les erreurs des cycles précédents | 2 405 | ✓ Rédigé |
 | 068 | Ce qu'elle a caché | 2 002 | ✓ Rédigé |
 | 069 | La révélation | 2 017 | ✓ Rédigé — ARRÊT ÉTAPE 8 |
+| 070 | La descente | 2 314 | ✓ Rédigé |
+| 071 | Le retour | 2 092 | ✓ Rédigé |
+| 072 | Vauthier | 2 063 | ✓ Rédigé |
+| 073 | Le 14 décembre | 2 104 | ✓ Rédigé |
+| 074 | L'accès inconnu | 2 202 | ✓ Rédigé — CHECKPOINT 5 ch. |
 
 ---
 
