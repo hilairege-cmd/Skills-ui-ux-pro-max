@@ -827,3 +827,22 @@
 [Ch 033] Calcul 23/35 — Sur le trajet de retour à la brigade, Bréval compte les nuits où il a dormi rue du Moulin-Neuf depuis le 4 novembre. Résultat : vingt-trois nuits sur trente-cinq jours d'enquête. Ce n'est pas un ratio planifié — résultat de décisions quotidiennes isolément raisonnables (rester une heure de plus, partir avant que Mathilde se lève, ne pas rentrer parce que la nuit de surveillance commence dans trois heures). "Chaque décision prise isolément était compréhensible. L'ensemble produisait un chiffre."
 [Ch 033] Ne note pas — Bréval ne note pas le chiffre dans son carnet. Il le sait.
 [Ch 033] Accroche — "Il repartit sans les appeler. Sur le trajet de retour au bureau, il calcula que depuis le début de l'enquête, il avait dormi à son domicile vingt-trois nuits sur trente-cinq."
+
+---
+
+## CHAPITRE 034 — Faits établis
+
+### Delisle avoue ch.034
+
+[Ch 034] Chrono — Troisième semaine de janvier 2025.
+[Ch 034] Delisle — appelle le numéro du bureau de Bréval (pas le numéro personnel). Demande à voir Bréval hors procédure, pas à la mairie, pas au Vernay. Rencontre au café de la place de la Préfecture, jeudi à 10h.
+[Ch 034] FAIT CRITIQUE — Delisle est membre de la Société de Secours Mutuel du Vernay depuis 2016 (neuf ans). Non mentionné lors de son audition de novembre. Confirme l'omission de Massard (qui avait dit "Delisle a d'autres fonctions" sans préciser).
+[Ch 034] Recrutement de Delisle — En 2016, Delisle travaille sur le dossier de réhabilitation du secteur Vernay-Charmilles. Cherche des documents fonciers antérieurs à 1940. Massard l'informe que la Société détient des transcriptions d'actes de partage 1900-1920. Il la suit au 4 rue Saint-Éloi (siège de la Société). Documents présents : plans originaux galeries sous la Vanne, actes de 1911, registres familles d'ouvriers.
+[Ch 034] Ce que Massard a dit à Delisle en 2016 — Surveil quelque chose sous le Vernay, maintenir une continuité depuis 1911. "Nous sommes trois, nous avons besoin d'un quatrième." Raison : "trois ne suffisent plus depuis 1971." Référence à l'inspecteur Ledoux comme une enquête qui "avait failli aller trop loin."
+[Ch 034] Position de Delisle — N'y croyait pas. Rangeait les histoires de chambre, cycle, dates dans "la case des superstitions de vieilles familles." En neuf ans : assistant à trois réunions, consulter les archives, jamais descendu dans les galeries, jamais assisté à une surveillance.
+[Ch 034] Insomnies — Depuis le 3 janvier (lendemain de la date cyclique du 2 janvier), Delisle se réveille à trois heures du matin, toutes les nuits. Reste assis dans le noir une demi-heure. "C'est la première fois que j'ai vraiment peur depuis que je suis dans cette Société. Pas parce que j'étais courageux. Parce que je ne croyais pas qu'il y avait quelque chose dont avoir peur."
+[Ch 034] Le dessin — La nuit précédente : Delisle se lève à 3h du matin, va dans son bureau à la maison. Ne se souvient pas d'avoir pris le stylo. Quand il regarde l'heure : 5h20. Deux heures écoulées. Devant lui : une feuille A4 couverte d'un dessin.
+[Ch 034] Contenu du dessin — Le Vernay au trait, sans légende, proportions justes (études de génie civil). Carrefour des Cinq-Vents avec cinq rues exactes. Et une sixième rue, en direction nord-nord-est — même soin de tracé que les autres, même épaisseur de trait, bâtis dessinés de chaque côté, début et fin nets. N'existe sur aucune carte officielle.
+[Ch 034] Ce que Delisle savait sur la sixième direction — Massard avait mentionné "une branche non documentée" en 2016, sans préciser la direction. Delisle n'avait pas retenu l'information. Il ne connaissait pas la direction de la sixième branche avant de voir son dessin.
+[Ch 034] Note de Bréval — La direction N-NE du dessin correspond à la direction de la sixième branche du carrefour souterrain (relevé Vauthier 2015, décamètre sans fond). Delisle n'avait pas cette information.
+[Ch 034] Accroche — "Bréval demanda pourquoi maintenant. Delisle dit : « Parce que la nuit dernière, je me suis levé à trois heures du matin et j'ai passé deux heures à dessiner quelque chose sur mon bureau. Quand j'ai vu ce que c'était, j'ai eu peur. » Il posa sur le bureau une feuille de papier. La carte du Vernay. Avec une sixième rue."

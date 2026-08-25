@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 4 (ch. 26–35)  
-**Date de dernière mise à jour :** Ch. 033 validé  
-**Prochain chapitre à rédiger :** 034
+**Date de dernière mise à jour :** Ch. 034 validé  
+**Prochain chapitre à rédiger :** 035
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 33 / 120 |
-| Mots écrits | 67 423 |
+| Chapitres rédigés | 34 / 120 |
+| Mots écrits | 69 426 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 4 (ch. 26–35, budget 25 000) |
@@ -34,7 +34,7 @@
 | 1 | 1–8 | 20 000 | 16 550 | 3 450 | ✅ ÉTAPE 1 TERMINÉE (ch.001–008 ✓) |
 | 2 | 9–16 | 20 000 | 16 032 | 3 968 | ✅ ÉTAPE 2 TERMINÉE (ch.009–016 ✓) |
 | 3 | 17–25 | 22 500 | 18 075 | 4 425 | ✅ ÉTAPE 3 TERMINÉE (ch.017–025 ✓) |
-| 4 | 26–35 | 25 000 | 16 766 | 8 234 | ✍ EN COURS |
+| 4 | 26–35 | 25 000 | 18 769 | 6 231 | ✍ EN COURS |
 | 5 | 36–43 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 6 | 44–51 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 7 | 52–61 | 25 000 | 0 | 25 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **67 423** | **232 577** | |
+| **TOTAL** | **1–120** | **300 000** | **69 426** | **230 574** | |
 
 ---
 
@@ -151,6 +151,7 @@ Pour reprendre la session après interruption :
 | 031 | La date approche | 2 376 | ✓ Rédigé |
 | 032 | Le 17 | 2 017 | ✓ Rédigé |
 | 033 | La fête de l'école | 2 067 | ✓ Rédigé |
+| 034 | Delisle avoue | 2 003 | ✓ Rédigé |
 
 ---
 
