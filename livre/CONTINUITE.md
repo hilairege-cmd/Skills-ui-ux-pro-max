@@ -952,3 +952,20 @@
 [Ch 039] Mesure de la corde après remontée — Bréval mesure la corde en surface : 28 mètres. Avait posé 22 mètres. Différence : +6 mètres. Hors semaine critique. Note carnet : "La géométrie est non standard en dehors de la période cyclique également. Kern."
 [Ch 039] Confirmation empirique — La théorie de Kern se vérifie directement : la corde change de longueur dans la galerie. Ce n'est pas une erreur de mesure.
 [Ch 039] Accroche — "Il noua l'autre extrémité de la corde à son poignet et s'avança dans la sixième branche. Après seize mètres, il s'arrêta. Il n'avait plus envie d'avancer. Pas de peur. Quelque chose d'autre. Il rebroussa chemin, remonta, et nota dans son carnet que la corde mesurait maintenant 28 mètres."
+
+---
+
+## CHAPITRE 040 — Faits établis
+
+### La page arrachée ch.040
+
+[Ch 040] Chrono — Mars 2025.
+[Ch 040] Découverte Ferrand — Ferrand retrouve dans les archives préfectorales un sous-dossier d'instruction scellé depuis 1972 (instruction 1971-447-V). Ce sous-dossier contient une copie carbone du rapport Ledoux — y compris la page 14, absente du dossier original (arrachée). Ferrand présente la chose sans préambule.
+[Ch 040] La copie carbone — Page 14 de 16. Tampon : "copie conforme — préfecture de police — instruction 1971-447-V." Date 15 décembre 1971. Texte en trois sections.
+[Ch 040] Section 1 — Compte rendu technique de Ledoux : descendu seul à 14h17 par le 14 rue du Puits (pendant la semaine critique — il ne le savait pas). Arrivée chambre hexagonale : 14h54. Description : six murs calcaire taillé, voûte à 2m07, diamètre est-ouest 3m55. Discordance notée : lors de la descente précédente (2 semaines avant, avec technicien), diamètre était 2m90. Note : "mesure à contrôler." Description sixième branche : "couloir de construction et matériau distincts, dimensions supérieures, dans la paroi opposée à l'entrée" — "distance non déterminable, pente légère vers le bas, torche ne portant pas jusqu'au fond."
+[Ch 040] Section 2 — À 16h03 : vibration basse continue dans la sixième branche, arrêtée après ~40 secondes. À 16h09 : lumière blanche et fixe dans la sixième branche, source non identifiable, disparue après 20 secondes. Ledoux appelle le nom de Marquet. Pas de réponse. 16h14 : décision de ne pas entrer dans le couloir et de remonter. Dernière phrase : "La personne disparue est dans la sixième branche. Je le sais. Je ne peux pas l'expliquer."
+[Ch 040] Section 3 — À la main, séparée par un trait à la règle : "Je suis remonté à 16h31. Je ne sais pas si c'est une décision ou une chance. Je ne veux plus redescendre." Signé I. Ledoux, 15 décembre 1971.
+[Ch 040] Classement — Tampon en bas de page : "Classé sans suite — SGT R. Vauthier — 20 décembre 1971." Annotation : "Rien à instruire." Cinq jours après la descente de Ledoux.
+[Ch 040] Connexion Vauthier — SGT R. Vauthier = Raymond Vauthier = grand-père de Rémi Vauthier (technicien qui a accompagné Bréval en novembre). Rémi avait dit "ne jamais avoir entendu parler" des dossiers de son grand-père sur le Vernay — en regardant le plancher.
+[Ch 040] Inférences Bréval — "Je le sais. Je ne peux pas l'expliquer." : certitude sans raisonnement, pas une intuition. Ledoux descendu seul pendant la semaine critique. Remonté — "je ne sais pas si c'est une décision ou une chance." Parallèle avec l'arrêt de Bréval à 16 mètres dans la sixième branche (18 mars) : ni lui non plus ne sait si c'était une décision.
+[Ch 040] Accroche — "La note finale de Ledoux, à la main : « Je suis revenu. Je ne sais pas si c'est une décision ou une chance. Je ne veux plus redescendre. » Le rapport avait été classé cinq jours plus tard par son supérieur, le sergent Vauthier."
