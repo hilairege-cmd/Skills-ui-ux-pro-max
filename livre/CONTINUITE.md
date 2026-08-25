@@ -985,3 +985,21 @@
 [Ch 041] Kern — Bréval l'appelle. Kern confirme : il a ajouté le trait lui-même, en 1989, deux ans après la publication. "J'avais relu le livre et j'avais vu que j'avais dessiné cinq branches. J'ai ajouté la sixième." Raison : "Je savais qu'elle existait — je l'avais vue moi-même. Mais je n'avais pas de source que je pouvais citer." Publié ce qu'il pouvait documenter. Ajouté le trait dans son propre exemplaire "pour que quelqu'un le voie, s'il lisait ce livre-là."
 [Ch 041] Inférence Bréval — Kern a donné à Bréval son propre exemplaire en novembre, sachant que le trait était là, sans le signaler. Il attendait que Bréval le trouve.
 [Ch 041] Accroche — "Bréval appela Kern pour lui parler de la marge. Kern dit : « Je sais. C'est moi qui l'ai ajoutée, deux ans après la publication. En 1989. » Il s'arrêta là."
+
+---
+
+## CHAPITRE 042 — Faits établis
+
+### Les papiers ch.042
+
+[Ch 042] Chrono — Avril 2025.
+[Ch 042] Lettre avocat — Maître Isabelle Leroux, avenue de la Gare. Procédure de séparation de corps (pas divorce). Formulée correctement, sans hostilité. Bréval la lit debout dans l'entrée, la plie en trois, la range dans le tiroir du meuble de l'entrée sans répondre. Camille avait laissé la carte de visite de cette avocate en décembre dans l'appartement.
+[Ch 042] Appartement — Bréval seul depuis début février. Les affaires occupent les mêmes espaces, mais sans présence de Camille. Il n'a pas réorganisé.
+[Ch 042] Reclassement — À la brigade, Bréval réserve la salle de réunion pour la journée et y pose ses huit carnets noirs. Il crée sept feuilles thématiques : Téléphone, Chambre, Cycle, Société, Personnel, Appelants (+ une feuille sans titre au départ). Il transcrit les faits en colonnes au cours de la matinée.
+[Ch 042] Contenu feuilles — Téléphone : numéro inexistant, cinq appelants, résistance des réseaux. Chambre : mesures des trois descentes, la carte de Kern et le trait au crayon, corde 22m → 28m. Cycle : 41 248 jours, semaine critique, liste des événements depuis 1911. Société : Massard, fondateurs, cahiers noirs, statut interne, protocole de récupération. Personnel : "Camille — séparation de corps (Maître Leroux) — sans réponse de ma part."
+[Ch 042] Découverte centrale — La feuille "Appelants" réunit les cinq noms et leurs professions : Geffard (PTT, réseaux téléphoniques souterrains, 22 ans) ; Sert (électricien réseaux enterrés, 17 ans) ; Paret (ouvrier chantier galeries Vernay 2011-2012, terrassement et soutènement) ; Cours (agent réseaux assainissement, égouts, 30 ans — cotisation sécurité sociale vérifiée par appel) ; Marchand (technicienne réseau eau). Tous les cinq ont un lien professionnel avec les espaces souterrains de la ville. Aucun n'habitait le même immeuble.
+[Ch 042] Marchand Sylvie — Bréval appelle le numéro disponible. Messagerie. Laisse un message.
+[Ch 042] Cours Jacques — Pas de lien professionnel dans le dossier initial. Bréval appelle la sécurité sociale. Attente 20 minutes. Code professionnel : agents des réseaux d'assainissement. 30 ans de carrière.
+[Ch 042] Bréval sur la liste — Bréval note son propre cas : "commandant PJ — Aucun lien direct avec le sous-sol." Réfléchit à deux lectures : (1) il est l'accident de la liste — le seul sans raison d'être là ; (2) il a un lien non encore identifié. Il raye "Une enquête de surface" et écrit à la place : "Lien non encore identifié."
+[Ch 042] Ferrand — Passe à 16h30, voir les feuilles sans lire les noms. Apporte une info : le numéro de Marchand est toujours bon, adresse changée mais numéro inchangé. Ferrand ne pose pas de question sur le classement.
+[Ch 042] Accroche — "Bréval nota : Geffard — PTT, réseaux téléphoniques. Paret — ouvrier chantier galeries. Sert — il vérifia — électricien réseaux souterrains. Les deux déménagés : un égoutier et une technicienne eau. Lui-même, commandant PJ. Il était le seul sans lien direct avec le sous-sol. Ou il était celui dont le lien n'était pas encore clair."
