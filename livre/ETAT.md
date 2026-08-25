@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 8 (ch. 62–69)  
-**Date de dernière mise à jour :** Ch. 061 validé — ARRÊT ÉTAPE 7  
-**Prochain chapitre à rédiger :** 062
+**Date de dernière mise à jour :** Ch. 066 validé — CHECKPOINT 5 chapitres (062–066)  
+**Prochain chapitre à rédiger :** 067
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 61 / 120 |
-| Mots écrits | 126 862 |
+| Chapitres rédigés | 66 / 120 |
+| Mots écrits | 137 823 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 8 (ch. 62–69, budget 20 000) |
@@ -38,12 +38,12 @@
 | 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
 | 6 | 44–51 | 20 000 | 16 221 | 3 779 | ✅ ÉTAPE 6 TERMINÉE (ch.044–051 ✓) |
 | 7 | 52–61 | 25 000 | 22 546 | 0 | ✅ ÉTAPE 7 TERMINÉE (ch.052–061 ✓) |
-| 8 | 62–69 | 20 000 | 0 | 20 000 | ✍ EN COURS |
+| 8 | 62–69 | 20 000 | 10 961 | 9 039 | ✍ EN COURS (5/8 rédigés) |
 | 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **126 862** | **173 138** | |
+| **TOTAL** | **1–120** | **300 000** | **137 823** | **162 177** | |
 
 ---
 
@@ -179,6 +179,11 @@ Pour reprendre la session après interruption :
 | 059 | La corde depuis le 9 | 2 051 | ✓ Rédigé |
 | 060 | La promotion refusée | 2 006 | ✓ Rédigé |
 | 061 | Le 17 rue des Charmilles | 2 223 | ✓ Rédigé — ARRÊT ÉTAPE 7 |
+| 062 | La décision de tout dire | 2 202 | ✓ Rédigé |
+| 063 | La semaine de décembre 1978 | 2 078 | ✓ Rédigé |
+| 064 | Ce que René a rapporté | 1 997 | ✓ Rédigé |
+| 065 | La liste | 2 280 | ✓ Rédigé |
+| 066 | La procédure exacte de récupération | 2 404 | ✓ Rédigé — CHECKPOINT 5 ch. |
 
 ---
 

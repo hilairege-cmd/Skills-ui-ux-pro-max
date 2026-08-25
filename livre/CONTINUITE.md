@@ -1353,3 +1353,103 @@
 - Ferrand reçoit la donnée Fabre : clé de cave rendue, non redescendue, manteau pendant l'amnésie. Dit : « Ça fait partie des données. »
 - Échange de clôture d'étape : Ferrand : « Si aucune explication ordinaire ne tient, c'est que la question est mal posée. » Bréval : « Ou que la réalité est mal configurée. » Ferrand ne répond pas.
 
+
+---
+
+## Ch. 062 — La décision de tout dire (3–4 décembre 2025)
+
+**Première session Massard (3 décembre, rue des Fonderies, 3e étage)**
+- Massard a voulu attendre la clôture du volet rationnel avant de parler. Elle a attendu le 1er décembre, jour du bilan définitif, pour envoyer son message. Pas de hasard — elle a suivi l'enquête via Ferrand (qui lui envoyait des messages sans s'en rendre compte).
+- René Massard : plombier de la régie des eaux, trouvé les galeries en août 1975 en descendant inspecter une fuite dans une cave de la rue du Puits. A reconnu le tracé du réseau sans l'avoir jamais vu. Rejoint la Société fin 1977 via Théas.
+- Irène Massard : femme de René, présente aux réunions depuis 1977 comme épouse, sans statut.
+- Descente de René — 11 novembre 1978, 5h30 du matin, sans prévenir. Note laissée sur la table. Irène a trouvé la note et est allée au 14 rue du Puits tenir la corde.
+- Détail protocole : René avait préparé la corde et la borne d'attache avant de partir. Il avait tout préparé sauf de le dire à Irène.
+- Corde : 40 minutes de fixité complète. Irène a attendu. Puis tension légère, puis trois tirages, puis René est remonté.
+- Première phrase de René en remontant : « J'avais oublié que tu étais là. Et quand je m'en suis souvenu, je suis revenu. »
+- Caillou : trouvé dans la poche de veste de René le soir même. Une encoche. René n'avait pas apporté de caillou en descendant. Aucun souvenir du geste.
+- Protocole : René l'a écrit sur la machine du cabinet de la Société en trois jours. « Si quelqu'un entre et ne revient pas, c'est parce que personne n'a tenu la corde. »
+
+---
+
+## Ch. 063 — La semaine de décembre 1978 (5 décembre 2025)
+
+**Deuxième session Massard**
+- Six registres de surveillance remis à Bréval : 1978, 1991, 2004, 2017, 2024, 2025 en cours. Comptages bi-quotidiens + incidents.
+- 1978 : 3 incidents sur 7 jours (résidente robe de chambre / femme amnésie 2h dans escalier / sons de boulangerie). Sons cessés le 14 décembre au soir.
+- 2004 : 6 incidents (maximum depuis 1978) — deux amnésies, trois signalements de sons nocturnes, un déménagement précipité.
+- 2017 : 2 incidents seulement.
+- 2024 : 4 incidents dont Geffard — mais Geffard mort le 3 novembre, hors fenêtre de décembre. Anomalie notée et classée.
+- René voulait descendre pendant la semaine critique 1978 (il calculait le 11 décembre = moment de plus haute intensité). Irène a refusé. Raison : les trois hommes de 1911 sont entrés le 14 (dernier jour, plus haute intensité). Argument : absence de données = argument dans les deux sens.
+- René a accepté à chaque semaine critique jusqu'en 2010. Infarctus janvier 2010 — cardiologue lui interdit les efforts physiques. « La question est réglée. » Il est mort en 2013.
+- René, trois ans avant sa mort : « S'il avait eu vingt ans de moins en 1978, il ne serait peut-être pas revenu. »
+- Irène membre officielle de la Société en février 1979. Première cellule familiale depuis les fondateurs (Édouard + Marguerite Vanel).
+- Théas — test d'admission informel : « Qu'est-ce que vous avez fait quand la corde a lâché ? » Irène : « J'ai attendu. » Théas : « C'est la bonne réponse. »
+- Rôle d'Irène depuis 1979 : « tenir la chaîne, pas la corde » — préparer, organiser, transmettre. Attendre est la compétence centrale. Tenir est mécanique.
+- Vauthier 2015 : entré sans protocole, sans personne à la surface. Sorti mais sans mémoire de l'intérieur. Différent de René : René se souvenait de l'intérieur.
+- Ferrand envoyait des messages à Massard sans s'en rendre compte (résumés de l'enquête). Massard a suivi depuis novembre 2024.
+- Cordier : Ferrand signale qu'il a laissé un message « urgent » — Bréval le rappellera le lendemain. La ligne ne répond pas.
+
+---
+
+## Ch. 064 — Ce que René a rapporté (6 décembre 2025)
+
+**Troisième session Massard (veille de la semaine critique)**
+- Massard lit à Bréval un carnet compilé entre 1979 et 1980 — témoignage de René sur l'intérieur, recueilli par fragments sur 18 mois, mis en ordre par Irène.
+- Chambre : René a décrit l'intérieur comme « plus grand dedans que dehors » (pas ressenti — senti). Deux galets plats posés au centre, côte à côte. René ne les a pas pris.
+- Mesures de la chambre par Aubert : variation de 8cm entre deux sessions. Ni Aubert ni Massard ne savent ce que ça signifie.
+- Seuil de la sixième branche : résistance de l'air ou de l'espace, puis attirance. René a dû faire effort pour ne pas avancer trop vite. Reproduit par Aubert et collègue — deux observateurs indépendants.
+- Dans la sixième branche : parois plus lisses, plus étroit. Perte de la conscience du temps — « Il avait marché cinq minutes, peut-être. Peut-être plus longtemps. »
+- Passage à l'absence : sans frontière perceptible. « Il y avait la conscience, et ensuite il n'y avait pas la conscience, et entre les deux il n'y avait rien. »
+- Nature de l'absence : « Ce n'est pas un trou dans la mémoire. Un trou, on peut en voir le contour. C'est une absence qui n'a pas la forme d'un trou. »
+- Avant l'absence : quelque chose dans la branche — stationnaire, non identifié comme lumière ou forme, n'illuminait pas les parois, ne projetait pas d'ombre. « Le même endroit sans que je sois dedans de la même façon. »
+- Retour : « une tension dans la direction d'un ailleurs — je me suis souvenu qu'il y avait une surface — je me suis souvenu qu'Irène était là — j'ai tiré sur la corde — je suis revenu. »
+- René : « Le corps sait des choses que la conscience ne sait pas. » Le caillou = acte sans auteur conscient. Parallèle avec le manteau de Fabre.
+- Bréval a quatre absences de ce type depuis novembre 2024 — il ne le dit pas à Massard.
+- Note de Bréval dans le carnet (en marchant) : « corps qui sait — caillou, manteau Fabre — actes sans auteur conscient. Différent de Massard qui tient la corde : elle, consciente. Le corps de René / le corps de Fabre : actes dans l'absence. Même catégorie ? Ou deux phénomènes distincts ? »
+- Cordier rappelle Ferrand à la brigade — urgent. Bréval le verra ce soir.
+- Programme suivant : 7 décembre (matin) — liste des membres et l'incident de 2015. 8 décembre (après-demain) — les semaines critiques précédentes. En dernier : ce qu'elle a caché.
+
+---
+
+## Ch. 065 — La liste (6–7 décembre 2025)
+
+**Soir du 6 décembre — Cordier au café du carrefour**
+- Cordier a les 3 pages du procès-verbal de fondation (17 février 1911). Delisle les lui a remises spontanément — « peur d'oublier quelque chose d'important ». Demandait que quelqu'un les garde, pas nécessairement les publie.
+- Delisle a aussi dit à Cordier que Bréval était « sur la liste ».
+- Cordier publie le 7 décembre à 7h40 : *Sous le Vernay, une société secrète surveille les galeries depuis 1911.* Aucune mention de la descente prévue cette semaine.
+- Bréval tente d'empêcher la publication — échec. Cordier : « Publier, c'est archiver. »
+
+**Quatrième session Massard (7 décembre — premier jour de la semaine critique)**
+- Massard a lu l'article. Programme inchangé — « L'article ne change rien à ce que je dois vous dire. »
+- Liste complète des membres depuis 1911 :
+  - Fondateurs : Vanel (une descente mars 1911, sixième branche, pas de souvenir de sortie — intégré à la Société), Théas (aucune descente, mort 1982), Marchetti (une descente 1913, 6h manquantes, sorti mémoire fragmentée).
+  - 1911-1950 : 7 membres, 4 femmes 3 hommes. Femmes : corde et surveillance, aucune descente (pas règle écrite). Vote unanime 1923 pour empêcher un homme de descendre. Grégoire Barral : descendu seul, 14 décembre 1931, non remonté. Classé déménagement non signalé. 4e disparu de la Société.
+  - 1951-1978 : 4 membres, aucune descente. Gaston Leduc démissionnaire 1965 (« convictions incompatibles ») — parti en province, trace perdue. Ledoux 1971 : sorti de la chambre (pas sixième branche), écrit 3 paragraphes, s'arrête à mi-phrase, congé maladie 1971, retraite anticipée 1972, mort 1989.
+  - René + Irène Massard 1977-2013 / 1979-présent.
+  - Delisle père 1985-2010. Delisle fils 2016-présent. Aucune descente.
+  - Kern : membre honoraire 1989-présent (non dans registre formel). Descente 1989 dans la chambre (pas sixième branche). A dit que la chambre l'avait regardé. Non développé.
+- Totaux : 4 non-remontés (Grégoire 1911, Hubert 1911, Dassot 1911, Barral 1931). Ledoux sorti hors service. Vauthier sorti amnésie. René sorti mémoire partielle. Bréval sur liste depuis novembre 2024 — Massard ne l'avait pas dit, dit maintenant.
+- Barral : même date (14 décembre) que les trois de 1911. Coïncidence ou structure ?
+
+**Retour à la brigade**
+- Trois appels ce matin : préfecture (société secrète), mairie 11e (association déclarée ?), chef d'arrondissement (rapport avant vendredi).
+- Ferrand a répondu : « association locale de surveillance du patrimoine souterrain. »
+
+---
+
+## Ch. 066 — La procédure exacte de récupération (8 décembre 2025)
+
+**Cinquième session Massard (jour 2 de la semaine critique)**
+- Massard remet à Bréval l'original du protocole (3 pages dactylographiées, 14 novembre 1978, annotations en deux encres + ligne soulignée rouge). Note en haut : *Je l'ai fait une fois. Ça marche. — I.M.*
+- Premier principe : la corde maintient le lien, pas la sécurité. Sécurité ne peut pas être garantie. Lien peut l'être. Ne pas confondre les deux.
+- Deuxième principe : le signal de remontée vient d'en bas, pas d'en haut. Surface répond à la demande — ne tire pas pour ramener.
+- Troisième principe : l'attente est active. Le câble transmet des informations (mouvement, fixité, chute). Ne pas tirer, ne pas lâcher — sentir.
+- Irène en 1978 : René marchait → s'arrêtait → fixité complète 35 minutes. Câble fixe = ne pas tirer.
+- Fenêtre de sécurité : 45 minutes depuis début de fixité. Au-delà, décision appartient à la surface. René n'a pas défini ce que « lâcher » voulait dire dans le protocole.
+- Annotation de Massard en rouge : légère tension à 39min (souvenir du lien avant le signal) — elle a maintenu sans tirer. Trois signaux à 42min. Ne pas tirer à la légère tension — distinction cruciale.
+- Vauthier 2015 : entré sans personne à la surface. Câble autour du poignet attaché à la borne. Sorti, mais sans mémoire. La borne transmet un contact physique, pas une présence humaine.
+- Distinction sortir / revenir : Vauthier a sorti son corps. René est revenu — avec mémoire de l'intérieur. La différence : René savait qu'Irène était là.
+- Kern 1989 : chambre seulement, pas sixième branche. A dit que la chambre l'avait regardé.
+- Massard donne l'original à Bréval — ne veut pas qu'il reste dans l'appartement pendant la semaine critique. « Si quelque chose m'arrive, je veux qu'il soit sorti d'ici. »
+- Prochain session (9 décembre) : les erreurs des cycles précédents.
+
