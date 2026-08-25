@@ -1169,3 +1169,78 @@
 [Bilan 6] Personnel — Camille partie avant le dessert. Mathilde demande des nouvelles via Camille. Bréval : "peut-être" sur ses propres heures manquantes.
 [Bilan 6] Bréval n'a toujours pas compté les encoches de son caillou.
 
+
+---
+
+## CHAPITRE 052 — Faits établis
+
+### Tentatives rationnelles ch.052
+
+[Ch 052] Chrono — Mardi 2 septembre 2025. Kern rentre de Lyon. Bréval l'appelle le soir depuis la brigade.
+[Ch 052] Confirmation écart par Kern — Kern examine le carnet de mesures pendant 6 minutes en silence. Conclut : "Onze mètres. Ce n'est pas une erreur de manipulation... cinquante pour cent de différence. Pas instrumentale." Kern le dit sans chercher de porte de sortie rationnelle.
+[Ch 052] Trois études indépendantes commandées — (1) Géologie : Pierre-Luc Gauthier, expert judiciaire inscrit depuis 2018, spécialisé formations calcaires urbaines. Mandat : cartographie structurale sous-sol Vernay, formations en profondeur, anomalies géologiques. Délai : deux semaines pour préliminaire. (2) Qualité d'air : Laboratoire de prévention des risques de la préfecture. Mandat : mesures CO, CO2, H2S, CH4 aux 5 points du réseau. Délai : dix jours sous réserve autorisation. (3) Optique/perceptif : Dominique Aubert, maître de conférences, spécialiste illusions de profondeur en espaces confinés. Question posée sur les dimensions variables.
+[Ch 052] Méthode Bréval — Éliminer les explications ordinaires dans l'ordre (plus probable → moins probable) avant de conclure. "La police scientifique élimine les causes possibles dans l'ordre du plus probable au moins probable."
+[Ch 052] Kern : "Vous savez que les études ne trouveront rien." — Bréval : "Je veux le savoir d'une façon qui soit documentée." Distingue le savoir personnel du savoir sur papier avec signature d'expert.
+[Ch 052] Aubert — Réponse le jeudi soir : disponible, une question — dimensions varient-elles réellement ou c'est une impression des visiteurs ? Bréval répond : les deux sont vrais.
+[Ch 052] Mathilde — Appel mercredi soir. Nouveau lycée, va bien. "T'as l'air moins fatigué qu'en août." Bréval dit qu'il dort mieux depuis la semaine d'avant. "À peu près vrai."
+[Ch 052] Ferrand — "Et après le dossier" (pas de réponse). Bréval pense à Kern : "le savoir pour soi et le savoir sur papier… étaient deux choses différentes."
+[Ch 052] Accroche — "Le dévis de Gauthier arriva dans la matinée. L'autorisation de descente pour le laboratoire de la préfecture fut accordée l'après-midi. Aubert répondit le soir : disponible, une question sur les dimensions variables. Trois missions lancées. Aucun résultat rentré. Bréval ferma le carnet à minuit et éteignit la lumière."
+
+---
+
+## CHAPITRE 053 — Faits établis
+
+### Ce que Cordier a trouvé sur Delisle ch.053
+
+[Ch 053] Chrono — Vendredi 12 septembre 2025. Café à la brasserie rue Monge, angle du Lacépède.
+[Ch 053] Varos consulté en août 2019 — L'article de 1922 avait été consulté avant Cordier en août 2019, par un détenteur de carte d'adhérent émise en 2008. Registre d'adhésion 2008 non numérisé. Identité inconnue. L'annotation au crayon a donc été ajoutée lors de cette consultation 2019.
+[Ch 053] Coïncidence 2019 notée par Bréval — La consultation Varos date d'août 2019 = même année que l'acquisition de terrain karstique par la SCI inconnue (trouvée en juillet). Bréval ne le dit pas à Cordier.
+[Ch 053] Terrain Delisle Yonne — Fernand Delisle a acheté un terrain de 22 ares à Saint-Denis-sur-Ouanne (Yonne), 7 mars 2025. Non constructible. Prairie humide en limite de commune, non cultivée depuis au moins dix ans. Commune : 450 habitants, 65 km au sud-est d'Auxerre.
+[Ch 053] Rapport Service des mines 1886 — Rapport non publié, archives départementales de l'Yonne, "Rapports de terrain non concluants". Géologue signale : "variations inexplicables dans les relevés de profondeur successifs" dans formation karstique en limite de Saint-Denis-sur-Ouanne. Conclusion à l'époque : erreur instrumentale. Pas de retour sur site.
+[Ch 053] Deux autres acquisitions karstiques — (1) SCI inconnue (associés non encore identifiés), terrain karstique non constructible, 2019. (2) Julien Marceau, né 1961, domicilié à Meaux, terrain karstique non constructible, 2022. Cordier cherche les deux.
+[Ch 053] Cordier ne contacte pas Delisle — Bréval demande de ne pas le contacter ("il n'est pas en bonne santé"). Cordier accepte avec raison. La vraie raison : Delisle membre de la Société, Massard n'a pas donné d'instructions.
+[Ch 053] Appel Massard le soir — Bréval signale que Cordier cherche à contacter Delisle. Massard : "Delisle ne répondra pas. Ne vous en occupez pas." Sans autre commentaire.
+[Ch 053] Hypothèse Bréval sur Delisle — Deux hypothèses : (1) Delisle cartographie d'autres sites similaires au Vernay sur instruction de Massard ou de sa propre initiative. (2) Delisle cherche à s'éloigner — terrain non constructible dans commune isolée, formation anomalique connue — sans but d'habiter ou de construire. Les deux laissées ouvertes.
+[Ch 053] Note carnet — "Ne pas contacter Massard sur ce point avant d'avoir vérifié Marceau."
+[Ch 053] Accroche — "Cordier dit, avant de se lever : « J'ai une question directe. Est-ce que vous savez pourquoi Delisle a acheté ce terrain ? » Bréval dit : « Non. » Ce n'était pas entièrement faux. Il n'avait pas de confirmation. Il avait une hypothèse que Delisle cherchait d'autres formations similaires — d'autres points de discontinuité sous d'autres sous-sols. Mais une hypothèse sans confirmation n'était pas une réponse. Et ce n'était pas le genre d'information qu'on posait sur une table de brasserie avec un journaliste."
+
+---
+
+## CHAPITRE 054 — Faits établis
+
+### Le rapport des gaz ch.054
+
+[Ch 054] Chrono — Lundi 22 septembre 2025 (équinoxe d'automne). Rapport laboratoire préfecture reçu.
+[Ch 054] Résultats rapport gaz — CO : < 2 ppm (limite prolongée : 25 ppm). CO2 : 480 ppm (normal espace fermé). H2S et CH4 : traces non quantifiables sous seuils de détection. Cinq points de mesure sur trois jours. Aucun gradient entre points. Conclusion : "Aucune concentration de gaz susceptible d'expliquer des troubles cognitifs, des perceptions altérées ou des désordres physiologiques."
+[Ch 054] Pas d'explication physiologique par les gaz — Ni CO, ni autres. Les propriétés physiques mesurables sont ordinaires. Aucun gradient, aucune poche.
+[Ch 054] Première contraction observée — Descente le 22 septembre à 16h. Galerie première section : 131,22m (vs 130,38m fin août, +84cm). Chambre : trois mesures 4m22/4m24/4m19 → moyenne 4m22 (vs 4m34 fin août = −12cm). Première contraction depuis début des mesures en mai.
+[Ch 054] Cohérence avec calendrier Massard — Équinoxe d'automne = période de surveillance (fin septembre). Massard avait dit que la chambre réagit différemment à cette saison. La contraction est exactement conforme.
+[Ch 054] Visite à Massard (7 rue du Puits) — Elle confirme la contraction attendue. Point bas décembre : entre 3m80 et 3m90. Juin 2026 : au-dessus de 4m34. Surveillance de l'équinoxe assurée par une personne du réseau (non nommée). Delisle indisponible : problèmes de dos.
+[Ch 054] Surveillance active — Passage à heures régulières aux points d'accès. Consigne : éloigner toute personne avec matériel de spéléologie visible (sans questions). "Les gens qui entrent avec rien — ils ressortent avec rien, en général. Sauf à certaines périodes."
+[Ch 054] Tour du périmètre par Bréval — 20h15–20h35 le soir même (14 rue du Puits → carrefour → 17 rue des Charmilles → place du Vernay). Rien à signaler.
+[Ch 054] Projection décembre 2025 — Bréval calcule : chambre à ~3m80-3m90 en décembre (vs 3m à novembre 2024). La chambre sera à 3m80, pas à 3m. Le cycle monte.
+[Ch 054] Ferrand — "Décembre, c'est dans trois mois." Au téléphone. Bréval : "Je sais."
+[Ch 054] Gauthier — Rapport préliminaire géologie pas encore rendu à cette date.
+[Ch 054] Accroche — "Ferrand dit, au téléphone : « Décembre, c'est dans trois mois. » Bréval dit : « Je sais. » Il raccrocha. Derrière lui, la grille rescellée du 14 rue du Puits. Devant lui, la rue dans la lumière de fin septembre. Les platanes perdaient leurs feuilles. La chambre se contractait selon le calendrier prévu, le rapport gaz était négatif, et le géologue n'avait pas encore rendu son préliminaire. Deux études sur trois. Une à venir."
+
+---
+
+## CHAPITRE 055 — Faits établis
+
+### Ce que Vauthier a vu en 2015 ch.055
+
+[Ch 055] Chrono — Mardi matin, début octobre 2025. Bureau de Vauthier, avant l'arrivée des collègues.
+[Ch 055] Vauthier accepte de parler — Il avait refusé la question en janvier (ch012). La documentation de l'enquête depuis les rapports d'étude rend la question légitime. Il n'en a jamais parlé à personne.
+[Ch 055] Descente de Vauthier décembre 2015 — Le 14 décembre 2015 (dernier jour de la semaine critique selon le calendrier Massard), après 19h, brigade fermée. Seul. Accès via passage dans la cave du 9 rue des Charmilles (bouché depuis le chantier de rénovation 2018 — l'accès n'existe plus).
+[Ch 055] Connaissance préalable — Vauthier connaissait le passage depuis le dossier de son grand-père. A trouvé l'accès en 2013. A attendu deux ans avant de descendre.
+[Ch 055] Déclencheur — Hélène Fabre, résidente du 17 rue des Charmilles, 4e étage, a appelé la brigade le 11 décembre 2015 pour signaler des sons indéfinis depuis sa cave "depuis plusieurs jours." Signalement enregistré le 11 décembre 2015. Classé sans suite le 23 décembre 2015, signé Vauthier. Vauthier a attendu trois jours avant de descendre.
+[Ch 055] Perte de mémoire 40 minutes — Vauthier entre dans la chambre à 20h10. Retrouve sa conscience à 20h50, à l'entrée de la sixième branche (environ 130m du couloir principal). Lampe éteinte (piles mortes). Navigation au retour : main contre le mur dans l'obscurité complète.
+[Ch 055] Espace plus grand — En remontant, dans l'obscurité, sentiment d'avoir été dans "un espace beaucoup plus grand" — pas la chambre à 4m. Désir fort d'y rester. Durée de ce sentiment : environ 10 minutes (jusqu'à l'escalier), puis disparition en surface.
+[Ch 055] Décision de ne pas redescendre — "Je savais que si je redescendais, je n'aurais peut-être pas eu la même chance de remonter." Pas de la peur — une certitude physique acquise dans l'obscurité. N'est pas retourné en dix ans.
+[Ch 055] Rêves post-descente — Nuit suivante : images du couloir vu "depuis un angle non reconnu", chambre "à dimension différente", son de pression (comme oreille se débouchant dans un avion). Pas des voix.
+[Ch 055] Vauthier savait depuis novembre 2024 — A compris dès la reprise de l'affaire Geffard que ça allait ressortir. Il avait une hypothèse (lien galeries/Geffard) mais pas de certitude. "Vous non plus vous n'avez pas dit, pendant les premiers mois."
+[Ch 055] Hélène Fabre — Toujours domiciliée au 17 rue des Charmilles, 4e étage (vérification registres actuels). Bréval note l'adresse sans noter d'intention.
+[Ch 055] Connexion Bréval — Vauthier : 40 minutes complètement absentes. Bréval : intervalles discontinus depuis mars. "Peut-être une question de degré."
+[Ch 055] Ferrand — Passage en fin de matinée, voit le carnet avec les nouvelles notes. "Combien de personnes ont fait ça sans le dire ?" Bréval : "Je ne sais pas encore."
+[Ch 055] Décision la plus raisonnable — Bréval pense que la décision de Vauthier de ne jamais redescendre est "peut-être la décision la plus raisonnable de toute l'enquête depuis novembre 2024."
+[Ch 055] Accroche — "Ferrand passa dans l'encadrement de la porte en fin de matinée. Elle vit le carnet ouvert sur le bureau avec les nouvelles notes. Elle ne demanda pas. Bréval dit : « Vauthier était descendu en décembre 2015. Seul. Il a perdu quarante minutes. » Elle dit : « Il ne l'avait pas dit. » Bréval dit : « Non. » Elle dit : « Combien de personnes ont fait ça sans le dire ? » Il dit : « Je ne sais pas encore. »"
