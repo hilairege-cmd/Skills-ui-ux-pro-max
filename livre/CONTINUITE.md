@@ -933,3 +933,22 @@
 [Ch 038] Interphone — Bréval se rend au 17 rue des Charmilles. Vanel Jr. refuse l'entretien par interphone : "Il n'y a rien à dire. Je vais bien." La voix : plate, pas méfiante — constative.
 [Ch 038] Protocole de récupération — "Ne pas poser de questions sur ce qu'il a vu." Vanel Jr. n'a pas lu le protocole et a trouvé la même formulation.
 [Ch 038] Accroche — "Édouard Vanel Jr. refusa de voir Bréval. Il dit par interphone : « Il n'y a rien à dire. Je vais bien. » Bréval nota que sa voix ressemblait à celle d'un homme qui a eu froid très longtemps et qui a enfin chaud, mais qui ne fait pas confiance à la chaleur."
+
+---
+
+## CHAPITRE 039 — Faits établis
+
+### Les galeries rouvertes ch.039
+
+[Ch 039] Chrono — 14 mars 2025 : arrêté conservatoire expiré (4 mois depuis 13 novembre 2024). Bréval fait confirmer la caducité. 18 mars 2025 : troisième descente.
+[Ch 039] Vauthier refuse — Bréval demande à Vauthier de l'accompagner pour une troisième descente. Vauthier invoque calendrier chargé. Sa voix a "quelque chose de soulagé qu'il n'essayait pas de cacher." Bréval note le refus sans insister — reconnaît le même regard latéral qu'en novembre (Vauthier avait effacé ses photos).
+[Ch 039] Bréval seul — Il considère brièvement Ferrand (ne peut pas expliquer le but réel) et Kern (trop âgé). Il descend seul avec une corde de 50m. Il note que le protocole de récupération suppose deux personnes ; il substitue la borne de pierre à un second être humain.
+[Ch 039] Matériel — Lampe frontale, torche de secours, carnet étanche, craie de tracé, corde 50m.
+[Ch 039] Descente — Même entrée (cave 14 rue du Puits). Même trajet (130 pas + 35 droite + 70 direction rue Froide souterrain).
+[Ch 039] Chambre hexagonale — Troisième mesure. Diamètre est-ouest : 4m16 (vs 4m02 en novembre / vs 3m en premier accès). Hauteur de voûte : 2m44 (vs 2m32 / vs 2m10). La chambre s'élargit hors de la semaine critique — confirmant le cycle décrit par Kern (rétrécissement en semaine critique, élargissement autrement).
+[Ch 039] Sixième branche — Entrée identique (paroi N-NE, calcaire plus récent dans le linteau, plus large que les cinq autres branches). Bréval pose la corde depuis une borne de pierre jusqu'à l'entrée de la sixième branche : 22 mètres.
+[Ch 039] Entrée dans la sixième branche — Corde nouée au poignet (coulissante). 16 mètres de progression (environ 25 pas à 60cm). Couloir droit, pente légère vers le bas. Voûte calcaire. Silence total.
+[Ch 039] Arrêt — À 16 mètres : Bréval s'arrête sans décision consciente. "Pas de peur. Quelque chose d'autre." Rien de nommable — pas de variation de température, d'odeur, de son. Il tire sur la corde (répond). Il pourrait avancer encore 9 mètres. Il ne le fait pas. Il rebrousse chemin.
+[Ch 039] Mesure de la corde après remontée — Bréval mesure la corde en surface : 28 mètres. Avait posé 22 mètres. Différence : +6 mètres. Hors semaine critique. Note carnet : "La géométrie est non standard en dehors de la période cyclique également. Kern."
+[Ch 039] Confirmation empirique — La théorie de Kern se vérifie directement : la corde change de longueur dans la galerie. Ce n'est pas une erreur de mesure.
+[Ch 039] Accroche — "Il noua l'autre extrémité de la corde à son poignet et s'avança dans la sixième branche. Après seize mètres, il s'arrêta. Il n'avait plus envie d'avancer. Pas de peur. Quelque chose d'autre. Il rebroussa chemin, remonta, et nota dans son carnet que la corde mesurait maintenant 28 mètres."

@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 4 (ch. 26–35)  
-**Date de dernière mise à jour :** Ch. 038 validé  
-**Prochain chapitre à rédiger :** 039
+**Date de dernière mise à jour :** Ch. 039 validé  
+**Prochain chapitre à rédiger :** 040
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 38 / 120 |
-| Mots écrits | 77 455 |
+| Chapitres rédigés | 39 / 120 |
+| Mots écrits | 79 493 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 4 (ch. 26–35, budget 25 000) |
@@ -35,7 +35,7 @@
 | 2 | 9–16 | 20 000 | 16 032 | 3 968 | ✅ ÉTAPE 2 TERMINÉE (ch.009–016 ✓) |
 | 3 | 17–25 | 22 500 | 18 075 | 4 425 | ✅ ÉTAPE 3 TERMINÉE (ch.017–025 ✓) |
 | 4 | 26–35 | 25 000 | 20 779 | 4 221 | ✅ ÉTAPE 4 TERMINÉE (ch.026–035 ✓) |
-| 5 | 36–43 | 20 000 | 6 019 | 13 981 | ✍ EN COURS |
+| 5 | 36–43 | 20 000 | 8 057 | 11 943 | ✍ EN COURS |
 | 6 | 44–51 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 7 | 52–61 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 8 | 62–69 | 20 000 | 0 | 20 000 | ◻ À VENIR |
@@ -43,7 +43,7 @@
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **77 455** | **222 545** | |
+| **TOTAL** | **1–120** | **300 000** | **79 493** | **220 507** | |
 
 ---
 
@@ -156,6 +156,7 @@ Pour reprendre la session après interruption :
 | 036 | Camille part | 2 004 | ✓ Rédigé |
 | 037 | La théorie de Kern | 2 015 | ✓ Rédigé |
 | 038 | Les semaines de décembre | 2 000 | ✓ Rédigé |
+| 039 | Les galeries rouvertes | 2 038 | ✓ Rédigé |
 
 ---
 
