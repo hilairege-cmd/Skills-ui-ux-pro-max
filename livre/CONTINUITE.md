@@ -785,3 +785,23 @@
 [Ch 031] 17 rue des Charmilles — Lumière au rez-de-chaussée, fenêtre sur rue, fixe. Vu par Vanel à 19h ce soir. Bâtiment vide. Selon Vanel : "vide depuis que madame Frelat est partie en 2009." Dernier occupant connu : Frelat (date départ : 2009 selon Vanel — Kern avait dit 2019, écart de 10 ans non résolu).
 [Ch 031] Accroche — "Cette nuit seulement."
 
+
+---
+
+## CHAPITRE 032 — Faits établis
+
+### Le 17 ch.032
+
+[Ch 032] Action — Soir du 26 décembre 2024. Suite à l'appel d'Odile Vanel (19h30), Bréval appelle Ferrand à 19h35. Ils se retrouvent au 17 rue des Charmilles à environ 20h-20h10.
+[Ch 032] Gardienne — Madame Aurel, gardienne du 19 rue des Charmilles. Gère également le 17 depuis 2019, quand le propriétaire a arrêté de venir. Visite mensuelle. Le propriétaire n'est pas venu depuis octobre. N'a pas eu ses nouvelles depuis (sauf virement). Il passe normalement en décembre.
+[Ch 032] Propriétaire du 17 — Dernier contact : octobre 2024. Identité non établie (société civile immobilière, gérant démissionnaire 2021, capital zéro — déjà noté dans l'instruction en novembre).
+[Ch 032] Lumière — Ampoule nue allumée dans l'appartement du rez-de-chaussée. La porte de l'appartement n'était pas fermée à clé (poussée contre le cadre). Les gonds avaient été huilés récemment.
+[Ch 032] Appartement rez-de-chaussée — Vide, murs et plafond blancs, parquet de chêne sous couche de poussière uniforme. Trappe dans le parquet, à droite de la fenêtre, avec anneau de métal encastré.
+[Ch 032] Empreintes — Dans la poussière : trajet depuis la porte d'entrée jusqu'à la trappe de cave. Aller et retour. Semelles identiques (rainures en chevrons, pas de logo). Un seul individu. Empreinte autour de l'anneau de la trappe particulièrement marquée (prises de main multiples).
+[Ch 032] Lampe de chantier — Lampe torche de chantier orange, récente (pas de poussière sur le plastique), accrochée à un crochet dans la première marche de l'échelle de cave. Laissée intentionnellement. Photographiée par Ferrand.
+[Ch 032] Cave du 17 — Voûte à 3 m (plus haute que cave du 11), sol en terre battue, calcaire humide. Dans le mur du fond : ouverture créée proprement (2 parpaings retirés, bords nets, pas de brisure récente). Accès à une galerie non répertoriée.
+[Ch 032] Galerie non répertoriée — Brique rouge, voûte basse, direction est-ouest. Non présente dans les plans du réseau officiel, non dans les plans de l'instruction, non dans les relevés de l'assainissement. Hors périmètre de l'arrêté conservatoire du 13 novembre (qui couvre "rue du Puits, place du Vernay, 2-12 rue des Charmilles" — le 17 est hors périmètre).
+[Ch 032] Décision — Bréval et Ferrand ne sont pas entrés dans la galerie. Pas de corde. Période cyclique (entre 12 décembre et 2 janvier). Ils ont photographié depuis l'entrée, 5-6 mètres visibles avant l'obscurité.
+[Ch 032] Taille 43 — Ferrand compare les photographies le lendemain matin avec un logiciel de correspondance. Taille estimée : entre 42 et 44. Résolution insuffisante pour précision. Elle dit "entre 42 et 44" et n'ajoute pas autre chose. Vauthier chausse du 43. Bréval pense à la déclaration de Vauthier : "Je ne retournerai pas là-dedans." Les décisions fermes ont la propriété de s'éroder.
+[Ch 032] Accroche — "Les empreintes de chaussures dans la poussière avaient une taille 43. Vauthier chaussait du 43. Ferrand le nota sans rien dire."
+
