@@ -915,3 +915,21 @@
 [Ch 037] Posture de Bréval — N'affirme pas que la théorie est juste. Constate sa cohérence interne : les rapports Vauthier (30 min/91 min), les mesures Massard, les rapports médicaux 1911 deviennent cohérents dans le cadre proposé. "La cohérence d'un cadre n'est pas la preuve de sa justesse."
 
 [Ch 037] Accroche — "Bréval demanda : « Ces points existent ailleurs que dans le Vernay ? » Kern dit : « Oui. Mais je n'en ai documenté qu'un seul. » Il regardait ses mains quand il dit ça."
+
+---
+
+## CHAPITRE 038 — Faits établis
+
+### Les semaines de décembre ch.038
+
+[Ch 038] Chrono — Fin février 2025. Bréval revient a posteriori sur les nuits de surveillance de décembre-janvier.
+[Ch 038] Surveillance — Bréval a surveillé le Vernay 12 nuits autour du 12 décembre et du 2 janvier. Personnel, non officiel, non consigné dans le rapport d'enquête. Carnet seulement. Résultat : carrefour ordinaire, cinq branches, sixième direction : néant visible.
+[Ch 038] 12 décembre, 2h12 — Note carnet : "Carrefour ordinaire. Cinq branches. Sixième direction : néant visible. 40 min." Camille dormait encore dans l'appartement à cette date.
+[Ch 038] Réflexion sur le cycle — Avec la théorie de Kern : une discontinuité géométrique ne faillit pas. Si rien n'a été détecté, soit personne n'a réuni les deux conditions (périmètre cyclique + seul), soit quelqu'un les a réunies sans être détecté. Bréval note que lui-même remplissait les deux conditions pendant ses nuits de surveillance.
+[Ch 038] Ferrand — Bréval lui demande accès aux registres de signalement (secteur Vernay, 1er déc. 2024 – 15 janv. 2025). Elle obtient le relevé sans question.
+[Ch 038] Signalement 3 janvier 2025, 2h14 — "Personne désorientée, périmètre rue des Charmilles, identifiée et raccompagnée à son domicile par unité de nuit." Trouvée à l'intersection Charmilles/Froide (100 m du carrefour, direction N-NE). Homme adulte, debout, immobile, orienté vers le bas de la rue. N'a pas répondu aux premières questions. A répondu à son nom. Pas de blessure, pas d'ivresse. Aucune suite demandée.
+[Ch 038] Édouard Vanel Jr. — Né 1978. 17 rue des Charmilles. Même nom que le fondateur de la Société en 1911. Pas de plainte déposée. Rentré la nuit du 2 au 3 janvier, trouvé à 2h14. Pas de disparition signalée. Pas dans la liste des membres de la Société.
+[Ch 038] Connexions — 17 rue des Charmilles : même adresse que l'accès non répertorié aux galeries trouvé par Vauthier en novembre (puis photos effacées). Vanel Jr. au 17 : descendant probable du fondateur Édouard Vanel 1911. Odile Vanel (voisine de Geffard, ch018) : lien familial non établi précisément.
+[Ch 038] Interphone — Bréval se rend au 17 rue des Charmilles. Vanel Jr. refuse l'entretien par interphone : "Il n'y a rien à dire. Je vais bien." La voix : plate, pas méfiante — constative.
+[Ch 038] Protocole de récupération — "Ne pas poser de questions sur ce qu'il a vu." Vanel Jr. n'a pas lu le protocole et a trouvé la même formulation.
+[Ch 038] Accroche — "Édouard Vanel Jr. refusa de voir Bréval. Il dit par interphone : « Il n'y a rien à dire. Je vais bien. » Bréval nota que sa voix ressemblait à celle d'un homme qui a eu froid très longtemps et qui a enfin chaud, mais qui ne fait pas confiance à la chaleur."
