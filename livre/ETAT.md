@@ -8,9 +8,9 @@
 ## ÉTAT ACTUEL
 
 **Phase :** Phase 1 — Rédaction  
-**Statut :** ✍ EN COURS — Étape 7 (ch. 52–61)  
-**Date de dernière mise à jour :** Ch. 060 validé  
-**Prochain chapitre à rédiger :** 061
+**Statut :** ✍ EN COURS — Étape 8 (ch. 62–69)  
+**Date de dernière mise à jour :** Ch. 061 validé — ARRÊT ÉTAPE 7  
+**Prochain chapitre à rédiger :** 062
 
 ---
 
@@ -18,12 +18,12 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 60 / 120 |
-| Mots écrits | 124 639 |
+| Chapitres rédigés | 61 / 120 |
+| Mots écrits | 126 862 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
-| Étape en cours | 7 (ch. 52–61, budget 25 000) |
-| Dernière étape validée | 6 (ch. 44–51) |
+| Étape en cours | 8 (ch. 62–69, budget 20 000) |
+| Dernière étape validée | 7 (ch. 52–61) |
 
 ---
 
@@ -37,13 +37,13 @@
 | 4 | 26–35 | 25 000 | 20 779 | 4 221 | ✅ ÉTAPE 4 TERMINÉE (ch.026–035 ✓) |
 | 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
 | 6 | 44–51 | 20 000 | 16 221 | 3 779 | ✅ ÉTAPE 6 TERMINÉE (ch.044–051 ✓) |
-| 7 | 52–61 | 25 000 | 20 323 | 4 677 | ✍ EN COURS |
-| 8 | 62–69 | 20 000 | 0 | 20 000 | ◻ À VENIR |
+| 7 | 52–61 | 25 000 | 22 546 | 0 | ✅ ÉTAPE 7 TERMINÉE (ch.052–061 ✓) |
+| 8 | 62–69 | 20 000 | 0 | 20 000 | ✍ EN COURS |
 | 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **124 639** | **175 361** | |
+| **TOTAL** | **1–120** | **300 000** | **126 862** | **173 138** | |
 
 ---
 
@@ -178,6 +178,7 @@ Pour reprendre la session après interruption :
 | 058 | La clé d'Odile | 2 315 | ✓ Rédigé |
 | 059 | La corde depuis le 9 | 2 051 | ✓ Rédigé |
 | 060 | La promotion refusée | 2 006 | ✓ Rédigé |
+| 061 | Le 17 rue des Charmilles | 2 223 | ✓ Rédigé — ARRÊT ÉTAPE 7 |
 
 ---
 
@@ -326,3 +327,38 @@ Pour reprendre la session après interruption :
 - A-003 : Camille — séparation de corps confirmée (ch042), papiers non signés, contact réduit à minimum
 
 ---
+
+---
+
+### BILAN ÉTAPE 7 — ch. 52–61 (22 546 mots / budget 25 000)
+
+**Faits posés**
+- Trois études rationnelles lancées par Bréval : géologie (Gauthier), gaz (laboratoire préfecture), perceptif (Aubert).
+- Gauthier (géologie, oct. 2025) : négatif — aucune anomalie détectable dans le sous-sol du Vernay compatible avec les variations de mesures. Recommande de vérifier la précision des instruments.
+- Laboratoire préfecture (gaz, sept. 2025) : négatif — aucune trace de composés neurotoxiques ou hallucinogènes dans les prélèvements de la chambre et des galeries.
+- Aubert (perceptif, oct.–nov. 2025) : non concluant — variation de 8cm entre deux sessions non attribuable à une erreur systématique. Résistance puis attirance à l'entrée de la sixième branche reproduites par deux observateurs indépendants à trois semaines d'intervalle. Note personnelle hors rapport : « Je signale ce point sans pouvoir le qualifier. »
+- Bilan définitif (1er déc. 2025) : volet rationnel officiellement clos. Aucune des trois explications ordinaires ne couvre l'ensemble des anomalies.
+- Cailloux à encoches : Kern (5 encoches, 1 descente mémorisée, 4 non mémorisées depuis 1989) ; Bréval (6 encoches, 2 certaines, jusqu'à 4 non mémorisées) ; René Massard (1 caillou, 1 encoche). Type galet de rivière poli — aucun lien identifié à la géologie de calcaire de la chambre.
+- Puits vertical du 9 rue des Charmilles : trappe 60cm, barreaux fer 1870, 8m de descente, jonction galerie à 62m de la grille du 14 / 68m de la chambre. Vérifié Delisle 2017. Accès latéral (utilisé Vauthier 2015) bouché depuis 2018.
+- Odile Vanel : personne de surface pour décembre. 72 ans, mauvais genou, ne peut pas descendre — condition remplie par définition. Sept femmes ont tenu la corde en 114 ans (Marguerite Vanel, grand-mère Vanel, mère Vanel, Odile, Massard depuis 1978, deux membres décédés).
+- Descente de reconnaissance (15 nov.) : protocole avec Odile à la surface depuis le puits du 9. Chambre 4m07 (contraction continue). Sixième branche : seuil seulement, laser sans retour. Câble : tension constante perceptible depuis la surface pendant tout le trajet.
+- Plan décembre : entrée par le 14 rue du Puits, Odile avec câble depuis le puits du 9 — double fixation.
+- Ferrand (novembre 2021) : audition Hélène Fabre au Lariboisière — 17 rue des Charmilles 4e — amnésie 10h, retrouvée en pyjama dans la rue à 2h du matin, bilan neurologique négatif, classé épisode dissociatif section personnes vulnérables. Ferrand fait le lien avec l'adresse en mars 2025 mais ne le dit pas — « Ce n'était pas une information — c'était une impression. »
+- Ferrand a refusé une promotion à Paris en octobre 2022 parce que « quelque chose n'était pas fini ici. » Bréval : « Vous êtes la corde depuis novembre 2024. »
+- Hélène Fabre (1er déc., entretien Bréval) : sons 2015 (plusieurs semaines, nuit, grondement bas), classé canalisations Vanne par Vauthier. Amnésie 2021 : clé de cave prise, sortie dans la rue, 10h manquantes. Clé rendue le lendemain de l'hôpital — n'est jamais redescendue. Froid du parquet depuis 2017-2018, cause non identifiée. Détail non rapporté dans le dossier médical : portait son manteau quand retrouvée dans la rue — manteau accroché à l'entrée de l'appartement, non pris au moment de descendre. Fabre reste au 17.
+- Troisième contact documenté autour du 17 rue des Charmilles : sons 2015 (Vauthier classé), amnésie 2021 (Ferrand audition, Bréval 1er déc. entretien), résidence confirmée.
+
+**Questions ouvertes en entrée d'étape 8**
+- Qui est la personne sortie par René Massard en 1978 ? (Massard ne l'a pas dit explicitement)
+- Que contient exactement la sixième branche ?
+- Les cailloux à encoches : qui les pose ? D'où viennent-ils ?
+- Cordier va-t-il descendre dans les galeries seul ?
+- Fabre sera-t-elle affectée pendant la semaine critique de décembre ?
+- Mathilde et Camille : Bréval ne les a pas vues depuis août.
+- Bilan Étape 7 : Massard va-t-elle révéler ce qu'elle a caché depuis novembre 2024 ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : Camille — séparation de corps confirmée (ch042), papiers non signés, contact minimal
+

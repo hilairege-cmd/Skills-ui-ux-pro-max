@@ -1321,3 +1321,35 @@
 [Ch 060] Ferrand = la corde — Bréval établit le parallèle avec le protocole de René : "Vous êtes la corde depuis novembre 2024." Ferrand : "Je ne savais pas que je jouais ce rôle."
 [Ch 060] Hélène Fabre — Bréval décide que la deuxième raison de ne pas monter (ne pas savoir quoi lui demander) devient moins valide à mesure que décembre approche.
 [Ch 060] Accroche — "Ferrand dit : « Je ne savais pas que je jouais ce rôle. » Bréval dit : « Je ne savais pas non plus. » Elle hocha la tête. Elle avait refusé une promotion en 2022 pour rester à côté de quelque chose qu'elle n'arrivait pas à nommer. Trois ans plus tard, la chose avait un nom et une date. Ça ne rendait pas la décision plus facile à expliquer. Ça la rendait seulement moins abstraite."
+
+---
+
+## Ch. 061 — Le 17 rue des Charmilles (1er décembre 2025)
+
+**Rapport final Aubert (1er décembre)**
+- Deux sessions : 14 octobre (chambre seul) + 10 novembre (avec collègue géomètre pour vérification).
+- Variation de mesure entre les deux sessions : 4m19 (oct.) → 4m11 (nov.) — 8cm d'écart dans un espace physiquement stable. Aucune erreur systématique instrumentale identifiée. « Variation documentée, source non identifiée. »
+- Résistance puis attirance à l'entrée de la sixième branche : reproduites sur deux sessions par deux observateurs indépendants. Collègue décrit spontanément la résistance, puis l'attirance, sans avoir été informé des observations de la première session. Structure phénoménologique identique malgré des mots différents.
+- Note personnelle hors rapport : « Je signale ce point sans pouvoir le qualifier. »
+
+**Clôture du volet rationnel**
+- Bréval rature le mot « provisoire » sur le bilan de sept pages et écrit « définitif — 1er décembre 2025 ». Bilan définitif signé et daté, rangé dans le tiroir du bas avec les trois rapports.
+- Formule finale du bilan : aucune des trois explications ordinaires (géologie, gaz, perceptif) ne couvre l'ensemble des anomalies constatées depuis novembre 2024.
+- Le bilan n'est envoyé à personne.
+
+**Entretien Hélène Fabre (17 rue des Charmilles 4e, 1er décembre, 18h45)**
+- Premier contact direct Bréval–Fabre. Sans mandat. Fabre attendait que quelqu'un revienne depuis le signalement de 2015.
+- Sons 2015 : plusieurs semaines à l'automne, nuit, grondement bas régulier, comme frottement contre la pierre. Classé canalisations Vanne par Vauthier. Fabre n'a pas insisté.
+- Amnésie 2021 (confirmée par Fabre) : intention de descendre chercher des photos de son mari, clé de cave prise, souvenir du couloir avec la clé — puis retrouvée dans la rue à 2h du matin. Dix heures manquantes. Bilan neurologique négatif, classé épisode dissociatif.
+- Clé de cave rendue le lendemain de la sortie d'hôpital. Fabre n'est pas retournée dans le sous-sol depuis novembre 2021.
+- Froid parquet couloir depuis 2017-2018 : pas seulement en hiver. Plombier (×2) et électricien (×1) sans résultat. Tapis épais posé dans le couloir. Sujet clos pragmatiquement.
+- Détail non signalé dans le rapport médical 2021 : Fabre portait son manteau quand les voisins l'ont retrouvée dans la rue. Le manteau était accroché à l'entrée de l'appartement. Elle ne l'avait pas pris au moment de vouloir descendre dans la cave. Elle ne sait pas qui l'a pris. Elle n'a pas d'autre mot que « corps cohérent » (formulation des médecins).
+- Fabre reçoit la carte de Bréval (numéro direct pour décembre). Elle reste au 17 rue des Charmilles.
+
+**Réflexion Bréval (trajet retour)**
+- Rapprochement noté : Fabre a pris son manteau pendant son amnésie ; René Massard a oublié que quelqu'un était là et est revenu quand il s'en est souvenu. Deux corps agissant de manière cohérente pendant une absence de conscience. Le corps de Fabre savait qu'il allait dans la rue avant que Fabre sache qu'elle y allait. Bréval n'en tire pas de conclusion.
+
+**Échange final Ferrand**
+- Ferrand reçoit la donnée Fabre : clé de cave rendue, non redescendue, manteau pendant l'amnésie. Dit : « Ça fait partie des données. »
+- Échange de clôture d'étape : Ferrand : « Si aucune explication ordinaire ne tient, c'est que la question est mal posée. » Bréval : « Ou que la réalité est mal configurée. » Ferrand ne répond pas.
+
