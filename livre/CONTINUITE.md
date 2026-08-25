@@ -866,3 +866,21 @@
 [Ch 035] Liste des membres — Carton "Membres — liste nominative et dates d'admission." Cinq noms avec dates : Massard (1942), Cordier (1989), un nom non identifié (2003), Delisle (2016), un cinquième nom (2019) en écriture différente — ajouté après.
 [Ch 035] Bréval note — Ce que la Société avait conservé que l'instruction officielle avait supprimé : déclarations de Ledoux, rapports médicaux 1911, protocole de récupération.
 [Ch 035] Accroche — "Dans la chemise intitulée « Techniques de récupération », il y avait un protocole en trois pages, rédigé à la machine en 1979, avec des annotations manuscrites. En haut de la première page, une note à l'encre : « Je l'ai fait une fois. Ça marche. — I.M. »"
+
+---
+
+## CHAPITRE 036 — Faits établis
+
+### Camille part ch.036
+
+[Ch 036] Chrono — Nuit de début février 2025, 1h du matin.
+[Ch 036] Bréval ce soir-là — Rentrait de la brigade (relecture des statuts des SCI du périmètre rue des Charmilles, toujours pas de nom commun avec la liste des membres de la Société). Lumière sous la porte de l'appartement et lumière du couloir.
+[Ch 036] Les valises — Trois valises dans l'entrée, alignées contre le mur : deux grandes (Camille) + valise rouge à roulettes (Mathilde). Positionnées comme à l'hôtel qui attend un taxi. Décision prise depuis un certain temps.
+[Ch 036] Camille — Assise sur le bord du lit, habillée (jean, pull gris, chaussures), sac à main à côté. Pas de livre. Elle attendait.
+[Ch 036] Ce qu'elle dit — Elle part chez sa sœur Élise (à 40 minutes) pour quelques semaines, avec Mathilde. Pas de crise, pas de reproches, pas de larmes. Voix basse, organisée. Elle a observé la direction depuis novembre : la direction restait la même. "Le déplacement avait atteint une amplitude à laquelle elle ne savait plus comment fonctionner dans cet appartement." — même mot "déplacé" que celui utilisé par Bréval pour décrire sa propre vie.
+[Ch 036] Ce que Bréval ne dit pas — Il pense à "Je vais changer les choses" et "donne-moi encore du temps" et ne dit ni l'un ni l'autre. Les deux formulations sont fausses ou insuffisantes.
+[Ch 036] Mathilde — Informée par Camille ce soir. A demandé si son père viendrait à Noël. Camille a dit "on verrait." À 1h du matin : éveillée, en pyjama sous son manteau, valise rouge à la main, yeux mi-clos. Elle dit "Papa." Il la prend dans les bras. Elle ne demande rien. "La dignité des enfants qui ne veulent pas montrer qu'ils ont peur."
+[Ch 036] Taxi — Commandé pour 1h. Élise attendait.
+[Ch 036] Regard final de Camille — "La fatigue de quelqu'un qui a fait tout ce qu'on pouvait faire, et qui a décidé de s'arrêter." Pas de colère.
+[Ch 036] Accroche — "Elle dit en dernier : « Je ne t'en veux pas, Simon. Tu es quelqu'un qui a besoin d'aller au fond des choses, et cette fois le fond est trop profond. » La porte se referma. Bréval resta dans l'entrée jusqu'à ce qu'il entende le taxi démarrer."
+[Ch 036] ÉTAT — Bréval vit maintenant seul dans l'appartement rue du Moulin-Neuf.
