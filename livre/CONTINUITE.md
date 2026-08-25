@@ -1120,3 +1120,19 @@
 [Ch 049] Connexion avec Ledoux (1971) — Ledoux descendu seul en décembre 1971 avait noté "La personne disparue est dans la sixième branche. Je le sais." René Massard en 1978 dit de même avoir "senti une présence." Les trois disparus de 1911 (Grégoire, Hubert, Dassot) sont probablement toujours dans la sixième branche.
 [Ch 049] Caillou de René Massard — René avait trouvé un caillou dans sa poche après sa seule entrée (novembre 1978). Une encoche. Irène le conserve depuis sa mort en 2003. Bréval sort son propre caillou sans compter les encoches. Les deux cailloux côte à côte sur la table. "Ils ne circulent pas. Chacun garde le sien."
 [Ch 049] Accroche — "Bréval reprit le chemin de la brigade par la rue de la Vanne. Il avait les trois pages dans la poche. Il pensa à René Massard, quarante-six ans plus tôt, sorti de la sixième branche par une femme de vingt-neuf ans qui tirait une corde seule dans le noir. Il pensa à ce que René avait dit — « J'avais oublié que tu étais là. Et quand je m'en suis souvenu, je suis revenu. » Il ne savait pas encore pour qui il tiendrait la corde. Ou si c'était lui qu'on tiendrait."
+
+---
+
+## CHAPITRE 050 — Faits établis
+
+### Déjeuner avec Camille ch.050
+
+[Ch 050] Chrono — Mi-août 2025. Bréval appelle Camille (premier appel depuis avril). Déjeuner samedi, rue de la Harpe.
+[Ch 050] Dernière rencontre physique avant ch050 — Juin 2025, remise des prix de Mathilde (observé de loin par Bréval en novembre/décembre dans ch033, cette remise est différente).
+[Ch 050] Mathilde — Bon brevet. Demande de changement de lycée pour aller dans un établissement plus central. Camille est pour. Bréval sans position. Mathilde vit chez Camille (depuis la séparation de corps). Elle demande des nouvelles de Bréval via sa mère.
+[Ch 050] Appartement — Bail rue du Moulin-Neuf renouvelé pour un an (courait jusqu'en octobre 2025). Fenêtres ouvertes depuis mai — Mathilde l'a signalé à Camille.
+[Ch 050] Papiers Maître Leroux — Toujours dans le tiroir depuis avril 2025 (non signés). Ni Bréval ni Camille n'en parle.
+[Ch 050] La conversation déraille — Camille rappelle novembre (Bréval incapable d'écrire "carrefour"). Bréval confirme 6 branches. Il explique les angles (362° vs 360°), la chambre, les mesures variables, les gens qui entrent et ne reviennent pas. Il admet "peut-être" à la question sur ses propres heures perdues.
+[Ch 050] Camille — "Tu m'entends ? Tu me parles de géométrie non euclidienne pour expliquer une enquête criminelle." Elle part avant le dessert. Dernière phrase : "Appelle Mathilde. Elle demande de tes nouvelles."
+[Ch 050] "Ça me fait peur" — Camille dit "ça me fait peur" (pas "tu me fais peur"). Bréval note la distinction.
+[Ch 050] Accroche — "Bréval rentra par le boulevard Saint-Michel. Il pensa à ce qu'elle avait dit — 'quelqu'un qui vit dans quelque chose que je ne comprends pas.' Ce n'était pas un reproche. C'était une observation exacte. Il avait commencé à vivre dans quelque chose dont il ne trouvait pas les mots, et les mots qu'il avait — angles, mesures, corde, discontinuité — n'étaient pas faits pour une conversation à table dans un restaurant de la rue de la Harpe. Il s'arrêta au coin de la rue Soufflot. Il ne savait pas si c'était la séparation qui avait créé cet écart ou si c'était l'enquête. Il finit par ne pas trancher. Les deux, peut-être, ensemble."

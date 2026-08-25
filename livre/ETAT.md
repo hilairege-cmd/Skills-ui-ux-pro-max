@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 6 (ch. 44–51)  
-**Date de dernière mise à jour :** Ch. 049 validé  
-**Prochain chapitre à rédiger :** 050
+**Date de dernière mise à jour :** Ch. 050 validé  
+**Prochain chapitre à rédiger :** 051
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 49 / 120 |
-| Mots écrits | 100 230 |
+| Chapitres rédigés | 50 / 120 |
+| Mots écrits | 102 230 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 6 (ch. 44–51, budget 20 000) |
@@ -36,14 +36,14 @@
 | 3 | 17–25 | 22 500 | 18 075 | 4 425 | ✅ ÉTAPE 3 TERMINÉE (ch.017–025 ✓) |
 | 4 | 26–35 | 25 000 | 20 779 | 4 221 | ✅ ÉTAPE 4 TERMINÉE (ch.026–035 ✓) |
 | 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
-| 6 | 44–51 | 20 000 | 12 194 | 7 806 | ✍ EN COURS |
+| 6 | 44–51 | 20 000 | 14 194 | 5 806 | ✍ EN COURS |
 | 7 | 52–61 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 8 | 62–69 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **100 230** | **199 770** | |
+| **TOTAL** | **1–120** | **300 000** | **102 230** | **197 770** | |
 
 ---
 
@@ -167,6 +167,7 @@ Pour reprendre la session après interruption :
 | 047 | Cordier, juillet | 2 012 | ✓ Rédigé |
 | 048 | Massard transmet | 2 080 | ✓ Rédigé |
 | 049 | Le protocole de récupération | 2 030 | ✓ Rédigé |
+| 050 | Déjeuner avec Camille | 2 000 | ✓ Rédigé |
 
 ---
 
