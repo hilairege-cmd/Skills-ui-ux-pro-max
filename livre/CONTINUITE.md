@@ -1104,3 +1104,19 @@
 [Ch 048] Le cycle long — Décembre 2025 = 114e anniversaire de la fermeture du chantier de 1911, et terme du cycle long de 113 ans. "La première fois dans un cycle de 113 ans, on voit la discontinuité. La deuxième fois, elle nous voit." Expression attribuée au mari de Massard.
 [Ch 048] Anomalie décembre 2015 — La contraction de décembre 2015 est moins marquée que d'habitude (3m22, vs rebond habituel). Massard ne l'explique pas.
 [Ch 048] Accroche — "Massard posa le cahier sur la table. Elle dit : « La semaine critique de décembre 2025 ne sera pas comme celle de 2024. La première fois dans un cycle de 113 ans, on voit la discontinuité. La deuxième fois, elle nous voit. » Elle dit ça sans intonation d'avertissement. Comme quelqu'un qui rappelle quelque chose d'établi depuis longtemps."
+
+---
+
+## CHAPITRE 049 — Faits établis
+
+### Le protocole de récupération ch.049
+
+[Ch 049] Chrono — Début août 2025. Deuxième séance de transmission avec Massard, environ dix jours après la première.
+[Ch 049] René Massard — Mari d'Irène Massard. Mort en 2003. Entré seul dans la sixième branche le 11 novembre 1978 (point bas du cycle, sans avertir Irène). Retrouvé par Irène via la corde fixée à la borne. Sorti après 40 minutes de traction. Physiquement intact.
+[Ch 049] Témoignage de René Massard (1978) — Ce qu'il a rapporté de l'intérieur : espace plus grand que les dimensions du couloir ne permettaient. Lumière sans source identifiable. Mouvements "dans la pierre" (pas contre). Voix ou plusieurs voix, mots non distinguables. Désir fort de continuer plutôt que de reculer. Retenu par la tension de la corde. Citation exacte : "J'avais oublié que tu étais là. Et quand je m'en suis souvenu, je suis revenu."
+[Ch 049] Protocole de récupération (texte) — Trois pages dactylographiées, novembre 1979, par René Massard. Note manuscrite d'Irène en bas : "Je l'ai fait une fois. Ça marche. — I.M." Procédure : (1) deux personnes, une d'entrée, une de surface. (2) personne de surface au bas de l'escalier 14 rue du Puits, contact physique permanent avec la corde, ne lâche pas, n'entre pas. (3) personne d'entrée : 50m de corde minimum, fixe son extrémité à la borne de calcaire à l'entrée de la sixième branche. (4) dans la branche : tirages réguliers toutes les 20 secondes, arrêt si perte de contact, attache la corde sur la personne à récupérer avant tout. (5) remontée : signal trois tirages lents, traction régulière, ne pas interrompre.
+[Ch 049] Corde de Bréval (mars 2025) — Bréval pense à sa propre corde de mars : 22 mètres, bien en dessous des 50m requis. Il descendu sans personne à la surface. Ne le dit pas à Massard.
+[Ch 049] "Vous avez mis la corde. Ça compte." — Massard à Bréval. Bréval ne comprend pas exactement ce que cela signifie.
+[Ch 049] Connexion avec Ledoux (1971) — Ledoux descendu seul en décembre 1971 avait noté "La personne disparue est dans la sixième branche. Je le sais." René Massard en 1978 dit de même avoir "senti une présence." Les trois disparus de 1911 (Grégoire, Hubert, Dassot) sont probablement toujours dans la sixième branche.
+[Ch 049] Caillou de René Massard — René avait trouvé un caillou dans sa poche après sa seule entrée (novembre 1978). Une encoche. Irène le conserve depuis sa mort en 2003. Bréval sort son propre caillou sans compter les encoches. Les deux cailloux côte à côte sur la table. "Ils ne circulent pas. Chacun garde le sien."
+[Ch 049] Accroche — "Bréval reprit le chemin de la brigade par la rue de la Vanne. Il avait les trois pages dans la poche. Il pensa à René Massard, quarante-six ans plus tôt, sorti de la sixième branche par une femme de vingt-neuf ans qui tirait une corde seule dans le noir. Il pensa à ce que René avait dit — « J'avais oublié que tu étais là. Et quand je m'en suis souvenu, je suis revenu. » Il ne savait pas encore pour qui il tiendrait la corde. Ou si c'était lui qu'on tiendrait."
