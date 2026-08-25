@@ -765,3 +765,23 @@
 
 ---
 
+
+---
+
+## CHAPITRE 031 — Faits établis
+
+### La date approche ch.031
+
+[Ch 031] Chrono — Jeudi 26 décembre 2024. Quatorze jours depuis la nuit cyclique du 12 décembre. Rien d'observé dans le quartier depuis le 12. La surveillance de nuit (rondes) est maintenue.
+[Ch 031] Personnel — Bréval a passé Noël (25 décembre) avec Mathilde. Camille l'a amenée et repartie sans attendre. Bréval l'a portée au lit endormie. Il est rentré seul rue du Moulin-Neuf dans la nuit. L'armoire était fermée, il n'a pas regardé.
+[Ch 031] J-7 — 26 décembre 2024 : sept jours avant le 2 janvier 2025 (prochaine date cyclique à risque).
+[Ch 031] Cordier — Appelle depuis numéro personnel de Bréval à 10h. A trouvé dans les archives municipales (section travaux publics, 1975-1985) une demande de travaux pour la rue du Puits en 1978 : "consolidation des fondations sur les numéros 8 à 18, travaux souterrains préventifs, durée un mois, septembre 1978." Signataire : Massard Irène, qualité "administratrice de la Société de Secours Mutuel du Vernay." Cordier a accédé aux archives par demande normale (chercheur indépendant, formulaire standard, trois semaines d'attente).
+[Ch 031] Archives 1978 — Rapport de fin de chantier dans le dossier : travaux exécutés, zone sécurisée. Prestataire : entreprise Galli Travaux Souterrains (Bordeaux), dissoute en 1984. Aucune anomalie corrigée dans les rapports d'inspection. Les travaux n'ont pas servi à consolider des fondations.
+[Ch 031] Objet social modifié — La demande de 1978 déclare l'objet de la Société comme "préservation du patrimoine souterrain du quartier du Vernay" — différent de l'objet de 1911 ("assistance mutuelle aux familles des victimes d'accidents de travail..."). Massard a adapté la formulation pour la demande.
+[Ch 031] FAIT CRITIQUE — Massard avait organisé un accès officiel aux galeries (demande administrative, mois entier) avant que se produise l'entrée involontaire de l'habitant en 1978. Elle n'a pas mentionné cet accès préparé lors des entretiens de décembre. Formulation de Bréval : "vérité incomplète, fournie de façon à être suffisante sans être complète."
+[Ch 031] Schéma des omissions — Bréval note une cohérence entre les non-dits de Massard : (1) ce qui s'est passé pendant les six mois après 1978, (2) qui a arraché la page du cahier, (3) pourquoi Delisle "a d'autres fonctions", (4) l'accès préparé de 1978. Note entre crochets : "[Massard — 1978 — accès officiel préparé. Non mentionné. Comparer avec autres omissions : six mois, page arrachée, Delisle. Schéma.]"
+[Ch 031] Ferrand — Confirme à 17h par message : le cahier 3 contient une entrée d'août 1978 — "préparation de la surveillance active pour septembre." Entrée du 14 septembre 1978 note l'entrée de l'habitant. Aucune mention de la demande de travaux dans le cahier.
+[Ch 031] Odile Vanel — Appelle Bréval à 19h30, numéro inconnu (son propre numéro). C'est le premier contact direct depuis novembre (recommandés renvoyés, convocations ignorées). Elle appelle parce qu'elle a vu quelque chose.
+[Ch 031] 17 rue des Charmilles — Lumière au rez-de-chaussée, fenêtre sur rue, fixe. Vu par Vanel à 19h ce soir. Bâtiment vide. Selon Vanel : "vide depuis que madame Frelat est partie en 2009." Dernier occupant connu : Frelat (date départ : 2009 selon Vanel — Kern avait dit 2019, écart de 10 ans non résolu).
+[Ch 031] Accroche — "Cette nuit seulement."
+
