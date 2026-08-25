@@ -1020,3 +1020,19 @@
 [Ch 043] Tour des rues — Kern montre in situ : 17 rue des Charmilles (accès non répertorié, direction N-23 inexistant) ; rue de la Vanne (chantier 1908 = ouverture d'accès sans création) ; 14 rue du Puits (accès de service depuis 1904) ; rue Saint-Éloi (les trois disparus "peut-être encore là — le temps dans la sixième branche n'est pas le temps ici").
 [Ch 043] Fin d'étape 5 — Kern repart dans son immeuble. Bréval compte cinq rues au carrefour (cinq). Rentre chez lui.
 [Ch 043] Accroche — "Bréval rentra chez lui. L'appartement sentait le renfermé. Il avait oublié d'ouvrir les fenêtres depuis une semaine. Il s'assit dans le noir et attendit que quelque chose se passe. Rien ne se passa. Il trouva ça pire."
+
+---
+
+## CHAPITRE 044 — Faits établis
+
+### Le journal de mesures ch.044
+
+[Ch 044] Chrono — Mai 2025. Environ deux semaines après la rencontre avec Kern au carrefour.
+[Ch 044] Nouveau matériel — Bréval achète un mètre laser (précision 2mm, portée 100m) et deux carnets neufs. Nouvelle méthode : une ligne par mesure, date/heure/point de référence/résultat. Aucun commentaire dans le journal.
+[Ch 044] Point de référence fixe — Le bas de l'escalier de cave du 14 rue du Puits (roche marquée à la craie). Désigné "point A" pour toutes les descentes.
+[Ch 044] Quatre descentes laser (mai 2025) — Longueur totale galerie depuis point A jusqu'à chambre : 384,22m — 388,18m — 385,62m — 386,07m. La variation n'est pas monotone. Moyenne : ~386m. Marge de variation : environ 4m.
+[Ch 044] Angles chambre hexagonale — Somme des angles entre les six branches mesurée à 362° (descente 1) et 363° (descente 2). Géométrie non euclidienne confirmée dans les angles de la chambre, pas seulement dans les longueurs.
+[Ch 044] Diamètre chambre — Augmentation de 4m22 (descente 1) à 4m29 (descente 2) en une semaine. Cohérent avec les mesures des descentes précédentes (progression depuis novembre 2024 : 3m → 4m02 → 4m16 → 4m22 → 4m29).
+[Ch 044] Contradiction avec mesure au pas — Troisième descente (mars 2025) : ~140m comptés en pas. Descente laser (mai 2025) : ~384m. Plus du double pour le même trajet. Bréval note l'écart sans l'expliquer.
+[Ch 044] Ferrand — "Tu changes de méthode." Bréval : "Je change d'objet." Elle ne demande pas de précision.
+[Ch 044] Accroche — "La longueur de la galerie entre la trappe de la Vanne et l'entrée de la chambre variait selon les mesures. Jamais par plus de quatre mètres. Mais jamais la même. Bréval avait cinq mesures différentes sur cinq descentes. Il en fit la moyenne et écrivit : « 384 mètres ± 4 m ». Ce n'était pas une marge d'erreur."
