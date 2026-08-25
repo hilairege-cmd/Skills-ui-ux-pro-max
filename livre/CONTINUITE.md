@@ -969,3 +969,19 @@
 [Ch 040] Connexion Vauthier — SGT R. Vauthier = Raymond Vauthier = grand-père de Rémi Vauthier (technicien qui a accompagné Bréval en novembre). Rémi avait dit "ne jamais avoir entendu parler" des dossiers de son grand-père sur le Vernay — en regardant le plancher.
 [Ch 040] Inférences Bréval — "Je le sais. Je ne peux pas l'expliquer." : certitude sans raisonnement, pas une intuition. Ledoux descendu seul pendant la semaine critique. Remonté — "je ne sais pas si c'est une décision ou une chance." Parallèle avec l'arrêt de Bréval à 16 mètres dans la sixième branche (18 mars) : ni lui non plus ne sait si c'était une décision.
 [Ch 040] Accroche — "La note finale de Ledoux, à la main : « Je suis revenu. Je ne sais pas si c'est une décision ou une chance. Je ne veux plus redescendre. » Le rapport avait été classé cinq jours plus tard par son supérieur, le sergent Vauthier."
+
+---
+
+## CHAPITRE 041 — Faits établis
+
+### La monographie de 1987 ch.041
+
+[Ch 041] Chrono — Début avril 2025. Bréval lit la monographie intégralement (en sa possession depuis novembre, exemplaire personnel de Kern).
+[Ch 041] Monographie — Titre complet : "Mémoire sur le quartier du Vernay et son sous-sol : histoire et documentation (1790–1920)" — Auguste Kern, 1987, 218 pages plus annexes. Couverture rigide, papier jauni. L'exemplaire donné par Kern à Bréval en novembre est son propre exemplaire de travail (passages soulignés au crayon, points d'interrogation dans les marges, étoiles).
+[Ch 041] Contenu général — Chapitres 1-6 : histoire locale ordinaire. Kern y décrit les travaux de 1908-1913 et l'accident de 1911 comme un accident de chantier parmi d'autres. L'accident mentionné en deux pages. Trois disparus, trois rescapés, "enquête conclue sans responsabilité pénale établie." Choix de cadrage délibéré.
+[Ch 041] Chapitre 7 "Le sous-sol du Vernay" — Page 142-172 environ. Densité différente : mesures, références techniques, géologie. À la p.158, Kern décrit la "structure centrale" sans la nommer, sans localisation précise. Mesures : diamètre 3 à 4 mètres selon relevés, voûte 2 à 2m50. Note : "les relevés effectués à des dates différentes présentent des discordances que l'état des instruments de l'époque ne suffit pas à expliquer." P.159 : les cinq galeries "correspondent approximativement" aux cinq rues du carrefour des Cinq-Vents.
+[Ch 041] La carte (p.164) — Illustration pleine page, dessin à la plume. Titre : "Schéma des galeries du sous-sol du Vernay (reconstitué d'après relevés 1906-1912)." Hexagone central + cinq branches étiquetées (direction + longueur relevée). Cinq branches seulement.
+[Ch 041] Le trait au crayon — Dans la marge droite de la carte, au crayon graphite : un sixième trait partant de l'hexagone, direction N-NE. Léger, hésitant, différent du dessin à la plume. Pas d'étiquette, pas de longueur. La direction correspond exactement à la sixième branche dans la chambre, à la sixième rue dessinée par Delisle en janvier.
+[Ch 041] Kern — Bréval l'appelle. Kern confirme : il a ajouté le trait lui-même, en 1989, deux ans après la publication. "J'avais relu le livre et j'avais vu que j'avais dessiné cinq branches. J'ai ajouté la sixième." Raison : "Je savais qu'elle existait — je l'avais vue moi-même. Mais je n'avais pas de source que je pouvais citer." Publié ce qu'il pouvait documenter. Ajouté le trait dans son propre exemplaire "pour que quelqu'un le voie, s'il lisait ce livre-là."
+[Ch 041] Inférence Bréval — Kern a donné à Bréval son propre exemplaire en novembre, sachant que le trait était là, sans le signaler. Il attendait que Bréval le trouve.
+[Ch 041] Accroche — "Bréval appela Kern pour lui parler de la marge. Kern dit : « Je sais. C'est moi qui l'ai ajoutée, deux ans après la publication. En 1989. » Il s'arrêta là."
