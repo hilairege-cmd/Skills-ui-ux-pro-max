@@ -805,3 +805,25 @@
 [Ch 032] Taille 43 — Ferrand compare les photographies le lendemain matin avec un logiciel de correspondance. Taille estimée : entre 42 et 44. Résolution insuffisante pour précision. Elle dit "entre 42 et 44" et n'ajoute pas autre chose. Vauthier chausse du 43. Bréval pense à la déclaration de Vauthier : "Je ne retournerai pas là-dedans." Les décisions fermes ont la propriété de s'éroder.
 [Ch 032] Accroche — "Les empreintes de chaussures dans la poussière avaient une taille 43. Vauthier chaussait du 43. Ferrand le nota sans rien dire."
 
+
+---
+
+## CHAPITRE 033 — Faits établis
+
+### La fête de l'école ch.033
+
+[Ch 033] Chrono — Samedi, mi-janvier 2025. L'enquête est en cours. Bréval est au bureau de la brigade le matin.
+[Ch 033] Enquête en cours — Bréval travaille sur les relevés cadastraux des propriétaires du périmètre rue des Charmilles depuis 2001 (SCI identifiées, inscriptions registres de commerce). Il cherche un nom récurrent, un lien entre propriétaires. Ferrand cherche les statuts complets de la SCI du 17 rue des Charmilles.
+[Ch 033] Agenda — La note en rouge dans l'agenda : "Fête école Mathilde — 13h30" (mise par Bréval lui-même, à la demande de Mathilde, début du mois). La deuxième note, deux lignes plus bas, en écriture serrée : "SCI 17 rue des Charmilles — statuts complets demandés à Ferrand."
+[Ch 033] 14h34 — Bréval regarde l'heure. Un quart de seconde de décalage avant de comprendre ce que signifie 14h34 en regard de la note en rouge. Il pose le dossier, prend son manteau. L'école est à douze-quatorze minutes en voiture.
+[Ch 033] Trajet — Radio éteinte. Bréval pense à ce qu'il dira. Pas de formulation disponible. Mathilde classe "le travail" comme une case qui tient. Elle range ses affaires dès qu'il rentre (Camille le lui avait signalé) — adaptation inconsciente à quelque chose.
+[Ch 033] Arrivée à l'école — Arrive quand les dernières familles partent (kermesse à moitié débarrassée, nappes pliées, chaises empilées). Croît un couple avec un enfant. Musique enregistrée qui s'arrête. Personne ne lui demande rien — il a l'air d'un parent qui arrive en retard, ce qu'il est.
+[Ch 033] Scène vitrée — Depuis le couloir, à travers la vitre de la salle de classe, Bréval voit Mathilde avec Camille. Camille agenouillée, rajustant quelque chose dans le col ou les cheveux de Mathilde. Mathilde regardant en l'air. Mathilde dit quelque chose, Camille rit. Bréval ne peut pas entendre. Image complète — sans lacune dans laquelle il serait naturel de s'insérer.
+[Ch 033] Ne pousse pas la porte — La porte n'est pas verrouillée. Aucun obstacle. Il reste dans le couloir. Mathilde ne le voit pas. Camille ne se retourne pas.
+[Ch 033] Mathilde repart — Camille récupère un dessin plié, le glisse dans le sac. Elles sortent par l'autre sortie (côté cour sud). Mathilde tient un autre dessin par le coin inférieur, non plié. Elles disparaissent derrière l'angle du préau. Bréval attend une minute. Repart.
+[Ch 033] Réflexion dans la voiture — Mains sur le volant, moteur éteint. Ce qu'il a fait (ne pas pousser la porte) : pas de la lâcheté, "la reconnaissance d'un état de fait." L'image était complète de chaque côté du verre. L'insérer ce soir-là aurait été une interruption. Il rappelle la phrase de Mathilde en décembre : "Papa, c'est quoi un labyrinthe ?" / "Je cherche la sortie." C'était vrai en décembre et ça l'est encore.
+[Ch 033] Glissement — Bréval ne sait pas quand les promesses sont devenues des choses qu'il note dans l'agenda plutôt que des choses qu'il sait. Comparaison : le tapis sous la table basse déplacé de quelques centimètres, dans une direction difficile à préciser, visible seulement quand le déplacement atteint une amplitude visible.
+[Ch 033] Quatre minutes — Bréval était à dix mètres de Mathilde pendant quatre minutes. Elle ne l'a pas vu.
+[Ch 033] Calcul 23/35 — Sur le trajet de retour à la brigade, Bréval compte les nuits où il a dormi rue du Moulin-Neuf depuis le 4 novembre. Résultat : vingt-trois nuits sur trente-cinq jours d'enquête. Ce n'est pas un ratio planifié — résultat de décisions quotidiennes isolément raisonnables (rester une heure de plus, partir avant que Mathilde se lève, ne pas rentrer parce que la nuit de surveillance commence dans trois heures). "Chaque décision prise isolément était compréhensible. L'ensemble produisait un chiffre."
+[Ch 033] Ne note pas — Bréval ne note pas le chiffre dans son carnet. Il le sait.
+[Ch 033] Accroche — "Il repartit sans les appeler. Sur le trajet de retour au bureau, il calcula que depuis le début de l'enquête, il avait dormi à son domicile vingt-trois nuits sur trente-cinq."
