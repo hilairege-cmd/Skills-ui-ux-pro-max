@@ -1086,3 +1086,21 @@
 [Ch 047] Hypothèse Bréval (brigade, après la rencontre) — L'annotation "Le Vernay, voir aussi" a peut-être été faite par Kern avant sa première descente en 1989. Le registre des consultations depuis 1985 ne contient pas le nom de Kern pour cet article — ou il a consulté avant 1985, ou ce n'est pas lui.
 [Ch 047] Échange tactique — Ni Bréval ni Cordier ne donne l'essentiel de ce qu'il sait. Bréval confirme : la chambre hexagonale existe, l'enquête est ouverte, décision administrative correcte. Cordier retient : les noms des deux résidents disparus. Chacun sait que l'autre en sait plus.
 [Ch 047] Accroche — "Cordier glissa un carton par-dessus la table. Une photocopie d'une page de revue — caractères serrés, titre en haut : « Sur la discontinuité topologique dans les formations géologiques stratifiées », Félix Varos, Académie des sciences, 1922. Il dit : « J'ai trouvé ça en cherchant autre chose. Vous connaissez ce nom ? » Bréval dit : « Non. » Cordier dit : « Moi non plus. Mais quelqu'un a annoté cet article à la main — « Le Vernay, voir aussi » — et la copie vient des archives de la bibliothèque municipale du quartier. »"
+
+---
+
+## CHAPITRE 048 — Faits établis
+
+### Massard transmet ch.048
+
+[Ch 048] Chrono — Fin juillet 2025. Premier contact initié par Massard dans toute l'enquête.
+[Ch 048] Massard sait pour Renard — Elle a appris que Bréval a mandaté un géomètre expert. Elle ne dit pas comment. La Société a des canaux de surveillance du quartier.
+[Ch 048] Cahier 2010-2024 — Massard montre le dernier cahier de mesures de la Société. Deux mesures par an (juin et décembre). Massard fait les descentes seule depuis 2016 (avec Delisle parfois), seule avant 2016. Elle ne descend plus depuis 2022 (78 ans). La case décembre 2024 est vide.
+[Ch 048] Tableau comparé depuis 1921 — Tableau de toutes les mesures juin/décembre depuis 1921 : la chambre était à 0m88 en décembre 1911 (première mesure, après les trois disparitions, dans le PV de création de la Société). Progression visible sur un siècle.
+[Ch 048] Première mesure de la chambre (1911) — Décembre 1911 : 0m88 de diamètre. C'est dans le procès-verbal de création de la Société de Secours Mutuel du Vernay. Les fondateurs Théas et Marchetti ont fait les mesures de 1921 à 1949.
+[Ch 048] Calendrier de surveillance — La Société surveille trois périodes par an : (1) Semaine critique de décembre : du 7 au 14. (2) Les cinq jours autour du solstice de juin. (3) Une semaine autour de l'équinoxe d'automne (fin septembre). Ces périodes concentrent la quasi-totalité des incidents documentés depuis 1921.
+[Ch 048] Six déménagements spontanés — Six cas documentés de résidents du Vernay partant sans adresse depuis 1921 (dont deux dans les 18 derniers mois). Premier cas : 1953, habitant en contact constant avec les galeries via une fissure dans sa cave, sans avoir franchi le seuil.
+[Ch 048] Effectifs opérationnels — Deux personnes pour la surveillance : Massard + Delisle (problèmes de dos depuis 2023). Massard laisse entendre qu'elle a besoin de Bréval pour décembre 2025.
+[Ch 048] Le cycle long — Décembre 2025 = 114e anniversaire de la fermeture du chantier de 1911, et terme du cycle long de 113 ans. "La première fois dans un cycle de 113 ans, on voit la discontinuité. La deuxième fois, elle nous voit." Expression attribuée au mari de Massard.
+[Ch 048] Anomalie décembre 2015 — La contraction de décembre 2015 est moins marquée que d'habitude (3m22, vs rebond habituel). Massard ne l'explique pas.
+[Ch 048] Accroche — "Massard posa le cahier sur la table. Elle dit : « La semaine critique de décembre 2025 ne sera pas comme celle de 2024. La première fois dans un cycle de 113 ans, on voit la discontinuité. La deuxième fois, elle nous voit. » Elle dit ça sans intonation d'avertissement. Comme quelqu'un qui rappelle quelque chose d'établi depuis longtemps."

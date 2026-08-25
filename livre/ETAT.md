@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 6 (ch. 44–51)  
-**Date de dernière mise à jour :** Ch. 047 validé  
-**Prochain chapitre à rédiger :** 048
+**Date de dernière mise à jour :** Ch. 048 validé  
+**Prochain chapitre à rédiger :** 049
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 47 / 120 |
-| Mots écrits | 96 120 |
+| Chapitres rédigés | 48 / 120 |
+| Mots écrits | 98 200 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 6 (ch. 44–51, budget 20 000) |
@@ -36,14 +36,14 @@
 | 3 | 17–25 | 22 500 | 18 075 | 4 425 | ✅ ÉTAPE 3 TERMINÉE (ch.017–025 ✓) |
 | 4 | 26–35 | 25 000 | 20 779 | 4 221 | ✅ ÉTAPE 4 TERMINÉE (ch.026–035 ✓) |
 | 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
-| 6 | 44–51 | 20 000 | 8 084 | 11 916 | ✍ EN COURS |
+| 6 | 44–51 | 20 000 | 10 164 | 9 836 | ✍ EN COURS |
 | 7 | 52–61 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 8 | 62–69 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **96 120** | **203 880** | |
+| **TOTAL** | **1–120** | **300 000** | **98 200** | **201 800** | |
 
 ---
 
@@ -165,6 +165,7 @@ Pour reprendre la session après interruption :
 | 045 | Chez Kern | 2 052 | ✓ Rédigé |
 | 046 | Le géomètre | 2 008 | ✓ Rédigé |
 | 047 | Cordier, juillet | 2 012 | ✓ Rédigé |
+| 048 | Massard transmet | 2 080 | ✓ Rédigé |
 
 ---
 
