@@ -1036,3 +1036,20 @@
 [Ch 044] Contradiction avec mesure au pas — Troisième descente (mars 2025) : ~140m comptés en pas. Descente laser (mai 2025) : ~384m. Plus du double pour le même trajet. Bréval note l'écart sans l'expliquer.
 [Ch 044] Ferrand — "Tu changes de méthode." Bréval : "Je change d'objet." Elle ne demande pas de précision.
 [Ch 044] Accroche — "La longueur de la galerie entre la trappe de la Vanne et l'entrée de la chambre variait selon les mesures. Jamais par plus de quatre mètres. Mais jamais la même. Bréval avait cinq mesures différentes sur cinq descentes. Il en fit la moyenne et écrivit : « 384 mètres ± 4 m ». Ce n'était pas une marge d'erreur."
+
+---
+
+## CHAPITRE 045 — Faits établis
+
+### Chez Kern ch.045
+
+[Ch 045] Chrono — Juin 2025. Kern appelle Bréval un matin, le reçoit le soir même.
+[Ch 045] Archives Kern — 8 classeurs à dos rigide + 22 boîtes A4. 36 ans de données. Kern n'avait jamais tout sorti en même temps.
+[Ch 045] Tableau de mesures — Diamètre est-ouest de la chambre 1989-2024 (hors période critique) : 1989 = 2m62 ; 2000 = 3m11 ; 2010 = 3m49 ; 2020 = 3m92 ; 2024 = 4m06. Croissance totale : +1m44 en 35 ans. Tendance ralentit depuis 2018.
+[Ch 045] Interprétation mesure novembre 2024 — La valeur 3m de novembre 2024 (première descente de Bréval avec Vauthier) s'explique : c'était pendant la semaine critique (période de contraction). Valeur hors critique estimée à ~4m02 (confirmé en mars).
+[Ch 045] Photographies — Boîtes par année depuis 1989. Les photos de la sixième branche (depuis l'entrée, sans entrer) montrent la profondeur perçue augmenter d'année en année — l'obscurité commence plus loin dans le couloir.
+[Ch 045] Carnet du cycle — Entrées bimensuelles (décembre + juin) depuis 1989. Point haut = décembre (semaine critique, contraction). Point bas = juin (dilatation maximale). Les incidents (désorientation, temps manquants) sont plus fréquents en juin. En juin 2025, Bréval visite ces archives.
+[Ch 045] Correspondances sans réponse — 40 lettres envoyées par Kern de 1990 à 2005 à géologues, mathématiciens, physiciens théoriciens, historiens des sciences. Aucune réponse exploitable. Les chiffres "ne rentrent dans rien."
+[Ch 045] Contraction hors cycle (juin 1995) — Chambre à 3m22 (vs 3m42 en 1994) — contraction hors semaine critique. Corrélée à un chantier de réfection d'égouts rue de la Vanne, ouvert le 2 juin 1995, terrassement à 3m de profondeur, 10 jours. Rappel : 1911 = chantier Vanne avait ouvert l'accès à la chambre.
+[Ch 045] La chambre sélectionne — Kern à Bréval en le raccompagnant : "La chambre sélectionne. Elle ne prend pas tout le monde. Elle prend ceux qui la voient vraiment." Bréval : "Et moi ?" Kern : "Vous êtes là depuis trois mois. Vous êtes encore debout. Vous avez votre réponse." (Trois mois = depuis mars, depuis la première descente seule et la corde 22m→28m.)
+[Ch 045] Accroche — "En partant, Kern lui dit : « Il y a une chose que je n'ai pas dite tout à l'heure. La chambre sélectionne. Elle ne prend pas tout le monde. Elle prend ceux qui la voient vraiment. » Bréval demanda : « Et moi ? » Kern dit : « Vous êtes là depuis trois mois. Vous êtes encore debout. Vous avez votre réponse. »"
