@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 7 (ch. 52–61)  
-**Date de dernière mise à jour :** Ch. 051 validé — ARRÊT ÉTAPE 6  
-**Prochain chapitre à rédiger :** 052
+**Date de dernière mise à jour :** Ch. 060 validé  
+**Prochain chapitre à rédiger :** 061
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 51 / 120 |
-| Mots écrits | 104 257 |
+| Chapitres rédigés | 60 / 120 |
+| Mots écrits | 124 639 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 7 (ch. 52–61, budget 25 000) |
@@ -37,13 +37,13 @@
 | 4 | 26–35 | 25 000 | 20 779 | 4 221 | ✅ ÉTAPE 4 TERMINÉE (ch.026–035 ✓) |
 | 5 | 36–43 | 20 000 | 16 600 | 3 400 | ✅ ÉTAPE 5 TERMINÉE (ch.036–043 ✓) |
 | 6 | 44–51 | 20 000 | 16 221 | 3 779 | ✅ ÉTAPE 6 TERMINÉE (ch.044–051 ✓) |
-| 7 | 52–61 | 25 000 | 0 | 25 000 | ✍ EN COURS |
+| 7 | 52–61 | 25 000 | 20 323 | 4 677 | ✍ EN COURS |
 | 8 | 62–69 | 20 000 | 0 | 20 000 | ◻ À VENIR |
 | 9 | 70–79 | 25 000 | 0 | 25 000 | ◻ À VENIR |
 | 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **104 257** | **195 743** | |
+| **TOTAL** | **1–120** | **300 000** | **124 639** | **175 361** | |
 
 ---
 
@@ -169,6 +169,15 @@ Pour reprendre la session après interruption :
 | 049 | Le protocole de récupération | 2 030 | ✓ Rédigé |
 | 050 | Déjeuner avec Camille | 2 000 | ✓ Rédigé |
 | 051 | Trente-trois mètres | 2 027 | ✓ Rédigé — ARRÊT ÉTAPE 6 |
+| 052 | Tentatives rationnelles | 2 002 | ✓ Rédigé |
+| 053 | Ce que Cordier a trouvé sur Delisle | 2 025 | ✓ Rédigé |
+| 054 | Le rapport des gaz | 2 032 | ✓ Rédigé |
+| 055 | Ce que Vauthier a vu en 2015 | 2 000 | ✓ Rédigé |
+| 056 | Le rapport du géologue | 2 480 | ✓ Rédigé |
+| 057 | Le caillou de Kern | 2 449 | ✓ Rédigé |
+| 058 | La clé d'Odile | 2 315 | ✓ Rédigé |
+| 059 | La corde depuis le 9 | 2 051 | ✓ Rédigé |
+| 060 | La promotion refusée | 2 006 | ✓ Rédigé |
 
 ---
 

@@ -1244,3 +1244,80 @@
 [Ch 055] Ferrand — Passage en fin de matinée, voit le carnet avec les nouvelles notes. "Combien de personnes ont fait ça sans le dire ?" Bréval : "Je ne sais pas encore."
 [Ch 055] Décision la plus raisonnable — Bréval pense que la décision de Vauthier de ne jamais redescendre est "peut-être la décision la plus raisonnable de toute l'enquête depuis novembre 2024."
 [Ch 055] Accroche — "Ferrand passa dans l'encadrement de la porte en fin de matinée. Elle vit le carnet ouvert sur le bureau avec les nouvelles notes. Elle ne demanda pas. Bréval dit : « Vauthier était descendu en décembre 2015. Seul. Il a perdu quarante minutes. » Elle dit : « Il ne l'avait pas dit. » Bréval dit : « Non. » Elle dit : « Combien de personnes ont fait ça sans le dire ? » Il dit : « Je ne sais pas encore. »"
+
+---
+
+## CHAPITRE 056 — Faits établis
+
+### Le rapport du géologue ch.056
+
+[Ch 056] Chrono — 3 octobre 2025. Rapport préliminaire Gauthier reçu. Deuxième rapport négatif.
+[Ch 056] Rapport Gauthier — Formation calcaire lutétienne du Vernay : stable, bien documentée BRGM depuis 1920. Résistance élevée, perméabilité faible. Aucune discontinuité majeure dans la stratigraphie horizontale. Galeries cohérentes avec pratiques fin XIXe. Zéro anomalie karstique compatible avec variations de mesures (le karstique peut produire mm/siècle, pas cm/mois). Recommandation : "Vérifier la précision des instruments de mesure."
+[Ch 056] Calibration des instruments vérifiée — Laser Bréval calibré le 12 mai 2025 avant première série de mesures. Laser Renard calibré mars 2025. Les instruments ne sont pas la cause.
+[Ch 056] Aubert, première session (14 octobre 2025) — Descend avec Bréval dans les galeries. Observation de la chambre hexagonale : géométrie difficile à intégrer visuellement, erreurs d'estimation subjective possibles, mais pas de dérive instrumentale sur lecture laser. Face à la sixième ouverture : "résistance à regarder dans cette direction" — profil perceptif "résistance d'abord, attirance ensuite." Mesure 4m19 au décamètre physique. Veut revenir pour la sixième branche fin octobre.
+[Ch 056] "Résistance d'abord, attirance ensuite" — Aubert dit "si plusieurs personnes décrivent la même séquence dans le même ordre, c'est une donnée." Cohérent avec autres témoignages.
+[Ch 056] Hélène Fabre — Bréval décide d'attendre fin octobre (après résultat Aubert sur sixième branche) avant de la contacter.
+[Ch 056] Ferrand — "Ce qui reste, c'est décembre."
+[Ch 056] Accroche — "Le rapport de l'expert en géologie concluait : « Pas d'anomalie détectable dans la structure du sous-sol du Vernay susceptible d'expliquer les variations de mesures constatées. Recommandation : vérifier la précision des instruments de mesure. » Bréval avait fait calibrer son mètre laser avant chaque descente."
+
+---
+
+## CHAPITRE 057 — Faits établis
+
+### Le caillou de Kern ch.057
+
+[Ch 057] Chrono — Samedi soir, fin octobre 2025. Appartement Kern, 22 rue de la Vanne.
+[Ch 057] Caillou de Kern — Galet plat, calcaire, couleur grise, légèrement plus grand que le caillou de Bréval. Cinq encoches. Kern le détient depuis 1989 — trouvé dans sa poche de veste le soir de sa seule descente. Il n'avait pas de caillou sur lui avant de descendre. Il n'a pas de réflexe de ramasser des cailloux.
+[Ch 057] Descente Kern 1989 — Hiver 1989, grille du 14 non fermée à cette époque. Kern descendu seul en cherchant le "réseau souterrain non cartographié" mentionné dans les archives de la Ville. Est entré dans la chambre. Remonté à 22h30 — était descendu à 15h. Sept heures et demie sans souvenir (couloir à l'aller, entrée de la chambre, rien jusqu'à la remontée).
+[Ch 057] Cailloux : type galet de rivière — Surface polie par l'eau, pas par frottement contre roche. Pas identifiables à la formation calcaire des parois. Pas de rivière souterraine documentée dans le secteur. Origine inconnue.
+[Ch 057] Kern ne l'a pas dit à Massard — Elle lui a montré le caillou de René en 2008 quand il a joint la Société. Il n'a pas dit qu'il en avait un aussi. Quatre entrées non mémorisées sans souvenir à transmettre.
+[Ch 057] Comptage Bréval — Six encoches. Descentes officielles avec présence dans la chambre : novembre 2024 (avec Vauthier), décembre 2024 (avec Vauthier), mai 2025 (première mesure), et peut-être juin 2025 (avec Renard — mémoire incertaine). Juillet 2025 (contrôle galerie) : incertain. Août (câble), septembre (rapport gaz) : certains. Total maximum officiel avec chambre : ~6. Mais souvenirs discontinus pour plusieurs dates. Bilan : entre 2 et 4 entrées non mémorisées possibles.
+[Ch 057] Question protocole soulevée par Kern — "Ce n'est pas que vous avez peur de perdre la conscience de la corde. C'est que si vous l'oubliez — comme René a oublié qu'Irène était là —, la personne de surface tire et vous vous souvenez." La corde rappelle. La tension rappelle.
+[Ch 057] Personne de surface : non encore résolue à ce moment.
+[Ch 057] Accroche — "Kern dit : « Quatre fois où vous êtes entré dans la chambre et dont vous ne vous souvenez pas. » Bréval compta : les deux descentes officielles avec Vauthier, l'épisode du 28 novembre, et... il manquait trois occasions. Il n'avait aucun souvenir des trois autres."
+
+---
+
+## CHAPITRE 058 — Faits établis
+
+### La clé d'Odile ch.058
+
+[Ch 058] Chrono — Mercredi 5 novembre 2025. Appartement et cave d'Odile Vanel, 9 rue des Charmilles.
+[Ch 058] Puits vertical cave du 9 — Trappe en bois épais cerclée métal rouillé, anneau de fonte, 60cm de côté, au centre de la cave arrière derrière porte en bois. Puits vertical 8m avec barreaux en fer scellés dans maçonnerie depuis 1870 (ouvriers de la Vanne). Jonction avec galerie principale à 62m de la grille du 14 rue du Puits (environ au tiers). Barreaux vérifiés par Delisle en 2017 (résistance 80kg chacun, graisse appliquée). Anneau de maçonnerie dans le mur de la cave depuis 1870 pour fixer la corde.
+[Ch 058] Passage latéral du 9 — L'ouverture dans le mur du fond de la cave arrière (utilisée par Vauthier en 2015) a été bouchée lors du chantier de rénovation 2018 (isolation mur extérieur, maçon a cru que c'était un vieux soupirail).
+[Ch 058] Odile propose d'être personne de surface — Pour décembre. "Je ne descendrai pas. Je tiendrai la corde." Soixante-douze ans, mauvais genou depuis 2009. Dernière descente : 2009.
+[Ch 058] Sept femmes de surface en 114 ans — Marguerite Vanel (épouse d'Édouard), grand-mère d'Odile, mère d'Odile, Odile elle-même, Massard depuis 1978, deux autres membres décédés. Observation : "Les hommes de la Société ont tendance à vouloir descendre."
+[Ch 058] Édouard Vanel mars 1911 — Descente de vérification, seul. Est entré dans la sixième branche pour vérifier la direction N-NE. "Pas de souvenir d'en être sorti." Quatrième cas de perte de mémoire dans la sixième branche documenté : Vanel 1911, Kern 1989 (dans la chambre), Vauthier 2015, Bréval (intervalles depuis mars 2025).
+[Ch 058] Clés transmises — Bréval reçoit l'anneau de clés : porte de service du 9 et porte de cave arrière.
+[Ch 058] Accroche — "Odile Vanel posa la clé sur la table entre eux. « C'est pour décembre, dit-elle. Il y a un puits dans le sol de la cave du fond. Des barreaux en fer depuis 1870. Mon arrière-grand-père l'a mentionné dans le premier cahier — il était descendu par là en mars 1911 pour vérifier la direction de la sixième branche. » Bréval prit la clé. Il dit : « Vous serez là. » Elle dit : « Je ne descendrai pas. Je tiendrai la corde. » Il dit : « Je sais. »"
+
+---
+
+## CHAPITRE 059 — Faits établis
+
+### La corde depuis le 9 ch.059
+
+[Ch 059] Chrono — Samedi 15 novembre 2025. Descente de reconnaissance depuis puits du 9, Odile à la surface.
+[Ch 059] Jonction puits/galerie confirmée — Point d'entrée : 62m de la grille du 14, 68m de la chambre. Total galerie : 130m. Cohérent avec toutes les mesures précédentes.
+[Ch 059] Chambre 4m07 — Contraction continue (4m22 le 22 septembre, 4m17 le 14 octobre Aubert, 4m07 le 15 novembre). Décembre point bas prévu : 3m85-3m90.
+[Ch 059] Protocole testé en pratique — Câble fixé à anneau maçonnerie cave du 9. Nœud de chaise autour ceinture Odile. Elle reste debout à côté de la trappe, câble à deux mains. Tension perceptible tout le long de la descente. "Pas une contrainte. Une présence."
+[Ch 059] Sixième branche depuis seuil — Laser sans retour (cohérent avec toutes les mesures précédentes). 28m de mou depuis seuil jusqu'à trappe du 9. Bréval ne dépasse pas le seuil.
+[Ch 059] Plan pour décembre — Entrée par le 14 rue du Puits à l'aller (plus rapide). Odile avec câble depuis le puits du 9. Double point de fixation : anneau maçonnerie cave et borne de granit chambre.
+[Ch 059] Ferrand — "Décembre, c'est dans trois semaines." Bréval : "Je sais."
+[Ch 059] Note carnet — "La corde ne garantit pas le retour. Elle donne une raison au retour."
+[Ch 059] Accroche — "Quand Bréval remonta par les barreaux, Odile était exactement où il l'avait laissée — debout à côté de la trappe, le câble entre les deux mains, les yeux sur le câble. Elle ne lui demanda pas ce qu'il avait vu. Elle dit : « La corde n'a pas lâché. » Il dit : « Je sais. Je l'ai senti. »"
+
+---
+
+## CHAPITRE 060 — Faits établis
+
+### La promotion refusée ch.060
+
+[Ch 060] Chrono — Fin novembre 2025. Bureau brigade, fin de journée.
+[Ch 060] Bilan provisoire des trois études rédigé — Note interne 7 pages signée et datée. "Étude géologie : négatif. Étude gaz : négatif. Étude perceptive : non concluant. Conclusion provisoire : aucune des trois explications ordinaires ne couvre l'ensemble des anomalies constatées depuis novembre 2024." Non envoyé à personne.
+[Ch 060] Raison de la promotion refusée (2022) — Ferrand révèle : en novembre 2021, de permanence à la section personnes vulnérables, elle a auditionné une résidente hospitalisée pour désorientation aiguë et amnésie de 10 heures — retrouvée dans la rue en pyjama à 2h du matin. Adresse : 17 rue des Charmilles, 4e étage. Bilan neurologique négatif, épisode dissociatif. Classé sans suite.
+[Ch 060] Hélène Fabre — La résidente était Hélène Fabre (confirmé par Bréval). Elle avait l'intention de descendre dans sa cave pour chercher une boîte. Mémoire : intention + clé prise → trou → rue. Novembre 2021. Quatrième événement documenté autour de Hélène Fabre + les galeries : sons 2015 (Vauthier), amnésie 2021 (Ferrand), signalement retrouvé mars 2025 (Bréval), résidence actuelle confirmée.
+[Ch 060] Ferrand n'a pas dit — "Ce n'était pas une information — c'était une impression. Un souvenir d'audition, une adresse notée, une rue dans un quartier. Ce n'est pas un rapport."
+[Ch 060] Ferrand = la corde — Bréval établit le parallèle avec le protocole de René : "Vous êtes la corde depuis novembre 2024." Ferrand : "Je ne savais pas que je jouais ce rôle."
+[Ch 060] Hélène Fabre — Bréval décide que la deuxième raison de ne pas monter (ne pas savoir quoi lui demander) devient moins valide à mesure que décembre approche.
+[Ch 060] Accroche — "Ferrand dit : « Je ne savais pas que je jouais ce rôle. » Bréval dit : « Je ne savais pas non plus. » Elle hocha la tête. Elle avait refusé une promotion en 2022 pour rester à côté de quelque chose qu'elle n'arrivait pas à nommer. Trois ans plus tard, la chose avait un nom et une date. Ça ne rendait pas la décision plus facile à expliquer. Ça la rendait seulement moins abstraite."
