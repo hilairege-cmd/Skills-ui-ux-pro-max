@@ -1965,3 +1965,65 @@
 - TROISIÈME LETTRE Maître Farineau (avocat Camille) : résidence principale Mathilde pour l'an prochain. Posée sur la table, non ouverte immédiatement.
 - Bréval appelle Camille : Mathilde à l'école, rentre 16h. "Elle demande de tes nouvelles. Elle veut savoir si tu viens la semaine prochaine pour son anniversaire." Anniversaire Mathilde dans 10 jours (= 28 octobre 2026 si visite le 20 oct). Note : Mathilde est née le 27 août 2015, mais Bréval dit "dix jours" → anniversaire probablement dans le futur proche de la narration. BRÉVAL PROMET DE VENIR.
 - ACCROCHE : *La lettre de Me Farineau restait sur la table de la cuisine pendant tout le temps qu'il prépara le café. [...] Ce n'était pas une chose qu'il pouvait arrêter en ne répondant pas — ça avançait avec ou sans lui. C'était une chose qui avançait à sa propre vitesse, dans son propre temps, comme tout le reste. Comme Irène. Comme le câble. Comme F6.*
+
+---
+
+### Ch. 102 — Ce qu'elle accepte (27 octobre 2026)
+
+- [Ch102] Ferrand signe l'acceptation de sa promotion (commandante brigade criminelle préfecture, départ fin janvier). Ce n'est pas la promotion de 2022 (Paris) — celle-là c'est ici, commandante, pas adjointe.
+- [Ch102] Ferrand a justifié le délai de prise de poste auprès de la direction en invoquant "la disparition Cordier", résolution prévue fin novembre. Couverture administrative acceptée.
+- [Ch102] Vauthier confirme livraison câble 300m + dévidoir mi-novembre. Portage dévidoir en 2 parties au rétrécissement couloir nord (160m) — 10 minutes de plus.
+- [Ch102] Ferrand et Vauthier en contact direct depuis la reconnaissance du 23 septembre (2-3 messages). Bréval ne l'avait pas organisé — ça s'est organisé.
+- [Ch102] Ferrand devra adapter son interprétation des signaux câble avec câble plus fin : moins de sensibilité au dévidoir, variations légères moins lisibles.
+- [Ch102] Mathilde, 18 octobre 2026 : Bréval s'y est rendu (train, 35 km). Livre offert : *Les Enfants du capitaine Grant* (édition illustrée, librairie d'occasion). Mathilde au départ : "Tu reviens quand." / "Fin novembre, si tout va bien." / "Pourquoi fin novembre." / "C'est une affaire qui prend du temps." / "Le labyrinthe." — hochement de tête, case fermée.
+- [Ch102] Carnet : "18 oct. — Mathilde. Le livre. Le gâteau. Elle dit : 'Le labyrinthe.' Elle sait quelque chose qu'elle ne sait pas qu'elle sait."
+- [Ch102] Sylviane Massard appelle le 25 octobre : Irène a eu une nuit difficile, respiration plus serrée, progression. Visites suspendues pour quelques jours. Médecin a ajusté le traitement.
+- [Ch102] Kern envoie un SMS le 22 octobre : "Je cherche depuis quarante ans. Je crois que je vois enfin. Pas encore sûr." — lit Vanel 1944. Ne sort plus de chez lui depuis la semaine du 20 octobre, repas par l'entraide de l'immeuble.
+- [Ch102] Appel Bréval à Kern le 27 octobre (18h) : Kern dit que le câble plus fin changera la façon dont Ferrand lit les signaux. Demande de tester le dévidoir dans la cave du 11 avant l'entrée ("que Ferrand sente la différence de tension — elle doit savoir avant, pas pendant"). Dit : "Je ne serai peut-être pas là pour le vérifier." — information, pas confidence.
+- [Ch102] ACCROCHE : *Il pensa que la façon dont Ferrand avait posé la lettre ce matin — sans la tendre, sans chercher une réaction — était la même façon dont le câble reposait au fond de la cave du 11 depuis la reconnaissance : en attente, sans urgence, relié à quelque chose qui n'avait pas encore commencé.*
+
+---
+
+### Ch. 103 — Novembre (3-5 novembre 2026)
+
+- [Ch103] Kern tombe chez lui dans la nuit du 2 novembre, vers 22h — essayait de se lever pour aller chercher quelque chose dans la cuisine. Mme Duchamp (voisine, rue Sainte-Apolline) appelle Bréval le 3 novembre matin.
+- [Ch103] Diagnostic médecin : côtes fêlées, côté gauche, rien de cassé. Kern refuse l'hôpital. Reste chez lui.
+- [Ch103] Kern dit à Bréval le 3 novembre : "Je suis en train de vérifier. Si je me trompe sur ce point, j'ai passé quarante ans à me tromper sur tout." Refuse de dire ce qu'il a vu avant vérification. "Quelques jours."
+- [Ch103] Bréval récupère quatre volumes à la bibliothèque universitaire pour Kern (lettre de Kern à la bibliothécaire signée main tremblante) : monographies iconographie médiévale, cartographie souterraine pré-moderne, témoignages explorateurs galeries XIXe. Kern les avait mis ensemble — ils ne vont pas ensemble normalement.
+- [Ch103] 4 novembre au soir : Kern lit, les livres ouverts sur les genoux, loupe, notes. Dit que rire fait mal ("Je ne savais plus que ça pouvait faire mal comme ça").
+- [Ch103] 5 novembre matin : Sylviane appelle. Irène Massard est décédée dans la nuit du 4 au 5 novembre, entre 2h et 4h du matin. Elle dormait. Sylviane : "Elle avait dit : 'Prévenez M. Bréval quand ce sera.'"
+- [Ch103] Ferrand savait — avait vu une notification de la Maison Saint-Luc. Elle n'avait pas prévenu Bréval, attendait de savoir s'il était au courant.
+- [Ch103] Kern avait reçu une lettre d'Irène en octobre. Irène terminait : "Le reste vous appartient." Sa façon de dire au revoir et de passer le relais en même temps.
+- [Ch103] Sylviane accepte de remettre les cahiers de Vanel (originaux, boîte métal sous le lit de Kern) à la bibliothèque universitaire. Décision prise par Kern en octobre (lettre à la bibliothécaire). Irène lui avait dit en septembre que les cahiers devaient rester accessibles.
+- [Ch103] 5 novembre soir : Kern dit "bientôt — deux ou trois jours — une seule chose à vérifier."
+- [Ch103] ACCROCHE : *Il marcha jusqu'au prochain carrefour, tourna à gauche, et prit le chemin du 11 rue des Charmilles sans s'être demandé si c'était là qu'il allait.*
+
+---
+
+### Ch. 104 — Quatre courriers (6-12 novembre 2026)
+
+- [Ch104] Obsèques d'Irène Massard : 8 novembre 2026, 9h, chapelle Maison Saint-Luc. Simples, comme elle l'avait demandé. Une vingtaine de personnes. Sylviane révèle qu'Irène avait gardé une photo de Bréval dans le tiroir de sa table de nuit (photo d'une visite — Bréval avec dossier, Irène regarde fenêtre).
+- [Ch104] Câble 300m + dévidoir reçus le 12 novembre. Test prévu samedi suivant dans la cave du 11 avec Ferrand et Vauthier.
+- [Ch104] Bréval explique à Ferrand : latence signal augmente ~4 secondes dans sections droites avec câble plus fin. Dans F6 avec distorsion temporelle, calcul impossible avant d'être dedans. Ferrand a un bloc à spirale séparé pour les paramètres du test (tiroir du bas, sous classeur).
+- [Ch104] Bréval visite Kern le 9 novembre (moins gris, assis sans aide, a lu), le 11 (dormi beaucoup, demande si câble arrivé), le 13 (cahiers de Vanel posés à plat — usage terminé, pas abandon).
+- [Ch104] 13 novembre : Kern dit "Pas encore. Demain." / "Ce n'est pas le texte qui a changé. C'est que maintenant il y a vous. Avec vous dans l'esprit — ce que vous avez vu en reconnaissance, la distorsion temporelle, le câble comme lien entre deux temps — le passage devient autre chose."
+- [Ch104] Bréval porte désormais seul la chaîne de transmission : Vanel 1911 → René Massard 1978 → Kern → lui. Irène morte, Kern mourant. "Ce n'était pas du vertige. C'était du poids."
+- [Ch104] Quatre courriers de l'avocat de Camille dans le tiroir du bureau (fin août, fin septembre, mi-octobre, semaine précédente). Bréval les relit et répond au premier : "Disponible à partir du 17 novembre pour un rendez-vous. Les termes du calendrier proposé me conviennent dans leur ensemble — je note deux points à discuter."
+- [Ch104] ACCROCHE VERBATIM : *Bréval ouvrit le tiroir où il avait mis le courrier de l'avocat de Camille, sans répondre. Il y avait maintenant quatre courriers. Il les sortit, les relut, et répondit au premier.*
+
+---
+
+### Ch. 105 — Kern (14-17 novembre 2026) [ARRÊT ÉTAPE 11]
+
+- [Ch105] 14 novembre matin : Kern révèle à Bréval ce qu'il a vu dans Vanel 1944. Non cité dans le texte — sera cité au ch.119. Ce n'est pas un secret mais une lecture : "une évidence en retard sur elle-même de quarante ans." Kern parle comme Vauthier parle des mesures du couloir.
+- [Ch105] Kern dit : ranger dans la tête (pas le carnet) — "Ce genre de chose ne s'écrit pas." Ouvrir l'enveloppe d'Irène d'abord, à l'intérieur de F6 — "dans le bon ordre." Raison : ordre de lisibilité (saturation si on sait avant d'être dedans), pas de prudence.
+- [Ch105] Ce que Kern a vu ne change pas ce que Bréval doit faire. Ça dit comment le faire.
+- [Ch105] Kern demande confirmation : test dévidoir prévu samedi, Ferrand aura une vraie session (pas une heure), rétrécissement couloir nord prévu en deux parties (10 minutes — "pas dix minutes à l'intérieur, dix minutes dans le couloir").
+- [Ch105] 15 novembre : Kern dort. Respiration plus lente. Bréval attend dans le salon une heure.
+- [Ch105] 16 novembre : Kern demande à ouvrir une fenêtre. Dit à Bréval que les cahiers de Vanel (originaux, boîte métal) vont à Sylviane Massard pour transmission à la bibliothèque universitaire (bibliothécaire prévenue par lettre de Kern en octobre).
+- [Ch105] Caillou de Kern (5 encoches) : Kern le donne à Bréval le 16 novembre. "Vous le gardez. C'est pour ça que je vous l'ai montré en mars."
+- [Ch105] 17 novembre, 5h du matin : Mme Duchamp appelle. Kern réveillé, a demandé Bréval. Bréval arrive 5h45. Kern dit encore une dernière chose à voix très basse (non citée ici — citée au ch.119). Kern meurt entre 6h et 7h.
+- [Ch105] Bréval est présent à la mort de Kern. Attend avec Mme Duchamp que le médecin arrive.
+- [Ch105] Bréval rentre à pied dans le matin (40 minutes). Deux cailloux en poche : six encoches (le sien) + cinq encoches (Kern) = onze total.
+- [Ch105] Bréval sourit pour la première fois depuis longtemps en pensant que Kern aurait eu quelque chose à dire sur le nombre onze dans l'iconographie médiévale du Vernay.
+- [Ch105] ACCROCHE VERBATIM : *Il avait maintenant deux cailloux à encoches dans sa poche : le sien, avec six, et celui de Kern, avec cinq. Onze encoches au total. Il pensa que Kern aurait aimé ce chiffre — il aurait sûrement eu quelque chose à dire sur l'histoire du nombre onze dans l'iconographie médiévale du Vernay. Il sourit pour la première fois depuis longtemps.*

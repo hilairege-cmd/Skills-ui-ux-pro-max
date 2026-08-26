@@ -8,9 +8,9 @@
 ## ÉTAT ACTUEL
 
 **Phase :** Phase 1 — Rédaction  
-**Statut :** ✍ EN COURS — Étape 11 (ch. 87–105)  
-**Date de dernière mise à jour :** CHECKPOINT ch.097–101 (5 chapitres validés)  
-**Prochain chapitre à rédiger :** 102
+**Statut :** ✍ EN COURS — Étape 12 (ch. 106–120)  
+**Date de dernière mise à jour :** CHECKPOINT ch.102–105 (4 chapitres validés) — ARRÊT ÉTAPE 11  
+**Prochain chapitre à rédiger :** 106
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 101 / 120 |
-| Mots écrits | 210 349 |
+| Chapitres rédigés | 105 / 120 |
+| Mots écrits | 218 761 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 11 (ch. 87–105, budget 47 500) |
@@ -41,9 +41,9 @@
 | 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
 | 10 | 80–86 | 17 500 | 14 096 | 0 | ✅ ÉTAPE 10 TERMINÉE (ch.080–086 ✓) |
-| 11 | 87–105 | 47 500 | 31 047 | 16 453 | ✍ EN COURS (ch.087–101 ✓, ch.102–105 reste) |
-| 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **210 349** | **89 651** | |
+| 11 | 87–105 | 47 500 | 39 459 | 0 | ✅ ÉTAPE 11 TERMINÉE (ch.087–105 ✓) |
+| 12 | 106–120 | 37 500 | 0 | 37 500 | ✍ EN COURS |
+| **TOTAL** | **1–120** | **300 000** | **218 761** | **81 239** | |
 
 ---
 
@@ -219,6 +219,10 @@ Pour reprendre la session après interruption :
 | 099 | Trois pas | 2 023 | ✓ Rédigé |
 | 100 | Ce qu'on ne veut pas quitter | 2 008 | ✓ Rédigé |
 | 101 | Ce qu'il faudra dire | 2 000 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 102 | Ce qu'elle accepte | 2 250 | ✓ Rédigé |
+| 103 | Novembre | 2 141 | ✓ Rédigé |
+| 104 | Quatre courriers | 2 000 | ✓ Rédigé |
+| 105 | Kern | 2 021 | ✓ Rédigé — ARRÊT ÉTAPE 11 |
 
 ---
 
@@ -553,3 +557,26 @@ Pour reprendre la session après interruption :
 - **Total étape 11 à ce stade : 31 047 mots / budget 47 500**
 
 **Chapitres restants Étape 11 : ch.102–105 (4 chapitres)**
+
+---
+
+### BILAN ÉTAPE 11 COMPLET — ch. 87–105 (39 459 mots / budget 47 500)
+
+**Faits posés (ch.102–105)**
+- Ch102 (27 octobre 2026) : Ferrand signe l'acceptation de sa promotion (commandante brigade criminelle préfecture, départ fin janvier). Vauthier confirme câble 300m + dévidoir reçus mi-novembre. Ferrand et Vauthier en contact direct depuis reconnaissance du 23 septembre. Mathilde (18 octobre) : Bréval s'y est rendu, livre *Les Enfants du capitaine Grant*, Mathilde dit "Le labyrinthe" au moment de se quitter. Irène : visites suspendues depuis le 25 octobre (nuit difficile, progression). Kern envoie SMS le 22 octobre : "Je cherche depuis quarante ans. Je crois que je vois enfin. Pas encore sûr." — lit Vanel 1944. Appel Kern (18h) : tester dévidoir dans cave du 11 avant entrée (que Ferrand sente la différence de tension), dit qu'il ne sera peut-être pas là pour vérifier.
+- Ch103 (3-5 novembre 2026) : Kern tombe chez lui le 2 novembre, côtes fêlées. Mme Duchamp prévient Bréval. Kern dit avoir vu ce qu'il cherchait dans Vanel 1944, refuse de le dire avant vérification complète. Sylviane appelle le 5 novembre : Irène morte dans la nuit du 4 au 5, entre 2h et 4h, calmement, avait demandé qu'on prévienne Bréval. Kern avait reçu une lettre d'Irène en octobre : "Le reste vous appartient."
+- Ch104 (6-12 novembre 2026) : Obsèques d'Irène le 8 novembre (simples, comme demandé). Sylviane révèle une photo de Bréval dans le tiroir de la table de nuit d'Irène. Câble et dévidoir reçus le 12 novembre, test prévu samedi suivant. Visites à Kern (9, 11, 13 novembre) — il voit "une chose encore à vérifier", dit "demain." Sylviane accepte de remettre les cahiers de Vanel (originaux, boîte métal) à la bibliothèque universitaire — décision d'Irène et Kern en octobre. Bréval seul porteur de la chaîne (Vanel → René → Kern → lui). Quatre courriers de l'avocat de Camille dans le tiroir — il répond au premier.
+- Ch105 (14-17 novembre 2026) : Kern révèle le 14 novembre ce qu'il a vu dans Vanel 1944 (non cité dans le texte — cité au ch.119). Ce n'est pas un secret mais une lecture, une évidence en retard de quarante ans. Kern dit : ranger dans la tête (pas le carnet), ouvrir l'enveloppe d'Irène d'abord (ordre de lisibilité, pas de prudence). Kern meurt le 17 novembre. Bréval est présent. Kern dit encore une dernière chose à voix très basse (non citée — citée au ch.119). Bréval repart avec le caillou de Kern : cinq encoches. Deux cailloux en poche : six + cinq = onze encoches. Bréval sourit pour la première fois depuis longtemps.
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : Camille — séparation en cours, avocat, Bréval a répondu au premier courrier (mi-novembre), rendez-vous proposé à partir du 17 novembre
+
+**Questions ouvertes en entrée d'Étape 12 (ch.106–120)**
+- Que contient l'enveloppe d'Irène ? (à ouvrir dans F6 — révélé au ch.119)
+- Que Kern a-t-il dit à Bréval (14 novembre et dernières paroles 17 novembre) ? (révélé au ch.119)
+- Cordier : vivant dans F6 depuis 14 mois — combien de temps s'est-il écoulé pour lui ?
+- Bréval entrera dans F6 quand ? (étape 12, sans doute autour d'avril 2025 dans la chronologie fictive)
+- Ferrand tiendra-t-elle la corde ?
+- Mathilde et Camille : avancement de la procédure, relation
