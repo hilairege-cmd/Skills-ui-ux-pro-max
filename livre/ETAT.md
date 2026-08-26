@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 10 (ch. 80–86)  
-**Date de dernière mise à jour :** ARRÊT ÉTAPE 9 — ch. 075–079 validés  
-**Prochain chapitre à rédiger :** 080
+**Date de dernière mise à jour :** CHECKPOINT 5 ch. — ch. 080–084 validés  
+**Prochain chapitre à rédiger :** 085
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 79 / 120 |
-| Mots écrits | 165 206 |
+| Chapitres rédigés | 84 / 120 |
+| Mots écrits | 175 271 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 10 (ch. 80–86, budget 17 500) |
@@ -40,10 +40,10 @@
 | 7 | 52–61 | 25 000 | 22 546 | 0 | ✅ ÉTAPE 7 TERMINÉE (ch.052–061 ✓) |
 | 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
-| 10 | 80–86 | 17 500 | 0 | 17 500 | ✍ EN COURS |
+| 10 | 80–86 | 17 500 | 10 065 | 7 435 | ✍ EN COURS |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **165 206** | **134 794** | |
+| **TOTAL** | **1–120** | **300 000** | **175 271** | **124 729** | |
 
 ---
 
@@ -53,7 +53,7 @@
 |-----|-------|--------|
 | 043/045 | Kern expose | ◻ À VENIR |
 | 069 | La révélation de la Société | ◻ À VENIR |
-| 082–083 | La relecture / Tout était là | ◻ À VENIR |
+| 082–083 | La relecture / Tout était là | ✓ RÉDIGÉS |
 | 097 | Édouard Vanel, 1911 | ◻ À VENIR |
 | 111–112 | Le consentement / L'intérieur | ◻ À VENIR |
 
@@ -197,6 +197,11 @@ Pour reprendre la session après interruption :
 | 077 | Delisle la nuit | 2 059 | ✓ Rédigé |
 | 078 | Cordier disparu | 2 013 | ✓ Rédigé |
 | 079 | 14 février | 2 021 | ✓ Rédigé — ARRÊT ÉTAPE 9 |
+| 080 | Ce que Bréval comprend | 2 004 | ✓ Rédigé |
+| 081 | Ferrand | 2 015 | ✓ Rédigé |
+| 082 | La relecture | 2 010 | ✓ Rédigé |
+| 083 | Tout était là | 2 025 | ✓ Rédigé |
+| 084 | La préparation | 2 011 | ✓ Rédigé — CHECKPOINT 5 ch. |
 
 ---
 

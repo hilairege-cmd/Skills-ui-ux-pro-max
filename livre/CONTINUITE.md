@@ -1636,3 +1636,67 @@
 - Prochaine fenêtre : septembre 2026 (équinoxe d'automne) ou décembre 2026 (semaine critique). Pas dans treize ans. Pas demain.
 - Carnet de Bréval (111e entrée) : "Je ne sais pas encore si je ferai ce qu'il faudra faire."
 - Mathilde (palier du soir) : dessin — maison vue du dessus, cinq routes qui convergent, "Pour papa qui est dans son labyrinthe." Au dos : sixième route N-NE, non raccordée aux cinq premières. Mathilde a neuf ans, ne sait pas ce qu'est la sixième branche.
+
+---
+
+### Ch. 080 — Ce que Bréval comprend (3 mars 2026, brigade)
+
+- Première utilisation du mot "convergence" par Bréval : "convergence des données vers un fait unique" — carnet, 3 mars 2026, 7h20.
+- La chambre : géométriquement différente (pas surnaturelle). Distinction : "inexplicable en principe" (religion) vs "inexplicable pour l'instant" (physique). Bréval travaille dans la deuxième catégorie.
+- Liste des personnes attirées par le Vernay : Grégoire/Hubert/Dassot (1912, entrés, non ressortis), Barral (1931, entré seul, non ressorti), Ledoux (1971, descendu par méthode, ressorti), René Massard (1978, entré seul, sorti par Irène 40 min), Vauthier (2015, entré, sorti amnésie), Cordier (entré délibérément après calculs, non ressorti), Bréval (depuis novembre 2024). Point commun : "regardé la chose telle qu'elle est, pas telle qu'elle aurait dû être." — "les observateurs, pas les croyants."
+- Cordier ajouté à la liste — il comptait depuis des mois, avait les archives, a évalué le risque et accepté. C'est la définition de quelqu'un qui regarde la chose telle qu'elle est.
+- Six encoches sur le caillou = six entrées nocturnes non notées (novembre 2024 – mars 2026). 37 variations de mesures documentées dans le relevé. "Ce n'était pas une coïncidence. Rien dans cette affaire n'était une coïncidence."
+- Cordier : probablement vivant dans la branche. Pas de corps trouvé dans la galerie principale lors de l'inspection du 19 décembre. "La branche retient — elle ne tue pas automatiquement."
+- "La chambre choisit les gens capables de la voir vraiment. Pas les croyants — les observateurs. Pas ceux qui veulent une explication — ceux qui acceptent de compter." (carnet Bréval, 3 mars 2026)
+
+---
+
+### Ch. 081 — Ferrand (20 mars 2026, brigade)
+
+- Première fois que Bréval dit tout à Ferrand : les six encoches, les six nuits non notées, la convergence, la liste complète.
+- Ferrand écoute sans prendre de notes (les deux mains à plat sur ses genoux) — façon d'écouter de quelqu'un qui n'en a pas besoin.
+- La corde : "pas de sécurité — un paramètre géométrique" (formulation de Kern). Ferrand formule : "quelque chose qui dit à celui qui est dedans qu'il y a un dehors." — "Le souvenir qu'il y a une surface."
+- Premier tutoiement de Ferrand à Bréval : "Qu'est-ce que tu as l'intention de faire." Arrive sans préparation, au moment décisif.
+- Fenêtre de septembre 2026 (équinoxe d'automne) mentionnée. "La fenêtre de septembre approche — six mois. Ce que je prépare ne peut pas se préparer seul."
+- Ferrand : "Et moi." — elle se propose pour tenir la corde.
+- Bréval : "C'est pour ça que je vous le dis aujourd'hui."
+- Ferrand prend les sept cahiers de René pour les lire avant de décider.
+- Question finale de Ferrand : "Si tu entres là-dedans et que tu n'en ressors pas, qui tient la corde ?" — dit "si tu n'en ressors pas" sans euphémisme, ce que personne d'autre n'a dit.
+- Bréval range le caillou dans sa poche en repartant.
+
+---
+
+### Ch. 082 — La relecture (nuit du 15 avril 2026, 2h–3h45)
+
+- Quatrième lecture du rapport médical de Geffard — pour la première fois Bréval note : "face au nord."
+- Logique spatiale : porte de cave au sud, couloir nord-sud, niche au nord à 16m, corps à 11m de la porte face au nord = 5m avant la niche.
+- Un homme qui s'effondre tombe dans la direction où il marche. Face au nord = marchait vers le nord (pas vers la porte de sortie).
+- Mais : face au nord à l'aller ET au retour depuis la niche. La direction seule ne tranche pas. C'est la distance qui tranche.
+- Hypothèse 3 retenue : Geffard est entré dans la galerie, atteint la chambre, peut-être la sixième branche. Est revenu seul — sans câble, sans ancrage, sans personne de surface. Son cœur n'a pas tenu le retour. "La branche ne tue pas à l'entrée — elle peut tuer au retour, sans câble."
+- Massard, registre 2024 : "La question ne peut pas être résolue depuis l'extérieur." Bréval la résout 17 mois plus tard.
+- Distinction : Vauthier (revenu sans mémoire, pas de lésion cardiaque), René (revenu mémoire partielle, mort en 2013 35 ans après), Bréval (revenu sans mémoire complète, cœur tient). Dans tous ces cas : une corde, une personne à la surface. Geffard : ni l'un ni l'autre. Retour seul = mort dans le couloir.
+
+---
+
+### Ch. 083 — Tout était là (nuit du 15 avril 2026, 5h du matin, suite du 082)
+
+- Bréval liste les cinq moments rétroactifs où tout était dit depuis le début :
+  - Moment 1 (4 nov. 2024, 22h) : premier comptage de six branches — était juste, pas une erreur. Geffard venait de mourir, sous-sol actif. Bréval avait vu juste la première nuit.
+  - Moment 2 (5 nov. 2024, matin) : caillou dans la poche — la chambre comptait dès la première nuit. "La chambre avait commencé à compter dès la première nuit. Pas moi. Elle."
+  - Moment 3 (Kern 1987-1989, p.164) : trait au crayon direction N-NE, sans étiquette — pas une note privée, un message pour le futur lecteur attentif. Kern cherchait un successeur depuis 1989 via la bibliothèque publique, pas via la Société. "La chaîne était prévue depuis 1989."
+  - Moment 4 (Varos 1922, annotation bleue) : "Le Vernay, voir aussi" — calligraphie non identifiée (pas Kern — plus penchée, plus serrée, peut-être Massard ou un tiers inconnu). Fait partie de la même chaîne que le trait de Kern. Cordier a suivi la chaîne jusqu'au bout. Bréval : "les indices m'ont trouvé."
+  - Moment 5 (Paret, carnet, 12 juin 2024, 3h) : Lucien Paret, rue des Charmilles, un des cinq appelants du numéro inexistant — parti sans adresse juillet 2024. Carnet à spirale donné à Massard par sa sœur (août 2025), transmis à Bréval (septembre 2025). Trois pages : dernière note : "J'ai vu le carrefour du bas. Ne jamais y retourner." Paret a obéi. Geffard non. Bréval six fois sans s'en souvenir.
+- La chambre ne communique pas de façon narrative — elle laisse des données. "Des données pour quelqu'un qui saurait les lire."
+- Paret et Geffard : deux géomètres, deux décisions opposées (fuir vs entrer). La chambre les avait sélectionnés tous les deux. Ce n'était pas la décision qui comptait — c'était la capacité à voir.
+
+---
+
+### Ch. 084 — La préparation (mai 2026)
+
+- Décision formelle de Bréval : 12 mai 2026, noté dans le carnet. "Je descendrai dans la sixième branche. En septembre ou en décembre, selon ce que Massard dira." Première fois formulée explicitement.
+- Protocole technique (Vauthier, 12 mai) : corde statique 11mm, baudrier complet, câble téléphonique de mines (pas radio — radio hors service à partir de 20m dans galerie principale). Longueur : mesures + 20% pour courbures. Câble téléphonique : 150m, revendeurs spécialisés Belgique ou Suisse.
+- Vauthier refuse de venir ("je saurais ce que je risque — je ne suis pas sûr de pouvoir tenir la surface si je sais ce que c'est exactement que je tiens"), puis accepte de venir au rez-de-chaussée du 11 (rappel 14 mai) — pas dans le couloir de cave.
+- Phrase d'Irène à René en 1978 : "Je suis là. Tu peux revenir." — quatre mots, jamais mis dans les registres. Vauthier la tient d'Irène Massard elle-même (janvier 2016, après sa propre descente). Vauthier la transmettra à Ferrand si nécessaire.
+- Massard remet à Bréval le protocole dactylographié de René (novembre 1979, 2 pages) avec annotations en marge (I.M.) : positionnement de la personne de surface, lecture des tensions, erreurs à éviter. Note de René en bas de la deuxième page : "Ce protocole suppose que la personne de surface sait exactement ce qu'elle attend. Elle n'attend pas un retour physique. Elle attend un souvenir."
+- Annotation au crayon d'Irène Massard (décembre 1979, calligraphie distincte de René — plus penchée, plus serrée) : "Entrer n'est pas le plus difficile. Revenir non plus. Le plus difficile, c'est de vouloir revenir au moment où vous avez l'impression d'être enfin au bon endroit."
+- La chemise cartonnée du protocole de 1979 est maintenant chez Bréval.
