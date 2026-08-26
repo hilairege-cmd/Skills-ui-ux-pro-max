@@ -2190,3 +2190,91 @@
 - [Ch115] Semaine critique se termine à minuit le 14 décembre 2026. Ferrand classe le dossier à 16h14 — dans les 8 dernières heures de la semaine critique. Dans 12 ans : prochaine ouverture.
 - [Ch115] Message Ferrand à Bréval : "Classé. RAS."
 - [Ch115] ACCROCHE VERBATIM : *Ferrand avait classé le dossier Cordier à 16h14 le 14 décembre 2026. La semaine critique se terminait à minuit. Dans les galeries sous la rue des Charmilles, la chambre de convergence avait ses dimensions de la semaine critique pour encore huit heures. La sixième branche était accessible. Dans huit heures, elle ne le serait plus. Dans douze ans, elle le serait à nouveau. Quelqu'un le savait.*
+
+---
+
+### Ch. 116 — La marque (décembre 2026 – janvier 2027)
+
+- [Ch116] La « marque » : terme que Bréval choisit intérieurement pour désigner la modification permanente dans sa perception des espaces depuis F6. Jamais écrit dans le carnet — tenu dans la tête seulement.
+- [Ch116] Vauthier, mi-décembre, cave du 11 (rangement final du matériel avant cession immeuble) : "Vous avez changé." — "Pas de façon détectable. Je ne pourrais pas l'écrire dans un rapport. Mais vous avez changé." — Bréval : "Vous aussi, en 2015." — Vauthier : "Oui. En 2015."
+- [Ch116] Vauthier sur sa propre expérience 2015 : "je regardais mes mains pendant trois semaines. Pas parce qu'elles étaient blessées. Parce que l'espace à l'intérieur de mes mains était plus grand que l'espace à l'extérieur." — Formulation finale : "ça ne s'explique pas. Ça s'habite."
+- [Ch116] Surépaisseur : sensation dans certains espaces à géologie ancienne — "comme si certains espaces avaient une couche supplémentaire qui ne se voyait pas mais qui était là, dans la façon dont la lumière revenait des murs, dans la façon dont le son se comportait." Pas visuel. Pas hallucinatoire.
+- [Ch116] Carrefour des Cinq-Vents, passage de midi : compte cinq, sait qu'il y en a six. Nouveau : "l'espace sous ses pieds respirait à un rythme différent depuis que la semaine critique était terminée. Plus lent. Plus réservé." Chambre de convergence en dessous dans ses dimensions de repos : 4m de diamètre, 6 branches, sixième fermée pour douze ans.
+- [Ch116] Ferrand, fin décembre, bureau fermé : "Tu as une façon de regarder les couloirs depuis que tu es revenu." — Bréval : "Ce qu'un couloir peut contenir au-delà de ce qu'on y voit. Des propriétés que je savais intellectuellement et que maintenant je sais autrement." — Ferrand : "Et ça va ?" — Bréval : "Oui. Ce n'est pas désagréable. C'est plutôt plus précis."
+- [Ch116] Bréval révèle à Ferrand le contenu de l'enveloppe d'Irène : "C'est un nom, une adresse, une date. La date est dans douze ans." — Ferrand n'insiste pas — "Je sais à qui c'est destiné. Je sais ce que ça signifie. Et il n'y a rien à faire avec ça pendant douze ans sauf le garder."
+- [Ch116] Noël seul dans l'appartement. Mathilde appelle le 25 décembre — évoque la neige en Normandie, le chat de Camille, sa prof qui dit qu'elle est douée pour la géométrie dans l'espace. Bréval : "J'ai fini quelque chose." — Mathilde : "Le labyrinthe ?" — Bréval : "Oui. Le labyrinthe." — Mathilde : "Et maintenant il y a quoi." — Bréval : "D'autres choses. Mais plus simples."
+- [Ch116] Cordier en janvier : récupère son appartement, son chat, ses habitudes. A vécu une semaine en quatorze mois. Asymétrie permanente dans le temps — "pas une perte, une asymétrie."
+- [Ch116] Odile Vanel, fin janvier, visite impromptue rue Froide : "Ils tiennent tous. Ceux qui reviennent. René en 1979. Vous en décembre. Les deux avaient l'air reposé. L'espace était devenu un peu plus réel pour eux." — Bréval : "René avait des mots ?" — Odile : "René a dit : J'ai vu ce qui était là. Je ne peux pas l'expliquer mieux que ça."
+- [Ch116] Odile : "Dans douze ans, il y aura quelqu'un pour tenir." — Bréval : "Oui." — Odile : "Bien." — Ne demande pas qui.
+- [Ch116] Deux cailloux en poche intérieure : cinq encoches (Kern) + six encoches (Bréval) = onze encoches. Sentis du bout des doigts sans être sortis.
+- [Ch116] ACCROCHE VERBATIM : *Dans sa poche, les deux cailloux. Onze encoches au total — cinq de Kern, six à lui. Il ne les sortait pas souvent. Mais il les sentait du bout des doigts parfois, sans y penser, comme quelqu'un qui vérifie que quelque chose est encore là. Ils étaient là. Ils resteraient là douze ans.*
+
+---
+
+### Ch. 117 — Mathilde (février 2027)
+
+- [Ch117] Mathilde Bréval : 10 ans depuis le 23 janvier 2027. Bréval lui a envoyé un atlas des formations géologiques souterraines pour son anniversaire — coupes transversales de terrains calcaires, schémas d'aquifères, diagrammes de cavernes en formation.
+- [Ch117] Mathilde (appel téléphonique) : "Il y en a sous le Vernay" — "Tu connais leurs dimensions." Passe ensuite à autre chose sans insister — mais garde l'information.
+- [Ch117] Weekend de février : Mathilde examine les quatre volumes de cartographie souterraine de Kern sur l'étagère. Demande l'autorisation, prend le premier volume (planches lithographiées 1887) avec précaution.
+- [Ch117] Planche de 1886 (chambre hexagonale) : Mathilde trouve la 6e branche en pointillés. "Pourquoi en pointillés ?" — "Parce que le géomètre n'est pas entré dans cette branche-là pour la mesurer." Elle suit la direction NNE dans l'air du bout du doigt. "Le 11. C'est le numéro où tu as la trappe." — Bréval : "Il y avait un accès. Il n'est plus accessible." — Elle : "La branche en pointillés est encore là." — Bréval : "Elle est encore là."
+- [Ch117] Sur F6, Bréval : "Je ne saurais pas le décrire à quelqu'un qui n'y est pas allé." — Mathilde : "Tu n'essaies pas." — Bréval : "Non. Je n'essaie pas." — "Elle parut trouver ça satisfaisant."
+- [Ch117] Samedi : Cinq-Vents — Mathilde s'arrête au centre, compte cinq, dit : "Cinq, c'est impair pour un carrefour." Puis : "L'espace est pensé pour six." Hypothèse tirée du livre (galeries souterraines changent la surface). Bréval : "C'est une bonne question." — ne dit pas plus.
+- [Ch117] Samedi soir : volume 2 (relevé de terrain de Kern, 1923). Mathilde note que les dimensions de la 6e branche ne sont pas les mêmes dans les deux volumes (1886 et 1923). "Ils ont mesuré la même chose et ils ont trouvé des chiffres différents. C'est possible, ça ?" — Bréval : "Dans cette galerie-là, oui." — Mathilde pose les deux mains à plat sur le volume : "D'accord." — Méthode de Kern, méthode de Mathilde : prise en compte sans résolution.
+- [Ch117] Dimanche matin : Mathilde redessine le carrefour dans son carnet de brouillon (pages quadrillées). "Il y a une sixième. Je sais qu'il y en a une. Mais je ne sais pas où elle est depuis la surface." — Bréval prend le crayon, pose un point NNE. — Mathilde relie le point au centre en pointillés — exactement comme la planche de 1886 — lentement, avec précision.
+- [Ch117] "D'accord", dit Mathilde après avoir tracé. "Ce n'était pas une formule de clôture. C'était d'accord au sens de : je note ça pour la suite."
+- [Ch117] Dessin rangé dans le carnet de brouillon entre deux exercices de mathématiques. Bréval ne dit rien — "l'âge de Mathilde n'était pas le bon âge pour ce qu'il aurait pu dire, et dans douze ans, l'âge de Mathilde serait peut-être le bon."
+- [Ch117] ACCROCHE VERBATIM : *Mathilde Bréval avait dix ans et deux semaines. Elle avait dessiné la sixième branche en pointillés, en partant du centre du carrefour des Cinq-Vents vers le nord-nord-est, sans qu'on lui dise de le faire. Le dessin était dans son carnet de brouillon, entre deux exercices de mathématiques. Elle ne savait pas encore ce que le dessin signifiait. Dans douze ans, elle le saurait.*
+
+---
+
+### Ch. 118 — Camille (mars 2027)
+
+- [Ch118] Camille Roussel (ex-Bréval) : message en février pour co-signer le dossier d'inscription de Mathilde dans une école du 4e arrondissement (projet pédagogique mêlant sciences et arts plastiques). Rendez-vous café rue de la République, mardi matin de mars.
+- [Ch118] École : atelier de cartographie où les élèves font des relevés du quartier à l'échelle (plans, mesures, rendu sur papier millimétré). Mathilde a visité en janvier et aimé. Bréval signe les formulaires.
+- [Ch118] Camille rapporte l'observation de Mathilde : "papa a l'air différent depuis décembre. Il regarde les espaces autrement." — Bréval confirme : "Quelque chose a changé dans la façon dont je perçois certains espaces. Ce n'est pas un problème. Ce n'est probablement pas temporaire." — Camille ne force pas les contours de la réponse.
+- [Ch118] Camille : "Mathilde le voit." — Bréval : "Oui." — Camille : "Et ça ne l'inquiète pas." — Bréval : "Non. Elle catalogue. C'est ce qu'elle fait."
+- [Ch118] Épisode cailloux (octobre précédent) : Mathilde a classé les cailloux de l'étagère de Bréval par origine géologique, fait des étiquettes, les a laissées sans en parler. Bréval a vérifié : elles étaient exactes.
+- [Ch118] Camille, en partant : "Je suis contente que tu ailles mieux." — Bréval : "Je vais bien." — Vrai et incomplet — "ils le savaient tous les deux sans le dire."
+- [Ch118] Mathilde n'a pas montré le dessin du carrefour (6e branche en pointillés) à Camille. En a parlé, pas montré. "C'est son carnet."
+- [Ch118] Retour via rue des Charmilles : façade du 11 ordinaire (digicode, sonnette rénovée, accès cave inaccessible depuis les travaux). Bréval ne s'arrête pas. Surépaisseur brève au carrefour des Cinq-Vents : "une couche supplémentaire dans l'air au niveau du pavé. La chambre en dessous dans ses dimensions de repos."
+- [Ch118] Bréval chez lui : enveloppe d'Irène toujours dans la poche intérieure. Pense à ce que Camille vivra dans douze ans quand Mathilde sera impliquée — "ce n'est pas son problème maintenant."
+- [Ch118] ACCROCHE VERBATIM : *Camille avait vu quelque chose. Elle ne savait pas le nommer et elle ne chercha pas à le nommer. Elle avait dit, en se levant : je suis contente que tu ailles mieux. Il avait dit : je vais bien. C'était vrai et ce n'était pas tout, et ils le savaient tous les deux sans le dire. Dehors, le manteau rouge avait tourné au coin de la rue. Il était rentré seul.*
+
+---
+
+### Ch. 119 — Ce que Kern avait dit (mai 2027)
+
+- [Ch119] Cordier appelle un mercredi de mai 2027 : ne publiera pas l'article — ni maintenant ni plus tard. Six versions rédigées depuis décembre, toutes effacées la semaine précédente. "Je ne pourrais pas l'écrire de façon à ce qu'il touche quelqu'un qui n'y était pas." — Formulation du problème : vrai dans les faits = ne dit rien ; dit quelque chose = perd les faits.
+- [Ch119] René Massard (via Cordier) : "J'ai vu ce qui était là." — Cordier : "C'est ce que j'aurais écrit aussi. Mais ça ne suffit pas pour un article." — Bréval : "Non. Ça ne suffit pas pour un article."
+- [Ch119] La marque de Cordier : se réveille certains matins avec "le sentiment que la journée a déjà une heure de passée que je n'ai pas vécue." Depuis janvier. Dure quelques secondes. "Je pense que ça restera."
+- [Ch119] René Massard à Kern, 1995 (conversation racontée par Kern à Bréval printemps 2026) : René avait dit qu'il avait vu en 1979 "quelque chose qu'il n'aurait pas pu comprendre autrement. Et après je ne pouvais plus le désapprendre." — Kern a noté "désapprendre" dans son carnet personnel, souligné deux fois.
+- [Ch119] Kern : a attendu 30 ans sans entrer dans la chambre (1989-2026). A passé 30 ans à cartographier les galeries depuis l'extérieur. A gardé ça pour quelqu'un d'autre — pour Bréval.
+- [Ch119] 17 novembre 2026, chambre 14 du service de pneumologie : Kern n'a plus la voix. Regarde Bréval un long moment — "qualité de quelqu'un qui vérifie que ce qu'il va dire ira au bon endroit." Dit un mot à voix basse. Bréval se penche. Mot dit une seule fois, trop bas pour être répété.
+- [Ch119] Le mot dit par Kern à voix basse : "Mathilde." — Un prénom. Cinq lettres. Kern l'avait su d'Irène (via l'enveloppe ouverte à un moment donné). L'avait dit pour que le prénom arrive à Bréval avant que le contexte soit clair — "pour que le contexte quand il viendrait ne soit pas une surprise totale."
+- [Ch119] Kern meurt à 14h22 le 17 novembre 2026. L'infirmière note l'heure.
+- [Ch119] Enveloppe d'Irène, ouverte dans la chambre de convergence le 8 décembre 2026 : une feuille, pliée en trois, quatre lignes. Trois premières lignes : information. Quatrième : un nom. Contenu : "Mathilde Bréval" + adresse (rue du 4e arrondissement connue de Bréval) + "Décembre 2038."
+- [Ch119] Quelqu'un avait su avant que Mathilde soit née. Irène Massard l'avait su. Comment — Bréval ne cherche pas à le savoir. "Ce n'était pas ce type de connaissance qui se cherchait."
+- [Ch119] Décembre 2038 = douze ans depuis décembre 2026. Mathilde aura 22 ans en décembre 2038. La sixième branche sera à nouveau ouverte.
+- [Ch119] Bréval ne dira rien à Mathilde maintenant — "elle avait dix ans et deux semaines et elle avait tracé la branche en pointillés dans son carnet sans qu'on lui dise, et c'était suffisant pour l'instant." Dans douze ans, il lui montrera l'enveloppe.
+- [Ch119] "Ce n'était pas un fardeau. C'était quelque chose qu'on gardait parce qu'on était la bonne personne pour le garder."
+- [Ch119] ACCROCHE VERBATIM : *Il ouvrit l'enveloppe d'Irène Massard. Il y avait un nom, une adresse, et une date. La date était dans douze ans. Il mit l'enveloppe dans sa poche intérieure. La chambre était calme. Elle serait calme pendant douze ans. Il avait douze ans.*
+
+---
+
+### Ch. 120 — Le Vernay (juillet 2027)
+
+- [Ch120] Dimanche matin de juillet 2027. Bréval se réveille tôt, café, fenêtre ouverte, lumière d'été à six heures. Sort avec son carnet — pas décidé à l'avance, vieille habitude d'avant l'enquête.
+- [Ch120] Passe devant le 11 rue des Charmilles : façade ordinaire depuis les travaux (digicode, sonnette rénovée). S'arrête une seconde. "Sept mois plus tôt, il était entré par là avec Vauthier." Ne rentre pas. Sait ce qu'il y a au bout des 180 mètres de galerie principale.
+- [Ch120] Passe devant le 9 rue des Charmilles (façade de brique rouge). Odile Vanel rue Froide, à trois rues. Ne s'arrête pas. Pense : elle a 73 ans. Douze ans, ça fait beaucoup.
+- [Ch120] Réflexion sur la chaîne dans le temps : René Massard mort. Kern mort. Irène Massard morte. La chambre continue ses dimensions, ses six branches, sa sixième qui s'ouvre tous les douze ans — "comme si le temps de la chambre n'avait rien à voir avec le temps des gens qui la connaissaient."
+- [Ch120] Carrefour des Cinq-Vents, dimanche matin vide : comte cinq branches. Sait qu'il y en a six. La sixième : direction NNE depuis la chambre de convergence à 180m sous ses pieds, 28 mètres dans ses dimensions de repos. Surépaisseur brièvement sentie — légère. "Il ne l'analysa pas. Elle était là."
+- [Ch120] Écrit pour la première fois ce qu'il n'a jamais écrit : "*La chambre de convergence — dimensions de repos : 4 m de diamètre, 6 branches, calcaire du Jurassique moyen. Branche 6 : 28 m. Prochaine ouverture : décembre 2038.*" — Puis : "*Ce qu'il y a dans la branche 6 : je n'ai pas de mot pour ça. René Massard n'en avait pas. Ce n'est pas une lacune du vocabulaire — c'est ce que c'est.*"
+- [Ch120] Pense à Mathilde (10 ans et demi) — dans douze ans elle aura 22 ans et la sixième branche sera ouverte. "Il garderait ça pour douze ans, et dans douze ans il lui montrerait le carnet, l'enveloppe, les volumes de Kern, les cahiers de la Société. Il lui montrerait le carrefour depuis le centre et il lui dirait : cinq branches visibles. Six en tout."
+- [Ch120] Rentre. Café avec le moulin à manivelle de Kern (légué parmi les effets). Prend une feuille blanche dans le tiroir du bas. Écrit le prénom (Mathilde) — juste le prénom, celui que Kern avait dit à voix basse le 17 novembre. Cinq lettres. Plie en deux, puis en quatre. Range dans le tiroir du bas, sous le papier de bureau. Ferme le tiroir.
+- [Ch120] Enveloppe d'Irène toujours dans la poche intérieure de la veste. "Il l'y laisserait encore un moment. Dans douze ans, il en aurait besoin pour montrer à Mathilde ce que c'était — pas seulement le contenu, l'objet lui-même."
+- [Ch120] Onze encoches senties brièvement du bout des doigts dans la poche. Puis tasse chaude dans les mains.
+- [Ch120] ACCROCHE VERBATIM : *Dans les galeries sous ses pieds, la chambre de convergence avait ses dimensions de repos : quatre mètres de diamètre, six branches, maçonnerie de calcaire du Jurassique moyen. La sixième branche faisait vingt-huit mètres. Dans douze ans, elle en ferait davantage. Bréval le savait maintenant comme il savait l'heure sans regarder sa montre. Il rentra chez lui, fit du café, s'assit à sa table et écrivit sur une feuille blanche le nom que Kern lui avait dit à voix basse. Il le rangea dans un tiroir. Puis il but son café. Chaud.*
+
+---
+
+## FIN DE PHASE 1 — ROMAN ACHEVÉ (120/120 chapitres — 249 467 mots)

@@ -8,9 +8,9 @@
 ## ÉTAT ACTUEL
 
 **Phase :** Phase 1 — Rédaction  
-**Statut :** ✍ EN COURS — Étape 12 (ch. 106–120)  
-**Date de dernière mise à jour :** CHECKPOINT ch.111–115 (10 chapitres validés en Étape 12) — Étape 12 en cours  
-**Prochain chapitre à rédiger :** 116
+**Statut :** ✅ TERMINÉ — ROMAN ACHEVÉ (120/120 chapitres)  
+**Date de dernière mise à jour :** CHECKPOINT FINAL ch.116–120 — Étape 12 complète — Phase 1 achevée  
+**Prochain chapitre à rédiger :** ROMAN TERMINÉ — Phase 2 (révision) à planifier
 
 ---
 
@@ -18,12 +18,12 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 115 / 120 |
-| Mots écrits | 239 041 |
+| Chapitres rédigés | 120 / 120 |
+| Mots écrits | 249 467 |
 | Mots cible | 300 000 |
-| Avance / Retard | — |
-| Étape en cours | 12 (ch. 106–120, budget 37 500) |
-| Dernière étape validée | 11 (ch. 87–105) |
+| Avance / Retard | Phase 1 achevée |
+| Étape en cours | — (Phase 1 terminée) |
+| Dernière étape validée | 12 (ch. 106–120) ✅ |
 
 ---
 
@@ -42,8 +42,8 @@
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
 | 10 | 80–86 | 17 500 | 14 096 | 0 | ✅ ÉTAPE 10 TERMINÉE (ch.080–086 ✓) |
 | 11 | 87–105 | 47 500 | 39 459 | 0 | ✅ ÉTAPE 11 TERMINÉE (ch.087–105 ✓) |
-| 12 | 106–120 | 37 500 | 20 280 | 17 220 | ✍ EN COURS |
-| **TOTAL** | **1–120** | **300 000** | **239 041** | **60 959** | |
+| 12 | 106–120 | 37 500 | 30 706 | 0 | ✅ ÉTAPE 12 TERMINÉE (ch.106–120 ✓) |
+| **TOTAL** | **1–120** | **300 000** | **249 467** | **50 533** | ✅ PHASE 1 ACHEVÉE |
 
 ---
 
@@ -233,6 +233,11 @@ Pour reprendre la session après interruption :
 | 113 | La remontée | 2 016 | ✓ Rédigé |
 | 114 | Les premiers jours | 2 105 | ✓ Rédigé |
 | 115 | Ce que Ferrand écrit | 2 115 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 116 | La marque | 2 376 | ✓ Rédigé |
+| 117 | Mathilde | 2 035 | ✓ Rédigé |
+| 118 | Camille | 2 010 | ✓ Rédigé |
+| 119 | Ce que Kern avait dit | 2 004 | ✓ Rédigé |
+| 120 | Le Vernay | 2 001 | ✓ Rédigé — ARRÊT ÉTAPE 12 — ROMAN ACHEVÉ |
 
 ---
 
@@ -628,3 +633,36 @@ Pour reprendre la session après interruption :
 **Mots Étape 12 cumulés :** 20 280 / budget 37 500
 **Mots total :** 239 041 / cible 300 000
 **Chapitres restants dans Étape 12 :** 5 (ch.116–120)
+
+---
+
+## PROGRESSION ÉTAPE 12 — ch.116–120 (CHECKPOINT FINAL)
+
+| Ch. | Titre | Mots | Contenu clé |
+|-----|-------|------|-------------|
+| 116 | La marque | 2 376 | Vauthier nomme le changement — Ferrand voit la marque — Bréval visite Odile — surépaisseur installée |
+| 117 | Mathilde | 2 035 | Fév. 2027 — Mathilde lit les volumes Kern, trace la 6e branche en pointillés, "D'accord" pour les mesures incompatibles |
+| 118 | Camille | 2 010 | Mars 2027 — café, formulaires école, Camille voit que Bréval est "différent depuis décembre" |
+| 119 | Ce que Kern avait dit | 2 004 | Cordier décide de ne pas écrire — René "désapprendre" — Kern dit "Mathilde" à voix basse — enveloppe Irène ouverte dans F6 |
+| 120 | Le Vernay | 2 001 | Juil. 2027 — carrefour le dimanche matin — Bréval écrit pour la première fois — range le nom dans un tiroir |
+| **Total ch.116–120** | | **10 426** | Phase 1 achevée — ROMAN COMPLET |
+
+**Mots Étape 12 FINAL :** 30 706 / budget 37 500
+**Mots total FINAL :** 249 467 / cible 300 000
+**Phase 1 : TERMINÉE — 120/120 chapitres rédigés**
+
+---
+
+## BILAN ÉTAPE 12 COMPLET — ch. 106–120 (30 706 mots / budget 37 500)
+
+**Faits posés (ch.116–120)**
+- La marque (ch116) : Bréval porte une modification permanente dans sa perception des espaces. "Surépaisseur" dans certains espaces à géologie ancienne. Vauthier : "ça ne s'explique pas, ça s'habite." Odile Vanel : "L'espace est devenu un peu plus réel pour eux." René (via Odile) : "J'ai vu ce qui était là. Je ne peux pas l'expliquer mieux que ça." Ferrand voit la modification sans l'analyser. Bréval révèle à Ferrand le contenu de l'enveloppe : "un nom, une adresse, une date dans douze ans." Mathilde appelle le 25 décembre : "Le labyrinthe ?" — Bréval : "Oui. Le labyrinthe." Deux cailloux en poche (11 encoches).
+- Mathilde (ch117) : Février 2027. Mathilde 10 ans visite l'appartement, lit les volumes de Kern. Comprend les mesures discordantes entre 1886 et 1923 — dit "D'accord" pour ranger les données incompatibles. Trace la 6e branche en pointillés dans son carnet de brouillon depuis le centre du carrefour des Cinq-Vents, NNE, sans qu'on lui demande. Bréval pose juste un point NNE sur son dessin. Mathilde relie seule. Carnet entre deux exercices de mathématiques.
+- Camille (ch118) : Mars 2027. Café pour co-signer dossier école (atelier cartographie). Camille rapporte observation de Mathilde : "papa regarde les espaces autrement depuis décembre." Bréval confirme — "ce n'est pas temporaire." Épisode cailloux classés par origine géologique (octobre, Mathilde). Bréval rentre via Vernay, surépaisseur au carrefour, enveloppe dans la poche.
+- Ce que Kern avait dit (ch119) : Mai 2027. Cordier appelle — ne publiera jamais l'article (six versions effacées). René Massard à Kern en 1995 : "je ne pouvais plus le désapprendre" — souligné deux fois. Kern attendu 30 ans sans entrer, gardé pour Bréval. Kern à l'hôpital 17 novembre : "Mathilde" dit à voix basse, une seule fois. Enveloppe d'Irène dans la chambre : "Mathilde Bréval" + adresse + "Décembre 2038." Bréval garde pour douze ans.
+- Le Vernay (ch120) : Juillet 2027, dimanche matin. Bréval au carrefour des Cinq-Vents. Écrit pour la première fois dans le carnet : dimensions de la chambre, "Ce qu'il y a dans la branche 6 : je n'ai pas de mot pour ça. Ce n'est pas une lacune du vocabulaire — c'est ce que c'est." Rentre, fait du café avec le moulin de Kern. Écrit le prénom "Mathilde" sur feuille blanche, plie en quatre, range dans un tiroir. Enveloppe d'Irène toujours dans la poche intérieure. Onze cailloux en poche.
+
+**Alertes fermées — Phase 1 terminée**
+- A-001 : fichiers de référence validés par la rédaction complète
+- A-002 : localisation géographique non fixée (non bloquant — roman achevé)
+- A-003 : Camille — séparation formalisée, contact régulier via Mathilde, accord fonctionnel
