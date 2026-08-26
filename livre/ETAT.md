@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 11 (ch. 87–105)  
-**Date de dernière mise à jour :** CHECKPOINT ch.087–091 (5 chapitres validés)  
-**Prochain chapitre à rédiger :** 092
+**Date de dernière mise à jour :** CHECKPOINT ch.092–096 (5 chapitres validés)  
+**Prochain chapitre à rédiger :** 097
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 91 / 120 |
-| Mots écrits | 189 994 |
+| Chapitres rédigés | 96 / 120 |
+| Mots écrits | 200 042 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 11 (ch. 87–105, budget 47 500) |
@@ -41,9 +41,9 @@
 | 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
 | 10 | 80–86 | 17 500 | 14 096 | 0 | ✅ ÉTAPE 10 TERMINÉE (ch.080–086 ✓) |
-| 11 | 87–105 | 47 500 | 10 692 | 36 808 | ✍ EN COURS |
+| 11 | 87–105 | 47 500 | 20 740 | 26 760 | ✍ EN COURS (ch.087–096 ✓, ch.097–105 reste) |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **189 994** | **110 006** | |
+| **TOTAL** | **1–120** | **300 000** | **200 042** | **99 958** | |
 
 ---
 
@@ -209,6 +209,11 @@ Pour reprendre la session après interruption :
 | 089 | Troisième descente | 2 263 | ✓ Rédigé |
 | 090 | Septembre | 2 166 | ✓ Rédigé |
 | 091 | L'empreinte | 2 115 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 092 | La dépêche | 2 013 | ✓ Rédigé |
+| 093 | La veille | 1 999 | ✓ Rédigé |
+| 094 | Le matin | 2 013 | ✓ Rédigé |
+| 095 | Le seuil | 2 026 | ✓ Rédigé |
+| 096 | Le nœud | 1 997 | ✓ Rédigé — CHECKPOINT 5 ch. |
 
 ---
 
@@ -490,3 +495,34 @@ Pour reprendre la session après interruption :
 - A-001 : fichiers de référence provisoires
 - A-002 : localisation géographique non fixée
 - A-003 : Camille — séparation de corps, contact minimal depuis août 2025 (déjeuner), Bréval a promis l'anniversaire du 18 octobre
+
+---
+
+### PROGRESSION ÉTAPE 11 — ch. 87–96 (20 740 mots / 10 chapitres — bilan partiel au CHECKPOINT 092–096)
+
+**Faits posés (ch.087–096)**
+- Kern décède (ch087, avant juin 2026) — voisine confirme semaine précédant ch087. Carnet à spirale transmis. Classeur vert reste à Bréval.
+- Kern (carnet spirale) : Ledoux 1971 "quelque chose comme une lumière, côté nord, pas de mot" ; Kerdrel 1987 entré, sorti 3h, amnésie, ne veut pas retourner ; Kern 1989 "J'ai vu quelque chose. Je n'ai pas de description. Je sais que c'était réel." Formulation finale : "La chambre est géométriquement différente. La sixième branche est sémantiquement différente."
+- Deuxième descente (ch088, 16 août 2026) : Ferrand dans le couloir de cave avec le câble. Ferrand formulait la limite de la personne de surface (Kern 2001) : le câble transmet uniquement poids et tension. "L'important est de savoir ce qu'on ne sait pas encore."
+- Troisième descente (ch089, 23 août 2026) : Ferrand descend jusqu'à la galerie principale, s'arrête 5m de la chambre (ne entre pas). Le câble "suit à la main, pas à la vue." Dispositif complet : (1) Vauthier rez-de-chaussée du 11, (2) Ferrand couloir de cave, (3) Odile Vanel au 7 bis (accès secondaire, couloir du 7 bis = jonction couloir nord à ~60m, Odile connaît depuis 1980s via René). Irène (cahier 5, 1984) : "J'aurais moins eu peur de l'obscurité si j'avais su à quoi elle ressemblait."
+- Septembre (ch090, 1-15 sept 2026) : baudrier version finale (3e version, +2cm sangle thoracique droite, anneau gauche alliage léger). Vauthier grand-père 1971 (version longue) : "Il a choisi de ne pas entrer. Il me l'a dit deux ans avant de mourir. Il a regretté — pas de ne pas être entré, de ne pas avoir su." Ferrand : durée maximale 2h depuis dernier signal actif → tirer doucement. Kern (carnet spirale, via voisine 15 sept) : Ledoux/Kerdrel/Kern tous revenus, aucune description.
+- Empreinte (ch091, 16 sept 2026) : 4e descente d'entraînement, Bréval seul. Empreinte fraîche semelle plate taille 44-45 dans boue dépression à 80m, datée 10-16 sept. Cordier : taille 44 (fiche médicale). Hypothesis : Cordier vivant dans les galeries, mobile. "La question n'est pas pourquoi il n'est pas remonté. La question est pourquoi il n'en a pas voulu." Ferrand : promotion acceptée, résolution visée fin octobre.
+- Article Courrier du Vernay (ch092, 17-19 sept 2026) : "Mystère dans les galeries du Vernay : un homme disparaît depuis dix-huit mois." Source probable : Delisle fils (non confirmé). Presse abandonne le dossier en 3 jours. Odile précise (19 sept) : voix du 17 décembre = "une tentative, quelqu'un qui essaie de faire traverser quelque chose depuis l'endroit où il est." Direction vers la surface depuis longtemps.
+- Veille (ch093, 22 sept 2026) : Vauthier dépose matériel au 11 (note : "Matériel en place. V."). Bréval laisse classeur Kern, photo six hommes, enveloppe Irène sur le bureau. Appel Mathilde 18h : "Comme dans les mythes grecs — la corde pendant qu'il cherche la sortie." Appel Ferrand 22h : "Je sais maintenant ce que ça fait de tenir le câble quand il n'y a plus de signal." Kern classeur vert lu pour l'écriture, pas l'information.
+- Le matin (ch094, 23 sept 2026, 5h45-8h02) : lève 5h45 (pas dormi depuis 1h). Caillou poche droite. Départ 6h18. Vauthier au portail du 11 — câble fibres au repos depuis 17h. Ferrand couloir de cave 6h55. Odile confirmée 7 bis. Baudrier vérifié sangle par sangle. Câble à l'anneau frontal. 2 min immobilité (protocole René). 7h20 "Je pars." Couloir nord dans le noir — câble = présence Ferrand. 80m : empreinte du 16 encore visible. Chambre 8h02. Ouverture F6 visible paroi nord-nord-est.
+- Le seuil (ch095, 23 sept 2026, 8h02-8h50) : Bréval à l'ouverture de F6. Signal Ferrand dégradé à l'entrée de F6 (reçu, pas 5/5). Noir de F6 différent : "la lampe révélait quelque chose de distinct" — formulation de Kern vérifiée physiquement. Cristaux de gypse paroi gauche (non dans les notes Kern). T° à 2m de F6 : 10°, identique galerie principale. 10 min d'attente sans compter le temps — légère perte de la durée subjective. Décision d'attendre Vauthier pour le nœud.
+- Le nœud (ch096, 23 sept 2026, 8h50-9h30) : Vauthier descend depuis le rez-de-chaussée. Entre dans la chambre pour la première fois. Gypse à l'entrée de F6 : noté pour mise à jour du plan. Vérification du nœud anneau frontal : 3 vérifications décrites (verrou carabine / nœud / gaine / tension). 4e vérification = accroche. Histoire grand-père (version condensée) : "Il a choisi de ne pas entrer. Il me l'a dit la nuit avant de mourir. Il a regretté." Bréval ne dit rien.
+
+**Questions ouvertes en entrée de la suite (ch.097–105)**
+- Que voit et expérimente Bréval dans F6 (aucune description possible per Kern) ?
+- Cordier est-il dans F6 ? Bréval le trouvera-t-il ?
+- La voix qu'Odile a entendue le 17 décembre : était-ce Cordier ou quelqu'un depuis 1911 ?
+- René a entendu quelque chose "devant lui" dans la branche : Bréval l'entendra-t-il aussi ?
+- La marque : Bréval la portera-t-il ? Reconnaîtra-t-il le prochain ?
+- L'enveloppe d'Irène : Bréval reviendra-t-il pour l'ouvrir ?
+- Mathilde et l'anniversaire du 18 octobre : Bréval tiendra-t-il sa promesse ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : Camille — séparation de corps, contact minimal, anniversaire Mathilde 18 octobre promis

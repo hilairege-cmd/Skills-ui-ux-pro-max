@@ -1806,3 +1806,84 @@
 - Ferrand (couloir de brigade) : promotion acceptée, résolution du dossier visée "fin octobre." Direction de brigade d'accord pour laisser Ferrand suivre le dossier jusqu'à résolution. Bréval : 7 jours restants.
 - Kern (note classeur 2003 rapprochée de Kern 1989) : "La chambre ne s'adapte pas à tout le monde de la même façon." Si vrai pour Cordier, vrai aussi pour Bréval — l'expérience sera différente de ce que Cordier a vécu.
 
+
+---
+
+### Ch. 092 — La dépêche (17-19 septembre 2026)
+
+- Article dans le Courrier du Vernay le 17 septembre : "Mystère dans les galeries du Vernay : un homme disparaît depuis dix-huit mois." 3 paragraphes : Cordier disparu mars 2025 / galeries sous arrêté conservatoire depuis 2024 / brigade sans commentaire. Signé d'un journaliste inconnu de Bréval. Source probable : Delisle fils (même source que l'article de décembre).
+- L'article ne contient aucune information sur l'empreinte ni sur ce que Bréval a compris depuis mars 2025.
+- Ferrand gère les appels presse : Courrier + correspondante radio + chaîne d'info régionale → réponse uniforme "dossier en cours, pas de commentaire."
+- Point avec la direction de brigade à 11h le 17 septembre : Bréval présente le dossier officiel (Cordier disparu, aucun corps, galeries inspectées décembre, dossier ouvert). L'empreinte du 16 septembre NON déclarée (hypothèse non probante). Résolution visée : "fin octobre."
+- Ferrand (18 septembre) : journaliste du Courrier a contacté pour un témoin ayant entendu une voix dans le couloir de cave du 11. Chaîne : Odile → voisine Mme Tourrès (70 ans) → fille de Mme Tourrès (presse). Odile avait dit "cru entendre quelque chose mais n'était pas sûre." Énoncé exact, non amplifié.
+- Odile confirmée (appel Bréval) : n'a pas parlé directement à un journaliste. La transmission était non intentionnelle. Cordier confirme le 23 septembre : Bréval appelle Odile pour confirmation de présence au 7 bis.
+- Odile (19 septembre, appel) : précision sur la voix du 17 décembre. "Une tentative — quelqu'un qui essaie de faire traverser quelque chose depuis l'endroit où il est." Pas un appel à l'aide — une direction vers la surface. "Depuis longtemps" : pas forcément depuis décembre 2024, peut-être depuis 1912. La voix "sait où est la surface."
+- Presse : l'article disparaît de la une régionale en 3 jours (19 septembre). Temporalité du dossier Bréval vs temporalité de la presse : sans relation.
+
+---
+
+### Ch. 093 — La veille (22 septembre 2026)
+
+- 22 septembre matin : Bréval signe un rapport de co-signature à la brigade (affaire vol avec effraction, autre commandant). Raison : avoir une matinée de travail normale, ne pas rester chez lui à regarder le baudrier sur le bureau. Terminé à 11h25.
+- Baudrier : déposé par Vauthier au 11 rue des Charmilles la veille avec message sous la porte : "Matériel en place. Vérification du câble : le dévidoir est verrouillé, pas de frottement, contact propre. Demain 7h. V."
+- Bréval (après-midi) : relit plan des galeries de Vauthier pour la dernière fois. Regarde la géométrie d'ensemble, pas le détail. Note F6 : "branche 6 — direction et profondeur inconnues."
+- Classeur vert de Kern (après-midi) : posé sur le bureau, non relu dans le détail. Regardé pour ce qu'il est, pas pour ses informations.
+- Photographie des six hommes de 1911 (22 septembre) : Bréval les regarde "autrement" — non plus comme données d'enquête, mais comme trois personnes qui avaient eu une veille et n'avaient pas repassé une matinée. Il ne sait pas ce qu'ils avaient fait leur veille. Il sait ce qu'il fait ce soir.
+- Enveloppe d'Irène : apportée depuis le bureau de la brigade (classeur bleu, tiroir du haut). Posée à plat sur le bureau, non ouverte. Condition : seulement s'il revient.
+- Appel Mathilde (18h) : Camille dit "Tu n'as pas l'air bien" — Bréval dit "Je suis dans une période de travail chargée." Mathilde demande : "Tu es encore dans le labyrinthe ?" — "J'en sors demain." — "Le labyrinthe c'est dangereux ?" — "Un peu." — "Elles savent comment on sort du labyrinthe ?" — "Elles savent comment tenir la corde pendant que je cherche la sortie." — Mathilde : "Comme dans les mythes grecs. On a étudié ça à l'école." Mathilde a 9 ans.
+- Bréval note dans le carnet : "Mathilde : 'la corde pendant qu'il cherche la sortie.' Elle n'a pas dit Ariane. Elle a dit la corde. Et les gens qui tiennent. C'est la même chose."
+- Appel Ferrand (22h) : "Je sais maintenant ce que ça fait de tenir le câble quand il n'y a plus de signal... Je sais comment tient la main." Deux secondes de silence. "À demain." Bréval : "À demain."
+- Kern classeur vert (minuit) : lu pour l'écriture (formation des lettres, abréviations, astérisques). "Une façon d'être avec Kern sans lui téléphoner, sans avoir besoin que Kern réponde."
+- Dernière note carnet (0h40) : "Demain 7h. Matériel au 11. Ferrand : couloir de cave. Vauthier : rez-de-chaussée du 11. Odile : 7 bis. Câble : 150m, dévidoir verrouillé, contact propre. Baudrier : anneau frontal. Combiné dans la poche droite du baudrier. Règle 7 : attendre que la tension vienne de l'intérieur."
+- Lampe de bureau laissée allumée. Caillou posé sur carnet fermé. Photo six hommes et enveloppe Irène sur le bureau.
+
+---
+
+### Ch. 094 — Le matin (23 septembre 2026, 5h45-8h02)
+
+- Bréval se lève à 5h45 (n'a pas dormi depuis 1h). Plafond de la chambre "visible dans le noir." Il n'a pas cherché à dormir — a laissé passer le temps.
+- Équinoxe d'automne : lever du soleil 7h17 (relevé météo consulté la semaine précédente). Température extérieure : 12° (10° au ressenti selon le vent).
+- Prise du matériel sur le bureau : caillou (poche droite du manteau, depuis novembre 2024 à chaque descente), carnet, lampe frontale (chargée), lampe de réserve (poche gauche), thermomètre de poche, appareil photo. LAISSÉS SUR LE BUREAU : classeur vert Kern, photographie des six hommes de 1911, enveloppe d'Irène. Lampe de bureau laissée allumée.
+- Départ : 6h18. Ne regarde pas le carrefour des Cinq-Vents en passant.
+- Vauthier au portail du 11 : manteau de travail, sac à dos de mine. Pas de salutation — tend la clé directement. "Le câble est déroulé depuis hier sur le sol de la cave, pas mis sous tension — juste posé, pour que les fibres se reposent. C'est comme ça qu'on faisait dans les mines avant une opération longue." Vauthier descend en cave, vérifie le dévidoir sans toucher le câble (fibres au repos 17h). Remonte pour tenir la radio au rez-de-chaussée.
+- Ferrand dans le couloir de cave depuis 6h55. Tabouret derrière elle, non sorti. Odile confirmée au 7 bis à 6h50. Bréval boucle baudrier sangle par sangle (ordre tactile Vauthier : sangles de cuisse, sangle ventrale, sangle thoracique, anneau frontal). Câble accroché à l'anneau frontal (carabine de fixation).
+- Bréval (dans le couloir de cave) : "Je pars à 7h20." Ferrand : "Je sais." Il était 7h18 — lever du soleil.
+- 2 min d'immobilité avant départ (protocole René) : "Laisser le corps comprendre ce qui se passe, pas avec les mots, avec la position." Appliqué ce matin pour la première fois (pas pendant les entraînements). Caillou senti dans la poche, câble senti depuis l'anneau frontal, silence de la cave.
+- 7h20 : "Je pars." — Ferrand : "Je suis là."
+- Couloir nord : marché dans le noir complet (lampe gardée pour la galerie principale). Corps connaît le trajet. Câble = présence de Ferrand depuis l'anneau frontal. Rétrécissement senti aux parois avant de le voir (pression d'air, parois plus proches des bras) à 160m. 15m pour passer.
+- Galerie principale : lampe frontale allumée à l'entrée. "Galerie principale." / "Reçu. Câble : poids normal." Cristaux à 50m gauche, irrégularités connues.
+- 80m : empreinte du 16 septembre encore visible (bords légèrement plus affaissés, encore nette). "Quatre-vingts mètres. Dépression boueuse. L'empreinte est encore là." — Ferrand : "Je vois."
+- 135m : entrée de la chambre. S'arrête à 5m. "Entrée de la chambre. Cinq mètres." / "Reçu. Câble : poids normal. Signal reçu cinq sur cinq." 5 min debout devant l'ouverture sans entrer. Pense aux trois hommes de 1911 qui n'avaient pas de câble. Il en a un.
+- 8h02 : entre dans la chambre. S'avance au centre. "Chambre. Je suis dans la chambre." / "Reçu" (Ferrand). Voix clairement entendue. L'ouverture de F6 visible dans la paroi nord-nord-est.
+
+---
+
+### Ch. 095 — Le seuil (23 septembre 2026, 8h02-8h50)
+
+- Bréval au centre de la chambre, vérifie signal combiné : cinq sur cinq. Se tourne vers la paroi nord-nord-est.
+- Première vue directe F6 depuis les mesures du 23 août : ouverture ovale irrégulière, largeur 1m10 à mi-hauteur, hauteur 1m65 (entrée courbée à -10cm).
+- Câble disponible restant depuis la chambre : 15m (150m total, 135m utilisés couloir+galerie). Quinze mètres à l'intérieur de F6 si branche droite, moins si elle courbe.
+- Approche F6 — 3m de l'ouverture (8h11) : lampe éclaire 2-3m à l'intérieur. Cristaux de gypse paroi gauche à 1m50 NON dans les notes de Kern (Kern ne s'était pas approché à l'entrée). Sol : calcaire compact, légèrement descendant nord. Paroi droite : invisible depuis l'angle à 3m.
+- Le noir de F6 à 3m : "Un noir différent de celui du couloir nord. Il était quelque chose que la lampe ne dissipait pas, que la lampe révélait comme distinct." Formulation de Kern vérifiée physiquement : "sémantiquement différente." Note carnet : "Le noir de F6 n'est pas le même que le noir du couloir. Je n'ai pas de description. Je note l'absence de description comme une donnée."
+- 2m de l'ouverture (8h17) : T° mesurée : 10°, identique galerie principale. "Modification qualité air" non mesurable, non nommable.
+- Ferrand (avant l'approche finale) : dit spontanément "Je suis là" — hors protocole. Bréval ne répond pas. Avance.
+- À l'ouverture de F6 (8h23) : lampe éclaire 4m à l'intérieur. Sol : calcaire compact, descendant régulièrement. Courbure vers l'est à 2m. Cristaux gypse paroi gauche à 1m50 confirmés. Signal Ferrand : "reçu" (non "cinq sur cinq") — dégradé mais maintenu stable.
+- 10 min d'attente à l'ouverture sans compter le temps (légère perte de la durée subjective). Ferrand appelle à 8h32 pour signal de position : "Dix minutes." Bréval : "Je n'entre pas encore. Je vais attendre Vauthier."
+- Décision : attendre Vauthier pour vérification du nœud avant entrée dans F6. Ferrand appelle Vauthier via radio.
+
+---
+
+### Ch. 096 — Le nœud (23 septembre 2026, 8h50-9h30)
+
+- Vauthier descend depuis rez-de-chaussée (radio laissée sur fréquence ouverte). Trajet sans câble — connaît le chemin.
+- Bréval pendant l'attente : silence de F6 "plat" (sans résonance, sans surface proche contre laquelle se réfléchir). Branche sans mesure de profondeur — F6 = "direction et profondeur inconnues" (plan de Vauthier).
+- Bréval (pendant l'attente) : pense à Mathilde — "Appelle-moi quand tu es sorti." Pense à Cordier (sans câble vs câble de 150m) — "Ce n'est pas la même chose."
+- Vauthier entre dans la chambre pour la première fois (première présence physique dans la chambre). S'arrête 1 seconde à l'entrée — même arrêt que Bréval en novembre 2024.
+- Vauthier à l'ouverture de F6 : note les cristaux de gypse (non dans ses relevés — Kern ne s'était pas approché). Note pour mise à jour du plan. Observe le noir de F6 : "quelque chose de différent dans le noir de cette branche." Pas de nom. Même observation que Bréval, formulée différemment depuis le langage des mines.
+- Deux lampes combinées éclairent F6 sur 6m depuis l'entrée.
+- Vérification du nœud (anneau frontal, carabine, câble) : 3 vérifications décrites (verrou carabine / nœud / gaine / tension légère). Vauthier (août) : "En mine, on vérifie trois fois minimum. Pas pour trouver quelque chose — pour confirmer que les deux premiers n'ont pas manqué quelque chose."
+- Bréval : 20 min avant limite René (2h depuis couloir nord, il est 9h10). Câble disponible : 15m. Courbure vers l'est à 2m → angle du câble compensé par Ferrand depuis le dévidoir.
+- Bréval (intérieur) : sait qu'il va entrer. Pas une décision à prendre ce matin — prise depuis novembre 2024.
+- Histoire du grand-père de Vauthier : galerie de granite dans les Alpes en 1971, branche nord non documentée, "tout le monde savait qu'elle était là."
+- ACCROCHE VERBATIM : Vauthier vérifie le nœud pour la quatrième fois → Bréval lui demande si ça va → "Mon grand-père a fait quelque chose comme ça en 1971. Il a choisi de ne pas entrer. Il me l'a dit la nuit avant de mourir. Il a regretté." → Bréval ne dit rien.
+
