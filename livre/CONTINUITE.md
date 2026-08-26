@@ -1727,3 +1727,82 @@
 - Date fixée : 23 septembre 2026, équinoxe d'automne. Confirmée par Massard en juin (fenêtre fiable). Décembre jugé trop loin.
 - Ferrand informée (15 juillet, 9h, brigade) : câble 150m (fibre statique, reçu en juin), baudrier complet, câble téléphonique de mines 2 combinés. Vauthier : rez-de-chaussée du 11 (appartement Delisle fils vide depuis la vente). Ferrand dans le couloir de cave à l'entrée du couloir nord. Ferrand informée de la pensée de lâcher d'Irène. "Je serai là."
 - Rêve de la chambre cette nuit-là : pas comme vue depuis l'extérieur — comme perçue pendant les 40 minutes perdues du 28 novembre (date d'une entrée non mémorisée). De l'intérieur. De partout à la fois. Calme. "C'était ce qu'il avait le plus craint : que ça soit calme."
+
+---
+
+### Ch. 087 — Kern décline (août 2026, appartement Kern + galeries)
+
+- Visite de Kern le 4 août 2026 : ne se lève plus pour ouvrir (voisine a une clé). Plus petit dans le fauteuil — "la façon dont les gens ratatinent quand le corps commence à abandonner les postures de maintien." Voix toujours claire.
+- Kern donne à Bréval : (1) classeur vert (17 pages de notes qualitatives sur les variations saisonnières, 2001 à récent) ; (2) photographie 10×15 noir et blanc, bords jaunis — six hommes devant un portail de pierre, 14 février 1911. Retrouvée dans archives de la Compagnie des eaux (fonds 1908-1914, non cataloguée par noms mais par numéro de chantier du Vernay, janvier-février 1911). Deux ans pour la trouver. Grégoire/Hubert/Dassot à gauche, Vanel au centre, Théas/Marchetti à droite.
+- Kern sur septembre vs décembre : septembre, géométrie plus stable, moins de résistance à l'entrée et à la sortie. Décembre, la chambre "travaille parfois contre le fil" — contre le souvenir qu'il y a une surface. "En septembre, la chambre est plus neutre. Ni contre ni pour."
+- Kern : "L'important n'est pas de comprendre — l'important est de savoir ce qu'on ne comprend pas." Sur ce qui est différent en septembre vs décembre : "Pas parce que la chambre change. Parce que celui qui entre change."
+- Si Bréval revient : écrire ce qu'il a vu/entendu dans la sixième branche, pas dans le carnet de brigade — dans quelque chose à part, pour la bibliothèque. "La chaîne continue parce que chaque maillon laisse quelque chose derrière."
+- Kern ne sera pas là en septembre : "J'avais espéré jusqu'en juillet. Ce n'est plus l'hypothèse de travail."
+- Photographie des six hommes de 1911 : Bréval ne peut pas distinguer Grégoire de Hubert de Dassot (pas de description physique dans les registres). Ce qui compte : ils avaient des visages. "Cent quatorze ans."
+- Première descente d'entraînement : 9 août. Galerie principale seulement (règle fixée : les entraînements ne comptent pas pour les encoches). Câble téléphonique de mines fonctionnel à 130m. Ferrand dans le couloir de cave — première fois avec une voix humaine dans les galeries au-delà de 10m. Ferrand relit le protocole de René (trois fois). Ferrand : "Attendre que la tension vienne de l'intérieur, pas de l'extérieur. Je sais ce que je dois faire."
+- Appartement après descente : photographie + classeur vert + caillou posés ensemble sur le bureau, lumière d'août.
+
+---
+
+### Ch. 088 — Deuxième descente (16 août 2026)
+
+- Première entrée délibérée de Bréval dans la chambre avec protocole complet, câble, et Ferrand dans le couloir de cave. Objectif : que le corps connaisse le trajet avec le câble avant le 23 septembre. Que le câble fasse partie du paysage.
+- Ferrand : tabouret pliant (apporté par Vauthier le 12 août avec le mot "Utile mais insuffisant. Prenez aussi un manteau chaud.") + manteau chaud.
+- Câble : 150m, dévidoir acier, chambre à ~135m depuis couloir nord (15m de marge). Calcul validé.
+- Traversée galerie principale : 12 min 30 s. Retour toujours plus rapide — "le corps qui connaissait le chemin dans un sens préférait l'autre."
+- Mesure au seuil de la chambre : 4m09 ouverture (contre 4m12 le 9 août) — 3cm d'écart en 7 jours. Contraction légère, dans la plage normale pour mi-août selon classeur vert de Kern.
+- Mesures depuis l'intérieur de la chambre : diamètre 4m08 (est-ouest) / 4m11 (nord-sud), voûte 2m12, angles 722° (2° de plus qu'un hexagone parfait — inchangé depuis premières mesures novembre 2024).
+- "Qualité d'espace non attribuable aux données" — formulation honnête selon Bréval. Acoustique légèrement différente (sons portent moins loin). "Géométriquement différent" (formulation Kern, adoptée par Bréval depuis mars 2026).
+- Sixième branche : approchée à deux mètres depuis le centre de la chambre. Aucune résistance perceptible. Pas d'entrée.
+- Retour à 9h22 — 1h52 depuis le départ.
+- Ferrand : les 40 premières minutes normales. À 45 min (5 min sans signal, Bréval dans la chambre) : comprend la différence physique entre poids-au-câble-sans-signal et absence-de-poids. "Je savais intellectuellement que c'était différent — maintenant je le sais physiquement." La pensée de lâcher n'est pas venue (trop consciente que c'était un entraînement).
+- Classeur vert Kern (note 1999) : chambre = durée subjective ×2 (rapport 2,05). Branche = durée subjective absente ("pas de mémoire du temps à l'intérieur"). Asymétrie : "La principale différence entre la chambre et la branche." Implication : dans la branche, la personne de surface ne peut pas savoir si la personne de l'intérieur perçoit le temps. La seule information : poids et tension du câble.
+- Kern (2001) : "La personne de surface ne peut pas recevoir d'information sur l'état subjectif de la personne de l'intérieur. Elle reçoit uniquement ce que le câble transmet. Le câble transmet le poids et la tension. Rien d'autre."
+- Troisième descente planifiée : 23 août. Ferrand ira jusqu'à la galerie principale pour voir où le câble s'arrête.
+
+---
+
+### Ch. 089 — Troisième descente (23 août 2026)
+
+- Ferrand descend pour la première fois dans les galeries — jusqu'à la galerie principale. Pas dans la chambre.
+- Raison de la montrer : Irène avait dit en 1984 (cahier 5 des 7) qu'elle aurait voulu voir l'endroit avant 1978 — "J'aurais moins eu peur de l'obscurité si j'avais su à quoi elle ressemblait."
+- Équipement Ferrand pour la descente : lampe frontale, manteau, gants. Pas de carnet — elle vient voir, pas noter.
+- Parcours : cave du 11, niche, couloir nord (rétrécissement à 1m20 à ~160m depuis la niche, 15m de passage étroit), galerie principale (2m50 voûte, 4m large, sol légèrement descendant vers le sud).
+- À 50m dans la galerie principale : Ferrand constate que la courbure vers l'est fait disparaître les lampes de la vue avant d'arriver à la chambre. Ferrand touche le câble au sol (difficile à distinguer du sol calcaire). "Il faut le suivre à la main, pas à la vue."
+- Ferrand s'arrête à 5m de l'ouverture de la chambre (instruction Bréval). Voit l'ouverture : "trapèze de calcaire légèrement plus sombre." Ne voit pas la sixième branche (visible seulement depuis l'intérieur de la chambre, côté NNE). "La sixième branche est là-dedans. Mais c'est là que vous irez le 23 septembre." — "Oui."
+- Ce qu'elle comprend : "La distance est réelle. Cent trente-cinq mètres sur un plan ne ressemble pas à ça. Ça ressemble à vingt-deux minutes de marche et à une ouverture qu'on voit seulement à la fin." — "Et depuis le couloir de cave, vous ne verrez pas cette ouverture. Vous n'aurez que le câble." — "Maintenant je sais ce que le câble rejoint."
+- Silence de la galerie : différent du couloir de cave. Pas de vibrations de la rue — calcaire isole à 30m de profondeur. Ferrand le remarque. "À un certain point, ça devient le fond."
+- Bréval présente le dispositif complet pour le 23 septembre : (1) Vauthier au rez-de-chaussée du 11. (2) Ferrand dans le couloir de cave. (3) Odile Vanel au 7 bis (accès secondaire). L'accès du 7 bis rejoint le couloir nord à ~60m — Odile connaît depuis les années 80 (René le lui avait dit). Odile est au courant de tout depuis novembre 2024.
+- Kern (note 2003, classeur vert) : "Le fait d'avoir quelqu'un qui a vu l'endroit à la surface change quelque chose dans le couloir." Ferrand a vu le 23 août.
+
+---
+
+### Ch. 090 — Septembre (1-15 septembre 2026)
+
+- Bréval ouvre son carnet le 1er septembre, page 142 : "1er septembre 2026. Vingt-deux jours." Protocole de René : su par cœur, non relu en septembre.
+- Kern (4 septembre) : voix moins claire, mots arrivant avec décalage. Note en cours dans un carnet à spirale (lettres grandes, main tremblante) — témoignages sur la sixième branche à transmettre à Bréval.
+- Baudrier définitif (Vauthier, 8 septembre) : troisième version, sangle thoracique droite allongée de 2cm, anneau de sécurité gauche remplacé (alliage 30g plus léger). Câble à l'anneau frontal (pas dorsal) — permet de sentir la direction de la tension depuis l'intérieur. Vauthier vérifie quatre fois (son propre protocole depuis les mines).
+- Vauthier parle de son grand-père : "En 1971, il a fait quelque chose comme ça. Il a choisi de ne pas entrer. Il m'a dit qu'il regrettait. Pas de ne pas être entré — de ne pas avoir su."
+- Vauthier confirmé : rez-de-chaussée du 11 à 7h le 23 septembre. Odile Vanel au 7 bis. Ferrand dans le couloir de cave.
+- Ferrand (12 septembre, révision chronologique) : durée maximale = 2 heures depuis le dernier signal actif. Si câble avec poids, signal arrêté >2h → "Commencer à tirer doucement" (René). Si câble sans résistance → autre chose. "Si ça tire fort depuis l'intérieur — ne pas tirer. Laisser venir la tension depuis l'intérieur." Ferrand : "Si ça ne réagit pas au tirage, je tire jusqu'à ce que quelque chose revienne."
+- Voisine de Kern appelle le 15 septembre : Kern a fini ses notes pour Bréval.
+- Kern (carnet à spirale, contenu transmis à Bréval le 15 septembre) : trois témoignages sur la sixième branche — Ledoux 1971 : "quelque chose qui ressemblait à une lumière, côté nord, mais ce n'était pas une lumière — pas de mot pour ce que c'était" ; Kerdrel 1987 : entré dans la branche, remonté à 3h du matin, amnésie totale du contenu, ne veut pas y retourner ; Kern 1989 : "J'ai vu quelque chose. Je n'ai pas de description. Je sais que c'était réel."
+- Formulation de Kern (carnet à spirale) : "La chambre est géométriquement différente. La sixième branche est sémantiquement différente. Ce n'est pas la même chose." Pas de description possible — pas parce qu'il n'y a rien à voir, mais parce que ce qui est là n'a pas de description disponible.
+- Kern (dit à voix haute lors de la visite du 15 septembre) : "Vous partirez avec ça. Que la sixième branche ne sera pas descriptible. Que vous ne saurez pas ce que vous voyez. Et que ça n'empêche pas de revenir." — "Les trois sont revenus. Ledoux, Kerdrel, moi-même. Pas de description. Mais revenus."
+- Bréval : 8 jours restants le 15 septembre.
+
+---
+
+### Ch. 091 — L'empreinte (16 septembre 2026)
+
+- Quatrième descente d'entraînement — Bréval seul. Vérification des conditions de la galerie une semaine avant le 23.
+- Température à l'entrée de la galerie principale : 10°C (1° de moins qu'août, dans la plage normale).
+- Empreinte fraîche dans la dépression boueuse à 80m de l'entrée de la galerie principale (zone à calcaire poreux humide permanent, conserve les empreintes). Fraîcheur : 5 à 6 jours au plus (bords nets, non affaissés). Datation approximative : entre le 10 et le 16 septembre 2026. Semelle plate (≠ nervures parallèles de Bréval), légère bande d'adhérence au talon. Taille : 44-45 (Bréval : 43). Cordier : taille 44 (fiche médicale de la mutuelle, trouvée mars 2025).
+- Bréval photographié l'empreinte (depuis dessus, côté, avec semelle à côté pour échelle). Noté dans carnet personnel uniquement — pas dans dossier de brigade (empreinte non probante légalement).
+- Deux explications possibles : accès via le 7 bis par quelqu'un d'autre, ou quelqu'un ressorti de la chambre entre le 23 août et le 16 septembre.
+- Hypothèse Cordier (principale) : si c'est Cordier, il est dans les galeries depuis 18 mois et se déplace encore — l'empreinte fraîche signifie qu'il va et vient dans la galerie, pas qu'il est bloqué dans la branche. "La question n'est pas pourquoi il n'est pas remonté à la surface. La question est pourquoi il n'en a pas voulu."
+- Bréval (carnet au carrefour des Cinq-Vents) : "Si c'est Cordier : la chambre lui a donné une raison de rester. Pas une contrainte — une raison. Ce n'est pas la même chose. Et ça ne signifie pas que ça m'arrivera. Je suis différent de Cordier. Je ne sais pas en quoi exactement. Je le saurai peut-être le 23 septembre."
+- Ferrand informée à la brigade : concluent que ce n'est pas à noter dans le dossier officiel pour ne pas déclencher une autre descente de la direction des galeries avant le 23.
+- Ferrand (couloir de brigade) : promotion acceptée, résolution du dossier visée "fin octobre." Direction de brigade d'accord pour laisser Ferrand suivre le dossier jusqu'à résolution. Bréval : 7 jours restants.
+- Kern (note classeur 2003 rapprochée de Kern 1989) : "La chambre ne s'adapte pas à tout le monde de la même façon." Si vrai pour Cordier, vrai aussi pour Bréval — l'expérience sera différente de ce que Cordier a vécu.
+

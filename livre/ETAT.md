@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 11 (ch. 87–105)  
-**Date de dernière mise à jour :** ARRÊT ÉTAPE 10 — ch. 080–086 validés  
-**Prochain chapitre à rédiger :** 087
+**Date de dernière mise à jour :** CHECKPOINT ch.087–091 (5 chapitres validés)  
+**Prochain chapitre à rédiger :** 092
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 86 / 120 |
-| Mots écrits | 179 302 |
+| Chapitres rédigés | 91 / 120 |
+| Mots écrits | 189 994 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 11 (ch. 87–105, budget 47 500) |
@@ -41,9 +41,9 @@
 | 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
 | 10 | 80–86 | 17 500 | 14 096 | 0 | ✅ ÉTAPE 10 TERMINÉE (ch.080–086 ✓) |
-| 11 | 87–105 | 47 500 | 0 | 47 500 | ✍ EN COURS |
+| 11 | 87–105 | 47 500 | 10 692 | 36 808 | ✍ EN COURS |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **179 302** | **120 698** | |
+| **TOTAL** | **1–120** | **300 000** | **189 994** | **110 006** | |
 
 ---
 
@@ -204,6 +204,11 @@ Pour reprendre la session après interruption :
 | 084 | La préparation | 2 011 | ✓ Rédigé — CHECKPOINT 5 ch. |
 | 085 | Irène | 2 027 | ✓ Rédigé |
 | 086 | Prêt | 2 004 | ✓ Rédigé — ARRÊT ÉTAPE 10 |
+| 087 | Kern décline | 2 021 | ✓ Rédigé |
+| 088 | Deuxième descente | 2 127 | ✓ Rédigé |
+| 089 | Troisième descente | 2 263 | ✓ Rédigé |
+| 090 | Septembre | 2 166 | ✓ Rédigé |
+| 091 | L'empreinte | 2 115 | ✓ Rédigé — CHECKPOINT 5 ch. |
 
 ---
 
