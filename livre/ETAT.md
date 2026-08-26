@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 12 (ch. 106–120)  
-**Date de dernière mise à jour :** CHECKPOINT ch.106–110 (5 chapitres validés) — Étape 12 en cours  
-**Prochain chapitre à rédiger :** 111
+**Date de dernière mise à jour :** CHECKPOINT ch.111–115 (10 chapitres validés en Étape 12) — Étape 12 en cours  
+**Prochain chapitre à rédiger :** 116
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 110 / 120 |
-| Mots écrits | 228 727 |
+| Chapitres rédigés | 115 / 120 |
+| Mots écrits | 239 041 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 12 (ch. 106–120, budget 37 500) |
@@ -42,8 +42,8 @@
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
 | 10 | 80–86 | 17 500 | 14 096 | 0 | ✅ ÉTAPE 10 TERMINÉE (ch.080–086 ✓) |
 | 11 | 87–105 | 47 500 | 39 459 | 0 | ✅ ÉTAPE 11 TERMINÉE (ch.087–105 ✓) |
-| 12 | 106–120 | 37 500 | 9 966 | 27 534 | ✍ EN COURS |
-| **TOTAL** | **1–120** | **300 000** | **228 727** | **71 273** | |
+| 12 | 106–120 | 37 500 | 20 280 | 17 220 | ✍ EN COURS |
+| **TOTAL** | **1–120** | **300 000** | **239 041** | **60 959** | |
 
 ---
 
@@ -55,7 +55,7 @@
 | 069 | La révélation de la Société | ◻ À VENIR |
 | 082–083 | La relecture / Tout était là | ✓ RÉDIGÉS |
 | 097 | Édouard Vanel, 1911 | ✓ RÉDIGÉ |
-| 111–112 | Le consentement / L'intérieur | ◻ À VENIR |
+| 111–112 | Le consentement / L'intérieur | ✓ RÉDIGÉS |
 
 ---
 
@@ -228,6 +228,11 @@ Pour reprendre la session après interruption :
 | 108 | Le dispositif | 1 998 | ✓ Rédigé |
 | 109 | La veille | 1 972 | ✓ Rédigé |
 | 110 | Les cahiers de la Société | 1 969 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 111 | Le consentement | 2 001 | ✓ Rédigé |
+| 112 | L'intérieur | 2 077 | ✓ Rédigé |
+| 113 | La remontée | 2 016 | ✓ Rédigé |
+| 114 | Les premiers jours | 2 105 | ✓ Rédigé |
+| 115 | Ce que Ferrand écrit | 2 115 | ✓ Rédigé — CHECKPOINT 5 ch. |
 
 ---
 
@@ -606,3 +611,20 @@ Pour reprendre la session après interruption :
 - **Total étape 12 à ce stade : 9 966 mots / budget 37 500**
 
 **Chapitres restants Étape 12 : ch.111–120 (10 chapitres)**
+
+---
+
+## PROGRESSION ÉTAPE 12 — ch.111–115 (CHECKPOINT)
+
+| Ch. | Titre | Mots | Contenu clé |
+|-----|-------|------|-------------|
+| 111 | Le consentement | 2 001 | Bréval descend, ouvre enveloppe d'Irène dans la chambre, entre dans F6 |
+| 112 | L'intérieur | 2 077 | Distorsions spatiales dans F6, Cordier trouvé ("Je croyais que plus personne ne viendrait") |
+| 113 | La remontée | 2 016 | Retour en surface, Ferrand/Odile/Vauthier, "Bréval savait maintenant qui" |
+| 114 | Les premiers jours | 2 105 | Urgences : rapport Moreau paradoxal, déposition Cordier, rapport préliminaire Bréval |
+| 115 | Ce que Ferrand écrit | 2 115 | Ferrand rédige le dossier 5 jours, Cordier signe, dossier classé 14 déc. 16h14 |
+| **Total ch.111–115** | | **10 314** | Semaine critique fermée à minuit le 14 décembre |
+
+**Mots Étape 12 cumulés :** 20 280 / budget 37 500
+**Mots total :** 239 041 / cible 300 000
+**Chapitres restants dans Étape 12 :** 5 (ch.116–120)

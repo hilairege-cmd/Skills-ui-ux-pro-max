@@ -2103,3 +2103,90 @@
 - [Ch110] PHRASE FINALE CAHIER 1979 D'IRÈNE MASSARD (ajoutée en plus petit, après coup) : "La chambre ne demande rien. Elle attend seulement que quelqu'un comprenne." — Une observation sobre, sans appel à l'émotion. Pas une conclusion.
 - [Ch110] Bréval ferme le sous-dossier sans écrire dans le carnet. "Cent quinze ans de notes dans le tiroir, une phrase d'Irène Massard pour finir." Va dans la chambre, s'allonge dans le noir. Dort.
 - [Ch110] ACCROCHE VERBATIM : *La dernière phrase du cahier de 1979 d'Irène Massard : « La chambre ne demande rien. Elle attend seulement que quelqu'un comprenne. »*
+
+---
+
+### Ch. 111 — Le consentement (8 décembre 2026, 7h50-9h42)
+
+- [Ch111] Vauthier au 11 rue des Charmilles dès 7h50 — dévidoir vérifié, câble déroulé sur 2 mètres, systèmes de fixation au sol. Pas de formules sociales : "les formules sociales n'avaient pas leur place dans ce qu'il y avait à faire."
+- [Ch111] Ferrand en position depuis 8h, trappe du 9 ouverte, anneau d'ancrage propre.
+- [Ch111] Bréval enfile la combinaison dans le couloir d'entrée du 11. Deux cailloux (5 encoches gauche = Kern, 6 encoches droite = Bréval). Enveloppe d'Irène dans poche intérieure sous fermeture éclair.
+- [Ch111] Bréval descend à 8h32. Cable dans le dos, câble de Ferrand via trappe du 9 depuis 2h44 au total jusqu'à la remontée.
+- [Ch111] Empreinte de Cordier (taille 44, semelle plate) visible à 80m — nette depuis septembre.
+- [Ch111] Bréval atteint la chambre de convergence à 9h42. Dimensions de la semaine critique — plus grandes que les mesures de septembre et novembre.
+- [Ch111] Bréval ouvre l'enveloppe d'Irène dans la chambre, devant l'entrée de F6. "La chambre n'était pas un endroit pour écrire ce qu'on venait de comprendre. Elle était un endroit pour entrer avec ce qu'on avait compris."
+- [Ch111] Vauthier descend à la chambre pour vérification finale du nœud. Tient le câble à deux mains dans la chambre.
+- [Ch111] Entrée dans F6 : Bréval entre avec deux pressions du câble (mou supplémentaire accordé par Ferrand).
+- [Ch111] ACCROCHE VERBATIM : *Il se retourna une dernière fois vers Vauthier, qui tenait la corde à deux mains. Vauthier dit : « Je tiens. » Bréval entra dans la sixième branche.*
+
+---
+
+### Ch. 112 — L'intérieur (F6, temps non linéaire)
+
+- [Ch112] À 5m dans F6 : faisceau de lampe à pénétration réduite — "densité optique de l'air différente dans F6." Observation sans terme technique disponible.
+- [Ch112] À 7m : paroi droite visible à 2m dans la lampe mais touchable à moins d'1m. Écart ~1m50. Cable signal : ~7 secondes de délai (vs 4 secondes dans galerie principale). "Ferrand tenait le câble dans un temps. Lui le tenait dans un autre."
+- [Ch112] À 11m : longueur de galerie ne correspond pas à la position. Vanel 1923 ("vingt-huit mètres sans trouver le fond") confirmé comme expérience réelle, pas métaphore.
+- [Ch112] À 13m : luminosité diffuse sans source visible — réelle à la lampe éteinte (pas hallucination de fatigue). Non blanche, non colorée.
+- [Ch112] À 16m : galerie s'élargit (voûte 3m, parois à 2m de chaque côté). Fond non visible.
+- [Ch112] Voix de Bréval répercutée dans deux directions simultanément dans un couloir droit — physiquement impossible.
+- [Ch112] Luminosité diffuse se déplace — à lampe éteinte, clairement visible, stationnaire.
+- [Ch112] Cordier trouvé : assis contre paroi gauche, tête baissée, bras autour des genoux. Anorak sombre, pantalon de marche, chaussures correspondant à l'empreinte du 11 (taille 44).
+- [Ch112] Cordier : "Je croyais que plus personne ne viendrait." — dit après avoir regardé le câble sortir du baudrier de Bréval.
+- [Ch112] Durée intérieure pour Cordier : "peut-être une semaine. J'ai dormi. J'ai perdu le compte." vs 14 mois surface. Confirmé par Cordier directement.
+- [Ch112] Cordier a arrêté de noter : "Je ne sais pas si c'était parce qu'il n'y avait plus rien à noter, ou parce que noter n'avait plus d'importance. Ça revenait au même, là-dedans."
+- [Ch112] Anneau de liaison secondaire attaché au baudrier de Cordier — même procédure que baudrier Bréval (carabine à verrou, nœud, gaine, tension). 3 pressions câble = je remonte.
+- [Ch112] Retour : à 5m de l'entrée, distances de la lampe retrouvent la normale. Luminosité diffuse disparaît dans la direction où Cordier était assis.
+- [Ch112] ACCROCHE VERBATIM : *Il y avait une voix. Elle dit : « Je croyais que plus personne ne viendrait. » Bréval dit : « C'est moi. Je suis commandant Bréval. Je viens vous chercher. Prenez la corde. »*
+
+---
+
+### Ch. 113 — La remontée (chambre de convergence → surface, 8 décembre 2026)
+
+- [Ch113] Dans la chambre après retour de F6 : Cordier dit "Elle est plus petite que dans mon souvenir" (la chambre). Bréval note mentalement sans répondre.
+- [Ch113] À 40m dans la galerie principale : Cordier s'arrête et regarde vers F6. "Il y a quelque chose là-bas. Ça ne repart pas." / Bréval : "Non. Il est encore là." Cordier reprend la marche sans qu'on lui demande.
+- [Ch113] À 70m : Cordier dit avoir arrêté de noter parce que "noter n'avait plus d'importance" — "Ça revenait au même, là-dedans." Bréval pense à Kern : "la sixième branche est sémantiquement différente."
+- [Ch113] À 100m : Bréval récupère les systèmes de fixation du rétrécissement du couloir nord (procédure inverse de la pose, 10 minutes).
+- [Ch113] En surface (trappe du 11) : Vauthier note l'heure. Cordier dit son propre nom comme test : "Cordier. Yann Cordier." — "comme quelqu'un qui vérifie que son propre nom fonctionne encore."
+- [Ch113] Vauthier radio à Ferrand : "Ils sont en surface. Deux personnes." Heure : 11h16.
+- [Ch113] Ferrand arrive depuis direction du 9. Question médicale : "Vous avez besoin d'un médecin ?" — Cordier : "Non. Je ne pense pas."
+- [Ch113] Odile Vanel arrive depuis trappe secondaire du 9. Dit un seul mot : "Bien." — pas à Cordier, "dans la rue."
+- [Ch113] Bréval assis sur les marches du 11. Sait ce qu'il y a dans l'enveloppe d'Irène. "Bréval savait maintenant qui."
+- [Ch113] Cordier dit "Merci" — "pas une formule. Il le dit comme quelqu'un qui n'a pas encore mesuré tout ce que le mot couvre mais qui sait que c'est le bon mot."
+- [Ch113] Bréval répond : "Il y a des choses à faire. Ça peut attendre."
+- [Ch113] Bréval est ressorti avec Cordier en 1h24. Durée totale en galeries depuis 8h32 : 2h44.
+- [Ch113] ACCROCHE VERBATIM : *Il était onze heures seize à la rue des Charmilles. Bréval avait entré dans la sixième branche à neuf heures cinquante-deux. Il en était ressorti avec Cordier en une heure vingt-quatre. Dans les galeries sous ses pieds, la chambre de convergence avait ses dimensions de la semaine critique. Dans six jours, la semaine critique serait terminée. La sixième branche se refermerait. Les galeries retrouveraient leurs mesures ordinaires. Dans douze ans, la chambre changerait à nouveau ses dimensions. Quelqu'un serait là pour noter. Bréval savait maintenant qui.*
+
+---
+
+### Ch. 114 — Les premiers jours (8-10 décembre 2026)
+
+- [Ch114] Cordier aux urgences le 8 décembre après-midi (Ferrand conduit). Interne Moreau, 30 ans. Constat médical paradoxal : poids 72kg (perdu 2kg sur 14 mois), aucune amyotrophie significative, bilan cognitif normal. Moreau : "Les données cliniques ne collent pas avec 14 mois."
+- [Ch114] Ferrand à Moreau : ne donne aucune explication — sait que le décalage clinique est une donnée, pas un mystère. Moreau note "durée de disparition non concordante avec l'état clinique" et recommande bilan neurologique.
+- [Ch114] Cordier passe la nuit chez sa mère (informée avant son retour).
+- [Ch114] Ferrand pose la question de l'avocat : procédure standard. Cordier refuse l'avocat. "Le problème c'est que ce que je sais n'a pas beaucoup de sens depuis ici." — Cordier formule : "depuis l'ici normal."
+- [Ch114] Bréval rédige le rapport préliminaire la nuit du 8 décembre. Ce qu'il peut écrire (durée, localisation, état) vs ce qu'il ne peut pas écrire (paroi à 2m/1m, signal 7 secondes, Cordier dans lumière sans source). "C'était vrai. C'était incomplet. C'était ce qu'il était possible de mettre dans un rapport."
+- [Ch114] Bréval transfère les deux cailloux dans la poche de son jean sans y penser. "Comme quelqu'un qui vide ses poches et range quelque chose qu'il n'a pas envie de laisser sur un meuble."
+- [Ch114] Le 9 décembre : déposition de Cordier, 2 heures, salle 3. Cordier : descendu pour recherches journalistiques, chambre centrale ronde à six branches, voulu explorer "la plus petite, la moins évidente, vers le nord." Ensuite : "Je me suis retrouvé à un endroit et j'ai attendu."
+- [Ch114] Cordier n'explique pas la survie (14 mois sans alimentation documentée). Ferrand accepte le blanc sans le relever.
+- [Ch114] Dans le couloir après déposition : Cordier à Bréval : "Vous avez été à l'intérieur. Vous avez vu." — Bréval : "J'ai vu ce que j'ai vu. C'était moins long pour moi." — Cordier : "Mais vous avez vu."
+- [Ch114] Cordier mentionne un chat chez une voisine depuis 14 mois. Poignée de main directe.
+- [Ch114] Le 10 décembre soir : Bréval marche jusqu'au carrefour des Cinq-Vents. Compte les branches : cinq. Sait qu'il y en a six. "Ce soir ça avait un poids différent. Il avait été dedans. Il avait vu la sixième."
+- [Ch114] ACCROCHE VERBATIM : *Le rapport du médecin urgentiste consignait : « Patient retrouvé après disparition de quatorze mois. État général : satisfaisant. Pas de déshydratation sévère, pas d'amyotrophie notable, état cognitif normal. Durée de la disparition non concordante avec l'état clinique. » En bas, à la main : « Voir service de neurologie. » Ferrand classa le rapport dans la chemise bleue.*
+
+---
+
+### Ch. 115 — Ce que Ferrand écrit (10-14 décembre 2026)
+
+- [Ch115] Ferrand travaille seule sur le dossier Cordier pendant 5 jours, porte fermée.
+- [Ch115] Rapport de clôture : cause du maintien dans le réseau déléguée au service de psychologie légale (conclusions cliniques vagues → dossier classable).
+- [Ch115] Rapport d'intervention : Bréval a rédigé le préliminaire. Ce qui manque : description de ce que Bréval a vu à l'intérieur. "Ce n'était pas une décision — c'était une reconnaissance commune que certaines choses se passaient entre des gens qui savaient et n'allaient pas dans les dossiers."
+- [Ch115] Note d'accompagnement rapport Moreau : "sorties nocturnes non signalées" invoquées pour expliquer le décalage clinique. Formulée de façon vraie dans les termes, incomplète dans la substance.
+- [Ch115] Ferrand principe : "Un rapport incomplet dit ce qu'il sait et reconnaît ce qu'il ne sait pas encore. Un rapport inexact dit autre chose que ce qui est." Elle n'a jamais rédigé un rapport inexact.
+- [Ch115] 11 décembre : Cordier signe sa déposition révisée avec son propre stylo. Note en marge : "je ne suis pas sûr que c'était une désorientation au sens habituel mais je n'ai pas de meilleur mot." Ferrand transcrit : "désorientation spatiale et temporelle."
+- [Ch115] Cordier à Ferrand : "Ce que j'ai vu là-dedans — je ne vais pas en faire un article." Dit à Ferrand "parce qu'elle savait ce que c'était." Ferrand : "C'est votre décision."
+- [Ch115] Cordier à Bréval dans le couloir : "Elle est bonne." Sur Ferrand.
+- [Ch115] Bréval s'assoit dans le bureau de Ferrand pour quelques minutes — pas pour parler, parce que c'est le seul endroit où quelqu'un d'autre sait ce qu'il sait.
+- [Ch115] 14 décembre : Ferrand remet le dossier à Maret. Maret : "Ça tient." Question sur la sixième branche répondue par "étude spéléologique complète — dépasse notre cadre." Dossier classé.
+- [Ch115] Semaine critique se termine à minuit le 14 décembre 2026. Ferrand classe le dossier à 16h14 — dans les 8 dernières heures de la semaine critique. Dans 12 ans : prochaine ouverture.
+- [Ch115] Message Ferrand à Bréval : "Classé. RAS."
+- [Ch115] ACCROCHE VERBATIM : *Ferrand avait classé le dossier Cordier à 16h14 le 14 décembre 2026. La semaine critique se terminait à minuit. Dans les galeries sous la rue des Charmilles, la chambre de convergence avait ses dimensions de la semaine critique pour encore huit heures. La sixième branche était accessible. Dans huit heures, elle ne le serait plus. Dans douze ans, elle le serait à nouveau. Quelqu'un le savait.*
