@@ -2027,3 +2027,79 @@
 - [Ch105] Bréval rentre à pied dans le matin (40 minutes). Deux cailloux en poche : six encoches (le sien) + cinq encoches (Kern) = onze total.
 - [Ch105] Bréval sourit pour la première fois depuis longtemps en pensant que Kern aurait eu quelque chose à dire sur le nombre onze dans l'iconographie médiévale du Vernay.
 - [Ch105] ACCROCHE VERBATIM : *Il avait maintenant deux cailloux à encoches dans sa poche : le sien, avec six, et celui de Kern, avec cinq. Onze encoches au total. Il pensa que Kern aurait aimé ce chiffre — il aurait sûrement eu quelque chose à dire sur l'histoire du nombre onze dans l'iconographie médiévale du Vernay. Il sourit pour la première fois depuis longtemps.*
+
+---
+
+### Ch. 106 — Ce qu'il dit à Maret (24-27 novembre 2026)
+
+- [Ch106] Rendez-vous Maret 24 novembre. Bréval prépare sa présentation le matin (20 min au bureau, pas de notes — répète à voix basse dans la cuisine). Ne présente que ce qui est vérifiable : cycle documenté depuis 1911, semaine du 7 décembre = pic du cycle, sixième branche accessible dans les meilleures conditions de visibilité. Ne mentionne pas : distorsion temporelle, cailloux, Irène Massard, ce que Kern lui a dit le 14 novembre.
+- [Ch106] Maret signe la couverture administrative. Dit : "Faites attention." C'est tout.
+- [Ch106] Ferrand dans le couloir : "Ce que j'ai dit sur le cycle est vrai. Ce n'est pas inexact." / "C'est de la traduction." Deux choses vraies en même temps.
+- [Ch106] Test câble fin (15 nov.) : Vauthier avec chronomètre et feuille de calcul imprimée. Ferrand recalibrée après deux essais — latence 4 secondes dans sections droites. Vauthier : "Le câble se comporte dans les limites des spécifications. La différence de réponse est compensable avec l'entraînement." Ferrand : "J'ai l'entraînement."
+- [Ch106] Obsèques de Kern : 21 novembre. Mme Duchamp, cousine venue de Lyon, deux ou trois anciens collègues, bibliothécaire universitaire. Bréval au fond. La bibliothécaire remet une note pliée à Bréval (lettre de Kern d'octobre) : "Les volumes de cartographie... Gardez-les... Ne les lisez pas maintenant. Après." Bibliothécaire ajoute : "Il aimait les questions dont les réponses changent selon l'endroit où on se trouve."
+- [Ch106] 27 novembre : Bréval range le bureau. Laisse uniquement : carnet, stylo, chemise bleue dossier Cordier, quatre volumes de cartographie souterraine légués par Kern. Note dans le carnet : "Dix jours."
+- [Ch106] ACCROCHE VERBATIM : *Il y avait dix jours avant la semaine du 7 décembre. Ce n'était pas une urgence. Ce n'était pas non plus une attente. C'était du temps — du temps avec une forme et une fin connue.*
+
+---
+
+### Ch. 107 — Ce qu'elle écrit dans le dossier (1-4 décembre 2026)
+
+- [Ch107] Ferrand rédige mise à jour officielle du dossier Cordier à partir du 1er décembre. Attend que la couverture administrative de Maret soit signée. Ce qui va dans le dossier officiel : relevés de la chambre souterraine, cycle documenté depuis 1911, protocole d'entrée semaine du 7 décembre, membres de l'équipe avec fonctions officielles, temps prévu, protocoles de sécurité surface. Ce qui reste dans le bloc spirale : distorsion temporelle, cailloux à encoches, ce que Kern a dit le 14 novembre, enveloppe d'Irène Massard.
+- [Ch107] Ferrand : "Un rapport incomplet dit ce qu'il sait et reconnaît ce qu'il ne sait pas encore. Un rapport inexact dit autre chose que ce qui est." Elle n'a jamais rédigé un rapport inexact.
+- [Ch107] Ferrand pense au successeur qui lira le dossier sans les notes du spirale — verra une enquête de disparition dans des galeries avec un protocole de récupération, pas ce que le rapport ne dit pas. "Certaines choses ne se transmettent pas par un dossier."
+- [Ch107] Samedi 3 décembre : Mathilde visite le quartier du Vernay. Retrouve son père angle rue des Charmilles / boulevard Saint-Gilles à 10h. Voit façade penchée du 9 rue des Charmilles (fondations déplacées — galeries dessous). Au café place du Vernay : livre géométrie dans l'espace (visualisation spatiale, "Madame Hérat dit que c'est de la visualisation spatiale").
+- [Ch107] Carrefour des Cinq-Vents : Mathilde compte les rues, se retourne lentement. Cinq. Dit : "Il devrait y en avoir six. Cinq, c'est impair pour un carrefour." Bréval ne dit rien. Mathilde ne sait pas ce qu'elle dit.
+- [Ch107] Mathilde à son père : "Tu vas bien ?" — Bréval : "Je vais bien. Je suis en train de finir quelque chose." / "Et après tu seras moins absent." — Bréval : "Après je serai là." (Pas une accusation de sa part — une donnée.)
+- [Ch107] Bréval note le soir : "3 décembre. Mathilde — quartier du Vernay, rue des Charmilles, carrefour des Cinq-Vents, café de la place. Elle a compté les branches. Elle a dit : il devrait y en avoir six. Elle ne sait pas ce qu'elle dit. Quatre jours."
+- [Ch107] ACCROCHE VERBATIM : *Dans quatre jours, il entrait dans la sixième branche. L'idée tenait dans une phrase courte. Il ferma le carnet. Dehors, la rue du Moulin-Neuf était dans sa disposition habituelle — les lampadaires, le trottoir, les voitures garées en rang. Dedans, le bureau vide avec la chemise bleue et les quatre volumes de Kern. Les deux choses existaient en même temps, sans se contredire. C'était peut-être ça aussi — que le monde normal continue pendant qu'on prépare autre chose. Mathilde avait compté cinq branches et dit qu'il en fallait six. Elle avait raison sans le savoir.*
+
+---
+
+### Ch. 108 — Le dispositif (5-6 décembre 2026)
+
+- [Ch108] Vauthier arrive à la brigade lundi 5 décembre à 14h avec tout le matériel : dévidoir en caisse plastique rigide, câble 300m en bobines séparées, systèmes de fixation pour rétrécissement couloir nord, lampes de secours, matériel de communication. Table de réunion dégagée.
+- [Ch108] Plan de déploiement (dans l'ordre d'entrée) : (1) Vauthier surface 5 min puis cave du 11 (vue sur gaine verticale, surveillance tension câble) ; (2) Ferrand à trappe secondaire du 9 depuis couloir nord à 160m (tient le câble, oreillette reliée au récepteur à la trappe) ; (3) Odile Vanel au 9 avec Ferrand comme deuxième paire de mains pour la gestion de la bobine.
+- [Ch108] Signaux convenus : 1 pression courte = tout va bien ; 2 pressions courtes = besoin de plus de mou ; 3 pressions = je remonte ; traction franche depuis la surface = urgence, remontée immédiate.
+- [Ch108] Ferrand phrase d'urgence surface (depuis oreillette) : "Vauthier, remontée." Vauthier peut être à la trappe secondaire en deux minutes depuis la cave du 11 (40 mètres).
+- [Ch108] Plan A3 au mur : sixième branche en pointillés (honnêteté cartographique — on sait qu'elle existe, on ne sait pas ce qu'elle est).
+- [Ch108] PREMIER USAGE DIRECT : Bréval emploie "distorsion temporelle" directement à Vauthier pour la première fois. Vauthier : "Je ne sais pas ce que la distorsion temporelle fait à la tension d'un câble. Je sais ce que fait une distorsion mécanique. Je sais ce que fait une dilatation thermique. Pour le reste, je ne peux pas calculer ce que je n'ai pas de données pour calculer." Précision, pas ignorance.
+- [Ch108] Odile Vanel (appel téléphonique 16h) : "Il revient ?" (ne nomme pas Cordier) — Bréval : "Je pense que oui." — Silence — Odile : "Bien. Je tiens le câble." Distingue certitude et intention — accepte l'intention comme suffisante.
+- [Ch108] Soir 5 décembre : Bréval prépare l'équipement. Lampe principale + deux lampes de secours. Combinaison imperméable. Gants de travail. Genouillères. Couteau de poche. Sifflet. Carnet étanche et crayon. Caillou de Kern (5 encoches) et caillou propre (6 encoches) dans poches différentes (côté gauche et côté droit).
+- [Ch108] Enveloppe d'Irène Massard (cachetée, nom Bréval écrit par Irène) : rangée dans poche intérieure de la combinaison, sous fermeture éclair. Kern avait dit : ouvrir dans F6, dans le bon ordre, pas avant.
+- [Ch108] Méthode vs anxiété : "L'anxiété cherche à contrôler ce qui ne peut pas être contrôlé. La méthode s'occupe de ce qui peut l'être, et laisse le reste là où il est."
+- [Ch108] ACCROCHE VERBATIM : *Le dispositif était en place. L'équipement était prêt. L'opération était dans deux jours. Il n'y avait plus rien à préparer qui pouvait être préparé. Ce qui ne pouvait pas l'être attendrait à l'intérieur.*
+
+---
+
+### Ch. 109 — La veille (7-8 décembre 2026)
+
+- [Ch109] 7 décembre (mardi) : brigade à 8h. Bureau épuré depuis lundi. Ferrand arrive 8h30. "Demain" — "Oui. Neuf heures — rassemblement rue des Charmilles. Vauthier confirme qu'il sera là à huit heures trente pour la préparation de la trappe." / "Je serai là à huit heures vingt."
+- [Ch109] Matinée ordinaire : Bréval signe trois rapports de suivi, relit note de procédure, répond à message de coordination brigade du douzième. Delisle fils appelle pour question déposition.
+- [Ch109] Rendez-vous cabinet d'avocats déplacé au 17 janvier ("j'avais dit à Camille : après"). Ferrand ne demande pas ce que "après" signifie — elle le sait.
+- [Ch109] Bréval donne à Ferrand les informations de contingence : dossier dans le tiroir du bas (deuxième niveau). Mot de passe classeur numérique : "SociétéDeSecoursMutuel" (sans espace, majuscule initiale). Ferrand note malgré tout. "Certaines choses doivent être notées même quand on sait qu'on ne les oubliera pas."
+- [Ch109] Après-midi seul rue du Moulin-Neuf : mange normalement, café debout, regarde la rue. Pense à Cordier : 32 ans, journaliste scientifique, a suivi les archives de la Société, voulu voir, descendu seul sans câble. Erreur = pas dans le chemin mais dans l'ordre (a ouvert quelque chose sans savoir ce qu'ouvrir voulait dire dans cet endroit).
+- [Ch109] "La chambre ne retenait pas les gens de force — elle leur donnait une raison de rester." (Fascination, pas peur, dans le cas de Cordier — comme Vanel qui ne voulait pas arrêter de regarder.)
+- [Ch109] Pense à la mère de Cordier (a arrêté de demander en juin). Si Cordier remonte, elle aura une réponse. Pas la motivation principale — mais vrai quand même.
+- [Ch109] Envisage d'appeler Mathilde (pas pour dire quelque chose de particulier, juste entendre sa voix). Ne le fait pas — "Il n'y avait rien à dire qui pouvait être dit ce soir."
+- [Ch109] Soir : relit notes de Vanel sur la chambre — extrait copiés depuis mars dans le carnet. Vanel 1944 : "j'ai avancé et avancé sans trouver la fin, et la corde m'a rappelé." Kern avait souligné au crayon (pas au stylo) — comme si Kern avait voulu marquer sans peser. Bréval interprète : soulignement sur l'expérience de l'absence de fin comme invitation, pas menace. Vanel est revenu.
+- [Ch109] Vanel 1944 : corde de chanvre 40 mètres. Bréval a 300 mètres.
+- [Ch109] Vérifie équipement une dernière fois — pas par anxiété, par méthode. Cailloux dans poches de la combinaison. S'allonge sans écrire dans le carnet. "Cent quinze ans de notes dans le tiroir, une phrase d'Irène Massard pour finir."
+- [Ch109] 8 décembre : se lève 6h30, café, regarde par la fenêtre (nuit, décembre). Départ 7h15.
+- [Ch109] ACCROCHE VERBATIM : *Le 8 décembre, il se leva à six heures et demie. Il prépara du café. Il regarda par la fenêtre — il faisait nuit encore, le ciel de décembre sans couleur particulière, les lampadaires dans leur ordre habituel. Il but le café lentement. Il prit le sac. Il sortit de l'appartement à sept heures quinze. Il était prêt depuis la veille — il n'y avait rien à faire de plus que sortir.*
+
+---
+
+### Ch. 110 — Les cahiers de la Société (soir du 7 décembre 2026)
+
+- [Ch110] Bréval relit les 142 pages de photocopies des cahiers de la Société dans leur intégralité, depuis le premier (1911) jusqu'au dernier (1979). Décision prise une semaine plus tôt. Commence à 20h30. Les originaux sont à la bibliothèque universitaire depuis octobre.
+- [Ch110] Vanel 1911 (16 pages) : "Le 14 octobre 1911, j'ai descendu pour la première fois dans les galeries du Vernay par la trappe du 11 rue des Charmilles." Écriture petite et régulière, encre brune légèrement délavée sur photocopie. 5 branches au début, 6ème trouvée à la 3ème descente.
+- [Ch110] Vanel 1912 : "La sixième branche n'est pas dans les galeries de la même façon que les cinq autres." / "Comme si la lumière de ma lampe éclairait à une distance différente que d'habitude." Annotation de Bréval en avril ("? distorsion") rendue caduque — "ce qui était une question en avril était une donnée maintenant."
+- [Ch110] Vanel 1913-1926 : 1919 : "La sixième est dans quelque chose d'autre — à quoi le réseau donne accès." 1923 : "J'ai mesuré vingt-huit mètres à l'entrée et je n'ai pas trouvé le fond. Les vingt-huit mètres sont réels. Ce qu'il y a après les vingt-huit mètres est réel aussi — mais je ne sais pas quelle mesure y appliquer." (Annotation Bréval : "Cordier / même.")
+- [Ch110] 1928-1938 procès-verbaux : serment des trois survivants 1928 : "On note. On date. On garde." Décision 1932 de ne pas publier : pas par peur, par conviction que ce qu'ils avaient trouvé ne se comprenait pas depuis l'extérieur — format qui survit sans explication externe par accumulation de témoignages précis sur longue durée.
+- [Ch110] 1939-1978 (mains différentes) : vers 1955 : "Je crois que la sixième branche est longue de vingt-huit mètres dans les conditions ordinaires et plus longue dans les conditions de la semaine critique." (Annotation Bréval en rouge : "CYCLE / SEMAINE CRITIQUE.")
+- [Ch110] 1961 NOTE CRITIQUE (note signée de trois membres) : "Nous avons tenté d'entrer dans la sixième branche en conditions ordinaires — à la fin de février, hors de la semaine critique. Nous n'avons pas trouvé l'entrée. La sixième branche n'est pas visible en conditions ordinaires. Elle n'est accessible que dans la semaine critique." Cette phrase = ce qui a décidé Bréval, pas le cycle en soi — le seul moment où l'entrée existe.
+- [Ch110] René Massard 1978 (6 pages, écriture rapide avec abréviations et ratures) : notes pratiques de mécanicien. A choisi décembre sans savoir — "Il a choisi décembre parce que la trappe était accessible en hiver, probablement. Mais il a choisi le bon mois."
+- [Ch110] Irène Massard (dernière page du cahier de 1979, écriture plus petite et posée) : ce que René lui a dit après la dernière descente — "pas les mesures, pas le protocole, mais ce que René avait vu dans la chambre ce soir-là." "Il ne me l'a pas dit avec des mots qui se transcrivent." René : "pas inquiet, étonnamment calme, avait vu quelque chose qui lui avait appris quelque chose. Il ne m'a pas dit quoi."
+- [Ch110] PHRASE FINALE CAHIER 1979 D'IRÈNE MASSARD (ajoutée en plus petit, après coup) : "La chambre ne demande rien. Elle attend seulement que quelqu'un comprenne." — Une observation sobre, sans appel à l'émotion. Pas une conclusion.
+- [Ch110] Bréval ferme le sous-dossier sans écrire dans le carnet. "Cent quinze ans de notes dans le tiroir, une phrase d'Irène Massard pour finir." Va dans la chambre, s'allonge dans le noir. Dort.
+- [Ch110] ACCROCHE VERBATIM : *La dernière phrase du cahier de 1979 d'Irène Massard : « La chambre ne demande rien. Elle attend seulement que quelqu'un comprenne. »*

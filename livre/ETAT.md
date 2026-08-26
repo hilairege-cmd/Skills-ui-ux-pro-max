@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 12 (ch. 106–120)  
-**Date de dernière mise à jour :** CHECKPOINT ch.102–105 (4 chapitres validés) — ARRÊT ÉTAPE 11  
-**Prochain chapitre à rédiger :** 106
+**Date de dernière mise à jour :** CHECKPOINT ch.106–110 (5 chapitres validés) — Étape 12 en cours  
+**Prochain chapitre à rédiger :** 111
 
 ---
 
@@ -18,12 +18,12 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 105 / 120 |
-| Mots écrits | 218 761 |
+| Chapitres rédigés | 110 / 120 |
+| Mots écrits | 228 727 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
-| Étape en cours | 11 (ch. 87–105, budget 47 500) |
-| Dernière étape validée | 10 (ch. 80–86) |
+| Étape en cours | 12 (ch. 106–120, budget 37 500) |
+| Dernière étape validée | 11 (ch. 87–105) |
 
 ---
 
@@ -42,8 +42,8 @@
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
 | 10 | 80–86 | 17 500 | 14 096 | 0 | ✅ ÉTAPE 10 TERMINÉE (ch.080–086 ✓) |
 | 11 | 87–105 | 47 500 | 39 459 | 0 | ✅ ÉTAPE 11 TERMINÉE (ch.087–105 ✓) |
-| 12 | 106–120 | 37 500 | 0 | 37 500 | ✍ EN COURS |
-| **TOTAL** | **1–120** | **300 000** | **218 761** | **81 239** | |
+| 12 | 106–120 | 37 500 | 9 966 | 27 534 | ✍ EN COURS |
+| **TOTAL** | **1–120** | **300 000** | **228 727** | **71 273** | |
 
 ---
 
@@ -223,6 +223,11 @@ Pour reprendre la session après interruption :
 | 103 | Novembre | 2 141 | ✓ Rédigé |
 | 104 | Quatre courriers | 2 000 | ✓ Rédigé |
 | 105 | Kern | 2 021 | ✓ Rédigé — ARRÊT ÉTAPE 11 |
+| 106 | Ce qu'il dit à Maret | 2 000 | ✓ Rédigé |
+| 107 | Ce qu'elle écrit dans le dossier | 2 027 | ✓ Rédigé |
+| 108 | Le dispositif | 1 998 | ✓ Rédigé |
+| 109 | La veille | 1 972 | ✓ Rédigé |
+| 110 | Les cahiers de la Société | 1 969 | ✓ Rédigé — CHECKPOINT 5 ch. |
 
 ---
 
@@ -580,3 +585,24 @@ Pour reprendre la session après interruption :
 - Bréval entrera dans F6 quand ? (étape 12, sans doute autour d'avril 2025 dans la chronologie fictive)
 - Ferrand tiendra-t-elle la corde ?
 - Mathilde et Camille : avancement de la procédure, relation
+
+---
+
+### PROGRESSION ÉTAPE 12 — ch. 106–110 (9 966 mots — CHECKPOINT ch.106–110)
+
+**Faits posés (ch.106–110)**
+- Ch106 (24-27 nov. 2026) : Bréval rencontre Maret — couverture administrative pour "opération de reconnaissance des galeries, semaine du 7 décembre." Dit ce qui est vérifiable (cycle documenté 1911, sixième branche visible en semaine critique), ne nomme pas la distorsion temporelle ni les cailloux. Ferrand dans le couloir : "C'est de la traduction." Test câble plus fin (15 nov.) : Ferrand recalibrée après deux essais, latence 4 secondes. Obsèques Kern (21 nov.) : bibliothécaire remet note de Kern à Bréval — "Gardez-les… Ne les lisez pas maintenant. Après." / "Il aimait les questions dont les réponses changent selon l'endroit où on se trouve." Bureau épuré au 27 nov. : carnet + stylo + chemise Cordier + 4 volumes Kern. Note : "Dix jours."
+- Ch107 (1-4 déc. 2026) : Ferrand rédige mise à jour officielle du dossier Cordier — distingue ce qu'on peut écrire de ce qui reste dans le bloc spirale (distorsion temporelle, cailloux, enveloppe). Réflexion sur le successeur qui lira sans les notes du spirale. Mathilde visite le quartier le 3 déc. : voit façade penchée du 9 (fondations sur galeries), livre géométrie dans l'espace au café. Carrefour des Cinq-Vents : compte 5, dit "il devrait y en avoir six — cinq, c'est impair pour un carrefour." Bréval ne dit rien. Soir : "Elle a compté les branches. Elle ne sait pas ce qu'elle dit. Quatre jours."
+- Ch108 (5-6 déc. 2026) : Vauthier apporte matériel complet (5 déc., 14h). Plan de déploiement : (1) Vauthier surface 5 min puis cave du 11, (2) Ferrand trappe secondaire du 9 depuis couloir nord à 160m, (3) Odile Vanel au 9 avec Ferrand comme deuxième paire de mains. Signaux : 1 pression = ok, 2 = plus de mou, 3 = je remonte, traction franche = urgence. Plan A3 : sixième branche en pointillés (honnêteté cartographique). Bréval utilise "distorsion temporelle" directement à Vauthier pour la première fois — Vauthier : "Je ne peux pas calculer ce que je n'ai pas de données pour calculer." Appel Odile : "Il revient ?" — Bréval : "Je pense que oui." — Odile : "Je tiens le câble." Soir : équipement emballé (lampes, combinaison, cailloux en poches différentes, enveloppe Irène poche intérieure).
+- Ch109 (7-8 déc. 2026) : Brigade le 7 matin : rendez-vous avocat déplacé au 17 janvier ("après"). Bréval donne à Ferrand le mot de passe du classeur numérique ("SociétéDeSecoursMutuel"). Ferrand note quand même. Après-midi seul : pense à Cordier (fascination pas peur — "La chambre donnait une raison de rester"). Pense à la mère de Cordier qui a arrêté de demander en juin. La chaîne continue après la clôture. Soir : relit notes de Vanel sur la chambre — annotation Kern soulignant "j'ai avancé sans trouver la fin." Pas un dessin, un soulignement léger au crayon. 300m câble contre 40m corde chanvre de Vanel. N'appelle pas Mathilde. 8 déc. : lève 6h30, café, départ 7h15.
+- Ch110 (7 déc. 2026, soirée) : Bréval relit les 142 pages de photocopies des cahiers dans leur intégralité depuis 20h30. Progression dans l'ordre : Vanel 1911 (seize pages, descentes première année), 1912 ("lumière de ma lampe éclairait à une distance différente" — annotation "? distorsion" rendue caduque par ce qu'il sait maintenant), 1913-1926 (1919 : "La sixième est dans quelque chose d'autre — à quoi le réseau donne accès" ; 1923 : "vingt-huit mètres sans trouver le fond"), 1928-1938 procès-verbaux (serment des trois survivants 1928 : "On note. On date. On garde." ; décision 1932 de ne pas publier = format qui survit sans explication externe). 1939-1978 : 1955 "plus longue dans la semaine critique" ; 1961 NOTE CRITIQUE : "La sixième branche n'est pas visible en conditions ordinaires. Elle n'est accessible que dans la semaine critique." René Massard 1978 (6 pages, choisit décembre par intuition — "il a choisi le bon mois"). Irène 1979 (écriture plus posée) : ce que René lui a dit après la dernière descente, sans mots qui se transcrivent. Dernière phrase du cahier de 1979 : "La chambre ne demande rien. Elle attend seulement que quelqu'un comprenne."
+
+**Mots écrits Étape 12 (running total)**
+- ch.106 : 2 000 mots
+- ch.107 : 2 027 mots
+- ch.108 : 1 998 mots
+- ch.109 : 1 972 mots
+- ch.110 : 1 969 mots
+- **Total étape 12 à ce stade : 9 966 mots / budget 37 500**
+
+**Chapitres restants Étape 12 : ch.111–120 (10 chapitres)**
