@@ -1581,3 +1581,58 @@
 - Cordier arrive : sac à dos, matériel spéléologue amateur (frontale, gants, veste technique, câble escalade 50m). Il a préparé ça.
 - Deux câbles attachés au crochet : Ferrand (30m, redondance) + Cordier (50m, usage). Cordier entre dans le couloir calcaire.
 - Delisle et le plan de 1962 : il est membre depuis 2016, fils du propriétaire de 1962. Il peut connaître l'accès. Il a peut-être gardé ça pour lui — ou peut-être pas. Non élucidé.
+
+---
+
+### Ch. 075 — Ce que Cordier a vu (15 décembre 2025, matin et après-midi)
+
+- Cordier sort du couloir à 45 min — câble de 50m presque épuisé. A atteint la galerie principale (40m depuis cave), vu l'entrée de la chambre à 55m. N'a pas atteint la sixième branche.
+- Bruit entendu une fois dans la galerie principale — indescriptible, non localisé, non répété.
+- Cordier veut retourner le soir même. Bréval donne les faits (4 non-remontés, Geffard 2024, Vauthier 2015, sa propre descente).
+- Cordier identifie lui-même la faille du protocole de ce matin : personne à la surface dans la cave ne peut pas tenir le câble si quelque chose tire depuis la sixième branche à 130m.
+- Protocole correct exige câble de 100m depuis la cave et personne de surface à l'entrée du couloir, pas dans la cave. Bréval propose 48 heures pour l'organiser.
+- Cordier dit : "Je vais y réfléchir." Ce n'est ni accord ni refus. Ferrand : "Il n'attendra pas deux jours." Bréval : "Depuis qu'il a dit qu'il voulait retourner ce soir."
+
+---
+
+### Ch. 076 — Trop tard (15 décembre 2025, soir)
+
+- Voiture de Cordier rue du Moulin-Neuf depuis 14h (au moins). Cave du 11 à 16h45 : câble de 50m de Cordier absent, planches déplacées proprement, câble de 30m de Ferrand toujours au crochet.
+- Cordier a emporté son câble avec lui — aucun câble laissé au crochet côté cave, Ferrand ne peut pas tenir depuis la surface.
+- 21h47 : communication établie 8 secondes, coupée depuis la ligne de Cordier. Fond sonore indescriptible, à la limite du silence. Téléphone sonne dans le vide depuis 21h47 (messagerie pleine depuis 19h30).
+- Tableau comparatif entrées sixième branche : René (mémoire partielle, Irène surface) ; Vauthier (amnésie, borne fixe, no surface) ; Bréval (amnésie partielle, Odile surface) ; Geffard (mort, no surface). Cordier = catégorie Geffard.
+- Savoir ce qu'il y a en bas ne suffit pas à en revenir. (carnet Bréval)
+
+---
+
+### Ch. 077 — Delisle la nuit (16 décembre 2025 + 20 décembre)
+
+- 6h30 : Delisle trouvé au carrefour des Cinq-Vents par un passant. Veste polaire, mocassins de ville, amnésie complète depuis la veille 21h environ. Bilan médical : épisode dissociatif probable (même formulation Vauthier 2015 et résidente 2004).
+- Delisle confirme : avait une seconde clé de la cave du 11 (en avait donné une à la brigade en novembre, gardé l'autre).
+- Hôpital — seul mot donné sur ce qu'il a vu : "Des couloirs." N'ajoute rien. Ne sait pas s'il était seul.
+- Frontale ordinaire trouvée 1m dans le couloir de la niche (cave du 11, 10h15) : modèle non spéléologique, rayure côté gauche. Pas le modèle de Cordier. Lampe de Delisle probable.
+- 20 décembre : Delisle retire sa candidature aux élections municipales — raisons personnelles. N'a plus jamais dit ce qu'il a vu.
+
+---
+
+### Ch. 078 — Cordier disparu (17 décembre 2025 + nuit 17-18)
+
+- Appartement Cordier (9h15) : bureau en état de travail. Calcul de distances manuscrit : savait que câble de 50m insuffisant pour atteindre sixième branche depuis borne du 11 (portée : 50m − 55m = −5m). Recalcul avec borne du 14 : portée de 50m dans branche. Liste dates et cycles (1911, 1931, 1971, 1978, 1991, 2004, 2015, 2024). Note : "Barral 14 déc. 1931 = 94 ans avant le 14 déc. 2025. La veille de ma descente." Entrée délibérée, pas imprudente.
+- Ferrand veut déclencher procédure officielle de disparition — Bréval refuse : enverrait des agents sans protocole dans les galeries ("Barral 1931 en version collective"). Accord : attendre jusqu'à 20h, préparer pour le lendemain matin.
+- Direction des galeries inspectera le 19 décembre : galerie principale normale, chambre hexagonale vide, sixième branche notée "galerie secondaire non documentée, accès non tenté." Pas entrée.
+- Minuit : Odile appelle. Entend depuis le plancher du 9 : "la forme d'une voix" — montée, descente, arrêts, reprises. Pas des mots. Pas Cordier (connaît sa voix via interview radio). "Quelqu'un qui cherche une sortie depuis longtemps." Voix s'arrête à 00h40.
+
+---
+
+### Ch. 079 — 14 février (14 février 2026)
+
+- Cordier classé officiellement disparu depuis le 2 janvier 2026. 42 ans. Voiture retrouvée rue du Moulin-Neuf le 19 décembre. Appartement rouvert à sa famille après 10 jours de scellés.
+- Direction des galeries (19 décembre) : accès par le 14 rue du Puits, galerie principale normale, chambre vide, sixième branche non tentée. Couloir depuis cave du 11 non sur les plans officiels — non mentionné au rapport.
+- Ferrand : poste de coordination à la préfecture depuis 20 janvier (promotion acceptée sans commentaire). Repasse deux fois par semaine.
+- Delisle fils : procédure de vente de l'immeuble du 11 depuis janvier — accès informel à la cave du 11 menacé.
+- Massard (10h, rue des Fonderies) : a maigri visiblement, porte un manteau dans l'appartement à 10h. "Je vais correctement. Mais je vais moins bien qu'en novembre." 79 ans.
+- René lui avait dit en 1979 : dans la branche, il avait entendu quelque chose devant lui (pas derrière, pas sur le côté — devant). Ne l'avait pas noté dans les registres. René était un homme précis — s'il décrit un fait, c'était un fait.
+- "Ce que vous devrez faire est différent. Pas la même chose que décembre." Massard ne sait pas encore en quoi c'est différent — c'est ce qui la presse.
+- Prochaine fenêtre : septembre 2026 (équinoxe d'automne) ou décembre 2026 (semaine critique). Pas dans treize ans. Pas demain.
+- Carnet de Bréval (111e entrée) : "Je ne sais pas encore si je ferai ce qu'il faudra faire."
+- Mathilde (palier du soir) : dessin — maison vue du dessus, cinq routes qui convergent, "Pour papa qui est dans son labyrinthe." Au dos : sixième route N-NE, non raccordée aux cinq premières. Mathilde a neuf ans, ne sait pas ce qu'est la sixième branche.

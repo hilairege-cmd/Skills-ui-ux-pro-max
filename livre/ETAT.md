@@ -8,9 +8,9 @@
 ## ÉTAT ACTUEL
 
 **Phase :** Phase 1 — Rédaction  
-**Statut :** ✍ EN COURS — Étape 9 (ch. 70–79)  
-**Date de dernière mise à jour :** Ch. 074 validé — checkpoint 5 chapitres (étape 9)  
-**Prochain chapitre à rédiger :** 075
+**Statut :** ✍ EN COURS — Étape 10 (ch. 80–86)  
+**Date de dernière mise à jour :** ARRÊT ÉTAPE 9 — ch. 075–079 validés  
+**Prochain chapitre à rédiger :** 080
 
 ---
 
@@ -18,12 +18,12 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 74 / 120 |
-| Mots écrits | 155 026 |
+| Chapitres rédigés | 79 / 120 |
+| Mots écrits | 165 206 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
-| Étape en cours | 9 (ch. 70–79, budget 25 000) |
-| Dernière étape validée | 7 (ch. 52–61) |
+| Étape en cours | 10 (ch. 80–86, budget 17 500) |
+| Dernière étape validée | 9 (ch. 70–79) |
 
 ---
 
@@ -39,11 +39,11 @@
 | 6 | 44–51 | 20 000 | 16 221 | 3 779 | ✅ ÉTAPE 6 TERMINÉE (ch.044–051 ✓) |
 | 7 | 52–61 | 25 000 | 22 546 | 0 | ✅ ÉTAPE 7 TERMINÉE (ch.052–061 ✓) |
 | 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
-| 9 | 70–79 | 25 000 | 10 775 | 14 225 | ✍ EN COURS |
-| 10 | 80–86 | 17 500 | 0 | 17 500 | ◻ À VENIR |
+| 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
+| 10 | 80–86 | 17 500 | 0 | 17 500 | ✍ EN COURS |
 | 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **155 026** | **144 974** | |
+| **TOTAL** | **1–120** | **300 000** | **165 206** | **134 794** | |
 
 ---
 
@@ -192,6 +192,11 @@ Pour reprendre la session après interruption :
 | 072 | Vauthier | 2 063 | ✓ Rédigé |
 | 073 | Le 14 décembre | 2 104 | ✓ Rédigé |
 | 074 | L'accès inconnu | 2 202 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 075 | Ce que Cordier a vu | 2 005 | ✓ Rédigé |
+| 076 | Trop tard | 2 082 | ✓ Rédigé |
+| 077 | Delisle la nuit | 2 059 | ✓ Rédigé |
+| 078 | Cordier disparu | 2 013 | ✓ Rédigé |
+| 079 | 14 février | 2 021 | ✓ Rédigé — ARRÊT ÉTAPE 9 |
 
 ---
 
@@ -406,6 +411,37 @@ Pour reprendre la session après interruption :
 - Delisle fils : son état se détériore. Que se passera-t-il pour lui ?
 - Mathilde et Camille : Bréval ne les a pas vues depuis des semaines. Quel est leur état ?
 - La chambre contractée à combien le 12 décembre ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : Camille — séparation de corps confirmée, papiers non signés, contact minimal
+
+---
+
+### BILAN ÉTAPE 9 — ch. 70–79 (20 955 mots / budget 25 000)
+
+**Faits posés**
+- Descente du 12 décembre 2025 (ch070) : chambre à 3m84 (contraction depuis août). Sixième branche : une heure vingt-cinq sans mémoire. Trace de sang sur le gant gauche sans blessure correspondante. Odile sent légère tension à 40 min (signal de ne pas tirer per protocole René).
+- Vauthier (ch072) : revenu à la brigade le 13 décembre. Avait pris de la distance. Confirme : la corde tirait depuis l'intérieur de la branche, pas depuis la borne. Bilan Vauthier 2015 : amnésie complète de l'intérieur, poignet marqué, n'avait pas décidé de revenir.
+- Article Cordier (ch073) : publié 7 décembre, force la Société dans l'espace public. Source : Delisle, spontané. Cordier contacte Bréval le 14 décembre — demande à descendre. Refus de Bréval.
+- Accès cave du 11 (ch074) : couloir depuis la cave du 11 rue des Charmilles (Delisle propriétaire) — non documenté sur les plans officiels. 40m de couloir calcaire nord → jonction galerie principale à 50-55m de la chambre. Ferrand pose un câble de 30m au crochet. Cordier fait une reconnaissance à 5h du matin.
+- Cordier sort à 45 min (ch075) : a vu l'entrée de la chambre (55m depuis cave du 11), pas la sixième branche. Cable épuisé. Veut retourner le soir même. Bréval donne les faits (4 non-remontés, Geffard 2024, Vauthier 2015, sa propre descente). Cordier identifie lui-même la faille du protocole de ce matin. "Je vais y réfléchir."
+- Cordier entre seul (ch076) : voiture rue du Moulin-Neuf dès 14h. Cave du 11 à 16h45 — câble de 50m absent, planches déplacées proprement. 21h47 : 8 secondes de communication sans voix identifiable. Téléphone sonne dans le vide. Tableau comparatif : René (mémoire partielle, Irène surface) ; Vauthier (amnésie, borne fixe, no surface) ; Bréval (amnésie partielle, Odile surface) ; Geffard (mort, no surface). Cordier : catégorie Geffard.
+- Delisle retrouvé (ch077) : 16 décembre, 6h30, carrefour des Cinq-Vents, veste polaire, mocassins, amnésie complète. Avait sa propre clé de cave du 11. "Des couloirs." Frontale ordinaire trouvée 1m dans le couloir — pas le modèle de Cordier. 20 décembre : retire sa candidature aux municipales.
+- Odile entend une voix (ch078) : 17 décembre, minuit. Pas des mots — "la forme d'une voix." Pas Cordier (a entendu sa voix à la radio). "Quelqu'un qui cherche une sortie depuis longtemps." Voix s'arrête à 00h40. Appartement Cordier : calcul des distances sur le bureau (savait que câble insuffisant, entré quand même). Liste dates et cycles. Entrée délibérée, pas imprudente.
+- Bilan du 14 février 2026 (ch079) : Cordier classé disparu depuis 2 janvier. Direction des galeries inspecte galerie principale le 19 décembre — sixième branche notée "non documentée, accès non tenté," pas entrée. Ferrand promue préfecture. Delisle fils vend l'immeuble du 11 (accès informel menacé). Massard, 79 ans, de plus en plus faible — "le temps presse." René lui a dit en 1979 qu'il avait entendu quelque chose devant lui dans la branche — pas derrière, devant. Prochaine fenêtre : septembre 2026 (équinoxe d'automne) ou décembre 2026 (semaine critique). Bréval : "Je ne sais pas encore si je ferai ce qu'il faudra faire."
+- Mathilde (ch079) : dessin sur le palier — 5 routes convergeant vers une maison, "Pour papa qui est dans son labyrinthe." Au dos : sixième route, direction N-NE, non raccordée aux autres. Mathilde ne sait pas ce qu'est la sixième branche.
+
+**Questions ouvertes en entrée d'étape 10**
+- Que s'est-il passé pendant l'heure vingt-cinq de Bréval dans la sixième branche (12 décembre) ?
+- Les 3 hommes de 1911 sont-ils encore là — et Cordier est-il avec eux désormais ?
+- La voix qu'Odile a entendue le 17 décembre : depuis quand est-elle là ?
+- René a entendu quelque chose "devant lui" dans la branche : est-ce que Bréval l'entendra aussi ?
+- Comment Massard sait-elle que "ce que Bréval devra faire est différent" de décembre — différent comment ?
+- L'immeuble du 11 sera vendu : Bréval a-t-il encore accès à la cave ?
+- Mathilde dessine la sixième route sans le savoir : motif ou coïncidence ?
+- Cordier : vivant dans la branche ou mort dans la galerie ?
 
 **Alertes maintenues**
 - A-001 : fichiers de référence provisoires
