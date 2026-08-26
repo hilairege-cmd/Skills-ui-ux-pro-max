@@ -9,8 +9,8 @@
 
 **Phase :** Phase 1 — Rédaction  
 **Statut :** ✍ EN COURS — Étape 11 (ch. 87–105)  
-**Date de dernière mise à jour :** CHECKPOINT ch.092–096 (5 chapitres validés)  
-**Prochain chapitre à rédiger :** 097
+**Date de dernière mise à jour :** CHECKPOINT ch.097–101 (5 chapitres validés)  
+**Prochain chapitre à rédiger :** 102
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 96 / 120 |
-| Mots écrits | 200 042 |
+| Chapitres rédigés | 101 / 120 |
+| Mots écrits | 210 349 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
 | Étape en cours | 11 (ch. 87–105, budget 47 500) |
@@ -41,9 +41,9 @@
 | 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
 | 10 | 80–86 | 17 500 | 14 096 | 0 | ✅ ÉTAPE 10 TERMINÉE (ch.080–086 ✓) |
-| 11 | 87–105 | 47 500 | 20 740 | 26 760 | ✍ EN COURS (ch.087–096 ✓, ch.097–105 reste) |
+| 11 | 87–105 | 47 500 | 31 047 | 16 453 | ✍ EN COURS (ch.087–101 ✓, ch.102–105 reste) |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **200 042** | **99 958** | |
+| **TOTAL** | **1–120** | **300 000** | **210 349** | **89 651** | |
 
 ---
 
@@ -54,7 +54,7 @@
 | 043/045 | Kern expose | ◻ À VENIR |
 | 069 | La révélation de la Société | ◻ À VENIR |
 | 082–083 | La relecture / Tout était là | ✓ RÉDIGÉS |
-| 097 | Édouard Vanel, 1911 | ◻ À VENIR |
+| 097 | Édouard Vanel, 1911 | ✓ RÉDIGÉ |
 | 111–112 | Le consentement / L'intérieur | ◻ À VENIR |
 
 ---
@@ -214,6 +214,11 @@ Pour reprendre la session après interruption :
 | 094 | Le matin | 2 013 | ✓ Rédigé |
 | 095 | Le seuil | 2 026 | ✓ Rédigé |
 | 096 | Le nœud | 1 997 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 097 | Édouard Vanel, 1911 | 2 175 | ✓ Rédigé |
+| 098 | Ce qui reste | 2 101 | ✓ Rédigé |
+| 099 | Trois pas | 2 023 | ✓ Rédigé |
+| 100 | Ce qu'on ne veut pas quitter | 2 008 | ✓ Rédigé |
+| 101 | Ce qu'il faudra dire | 2 000 | ✓ Rédigé — CHECKPOINT 5 ch. |
 
 ---
 
@@ -526,3 +531,25 @@ Pour reprendre la session après interruption :
 - A-001 : fichiers de référence provisoires
 - A-002 : localisation géographique non fixée
 - A-003 : Camille — séparation de corps, contact minimal, anniversaire Mathilde 18 octobre promis
+
+---
+
+### PROGRESSION ÉTAPE 11 — ch. 097–101 (10 307 mots — CHECKPOINT ch.097–101)
+
+**Faits posés (ch.097–101)**
+- Ch097 (Vanel, 1911) : Vanel entre dans F6 nuit du 13-14 fév 1911 — première encoche sur caillou. Serment des 3 survivants : "On note. On date. On garde." Les 5 premières branches examinées par la préfecture ; F6 ignorée (ouverture "trop petite").
+- Ch098 (Ce qui reste) : données reconnaissance 23 sept. : 60 pas, signal dégradé, distorsion temporelle des mots, "quelque chose" à 10m. Irène terminale — première visite : deux choses : Vanel 1927 + enveloppe (ouvrir dans F6 au point d'arrêt).
+- Ch099 (Trois pas) : distorsion temporelle confirmée par Irène en 1987 — 10 secondes pour elle = 20 minutes pour Kern. Le câble = lien entre les deux temps. Cordier : 50m sans Ferrand = pas de lien. Bréval explique à Ferrand. Hypothèse : 18 mois surface = quelques heures pour Cordier.
+- Ch100 (Ce qu'on ne veut pas quitter) : Cordier entré pour rester (choix, pas accident). Mathilde = câble différent. Dévidoir 300m trouvé par Vauthier — câble plus fin, moins sensible. Kern : "La branche est patiente. 115 ans."
+- Ch101 (Ce qu'il faudra dire) : instructions Irène pour approcher Cordier — pas de chiffre, "Je viens vous chercher", corde dans la main. Kerdrel = saturation pas amnésie. Retour non symétrique. Troisième lettre Farineau. Bréval promet d'être à l'anniversaire de Mathilde.
+
+**Mots écrits Étape 11 (running total)**
+- ch.087–096 : 20 740 mots
+- ch.097 : 2 175 mots
+- ch.098 : 2 101 mots
+- ch.099 : 2 023 mots
+- ch.100 : 2 008 mots
+- ch.101 : 2 000 mots
+- **Total étape 11 à ce stade : 31 047 mots / budget 47 500**
+
+**Chapitres restants Étape 11 : ch.102–105 (4 chapitres)**

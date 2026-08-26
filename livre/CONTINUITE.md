@@ -1887,3 +1887,81 @@
 - Histoire du grand-père de Vauthier : galerie de granite dans les Alpes en 1971, branche nord non documentée, "tout le monde savait qu'elle était là."
 - ACCROCHE VERBATIM : Vauthier vérifie le nœud pour la quatrième fois → Bréval lui demande si ça va → "Mon grand-père a fait quelque chose comme ça en 1971. Il a choisi de ne pas entrer. Il me l'a dit la nuit avant de mourir. Il a regretté." → Bréval ne dit rien.
 
+
+---
+
+### Ch. 097 — Édouard Vanel, 1911 (13-14 février 1911)
+
+- Ch097 se passe entièrement en 1911 — présent de narration, POV Vanel.
+- 13 février 1911, 14h : Vanel revient dans la chambre avec Théas, Marchetti, Lecomte et Brousse (deux journaliers). Appelle dans F6 : "Dassot. Grégoire. Hubert." Pas de réponse. Examinent les cinq autres branches — rien.
+- 16h30 : Marchetti remonte seul pour prévenir les autorités. Théas formule : "Qu'est-ce qu'il y a là-dedans" — pas une question, la formulation du problème.
+- Nuit du 13 au 14 (vers 2h du matin) : Vanel redescend seul avec la lanterne, sans rien dire à personne.
+- 2h30 : Vanel entre dans la chambre. Lanterne posée au centre à côté des deux galets. Approche F6 — à l'entrée, noir différent : "une zone où la lumière arrive et ne revient pas de la façon dont la lumière revient normalement depuis le calcaire."
+- 2h40 : Vanel entre dans F6. Baisse la tête sous l'ouverture basse, se redresse après 2m. Avance environ 20 pas. À 20 pas : quelque chose dans le noir que la lampe révèle sans l'élucider — pas de paroi plane, pas de fin de branche, "quelque chose que la lumière révèle sans l'élucider." Pas de mot pour ça.
+- Vanel pense aux trois hommes : "Vanel est arrêté. Il ne sait pas pourquoi il est arrêté à vingt pas et eux ne l'étaient pas." Sort de F6.
+- Vanel prend un caillou ordinaire du sol de la chambre (pas un des galets du centre), fait une encoche avec son couteau. Glisse le caillou dans la poche. PREMIÈRE ENCOCHE DE LA CHAÎNE.
+- Théas l'attend à l'aube : "Vous y êtes allé." / "Je ne sais pas ce qu'il y a dedans." / "Mais vous êtes ressorti." — "Oui."
+- Enquête préfecture (4 jours) : entre dans les 5 premières branches, pas dans F6 ("trop petite" selon eux). Rapport : 3 hommes portés disparus, cause probable effondrement. Ni la chambre ni F6 mentionnées.
+- Serment des survivants (soir du 4e jour, Vanel/Théas/Marchetti seuls) : "On note. On date. On garde." Le mot "Société" n'est pas encore dit — viendra plus tard.
+- ACCROCHE : *Vanel remonte au matin du 14 février. Dans sa poche : un caillou de calcaire avec une encoche. Il ne sait pas encore ce que ça signifie. Il ne saura jamais ce que ça signifie. Mais il le garde.*
+
+---
+
+### Ch. 098 — Ce qui reste (octobre 2026, semaine du 12)
+
+- Reconnaissance du 23 septembre : notes de Bréval (7 pages carnet). Données : câble disponible 15m depuis la chambre, soixante pas dans F6 (~45m), signal dégradé à 20 pas (reçu non 5/5), distorsion temporelle communication (mots Ferrand arrivaient avec écart non identifiable), "quelque chose" à 10m de profondeur où la lumière de la frontale n'arrive pas comme depuis le calcaire, pas de fin de branche visible.
+- Question posée en bas de la 7e page : "Est-ce que la branche change selon ce qu'on y apporte."
+- Vauthier (4 jours après la reconnaissance) : câble a supporté correctement. 300m nécessaires pour entrée longue → dévidoir plus lourd, portage en deux parties (rétrécissement couloir nord à 160m). Il peut trouver.
+- Ferrand (1 semaine après) : variation légère du câble à 60 pas — traction vers l'intérieur quelques secondes. Elle a tenu. Notée dans son carnet. Pas dit dans le combiné (incertitude info vs interprétation).
+- Kern appelle le 13 octobre : Irène Massard en phase terminale. Fille Sylviane Massard. Maison Saint-Luc, rue Bézaure. "Elle sait ce que vous avez fait le 23 septembre. Elle a dit : 'c'est bien.'"
+- PREMIÈRE VISITE IRÈNE (13 octobre 2026) : Irène habillée dans fauteuil (veste de laine, couverture, fenêtre sur jardin). Sylviane explique : moins bien dormie, poumons serrés, voulait être habillée.
+- Irène révèle : elle est entrée dans F6 en 1987 — 3 pas, pas ressortie par peur, par décision ("sans ce qu'il fallait").
+- Irène dit DEUX CHOSES : (1) Vanel 1927 : "La branche ne contient pas ce qu'on croit. Elle contient ce qu'on ne peut pas encore croire." (2) Enveloppe — ouvrir à l'intérieur de F6, à l'endroit où on s'arrête, pas avant, pas après.
+- ACCROCHE : *Il ne savait pas encore comment entrer dans la branche avec ce qu'il fallait. Il savait maintenant qu'il y avait quelque chose qu'il fallait. Ce n'était pas la même chose que de savoir quoi.*
+
+---
+
+### Ch. 099 — Trois pas (15 octobre 2026)
+
+- DEUXIÈME VISITE IRÈNE. Irène ressemble "à quelqu'un qui avait décidé de ne plus économiser."
+- Irène raconte 1987 (secret depuis 39 ans, jamais dit à Kern, Sylviane, ni dans les cahiers) : septembre 1987, 52 ans, dossier Ledoux venait d'arriver aux archives. Entrée F6 avec torche et carnet. A eu le sentiment que quelques secondes s'écoulaient. Notes : 3 lignes (paroi gauche calcaire, paroi droite plus sombre, sol descendant). Sort.
+- À l'extérieur : Kern l'attendait depuis le centre de la chambre. "Tu étais là depuis vingt minutes." → 10 secondes pour Irène = 20 minutes pour Kern. Distorsion temporelle confirmée personnellement par Irène.
+- RÈGLE DU CÂBLE : "Le câble maintient le lien entre les deux temps. Pas seulement l'ancrage physique. Pour le temps. Si vous perdez le câble, vous perdez le lien. Pas seulement le chemin de retour — le lien entre les deux temps."
+- Les 3 hommes de 1911 sont morts parce qu'il n'y avait pas de câble = pas de lien entre les temps.
+- Cordier avait 50m de câble mais pas de Ferrand au bout.
+- Sur l'enveloppe : "Les mots de Vanel n'ont pas de sens à l'extérieur. Ils ont un sens à l'intérieur." Irène a essayé de les lire dehors pendant 39 ans — pas de sens. "J'aurais dû entrer en 1987. Ce n'était pas la branche qui m'a arrêtée. C'était moi."
+- Bréval en redescendant : comprend que l'écart dans le signal Ferrand était distorsion temporelle, pas problème de signal. Hypothèse sur Cordier : 18 mois surface = peut-être quelques heures pour lui.
+- Appel Ferrand (après retour) : Ferrand avait noté "l'écart entre les mots n'est pas sur la ligne" sans pouvoir le nommer. Bréval lui explique les deux temps. Ferrand : "Je comprends."
+- ACCROCHE : *Il nota dans le carnet le soir, avant de dormir : les deux temps. Ferrand dans le temps du couloir de cave. Lui dans le temps de la branche. Le câble entre les deux. Ce n'était pas une métaphore.*
+
+---
+
+### Ch. 100 — Ce qu'on ne veut pas quitter (17 octobre 2026)
+
+- TROISIÈME VISITE IRÈNE. Irène parle plus lentement dans le souffle (pas dans la pensée). Formule : "Comme quelqu'un qui n'a plus de temps à dépenser pour ne pas aller à l'essentiel."
+- Discussion Cordier : distorsion temporelle = une raison mais pas la seule. Cordier était capable de remonter (câble disponible). Il ne l'a pas fait parce qu'il ne voulait pas. "Il est entré pour voir. Et une fois à l'intérieur, il a découvert qu'il pouvait rester. Et il a choisi de rester." Hypothèse : il avait peut-être lu le dossier Ledoux et savait ce qu'il y avait à l'intérieur. Fuyait peut-être quelque chose — décision difficile, personne à ne pas affronter.
+- Irène demande : "Pourquoi est-ce que vous voulez sortir de là ?" Bréval : "Mathilde." Irène : "C'est une bonne raison. C'est la raison." — "Cordier n'avait pas de Mathilde. Vous avez quelque chose qu'il n'avait pas. Un câble différent du câble de Vauthier."
+- Bréval compte : 62 descentes depuis novembre 2024. Mathilde comme raison de remonter (pas seulement raison de ne pas entrer).
+- Vauthier soir : dévidoir trouvé — modèle minier industriel, 300m, 11kg sans câble, 17kg avec. Trop large pour couloir nord rétrécissement → portage en 2 parties. Câble plus fin (diamètre inférieur au câble actuel) pour tenir 300m → flexibilité meilleure dans F6 mais tension au dévidoir moins sensible. Ferrand devra faire attention à l'interprétation des signaux.
+- Kern classeur vert (soir) : dernière annotation nov. 2025 — "La branche est patiente. Elle l'a toujours été. Ce n'est pas nous qui décidons du moment." Bréval pense : Vanel 1911 a dit la même chose que Kern 2025 sans se concerter. 115 ans de patience.
+- ACCROCHE : *Il pensa à ce que ça changerait de descendre avec trois cents mètres de câble et Ferrand au bout, et il comprit que ça ne changerait pas l'essentiel. L'essentiel n'était pas dans la longueur du câble. L'essentiel était dans ce qui attendait à l'endroit où le câble s'arrêterait.*
+
+---
+
+### Ch. 101 — Ce qu'il faudra dire (20 octobre 2026)
+
+- QUATRIÈME VISITE IRÈNE. Irène maintenant au lit (jambes ne supportent plus la position assise prolongée). Trois oreillers dans le dos.
+- Bréval venu de loin — "Vous êtes parti de novembre 2024. C'est loin." / "Et vous n'êtes toujours pas entré dans F6 pour de bon."
+- INSTRUCTIONS POUR L'APPROCHE DE CORDIER :
+  (1) Ne pas lui dire combien de temps s'est écoulé — physiologique, pas psychologique : son système n'a pas de référence pour intégrer ça.
+  (2) Si Cordier demande : "Du temps a passé. Tout va bien à la surface. On l'attendait."
+  (3) Ne pas essayer de comprendre ce qu'il a vécu les premières heures — ne pas poser de questions.
+  (4) Ce qu'il faudra dire : "Je suis commandant Bréval. Je viens vous chercher."
+  (5) Mettre la corde dans sa main physiquement : "Mettez la corde dans sa main et dites-lui de tenir. Le reste viendra."
+- Référence Kerdrel 1971 : Ledoux l'a questionné immédiatement à la sortie. Kerdrel ne se souvenait que de l'instant où il avait vu Ledoux au bout du câble. Le reste était blanc. Ce n'était pas amnésie — c'était saturation (passage trop rapide d'un temps à l'autre, corps pas eu le temps de s'adapter).
+- Le retour n'est pas symétrique à l'entrée.
+- Irène sur Kern : "Il ne mourra pas avant vous. Kern n'est pas prêt à mourir." Sur elle-même : "Moi si [prête]. Pas ce matin. Mais dans peu de temps. C'est bien comme ça."
+- Total notes Bréval : 7 pages reconnaissance + 3 pages 4 visites Irène = 10 pages.
+- TROISIÈME LETTRE Maître Farineau (avocat Camille) : résidence principale Mathilde pour l'an prochain. Posée sur la table, non ouverte immédiatement.
+- Bréval appelle Camille : Mathilde à l'école, rentre 16h. "Elle demande de tes nouvelles. Elle veut savoir si tu viens la semaine prochaine pour son anniversaire." Anniversaire Mathilde dans 10 jours (= 28 octobre 2026 si visite le 20 oct). Note : Mathilde est née le 27 août 2015, mais Bréval dit "dix jours" → anniversaire probablement dans le futur proche de la narration. BRÉVAL PROMET DE VENIR.
+- ACCROCHE : *La lettre de Me Farineau restait sur la table de la cuisine pendant tout le temps qu'il prépara le café. [...] Ce n'était pas une chose qu'il pouvait arrêter en ne répondant pas — ça avançait avec ou sans lui. C'était une chose qui avançait à sa propre vitesse, dans son propre temps, comme tout le reste. Comme Irène. Comme le câble. Comme F6.*
