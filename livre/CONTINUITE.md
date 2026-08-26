@@ -1700,3 +1700,30 @@
 - Massard remet à Bréval le protocole dactylographié de René (novembre 1979, 2 pages) avec annotations en marge (I.M.) : positionnement de la personne de surface, lecture des tensions, erreurs à éviter. Note de René en bas de la deuxième page : "Ce protocole suppose que la personne de surface sait exactement ce qu'elle attend. Elle n'attend pas un retour physique. Elle attend un souvenir."
 - Annotation au crayon d'Irène Massard (décembre 1979, calligraphie distincte de René — plus penchée, plus serrée) : "Entrer n'est pas le plus difficile. Revenir non plus. Le plus difficile, c'est de vouloir revenir au moment où vous avez l'impression d'être enfin au bon endroit."
 - La chemise cartonnée du protocole de 1979 est maintenant chez Bréval.
+
+---
+
+### Ch. 085 — Irène (4 juin 2026, appartement Massard)
+
+- Irène Massard ne se lève plus le matin depuis mai. Allongée dans sa chambre, la fille (55 ans environ) gère les visites. Vingt minutes max.
+- L'annotation au crayon sur le protocole de 1979 : René ne l'a dit à personne jusqu'en 1985 — Irène l'a lue la première fois en 1985, six ans après. Écrite pour le futur lecteur qui trouverait le protocole après René.
+- Ce qu'Irène a vu depuis la surface en 1978 : rien. Noir à partir du 6e mètre dans le couloir (couloir pas droit, tourne). Le poids de René au bout de la corde. Pas de forme, pas de son.
+- La pensée de lâcher (32 minutes, 8 minutes sans signal) : pensée précise, formulée, 2-3 secondes — "peut-être il voulait rester là." N'a pas lâché. Ne sait pas si c'est une décision ou si ses mains ne pouvaient pas faire le geste. Parallèle exact avec Ledoux : "Je suis remonté. Je ne sais pas si c'est une décision ou une chance."
+- René (dit à Irène en 1982, quatre ans après) : "C'est le poids de la corde qui compte, pas la corde elle-même. Le poids dit qu'il y a une main. La main dit qu'il y a un dehors."
+- René (2010, 78 ans, ultime formulation jamais écrite dans le protocole) : "Ce n'est pas la chambre qui retient. Ce n'est pas la branche. C'est le fait qu'il n'y a rien à fuir là-dedans. Le danger, c'est qu'on ne fuit pas." Paret vs Geffard : Paret avait quelque chose à quitter, a obéi. Geffard n'avait plus rien à quitter — son corps l'a ramené, son cœur n'a pas tenu.
+- Ferrand vue par Irène : "Elle a posé la bonne question en mars — qui tiendrait la corde si vous n'en ressortez pas. C'est la question de quelqu'un qui a compris que la corde n'est pas de la sécurité. C'est un lien." Ferrand est dans la liste des gens de surface depuis le début.
+- Sept femmes à la surface depuis 1911 : Marguerite Vanel, grand-mère Vanel, mère Vanel, Irène (depuis 1978), deux membres décédées sans nom, Ferrand. Ce n'est pas une règle intentionnelle de la Société.
+- "Je ne sais pas si ce que vous ferez sera suffisant. Je sais que c'est nécessaire." — dernières paroles d'Irène à Bréval lors de cette visite.
+- Enveloppe blanche (non cachetée, non annotée) : dans le tiroir du bas de la table de nuit, remise à Bréval. Condition : n'ouvrir que s'il revient. Contient : le nom du prochain. "Vous aurez besoin de le savoir si vous portez la marque."
+- La marque (René, 1979) : quelque chose de structural dans la perception de la chambre après une entrée dans la sixième branche dont on revient. Pas une vision, pas un souvenir. Les gens qui sont entrés et revenus portent quelque chose que ceux qui n'y sont pas allés ne portent pas. Kern le savait. René le savait. Permet de reconnaître le prochain.
+
+---
+
+### Ch. 086 — Prêt (nuit du 14-15 juillet 2026, appartement Bréval / brigade) — ARRÊT ÉTAPE 10
+
+- Rapport complet pour Ferrand : commencé 14 juillet, 22h. Classeur neuf, 53 pages au stylo. "Pour Ferrand. À lire si je ne reviens pas." Contient : premier comptage de six branches (4 nov. 2024), six nuits sans souvenir, six encoches, 37 variations, Geffard face au nord, liste des attirés, Irène et la pensée de lâcher, "Je suis là. Tu peux revenir" (4 mots jamais dans les registres), enveloppe non ouverte dans le tiroir du bureau de brigade. Note sur le caillou : premier à avoir six encoches, personne ne sait ce qui arrive à sept. Pas de conclusion — "le rapport n'avait pas encore de fin."
+- Enveloppe Irène : tiroir du haut du bureau de la brigade. Condition : si Bréval ne revient pas, Ferrand ne l'ouvre pas — destinée à quelqu'un qu'elle reconnaîtra si elle a lu le rapport.
+- Appel à Mathilde, 1h15 : "Tu es dans le labyrinthe ou tu en sors ?" — "J'essaie d'en sortir." — "Dépêche-toi. Mon anniversaire c'est le 18 octobre." — "Je serai là pour celui-là." — "Est-ce que le labyrinthe c'est vraiment une chose ou c'est une façon de parler ?" — "Les deux." Camille : Bréval promet le repas de famille en octobre.
+- Date fixée : 23 septembre 2026, équinoxe d'automne. Confirmée par Massard en juin (fenêtre fiable). Décembre jugé trop loin.
+- Ferrand informée (15 juillet, 9h, brigade) : câble 150m (fibre statique, reçu en juin), baudrier complet, câble téléphonique de mines 2 combinés. Vauthier : rez-de-chaussée du 11 (appartement Delisle fils vide depuis la vente). Ferrand dans le couloir de cave à l'entrée du couloir nord. Ferrand informée de la pensée de lâcher d'Irène. "Je serai là."
+- Rêve de la chambre cette nuit-là : pas comme vue depuis l'extérieur — comme perçue pendant les 40 minutes perdues du 28 novembre (date d'une entrée non mémorisée). De l'intérieur. De partout à la fois. Calme. "C'était ce qu'il avait le plus craint : que ça soit calme."

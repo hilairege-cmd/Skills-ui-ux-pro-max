@@ -8,9 +8,9 @@
 ## ÉTAT ACTUEL
 
 **Phase :** Phase 1 — Rédaction  
-**Statut :** ✍ EN COURS — Étape 10 (ch. 80–86)  
-**Date de dernière mise à jour :** CHECKPOINT 5 ch. — ch. 080–084 validés  
-**Prochain chapitre à rédiger :** 085
+**Statut :** ✍ EN COURS — Étape 11 (ch. 87–105)  
+**Date de dernière mise à jour :** ARRÊT ÉTAPE 10 — ch. 080–086 validés  
+**Prochain chapitre à rédiger :** 087
 
 ---
 
@@ -18,12 +18,12 @@
 
 | Indicateur | Valeur |
 |------------|--------|
-| Chapitres rédigés | 84 / 120 |
-| Mots écrits | 175 271 |
+| Chapitres rédigés | 86 / 120 |
+| Mots écrits | 179 302 |
 | Mots cible | 300 000 |
 | Avance / Retard | — |
-| Étape en cours | 10 (ch. 80–86, budget 17 500) |
-| Dernière étape validée | 9 (ch. 70–79) |
+| Étape en cours | 11 (ch. 87–105, budget 47 500) |
+| Dernière étape validée | 10 (ch. 80–86) |
 
 ---
 
@@ -40,10 +40,10 @@
 | 7 | 52–61 | 25 000 | 22 546 | 0 | ✅ ÉTAPE 7 TERMINÉE (ch.052–061 ✓) |
 | 8 | 62–69 | 20 000 | 17 389 | 0 | ✅ ÉTAPE 8 TERMINÉE (ch.062–069 ✓) |
 | 9 | 70–79 | 25 000 | 20 955 | 0 | ✅ ÉTAPE 9 TERMINÉE (ch.070–079 ✓) |
-| 10 | 80–86 | 17 500 | 10 065 | 7 435 | ✍ EN COURS |
-| 11 | 87–105 | 47 500 | 0 | 47 500 | ◻ À VENIR |
+| 10 | 80–86 | 17 500 | 14 096 | 0 | ✅ ÉTAPE 10 TERMINÉE (ch.080–086 ✓) |
+| 11 | 87–105 | 47 500 | 0 | 47 500 | ✍ EN COURS |
 | 12 | 106–120 | 37 500 | 0 | 37 500 | ◻ À VENIR |
-| **TOTAL** | **1–120** | **300 000** | **175 271** | **124 729** | |
+| **TOTAL** | **1–120** | **300 000** | **179 302** | **120 698** | |
 
 ---
 
@@ -202,6 +202,8 @@ Pour reprendre la session après interruption :
 | 082 | La relecture | 2 010 | ✓ Rédigé |
 | 083 | Tout était là | 2 025 | ✓ Rédigé |
 | 084 | La préparation | 2 011 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 085 | Irène | 2 027 | ✓ Rédigé |
+| 086 | Prêt | 2 004 | ✓ Rédigé — ARRÊT ÉTAPE 10 |
 
 ---
 
@@ -452,3 +454,34 @@ Pour reprendre la session après interruption :
 - A-001 : fichiers de référence provisoires
 - A-002 : localisation géographique non fixée
 - A-003 : Camille — séparation de corps confirmée, papiers non signés, contact minimal
+
+---
+
+### BILAN ÉTAPE 10 — ch. 80–86 (14 096 mots / budget 17 500)
+
+**Faits posés**
+- Convergence (ch080) : première formulation du mot dans le carnet (3 mars 2026). Chambre : géométriquement différente, pas surnaturelle. Liste complète des personnes attirées — point commun : "regarder la chose telle qu'elle est, pas telle qu'elle aurait dû être." Cordier probablement vivant dans la branche (pas de corps dans la galerie principale). Six encoches = six nuits non mémorisées. "La branche retient — elle ne tue pas automatiquement."
+- Ferrand informée de tout (ch081, 20 mars 2026) : premier tutoiement à Bréval au moment décisif. Prend les sept cahiers pour les lire. Question finale : "Si tu entres là-dedans et que tu n'en ressors pas, qui tient la corde ?" — sans euphémisme.
+- Relecture Geffard (ch082, nuit 15 avril) : "face au nord" dans le rapport médical = revenant de la galerie, pas allant. La branche ne tue pas à l'entrée — elle peut tuer au retour sans câble. Hypothèse 3 retenue.
+- Cinq moments rétroactifs (ch083) : premier comptage 6 branches exact ; caillou dans la poche le lendemain (chambre comptait dès la première nuit) ; trait de crayon Kern p.164 (message pour le lecteur futur via bibliothèque publique depuis 1989) ; annotation Varos "Le Vernay, voir aussi" (chaîne d'indices depuis l'entre-deux-guerres) ; carnet Paret 12 juin 2024 "J'ai vu le carrefour du bas. Ne jamais y retourner." — Paret a obéi, Geffard non, Bréval six fois sans s'en souvenir. Chambre : laisse des données, pas un récit.
+- Carnet Paret (ch083, FAIT NOUVEAU) : Lucien Paret, rue des Charmilles, un des cinq appelants. Carnet à spirale donné par sa sœur à Massard (août 2025), transmis à Bréval (septembre 2025). Paret a vu "le carrefour du bas" le 12 juin 2024 à 3h du matin. Parti sans adresse juillet 2024.
+- Protocole technique (ch084, mai 2026) : câble statique 11mm, baudrier complet, câble téléphonique de mines 150m. Vauthier : refuse de descendre mais accepte le rez-de-chaussée du 11. Phrase d'Irène à René (1978) transmise par Vauthier : "Je suis là. Tu peux revenir." — jamais dans les registres.
+- Protocole 1979 (ch084) : chemise cartonnée de René (2 pages dactylographiées). Note de René en bas : "Ce protocole suppose que la personne de surface attend un souvenir, pas un retour physique." Annotation au crayon d'Irène (décembre 1979, calligraphie distincte) : "Entrer n'est pas le plus difficile. Revenir non plus. Le plus difficile, c'est de vouloir revenir au moment où vous avez l'impression d'être enfin au bon endroit."
+- Irène en fin de vie (ch085, 4 juin 2026) : ne se lève plus le matin. Ce qu'elle a vu en 1978 depuis la surface : rien — le couloir, le noir, le poids de René au bout de la corde. La pensée de lâcher à 32 minutes — "peut-être il voulait rester là" — pensée précise, 2-3 secondes, n'a pas lâché. René (2010, ultime formulation) : "Ce n'est pas la chambre qui retient. C'est qu'il n'y a rien à fuir là-dedans. Le danger, c'est qu'on ne fuit pas." "Le poids de la corde dit qu'il y a une main. La main dit qu'il y a un dehors." Sept femmes à la surface depuis 1911. Ferrand est la suivante. Enveloppe : le nom du prochain, à ouvrir seulement si Bréval revient.
+- Rapport complet pour Ferrand (ch086, nuit 14-15 juillet 2026) : 53 pages, classeur bleu sur le bureau de la brigade. Enveloppe Irène : tiroir du haut, non ouverte. Bréval : premier à avoir six encoches — "Je suis le premier à avoir six. Personne ne sait ce qui arrive à sept."
+- Date fixée (ch086) : 23 septembre 2026, équinoxe d'automne. Ferrand : "Je serai là." Mathilde appelée à 1h15 : "Tu es dans le labyrinthe ou tu en sors ?" — "Dépêche-toi. Mon anniversaire c'est le 18 octobre." Bréval : "Je serai là pour celui-là." Rêve de la chambre — calme. "C'était ce qu'il avait le plus craint : que ça soit calme."
+
+**Questions ouvertes en entrée d'étape 11**
+- Que contient l'enveloppe d'Irène — qui est le nom du prochain ?
+- Irène sera-t-elle encore vivante en septembre 2026 ?
+- L'appartement du 11 (vendu) : Vauthier a encore accès via Delisle fils ?
+- Empreinte de chaussure fraîche dans une descente d'entraînement (ch091 prévu) : confirmation que Cordier est vivant ?
+- René a entendu quelque chose "devant lui" : Bréval l'entendra-t-il aussi ?
+- Mathilde : "le labyrinthe ou tu en sors" — elle sera à l'anniversaire du 18 octobre ; Bréval sera-t-il là ?
+- Ferrand : a-t-elle lu les sept cahiers intégralement ? Qu'a-t-elle compris sur la pensée de lâcher ?
+- La marque : de quoi s'agit-il exactement ? Comment Bréval la reconnaîtra-t-il sur le prochain ?
+
+**Alertes maintenues**
+- A-001 : fichiers de référence provisoires
+- A-002 : localisation géographique non fixée
+- A-003 : Camille — séparation de corps, contact minimal depuis août 2025 (déjeuner), Bréval a promis l'anniversaire du 18 octobre
