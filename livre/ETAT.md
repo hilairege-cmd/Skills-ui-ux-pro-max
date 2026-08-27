@@ -7,10 +7,10 @@
 
 ## ÉTAT ACTUEL
 
-**Phase :** Phase 1 — Rédaction  
-**Statut :** ✅ TERMINÉ — ROMAN ACHEVÉ (120/120 chapitres)  
-**Date de dernière mise à jour :** CHECKPOINT FINAL ch.116–120 — Étape 12 complète — Phase 1 achevée  
-**Prochain chapitre à rédiger :** ROMAN TERMINÉ — Phase 2 (révision) à planifier
+**Phase :** Phase 2 — Révision  
+**Statut :** ✅ TERMINÉ — RÉVISION NIVEAU B ACHEVÉE (120/120 chapitres)  
+**Date de dernière mise à jour :** BILAN PHASE 2 — révision typographique et stylistique complète  
+**Prochain chapitre à rédiger :** ROMAN TERMINÉ — Phase 3 (relecture éditoriale) à planifier
 
 ---
 
@@ -181,7 +181,7 @@ Pour reprendre la session après interruption :
 | 061 | Le 17 rue des Charmilles | 2 223 | ✓ Rédigé — ARRÊT ÉTAPE 7 |
 | 062 | La décision de tout dire | 2 202 | ✓ Rédigé |
 | 063 | La semaine de décembre 1978 | 2 078 | ✓ Rédigé |
-| 064 | Ce que René a rapporté | 1 997 | ✓ Rédigé |
+| 064 | Ce que René a rapporté | 2 000 | ✓ Rédigé |
 | 065 | La liste | 2 280 | ✓ Rédigé |
 | 066 | La procédure exacte de récupération | 2 404 | ✓ Rédigé — CHECKPOINT 5 ch. |
 | 067 | Les erreurs des cycles précédents | 2 405 | ✓ Rédigé |
@@ -210,10 +210,10 @@ Pour reprendre la session après interruption :
 | 090 | Septembre | 2 166 | ✓ Rédigé |
 | 091 | L'empreinte | 2 115 | ✓ Rédigé — CHECKPOINT 5 ch. |
 | 092 | La dépêche | 2 013 | ✓ Rédigé |
-| 093 | La veille | 1 999 | ✓ Rédigé |
+| 093 | La veille | 2 000 | ✓ Rédigé |
 | 094 | Le matin | 2 013 | ✓ Rédigé |
 | 095 | Le seuil | 2 026 | ✓ Rédigé |
-| 096 | Le nœud | 1 997 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 096 | Le nœud | 2 001 | ✓ Rédigé — CHECKPOINT 5 ch. |
 | 097 | Édouard Vanel, 1911 | 2 175 | ✓ Rédigé |
 | 098 | Ce qui reste | 2 101 | ✓ Rédigé |
 | 099 | Trois pas | 2 023 | ✓ Rédigé |
@@ -225,9 +225,9 @@ Pour reprendre la session après interruption :
 | 105 | Kern | 2 021 | ✓ Rédigé — ARRÊT ÉTAPE 11 |
 | 106 | Ce qu'il dit à Maret | 2 000 | ✓ Rédigé |
 | 107 | Ce qu'elle écrit dans le dossier | 2 027 | ✓ Rédigé |
-| 108 | Le dispositif | 1 998 | ✓ Rédigé |
-| 109 | La veille | 1 972 | ✓ Rédigé |
-| 110 | Les cahiers de la Société | 1 969 | ✓ Rédigé — CHECKPOINT 5 ch. |
+| 108 | Le dispositif | 2 002 | ✓ Rédigé |
+| 109 | La veille | 2 001 | ✓ Rédigé |
+| 110 | Les cahiers de la Société | 2 002 | ✓ Rédigé — CHECKPOINT 5 ch. |
 | 111 | Le consentement | 2 001 | ✓ Rédigé |
 | 112 | L'intérieur | 2 077 | ✓ Rédigé |
 | 113 | La remontée | 2 016 | ✓ Rédigé |
@@ -666,3 +666,57 @@ Pour reprendre la session après interruption :
 - A-001 : fichiers de référence validés par la rédaction complète
 - A-002 : localisation géographique non fixée (non bloquant — roman achevé)
 - A-003 : Camille — séparation formalisée, contact régulier via Mathilde, accord fonctionnel
+
+---
+
+## BILAN PHASE 2 — RÉVISION NIVEAU B
+
+**Date :** août 2026  
+**Périmètre :** 120 chapitres — relecture typographique, stylistique et structurelle complète  
+**Commits :** `4248f32`, `db0e7bf`, `a5d4d63`, `a8e1c7b`, `1f8785a`
+
+### Corrections typographiques
+
+| Type | Occurrences | Chapitres concernés |
+|------|-------------|---------------------|
+| `...` → `…` (points de suspension Unicode) | 15 | ch003, ch005, ch007, ch057, ch070, ch072, ch073, ch074, ch077, ch078, ch079, ch082, ch115 |
+| `'` → `'` (apostrophe typographique U+2019) | 246 | ch011, ch012, ch028, ch029, ch033, ch034, ch035, ch037, ch039, ch040, ch044, ch045, ch046, ch049, ch050, ch051, ch052, ch053, ch054, ch059, ch068, ch072, ch073, ch105, ch109 |
+
+### Corrections stylistiques
+
+| Type | Localisation | Correction |
+|------|-------------|------------|
+| Incise interdite (`précisa`) | ch007:43 | `précisa Kern` → `dit Kern` |
+| Métaphore hors champ de Bréval | ch014:19 | `comme une phrase qui s'arrête avant son terme` → `un segment avec une borne` |
+| Ouverture sur lieu vide (sans personnage) | ch026 | Premier paragraphe réécrit — Irène Massard placée au centre dès la première phrase |
+
+### Corrections de longueur (seuil 2 000 mots)
+
+| Chapitre | Avant | Après | Ajout |
+|---------|-------|-------|-------|
+| ch064 | 1 997 | 2 000 | « en deux ans » ajouté à « Quatre absences. » |
+| ch093 | 1 999 | 2 000 | « tous » ajouté à « Il les avait vus. » |
+| ch096 | 1 997 | 2 001 | Phrase « Il regarda la galerie. » insérée |
+| ch108 | 1 998 | 2 002 | Phrase « Bréval s'en tenait à ça. » insérée |
+| ch109 | 1 972 | 2 001 | Paragraphe sur la mère de Cordier (3 phrases) inséré |
+| ch110 | 1 969 | 2 002 | Paragraphe sur 115 ans + « C'était la règle de la Société. » inséré |
+
+### Coquilles
+
+| Localisation | Avant | Après |
+|-------------|-------|-------|
+| ch100:53 | `avait descender` | `avait descendu` |
+| ch100:135 | `Il avait descend` | `Il avait descendu` |
+| ch116:139 | `racccrochait` | `raccrochait` |
+
+### Vérifications sans violation
+
+| Critère | Résultat |
+|---------|----------|
+| Adverbes en -ment après dialogue | 0 violation (120 chapitres) |
+| Incises interdites (hors ch007) | 0 violation |
+| Descriptions > 6 lignes sans ancrage narratif | 0 violation |
+| Règle des trois moteurs (enquête / inquiétude / personnel) | 0 violation (échantillon 11 chapitres représentatifs) |
+| Ouvertures sur lieu vide (hors ch026) | 0 violation |
+
+**Phase 2 : TERMINÉE — 120/120 chapitres conformes au niveau B**
