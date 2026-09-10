@@ -208,9 +208,12 @@ button, input, select, textarea {
   gap: 10px;
   text-decoration: none;
 }
-.nav__logo-mark {
-  width: 40px;
-  height: 40px;
+.nav__logo-canvas {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: block;
+  flex-shrink: 0;
 }
 .nav__brand {
   display: flex;
