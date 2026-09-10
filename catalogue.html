@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WATEMURA — Catalogue</title>
+  <meta name="description" content="Explorer l'intégralité du catalogue d'art africain Watemura. Sculptures, peintures, masques rituels, textiles et installations.">
+  <link rel="stylesheet" href="css/watemura.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500&display=swap">
+  <style>
+    .page-header {
+      background: var(--bg-dark);
+      color: var(--text-inv);
+      padding-block: 100px 48px;
+      margin-top: 72px;
+    }
+    .catalogue-layout {
+      display: grid;
+      grid-template-columns: 260px 1fr;
+      gap: 40px;
+      align-items: start;
+      padding-block: 48px;
+    }
+    @media (max-width: 900px) {
+      .catalogue-layout { grid-template-columns: 1fr; }
+      .sidebar { display: none; }
+      .sidebar.mobile-open { display: block; }
+    }
+
+    /* ─── Sidebar ─── */
+    .sidebar {
+      position: sticky;
+      top: 88px;
+    }
+    .sidebar__section {
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 20px;
+      margin-bottom: 20px;
+    }
+    .sidebar__section:last-child { border-bottom: none; }
+    .sidebar__title {
+      font-size: 0.7rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-2);
+      margin-bottom: 14px;
+      font-weight: 500;
+    }
+    .filter-list { display: flex; flex-direction: column; gap: 8px; }
+    .filter-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      cursor: pointer;
+      padding: 4px 0;
+    }
+    .filter-item input[type="checkbox"] {
+      width: 16px; height: 16px;
+      accent-color: var(--tide);
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .filter-item label {
+      font-size: 0.875rem;
+      color: var(--text);
+      cursor: pointer;
+      flex: 1;
+      display: flex;
+      justify-content: space-between;
+    }
+    .filter-item label span { color: var(--text-2); font-size: .8rem; }
+
+    .price-range-wrap { padding: 4px 0 12px; }
+    .price-display {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.875rem;
+      color: var(--text);
+      margin-bottom: 12px;
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* ─── Toolbar ─── */
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 28px;
+    }
+    .toolbar__count { font-size: 0.875rem; color: var(--text-2); }
+    .toolbar__right { display: flex; align-items: center; gap: 12px; }
+    .toolbar__sort {
+      padding: 8px 14px;
+      background: var(--surface);
+      border: 1px solid var(--border-2);
+      border-radius: var(--r-sm);
+      font-size: 0.875rem;
+      color: var(--text);
+      cursor: pointer;
+      min-width: 180px;
+    }
+    .view-toggle { display: flex; gap: 4px; }
+    .view-btn {
+      width: 34px; height: 34px;
+      display: flex; align-items: center; justify-content: center;
+      background: none; border: 1px solid var(--border-2);
+      border-radius: var(--r-sm); cursor: pointer; color: var(--text-2);
+      transition: all var(--transition);
+    }
+    .view-btn.active { background: var(--tide); border-color: var(--tide); color: white; }
+
+    /* ─── Active filters ─── */
+    .active-filters {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .filter-tag {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      background: rgba(26,107,122,.1);
+      border: 1px solid rgba(26,107,122,.3);
+      border-radius: 20px;
+      font-size: 0.75rem;
+      color: var(--tide);
+    }
+    .filter-tag button {
+      background: none; border: none; cursor: pointer;
+      color: var(--tide); font-size: 0.9rem; line-height: 1;
+      padding: 0;
+    }
+
+    /* ─── Load more ─── */
+    .load-more-wrap { text-align: center; margin-top: 48px; }
+    .pagination-info { font-size: 0.875rem; color: var(--text-2); margin-bottom: 16px; }
+    .pagination-bar {
+      height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      overflow: hidden;
+      max-width: 240px;
+      margin: 12px auto;
+    }
+    .pagination-bar__fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--tide), var(--flow));
+      border-radius: 2px;
+      transition: width 500ms var(--ease-out);
+    }
+
+    /* Mobile filter btn */
+    .mobile-filter-btn {
+      display: none;
+    }
+    @media (max-width: 900px) {
+      .mobile-filter-btn { display: flex; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ═══ Navigation ═══ -->
+<nav class="nav nav--light-page" aria-label="Navigation principale">
+  <a href="index.html" class="nav__logo">
+    <svg class="nav__logo-mark" viewBox="0 0 80 80" fill="none">
+      <circle cx="40" cy="40" r="38" stroke="rgba(26,107,122,.2)" stroke-width="1"/>
+      <path d="M40 10 Q65 25 65 40 Q65 62 40 72 Q15 62 15 40 Q15 25 40 10Z" fill="none" stroke="#1A6B7A" stroke-width="1.5" opacity="0.6"/>
+      <path d="M40 18 Q58 30 58 40 Q58 56 40 64 Q22 56 22 40 Q22 30 40 18Z" fill="none" stroke="#2DB5A3" stroke-width="1" opacity="0.5"/>
+      <path d="M40 44 Q37 40 38 36 Q40 33 40 33 Q40 33 42 36 Q43 40 40 44Z" fill="#C49A3C" opacity="0.9"/>
+    </svg>
+    <div class="nav__brand">
+      <span class="nav__name" style="color:var(--tide);">WATEMURA</span>
+      <span class="nav__tagline" style="color:var(--text-2);">Rituels sacrés · Art conscient</span>
+    </div>
+  </a>
+  <ul class="nav__links">
+    <li><a href="catalogue.html" style="color:var(--tide);font-weight:500;">Catalogue</a></li>
+    <li><a href="catalogue.html?cat=sculptures" style="color:var(--text-2);">Sculptures</a></li>
+    <li><a href="catalogue.html?cat=peintures" style="color:var(--text-2);">Peintures</a></li>
+    <li><a href="index.html#philosophie" style="color:var(--text-2);">Notre histoire</a></li>
+  </ul>
+  <div class="nav__actions">
+    <a href="compte.html" class="nav__icon-btn" style="color:var(--tide);" aria-label="Mon compte">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+    </a>
+    <a href="panier.html" class="nav__icon-btn" style="color:var(--tide);" aria-label="Panier">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+      <span class="nav__badge" data-cart-badge style="background:var(--ember);" hidden>0</span>
+    </a>
+    <button class="nav__mobile-toggle" style="color:var(--tide);" aria-label="Menu">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+  </div>
+</nav>
+<div class="mobile-nav">
+  <button class="mobile-nav__close">✕</button>
+  <a href="catalogue.html" class="mobile-nav__link">Catalogue</a>
+  <a href="compte.html" class="mobile-nav__link">Mon compte</a>
+  <a href="panier.html" class="mobile-nav__link">Panier</a>
+</div>
+
+<!-- ═══ Page Header ═══ -->
+<header class="page-header">
+  <div class="container">
+    <div class="breadcrumb mb-16">
+      <a href="index.html">Accueil</a>
+      <span class="breadcrumb__sep">›</span>
+      <span class="breadcrumb__current" style="color:var(--shimmer);">Catalogue</span>
+    </div>
+    <h1 class="t-display" style="color:var(--shimmer);">Catalogue des œuvres</h1>
+    <p class="t-subhead" style="color:rgba(125,217,207,.55); margin-top:8px;">165 œuvres d'artistes africains et de la diaspora</p>
+  </div>
+</header>
+
+<!-- ═══ Main ═══ -->
+<main>
+  <div class="container">
+    <div class="catalogue-layout">
+
+      <!-- ─── Sidebar / Filters ─── -->
+      <aside class="sidebar" id="sidebar" aria-label="Filtres">
+
+        <div class="sidebar__section">
+          <div class="sidebar__title">Catégories</div>
+          <div class="filter-list" id="cat-filters">
+            <label class="filter-item"><input type="checkbox" value="sculptures" onchange="applyFilters()"> <label>Sculptures <span>(34)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="peintures" onchange="applyFilters()"> <label>Peintures <span>(51)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="masques" onchange="applyFilters()"> <label>Masques rituels <span>(28)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="textiles" onchange="applyFilters()"> <label>Textiles <span>(19)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="ceramiques" onchange="applyFilters()"> <label>Céramiques <span>(22)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="installations" onchange="applyFilters()"> <label>Installations <span>(11)</span></label></label>
+          </div>
+        </div>
+
+        <div class="sidebar__section">
+          <div class="sidebar__title">Origine géographique</div>
+          <div class="filter-list">
+            <label class="filter-item"><input type="checkbox" value="afrique-ouest" onchange="applyFilters()"> <label>Afrique de l'Ouest <span>(68)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="afrique-centrale" onchange="applyFilters()"> <label>Afrique Centrale <span>(42)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="afrique-est" onchange="applyFilters()"> <label>Afrique de l'Est <span>(27)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="afrique-nord" onchange="applyFilters()"> <label>Afrique du Nord <span>(18)</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="diaspora" onchange="applyFilters()"> <label>Diaspora <span>(10)</span></label></label>
+          </div>
+        </div>
+
+        <div class="sidebar__section">
+          <div class="sidebar__title">Prix</div>
+          <div class="price-range-wrap">
+            <div class="price-display">
+              <span id="price-min-display">0 €</span>
+              <span id="price-max-display">10 000 €</span>
+            </div>
+            <input type="range" id="price-min" min="0" max="10000" step="50" value="0" oninput="updatePriceRange()">
+            <div style="margin-top:8px;">
+              <input type="range" id="price-max" min="0" max="10000" step="50" value="10000" oninput="updatePriceRange()">
+            </div>
+          </div>
+        </div>
+
+        <div class="sidebar__section">
+          <div class="sidebar__title">Disponibilité</div>
+          <div class="filter-list">
+            <label class="filter-item"><input type="checkbox" value="dispo" onchange="applyFilters()"> <label>En stock</label></label>
+            <label class="filter-item"><input type="checkbox" value="unique" onchange="applyFilters()"> <label>Pièce unique <span>✦</span></label></label>
+            <label class="filter-item"><input type="checkbox" value="commande" onchange="applyFilters()"> <label>Sur commande</label></label>
+          </div>
+        </div>
+
+        <div class="sidebar__section">
+          <div class="sidebar__title">Technique</div>
+          <div class="filter-list">
+            <label class="filter-item"><input type="checkbox" onchange="applyFilters()"> <label>Bois sculpté</label></label>
+            <label class="filter-item"><input type="checkbox" onchange="applyFilters()"> <label>Bronze / Métal</label></label>
+            <label class="filter-item"><input type="checkbox" onchange="applyFilters()"> <label>Huile sur toile</label></label>
+            <label class="filter-item"><input type="checkbox" onchange="applyFilters()"> <label>Acrylique</label></label>
+            <label class="filter-item"><input type="checkbox" onchange="applyFilters()"> <label>Techniques mixtes</label></label>
+            <label class="filter-item"><input type="checkbox" onchange="applyFilters()"> <label>Tissu traditionnel</label></label>
+          </div>
+        </div>
+
+        <button class="btn btn--ghost btn--sm btn--full mt-8" onclick="resetFilters()">
+          Réinitialiser les filtres
+        </button>
+      </aside>
+
+      <!-- ─── Products ─── -->
+      <div>
+        <!-- Toolbar -->
+        <div class="toolbar">
+          <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+            <button class="btn btn--ghost btn--sm mobile-filter-btn" onclick="toggleMobileFilters()">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/></svg>
+              Filtres
+            </button>
+            <span class="toolbar__count" id="results-count">165 œuvres</span>
+          </div>
+          <div class="toolbar__right">
+            <select class="toolbar__sort" onchange="applyFilters()" id="sort-select">
+              <option value="featured">Sélection</option>
+              <option value="new">Nouveautés</option>
+              <option value="price-asc">Prix croissant</option>
+              <option value="price-desc">Prix décroissant</option>
+              <option value="name">Nom A–Z</option>
+            </select>
+            <div class="view-toggle">
+              <button class="view-btn active" id="grid-btn" onclick="setView('grid')" aria-label="Grille">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+              </button>
+              <button class="view-btn" id="list-btn" onclick="setView('list')" aria-label="Liste">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Active filters -->
+        <div class="active-filters" id="active-filters"></div>
+
+        <!-- Grid -->
+        <div class="grid-auto" id="products-grid"></div>
+
+        <!-- Load more -->
+        <div class="load-more-wrap">
+          <p class="pagination-info" id="page-info">Affichage de 12 sur 165 œuvres</p>
+          <div class="pagination-bar"><div class="pagination-bar__fill" id="page-bar" style="width:7%"></div></div>
+          <button class="btn btn--ghost mt-16" id="load-more-btn" onclick="loadMore()">
+            Charger plus d'œuvres
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- ═══ Footer ═══ -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer__bottom" style="border-top:none; padding-top:0;">
+      <a href="index.html" style="font-family:var(--ff-disp);color:var(--shimmer);opacity:.5;font-size:1.1rem;">WATEMURA</a>
+      <span class="footer__copy">© 2024 Watemura. Tous droits réservés.</span>
+      <div class="footer__legal">
+        <a href="#">CGV</a><a href="#">Confidentialité</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/cart.js"></script>
+<script src="js/app.js"></script>
+<script>
+/* ─── Catalogue Data ─── */
+const ALL_PRODUCTS = [
+  { id:1, name:'Gardien des Eaux Ancestrales', artist:'Kofi Mensah', country:'Ghana', cat:'sculptures', region:'afrique-ouest', price:2400, tech:'Bois sculpté', badge:'Vedette', unique:true },
+  { id:2, name:'Masque Nzambi — L\'Origine', artist:'Lukusa Kabongo', country:'RD Congo', cat:'masques', region:'afrique-centrale', price:1850, tech:'Bronze', unique:true },
+  { id:3, name:'Mémoires du Delta', artist:'Mamadou Diallo', country:'Sénégal', cat:'peintures', region:'afrique-ouest', price:980, tech:'Huile sur toile' },
+  { id:4, name:'Esprit du Sahara', artist:'Fatima Al-Rashid', country:'Maroc', cat:'peintures', region:'afrique-nord', price:750, tech:'Acrylique', badge:'Nouveau' },
+  { id:5, name:'Oya — Déesse des Tempêtes', artist:'Taiwo Adeyemi', country:'Nigeria', cat:'sculptures', region:'afrique-ouest', price:3200, tech:'Bronze', unique:true },
+  { id:6, name:'Passage', artist:'Moussa Kéita', country:'Mali', cat:'masques', region:'afrique-ouest', price:1450, tech:'Bois sculpté', badge:'Rare', unique:true },
+  { id:7, name:'Tissu de Vie', artist:'Akua Asante', country:'Ghana', cat:'textiles', region:'afrique-ouest', price:420, tech:'Tissu traditionnel' },
+  { id:8, name:'Ukunda — La Transformation', artist:'Amina Mwangi', country:'Kenya', cat:'ceramiques', region:'afrique-est', price:680, tech:'Céramique émaillée' },
+  { id:9, name:'Rivières Intérieures', artist:'Chinwe Obi', country:'Nigeria', cat:'peintures', region:'afrique-ouest', price:1200, tech:'Techniques mixtes', badge:'Nouveau' },
+  { id:10, name:'L\'Ancêtre Debout', artist:'Seydou Touré', country:'Côte d\'Ivoire', cat:'sculptures', region:'afrique-ouest', price:4800, tech:'Bois sculpté', unique:true },
+  { id:11, name:'Kente Cosmique', artist:'Akosua Boateng', country:'Ghana', cat:'textiles', region:'afrique-ouest', price:890, tech:'Tissu traditionnel' },
+  { id:12, name:'Nuit du Lac Tanganyika', artist:'Émile Bigirimana', country:'Burundi', cat:'peintures', region:'afrique-est', price:640, tech:'Huile sur toile', badge:'Nouveau' },
+  { id:13, name:'Sphinx Contemporain', artist:'Yasmine Khalil', country:'Égypte', cat:'installations', region:'afrique-nord', price:6500, tech:'Techniques mixtes', unique:true },
+  { id:14, name:'Ventre de la Terre', artist:'Ngoné Diop', country:'Sénégal', cat:'ceramiques', region:'afrique-ouest', price:520, tech:'Céramique' },
+  { id:15, name:'Les Sept Génies', artist:'Remi Lawal', country:'Nigeria', cat:'masques', region:'afrique-ouest', price:2100, tech:'Bois et pigments', badge:'Rare', unique:true },
+  { id:16, name:'Écho du Rift', artist:'Mosi Njiru', country:'Tanzanie', cat:'sculptures', region:'afrique-est', price:1680, tech:'Pierre sculptée' },
+];
+
+const ICONS = { sculptures:'🗿', peintures:'🖼️', masques:'🎭', textiles:'🧵', ceramiques:'🏺', installations:'✨' };
+const GRADS = [
+  '#0A1E28,#1A4A5A','#1A0A28,#3A1A5A','#1A1A08,#3A3010',
+  '#081A0A,#103A1A','#1A0A08,#3A1A10','#081810,#103028'
+];
+
+let currentPage = 1;
+const PER_PAGE = 12;
+let filteredProducts = [...ALL_PRODUCTS];
+let currentView = 'grid';
+
+function renderProducts(products, append = false) {
+  const grid = document.getElementById('products-grid');
+  if (!append) grid.innerHTML = '';
+
+  if (products.length === 0 && !append) {
+    grid.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:60px 0;color:var(--text-2);">
+      <div style="font-size:2rem;margin-bottom:12px;">◌</div>
+      <p>Aucune œuvre ne correspond à vos filtres.</p>
+      <button class="btn btn--ghost btn--sm" style="margin-top:16px;" onclick="resetFilters()">Effacer les filtres</button>
+    </div>`;
+    return;
+  }
+
+  products.forEach(p => {
+    const grad = GRADS[p.id % GRADS.length];
+    const icon = ICONS[p.cat] || '✦';
+    const el = document.createElement('article');
+    el.className = 'product-card';
+    if (currentView === 'list') {
+      el.style.cssText = 'display:grid;grid-template-columns:160px 1fr;grid-column:1/-1;';
+    }
+    el.innerHTML = `
+      <a href="produit.html?id=${p.id}" style="display:block;">
+        <div class="product-card__image" style="${currentView==='list'?'aspect-ratio:1':''}">
+          <div style="position:absolute;inset:0;background:linear-gradient(135deg,${grad});display:flex;align-items:center;justify-content:center;font-size:2.5rem;opacity:.4;">${icon}</div>
+          ${p.badge ? `<span class="product-card__badge">${p.badge}</span>` : ''}
+          ${p.unique ? '<span style="position:absolute;bottom:12px;left:12px;z-index:1;font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ember-lt);background:rgba(13,27,42,.6);padding:3px 8px;border-radius:20px;">Pièce unique</span>' : ''}
+          <button class="product-card__wishlist" onclick="event.preventDefault();WatemuraCart.toggleWishlist(${p.id})" aria-label="Ajouter aux favoris" data-wishlist-id="${p.id}">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+          </button>
+        </div>
+      </a>
+      <div class="product-card__body">
+        <span class="product-card__category">${p.cat.charAt(0).toUpperCase()+p.cat.slice(1)} · ${p.country}</span>
+        <h3 class="product-card__name"><a href="produit.html?id=${p.id}" style="color:inherit;text-decoration:none;">${p.name}</a></h3>
+        <p class="product-card__artist">${p.artist}</p>
+        <p style="font-size:.8rem;color:var(--text-2);">${p.tech}</p>
+        <div class="product-card__footer">
+          <span class="product-card__price">${WatemuraCart.formatPrice(p.price)}</span>
+          <button class="product-card__add" onclick="WatemuraCart.addToCart({id:${p.id},name:'${p.name.replace(/'/g,"\\'")}',price:${p.price},artist:'${p.artist}',stock:1})" aria-label="Ajouter au panier">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+          </button>
+        </div>
+      </div>`;
+    grid.appendChild(el);
+  });
+}
+
+function applyFilters() {
+  const checkedCats = [...document.querySelectorAll('#cat-filters input:checked')].map(i => i.value);
+  const minP = parseInt(document.getElementById('price-min').value);
+  const maxP = parseInt(document.getElementById('price-max').value);
+  const sort = document.getElementById('sort-select').value;
+
+  filteredProducts = ALL_PRODUCTS.filter(p => {
+    if (checkedCats.length && !checkedCats.includes(p.cat)) return false;
+    if (p.price < minP || p.price > maxP) return false;
+    return true;
+  });
+
+  if (sort === 'price-asc') filteredProducts.sort((a,b) => a.price - b.price);
+  else if (sort === 'price-desc') filteredProducts.sort((a,b) => b.price - a.price);
+  else if (sort === 'name') filteredProducts.sort((a,b) => a.name.localeCompare(b.name));
+  else if (sort === 'new') filteredProducts.sort((a,b) => b.id - a.id);
+
+  currentPage = 1;
+  const slice = filteredProducts.slice(0, PER_PAGE);
+  renderProducts(slice);
+  updatePagination();
+  updateActiveFilters(checkedCats, minP, maxP);
+
+  // Pre-select from URL
+  const params = new URLSearchParams(location.search);
+  const catParam = params.get('cat');
+  if (catParam && checkedCats.length === 0) {
+    const cb = document.querySelector(`#cat-filters input[value="${catParam}"]`);
+    if (cb) { cb.checked = true; applyFilters(); }
+  }
+}
+
+function updatePagination() {
+  const total = filteredProducts.length;
+  const showing = Math.min(currentPage * PER_PAGE, total);
+  document.getElementById('results-count').textContent = `${total} œuvre${total>1?'s':''}`;
+  document.getElementById('page-info').textContent = `Affichage de ${showing} sur ${total} œuvres`;
+  const pct = total > 0 ? (showing / total * 100) : 100;
+  document.getElementById('page-bar').style.width = pct + '%';
+  document.getElementById('load-more-btn').hidden = showing >= total;
+}
+
+function loadMore() {
+  currentPage++;
+  const start = (currentPage-1) * PER_PAGE;
+  const slice = filteredProducts.slice(start, start + PER_PAGE);
+  renderProducts(slice, true);
+  updatePagination();
+}
+
+function updateActiveFilters(cats, minP, maxP) {
+  const wrap = document.getElementById('active-filters');
+  wrap.innerHTML = '';
+  cats.forEach(c => {
+    const tag = document.createElement('span');
+    tag.className = 'filter-tag';
+    tag.innerHTML = `${c.charAt(0).toUpperCase()+c.slice(1)} <button onclick="removeCatFilter('${c}')" aria-label="Supprimer filtre">✕</button>`;
+    wrap.appendChild(tag);
+  });
+  if (minP > 0 || maxP < 10000) {
+    const tag = document.createElement('span');
+    tag.className = 'filter-tag';
+    tag.textContent = `${minP} € – ${maxP} €`;
+    wrap.appendChild(tag);
+  }
+}
+
+function removeCatFilter(val) {
+  const cb = document.querySelector(`#cat-filters input[value="${val}"]`);
+  if (cb) { cb.checked = false; applyFilters(); }
+}
+
+function resetFilters() {
+  document.querySelectorAll('.sidebar input[type="checkbox"]').forEach(cb => cb.checked = false);
+  document.getElementById('price-min').value = 0;
+  document.getElementById('price-max').value = 10000;
+  document.getElementById('sort-select').value = 'featured';
+  updatePriceRange();
+  applyFilters();
+}
+
+function updatePriceRange() {
+  const min = parseInt(document.getElementById('price-min').value);
+  const max = parseInt(document.getElementById('price-max').value);
+  document.getElementById('price-min-display').textContent = min.toLocaleString('fr-FR') + ' €';
+  document.getElementById('price-max-display').textContent = max.toLocaleString('fr-FR') + ' €';
+}
+
+function setView(v) {
+  currentView = v;
+  document.getElementById('grid-btn').classList.toggle('active', v==='grid');
+  document.getElementById('list-btn').classList.toggle('active', v==='list');
+  const grid = document.getElementById('products-grid');
+  grid.style.gridTemplateColumns = v === 'list' ? '1fr' : '';
+  renderProducts(filteredProducts.slice(0, currentPage * PER_PAGE));
+}
+
+function toggleMobileFilters() {
+  document.getElementById('sidebar').classList.toggle('mobile-open');
+}
+
+/* Init */
+document.addEventListener('DOMContentLoaded', () => {
+  const params = new URLSearchParams(location.search);
+  const catParam = params.get('cat');
+  if (catParam) {
+    const cb = document.querySelector(`#cat-filters input[value="${catParam}"]`);
+    if (cb) cb.checked = true;
+  }
+  const sortParam = params.get('sort');
+  if (sortParam) document.getElementById('sort-select').value = sortParam === 'new' ? 'new' : 'featured';
+  applyFilters();
+  WatemuraApp.observeEntries('.product-card');
+});
+</script>
+</body>
+</html>

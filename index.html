@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WATEMURA — Rituels Sacrés · Art Conscient</title>
+  <meta name="description" content="Œuvres d'art africaines d'exception. L'eau comme symbole de mémoire, transformation et renaissance.">
+  <link rel="stylesheet" href="css/watemura.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500&display=swap">
+  <style>
+    /* ─── Hero ─── */
+    .hero {
+      position: relative;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      background: #040A0F;
+    }
+    #water-canvas {
+      position: absolute;
+      inset: 0;
+      width: 100%; height: 100%;
+    }
+    .hero__overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        135deg,
+        rgba(4,10,15,.72) 0%,
+        rgba(8,20,30,.45) 50%,
+        rgba(4,10,15,.72) 100%
+      );
+    }
+    .hero__content {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      max-width: 820px;
+      padding: 120px 24px 80px;
+    }
+    .hero__eyebrow {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin-bottom: 28px;
+    }
+    .hero__eyebrow-line {
+      width: 40px; height: 1px;
+      background: rgba(125,217,207,.4);
+    }
+    .hero__eyebrow-text {
+      font-size: 0.6rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--shimmer);
+      opacity: 0.7;
+    }
+    .hero__title {
+      font-family: var(--ff-disp);
+      font-size: clamp(3.5rem, 9vw, 7rem);
+      font-weight: 300;
+      line-height: 0.95;
+      letter-spacing: 0.06em;
+      color: var(--shimmer);
+      margin-bottom: 8px;
+    }
+    .hero__title em {
+      font-style: italic;
+      font-weight: 300;
+      color: var(--ember-lt);
+    }
+    .hero__subtitle {
+      font-family: var(--ff-disp);
+      font-size: clamp(0.9rem, 2vw, 1.2rem);
+      font-weight: 300;
+      font-style: italic;
+      color: rgba(125,217,207,.65);
+      letter-spacing: 0.04em;
+      margin-bottom: 40px;
+      line-height: 1.6;
+    }
+    .hero__actions {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .hero__scroll {
+      position: absolute;
+      bottom: 32px; left: 50%;
+      transform: translateX(-50%);
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      color: rgba(125,217,207,.45);
+    }
+    .hero__scroll-text { font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; }
+    .hero__scroll-line {
+      width: 1px; height: 40px;
+      background: linear-gradient(to bottom, rgba(125,217,207,.4), transparent);
+      animation: scrollPulse 2s ease-in-out infinite;
+    }
+    @keyframes scrollPulse {
+      0%, 100% { opacity: 0.4; transform: scaleY(1); }
+      50%       { opacity: 0.9; transform: scaleY(1.2); }
+    }
+
+    /* ─── Featured artworks ─── */
+    .featured-grid {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr;
+      gap: 24px;
+    }
+    .featured-main {
+      position: relative;
+      aspect-ratio: 4/5;
+      border-radius: var(--r-lg);
+      overflow: hidden;
+      background: var(--bg-2);
+    }
+    .featured-main img { width: 100%; height: 100%; object-fit: cover; }
+    .featured-main::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(13,27,42,.7) 0%, transparent 55%);
+    }
+    .featured-main__info {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      padding: 24px;
+      z-index: 1;
+    }
+    .featured-side {
+      display: grid;
+      grid-template-rows: 1fr 1fr;
+      gap: 24px;
+    }
+    .featured-secondary {
+      position: relative;
+      border-radius: var(--r-lg);
+      overflow: hidden;
+      background: var(--bg-2);
+    }
+    .featured-secondary img { width: 100%; height: 100%; object-fit: cover; }
+    .featured-secondary::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(13,27,42,.65) 0%, transparent 60%);
+    }
+    .featured-secondary__info {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      padding: 18px;
+      z-index: 1;
+    }
+    @media (max-width: 700px) {
+      .featured-grid { grid-template-columns: 1fr; }
+      .featured-main { aspect-ratio: 3/4; }
+      .featured-side { grid-template-rows: auto; }
+      .featured-secondary { aspect-ratio: 4/3; }
+    }
+
+    /* ─── Categories strip ─── */
+    .categories {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 16px;
+    }
+    .category-pill {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      padding: 20px 12px;
+      border-radius: var(--r-lg);
+      border: 1px solid var(--border);
+      background: var(--surface);
+      text-decoration: none;
+      color: var(--text);
+      transition: all 280ms var(--ease-out);
+    }
+    .category-pill:hover {
+      border-color: var(--tide);
+      background: rgba(26,107,122,.05);
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-md);
+    }
+    .category-pill__icon {
+      width: 48px; height: 48px;
+      border-radius: 50%;
+      background: var(--bg-2);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.4rem;
+      transition: background var(--transition);
+    }
+    .category-pill:hover .category-pill__icon { background: rgba(26,107,122,.1); }
+    .category-pill__name {
+      font-size: 0.75rem;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      text-align: center;
+      line-height: 1.3;
+    }
+    .category-pill__count { font-size: 0.65rem; color: var(--text-2); }
+    @media (max-width: 900px) { .categories { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 560px) { .categories { grid-template-columns: repeat(2, 1fr); } }
+
+    /* ─── Philosophy band ─── */
+    .philosophy {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      min-height: 520px;
+    }
+    .philosophy__text {
+      background: var(--bg-dark);
+      color: var(--text-inv);
+      padding: clamp(40px, 6vw, 80px);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .philosophy__visual {
+      position: relative;
+      overflow: hidden;
+      background: #0A1E28;
+    }
+    .philosophy__visual canvas {
+      width: 100%; height: 100%;
+      display: block;
+    }
+    .philosophy__quote {
+      font-family: var(--ff-disp);
+      font-size: clamp(1.5rem, 3vw, 2.2rem);
+      font-weight: 300;
+      font-style: italic;
+      line-height: 1.4;
+      color: var(--shimmer);
+      margin-bottom: 24px;
+    }
+    .philosophy__body {
+      font-size: 0.9375rem;
+      line-height: 1.8;
+      color: rgba(125,217,207,.6);
+      max-width: 480px;
+    }
+    @media (max-width: 700px) {
+      .philosophy { grid-template-columns: 1fr; }
+      .philosophy__visual { min-height: 220px; }
+    }
+
+    /* ─── Testimonial ─── */
+    .testimonial-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-lg);
+      padding: 28px;
+    }
+    .testimonial-card__quote {
+      font-family: var(--ff-disp);
+      font-size: 1.05rem;
+      font-style: italic;
+      line-height: 1.7;
+      color: var(--text);
+      margin-bottom: 16px;
+    }
+    .testimonial-card__author {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .testimonial-card__avatar {
+      width: 36px; height: 36px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--tide), var(--flow));
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.9rem;
+      color: white;
+      font-weight: 600;
+    }
+
+    /* ─── Newsletter ─── */
+    .newsletter {
+      background: linear-gradient(135deg, var(--ink) 0%, #0A2030 60%, #051018 100%);
+      color: var(--shimmer);
+      text-align: center;
+      padding-block: clamp(48px, 8vw, 80px);
+      position: relative;
+      overflow: hidden;
+    }
+    .newsletter::before {
+      content: '';
+      position: absolute;
+      top: -80px; left: 50%; transform: translateX(-50%);
+      width: 600px; height: 600px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(45,181,163,.08) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .newsletter__form {
+      display: flex;
+      gap: 12px;
+      max-width: 480px;
+      margin: 28px auto 0;
+    }
+    .newsletter__input {
+      flex: 1;
+      padding: 12px 16px;
+      background: rgba(255,255,255,.07);
+      border: 1px solid rgba(125,217,207,.2);
+      border-radius: var(--r-sm);
+      color: var(--shimmer);
+      font-size: 0.9375rem;
+    }
+    .newsletter__input::placeholder { color: rgba(125,217,207,.35); }
+    .newsletter__input:focus { outline: none; border-color: var(--flow); }
+    @media (max-width: 500px) {
+      .newsletter__form { flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ═══ Navigation ═══ -->
+<nav class="nav" aria-label="Navigation principale">
+  <a href="index.html" class="nav__logo">
+    <svg class="nav__logo-mark" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="40" cy="40" r="38" stroke="rgba(125,217,207,.2)" stroke-width="1"/>
+      <path d="M40 10 Q65 25 65 40 Q65 62 40 72 Q15 62 15 40 Q15 25 40 10Z" fill="none" stroke="#2DB5A3" stroke-width="1.5" opacity="0.6"/>
+      <path d="M40 18 Q58 30 58 40 Q58 56 40 64 Q22 56 22 40 Q22 30 40 18Z" fill="none" stroke="#7DD9CF" stroke-width="1" opacity="0.5"/>
+      <path d="M40 26 Q52 34 52 40 Q52 50 40 56 Q28 50 28 40 Q28 34 40 26Z" fill="none" stroke="#2DB5A3" stroke-width="1" opacity="0.4"/>
+      <!-- flame -->
+      <path d="M40 44 Q37 40 38 36 Q40 33 40 33 Q40 33 42 36 Q43 40 40 44Z" fill="#C49A3C" opacity="0.9"/>
+      <path d="M40 46 Q36 42 37 37 Q38.5 34 40 32 Q41.5 34 42 37 Q43 42 40 46Z" fill="none" stroke="#E8C86A" stroke-width="0.8" opacity="0.6"/>
+    </svg>
+    <div class="nav__brand">
+      <span class="nav__name">WATEMURA</span>
+      <span class="nav__tagline">Rituels sacrés · Art conscient</span>
+    </div>
+  </a>
+
+  <ul class="nav__links" role="list">
+    <li><a href="catalogue.html">Catalogue</a></li>
+    <li><a href="catalogue.html?cat=sculptures">Sculptures</a></li>
+    <li><a href="catalogue.html?cat=peintures">Peintures</a></li>
+    <li><a href="index.html#philosophie">Notre histoire</a></li>
+  </ul>
+
+  <div class="nav__actions">
+    <button class="nav__icon-btn" aria-label="Rechercher" onclick="location.href='catalogue.html'">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="7"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+    </button>
+    <a href="compte.html" class="nav__icon-btn" aria-label="Mon compte">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/>
+      </svg>
+    </a>
+    <a href="panier.html" class="nav__icon-btn" aria-label="Panier">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/>
+      </svg>
+      <span class="nav__badge" data-cart-badge hidden>0</span>
+    </a>
+    <button class="nav__mobile-toggle" aria-label="Menu">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+  </div>
+</nav>
+
+<!-- Mobile nav -->
+<div class="mobile-nav" role="dialog" aria-label="Menu mobile">
+  <button class="mobile-nav__close" aria-label="Fermer">✕</button>
+  <a href="catalogue.html" class="mobile-nav__link">Catalogue</a>
+  <a href="catalogue.html?cat=sculptures" class="mobile-nav__link">Sculptures</a>
+  <a href="catalogue.html?cat=peintures" class="mobile-nav__link">Peintures</a>
+  <a href="index.html#philosophie" class="mobile-nav__link">Notre histoire</a>
+  <a href="compte.html" class="mobile-nav__link">Mon compte</a>
+  <a href="panier.html" class="mobile-nav__link">Panier</a>
+</div>
+
+<!-- ═══ Hero ═══ -->
+<section class="hero" aria-label="Accueil">
+  <canvas id="water-canvas" aria-hidden="true"></canvas>
+  <div class="hero__overlay"></div>
+
+  <div class="hero__content">
+    <div class="hero__eyebrow">
+      <div class="hero__eyebrow-line"></div>
+      <span class="hero__eyebrow-text">Art Africain · Mémoire · Renaissance</span>
+      <div class="hero__eyebrow-line"></div>
+    </div>
+    <h1 class="hero__title">
+      L'eau garde<br><em>la mémoire</em>
+    </h1>
+    <p class="hero__subtitle">
+      Des œuvres qui plongent dans les profondeurs de l'identité africaine —<br>
+      chaque pièce, un voyage entre l'ancestral et le vivant.
+    </p>
+    <div class="hero__actions">
+      <a href="catalogue.html" class="btn btn--ember btn--lg">Explorer le catalogue</a>
+      <a href="index.html#philosophie" class="btn btn--ghost-inv btn--lg">Notre philosophie</a>
+    </div>
+  </div>
+
+  <div class="hero__scroll" aria-hidden="true">
+    <span class="hero__scroll-text">Découvrir</span>
+    <div class="hero__scroll-line"></div>
+  </div>
+</section>
+
+<!-- ═══ Featured Artworks ═══ -->
+<section class="section" style="background: var(--bg);">
+  <div class="container">
+    <div class="ornament">
+      <div class="ornament__line"></div>
+      <span class="ornament__symbol">◈</span>
+      <div class="ornament__line ornament__line--r"></div>
+    </div>
+    <div style="text-align:center; margin-bottom:40px;">
+      <p class="t-label mb-8">Œuvres en vedette</p>
+      <h2 class="t-display">Sélection du moment</h2>
+    </div>
+
+    <div class="featured-grid">
+      <!-- Main featured work -->
+      <a href="produit.html?id=1" class="featured-main" style="display:block; text-decoration:none;">
+        <div style="position:absolute;inset:0;background:linear-gradient(135deg,#0A1E28,#1A4A5A,#0D2030);display:flex;align-items:center;justify-content:center;">
+          <svg width="180" height="180" viewBox="0 0 200 200" fill="none" opacity="0.35">
+            <circle cx="100" cy="100" r="80" stroke="#2DB5A3" stroke-width="1.5"/>
+            <circle cx="100" cy="100" r="55" stroke="#7DD9CF" stroke-width="1"/>
+            <circle cx="100" cy="100" r="30" stroke="#2DB5A3" stroke-width="0.8"/>
+            <path d="M100 70 Q120 85 120 100 Q120 120 100 130 Q80 120 80 100 Q80 85 100 70Z" fill="none" stroke="#C49A3C" stroke-width="1.5"/>
+            <path d="M100 90 Q108 95 108 100 Q108 110 100 115 Q92 110 92 100 Q92 95 100 90Z" fill="#C49A3C" opacity="0.6"/>
+          </svg>
+        </div>
+        <div class="featured-main__info">
+          <span class="t-label" style="color:var(--shimmer);opacity:.6;margin-bottom:6px;display:block;">Sculpture · Bois sacré</span>
+          <h3 class="t-heading" style="color:var(--shimmer);margin-bottom:8px;">Gardien des Eaux Ancestrales</h3>
+          <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;">
+            <span style="color:rgba(125,217,207,.7);font-size:.875rem;">Atelier Kofi Mensah · Ghana</span>
+            <span style="font-family:var(--ff-disp);font-size:1.5rem;color:var(--ember-lt);font-weight:600;">2 400 €</span>
+          </div>
+        </div>
+      </a>
+
+      <div class="featured-side">
+        <a href="produit.html?id=2" class="featured-secondary" style="display:block;text-decoration:none;">
+          <div style="position:absolute;inset:0;background:linear-gradient(225deg,#0A2A1A,#1A4A3A,#0A1A20);display:flex;align-items:center;justify-content:center;">
+            <svg width="100" height="100" viewBox="0 0 140 140" fill="none" opacity="0.4">
+              <ellipse cx="70" cy="50" rx="35" ry="45" stroke="#7DD9CF" stroke-width="1.5"/>
+              <line x1="70" y1="5" x2="70" y2="135" stroke="#2DB5A3" stroke-width="0.8"/>
+              <line x1="35" y1="70" x2="105" y2="70" stroke="#2DB5A3" stroke-width="0.8"/>
+              <circle cx="70" cy="70" r="12" fill="#C49A3C" opacity="0.5"/>
+            </svg>
+          </div>
+          <div class="featured-secondary__info">
+            <span class="t-label" style="color:var(--shimmer);opacity:.5;margin-bottom:4px;display:block;">Masque rituel · Bronze</span>
+            <h3 style="font-family:var(--ff-disp);font-size:1.1rem;color:var(--shimmer);">Masque Nzambi — L'Origine</h3>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:6px;">
+              <span style="font-size:.8rem;color:rgba(125,217,207,.6);">RD Congo</span>
+              <span style="font-family:var(--ff-disp);font-size:1.1rem;color:var(--ember-lt);">1 850 €</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="produit.html?id=3" class="featured-secondary" style="display:block;text-decoration:none;">
+          <div style="position:absolute;inset:0;background:linear-gradient(45deg,#1A1A0A,#3A3010,#1A1A08);display:flex;align-items:center;justify-content:center;">
+            <svg width="100" height="100" viewBox="0 0 140 140" fill="none" opacity="0.45">
+              <rect x="20" y="20" width="100" height="100" rx="4" stroke="#C49A3C" stroke-width="1.5"/>
+              <path d="M20 70 Q50 40 70 70 Q90 100 120 70" stroke="#E8C86A" stroke-width="1.2" fill="none"/>
+              <circle cx="70" cy="70" r="8" fill="#C49A3C" opacity="0.7"/>
+            </svg>
+          </div>
+          <div class="featured-secondary__info">
+            <span class="t-label" style="color:var(--shimmer);opacity:.5;margin-bottom:4px;display:block;">Peinture · Huile sur toile</span>
+            <h3 style="font-family:var(--ff-disp);font-size:1.1rem;color:var(--shimmer);">Mémoires du Delta</h3>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:6px;">
+              <span style="font-size:.8rem;color:rgba(125,217,207,.6);">Sénégal</span>
+              <span style="font-family:var(--ff-disp);font-size:1.1rem;color:var(--ember-lt);">980 €</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div style="text-align:center; margin-top:40px;">
+      <a href="catalogue.html" class="btn btn--ghost">Voir toutes les œuvres →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ Categories ═══ -->
+<section class="section" style="background:var(--bg-2);">
+  <div class="container">
+    <div style="text-align:center;margin-bottom:36px;">
+      <p class="t-label mb-8">Explorer par univers</p>
+      <h2 class="t-display">Les formes de l'art</h2>
+    </div>
+    <div class="categories">
+      <a href="catalogue.html?cat=sculptures" class="category-pill">
+        <div class="category-pill__icon">🗿</div>
+        <span class="category-pill__name">Sculptures</span>
+        <span class="category-pill__count">34 œuvres</span>
+      </a>
+      <a href="catalogue.html?cat=peintures" class="category-pill">
+        <div class="category-pill__icon">🖼️</div>
+        <span class="category-pill__name">Peintures</span>
+        <span class="category-pill__count">51 œuvres</span>
+      </a>
+      <a href="catalogue.html?cat=masques" class="category-pill">
+        <div class="category-pill__icon">🎭</div>
+        <span class="category-pill__name">Masques rituels</span>
+        <span class="category-pill__count">28 œuvres</span>
+      </a>
+      <a href="catalogue.html?cat=textiles" class="category-pill">
+        <div class="category-pill__icon">🧵</div>
+        <span class="category-pill__name">Textiles</span>
+        <span class="category-pill__count">19 œuvres</span>
+      </a>
+      <a href="catalogue.html?cat=ceramiques" class="category-pill">
+        <div class="category-pill__icon">🏺</div>
+        <span class="category-pill__name">Céramiques</span>
+        <span class="category-pill__count">22 œuvres</span>
+      </a>
+      <a href="catalogue.html?cat=installations" class="category-pill">
+        <div class="category-pill__icon">✨</div>
+        <span class="category-pill__name">Installations</span>
+        <span class="category-pill__count">11 œuvres</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ Philosophy ═══ -->
+<section id="philosophie" class="philosophy">
+  <div class="philosophy__text">
+    <p class="t-label mb-16">Notre philosophie</p>
+    <blockquote class="philosophy__quote">
+      « L'eau n'oublie jamais.<br>Elle porte en elle<br>tous les voyages. »
+    </blockquote>
+    <p class="philosophy__body">
+      Watemura est né d'une conviction : l'art africain n'est pas un objet de collection,
+      c'est un acte vivant. Chaque sculpture, chaque masque, chaque toile porte en elle
+      une mémoire collective — celle des ancêtres, des migrations, des rituels de passage.
+    </p>
+    <p class="philosophy__body" style="margin-top:16px;">
+      Nous travaillons directement avec des artistes et des ateliers à travers le continent,
+      garantissant l'authenticité, la juste rémunération et la transmission des savoirs.
+    </p>
+    <a href="catalogue.html" class="btn btn--ghost-inv mt-32" style="align-self:flex-start;">
+      Rencontrer les artistes →
+    </a>
+  </div>
+  <div class="philosophy__visual" id="philosophy-canvas-wrap">
+    <canvas id="philosophy-canvas" aria-hidden="true"></canvas>
+  </div>
+</section>
+
+<!-- ═══ New Arrivals ═══ -->
+<section class="section" style="background:var(--bg);">
+  <div class="container">
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:36px;flex-wrap:wrap;gap:16px;">
+      <div>
+        <p class="t-label mb-8">Dernières acquisitions</p>
+        <h2 class="t-display">Nouveautés</h2>
+      </div>
+      <a href="catalogue.html?sort=new" class="btn btn--ghost btn--sm">Tout voir</a>
+    </div>
+    <div class="grid-4" id="new-arrivals">
+      <!-- Rendered by JS -->
+    </div>
+  </div>
+</section>
+
+<!-- ═══ Testimonials ═══ -->
+<section class="section" style="background:var(--bg-2);">
+  <div class="container">
+    <div style="text-align:center;margin-bottom:36px;">
+      <p class="t-label mb-8">Ils font confiance à Watemura</p>
+      <h2 class="t-display">Paroles de collectionneurs</h2>
+    </div>
+    <div class="grid-3">
+      <div class="testimonial-card">
+        <div class="stars mb-8">
+          <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+        </div>
+        <p class="testimonial-card__quote">
+          "La sculpture que j'ai reçue transcende le simple objet d'art. Elle a transformé
+          l'énergie de ma maison. Watemura m'a expliqué l'histoire de chaque symbole gravé."
+        </p>
+        <div class="testimonial-card__author">
+          <div class="testimonial-card__avatar">M</div>
+          <div>
+            <div style="font-size:.875rem;font-weight:500;">Mariame Coulibaly</div>
+            <div style="font-size:.75rem;color:var(--text-2);">Collectrice, Paris</div>
+          </div>
+        </div>
+      </div>
+      <div class="testimonial-card">
+        <div class="stars mb-8">
+          <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+        </div>
+        <p class="testimonial-card__quote">
+          "Un service d'une rare élégance. Le masque Fang commandé est arrivé accompagné
+          d'un certificat d'authenticité et d'un livret de son histoire. Saisissant."
+        </p>
+        <div class="testimonial-card__author">
+          <div class="testimonial-card__avatar">J</div>
+          <div>
+            <div style="font-size:.875rem;font-weight:500;">Jean-Paul Herbaut</div>
+            <div style="font-size:.75rem;color:var(--text-2);">Conservateur, Bruxelles</div>
+          </div>
+        </div>
+      </div>
+      <div class="testimonial-card">
+        <div class="stars mb-8">
+          <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+        </div>
+        <p class="testimonial-card__quote">
+          "Watemura m'a connectée à mes racines d'une façon que je n'avais pas anticipée.
+          Chaque pièce est une porte ouverte sur une mémoire que je croyais perdue."
+        </p>
+        <div class="testimonial-card__author">
+          <div class="testimonial-card__avatar">A</div>
+          <div>
+            <div style="font-size:.875rem;font-weight:500;">Aïssa Mbaye</div>
+            <div style="font-size:.75rem;color:var(--text-2);">Artiste, Dakar</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ Newsletter ═══ -->
+<section class="newsletter">
+  <div class="container" style="position:relative;z-index:1;">
+    <div class="ornament" style="margin-bottom:20px;">
+      <div class="ornament__line" style="background:linear-gradient(90deg,transparent,rgba(45,181,163,.3))"></div>
+      <span class="ornament__symbol">◈</span>
+      <div class="ornament__line ornament__line--r" style="background:linear-gradient(90deg,rgba(45,181,163,.3),transparent)"></div>
+    </div>
+    <h2 class="t-display" style="color:var(--shimmer); margin-bottom:12px;">Rejoindre la communauté</h2>
+    <p class="t-subhead" style="color:rgba(125,217,207,.55); max-width:500px; margin-inline:auto;">
+      Nouvelles acquisitions, récits d'artistes, invitations aux vernissages privés.
+    </p>
+    <form class="newsletter__form" onsubmit="handleNewsletter(event)">
+      <input type="email" class="newsletter__input" placeholder="votre@adresse.email" required aria-label="Adresse e-mail">
+      <button type="submit" class="btn btn--ember">S'inscrire</button>
+    </form>
+  </div>
+</section>
+
+<!-- ═══ Footer ═══ -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div>
+        <div class="footer__brand-name">WATEMURA</div>
+        <div class="footer__brand-tag">Rituels Sacrés · Art Conscient</div>
+        <p class="footer__desc">
+          Une galerie d'art africain vivant. Sculptures, masques, peintures et installations
+          d'artistes contemporains et traditionnels du continent.
+        </p>
+      </div>
+      <div>
+        <div class="footer__col-title">Explorer</div>
+        <ul class="footer__links">
+          <li><a href="catalogue.html">Tout le catalogue</a></li>
+          <li><a href="catalogue.html?cat=sculptures">Sculptures</a></li>
+          <li><a href="catalogue.html?cat=peintures">Peintures</a></li>
+          <li><a href="catalogue.html?cat=masques">Masques rituels</a></li>
+          <li><a href="catalogue.html?cat=textiles">Textiles</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer__col-title">Mon compte</div>
+        <ul class="footer__links">
+          <li><a href="compte.html">Tableau de bord</a></li>
+          <li><a href="compte.html#commandes">Mes commandes</a></li>
+          <li><a href="compte.html#adresses">Mes adresses</a></li>
+          <li><a href="compte.html#favoris">Mes favoris</a></li>
+          <li><a href="panier.html">Mon panier</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer__col-title">Informations</div>
+        <ul class="footer__links">
+          <li><a href="#">À propos</a></li>
+          <li><a href="#">Authenticité & certificats</a></li>
+          <li><a href="#">Livraison & emballage</a></li>
+          <li><a href="#">Retours</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <span class="footer__copy">© 2024 Watemura. Tous droits réservés.</span>
+      <div class="footer__legal">
+        <a href="#">Mentions légales</a>
+        <a href="#">CGV</a>
+        <a href="#">Confidentialité</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/cart.js"></script>
+<script src="js/app.js"></script>
+<script>
+/* ─── Water Canvas Animation ─── */
+(function() {
+  const canvas = document.getElementById('water-canvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  let W, H, frame = 0;
+  const rings = [];
+
+  function resize() {
+    W = canvas.width  = canvas.offsetWidth;
+    H = canvas.height = canvas.offsetHeight;
+  }
+  window.addEventListener('resize', resize);
+  resize();
+
+  function spawnRing() {
+    const cx = W * (0.25 + Math.random() * 0.5);
+    const cy = H * (0.25 + Math.random() * 0.5);
+    rings.push({ cx, cy, r: 0, maxR: 180 + Math.random() * 200, life: 0 });
+  }
+
+  for (let i = 0; i < 5; i++) setTimeout(spawnRing, i * 1400);
+
+  function draw() {
+    ctx.clearRect(0, 0, W, H);
+
+    /* deep water gradient */
+    const grad = ctx.createRadialGradient(W*.5, H*.45, 0, W*.5, H*.45, Math.max(W,H)*.7);
+    grad.addColorStop(0,   'rgba(26,107,122,.18)');
+    grad.addColorStop(0.4, 'rgba(13,40,55,.12)');
+    grad.addColorStop(1,   'rgba(4,10,15,.0)');
+    ctx.fillStyle = grad;
+    ctx.fillRect(0,0,W,H);
+
+    /* rings */
+    const toRemove = [];
+    rings.forEach((ring, idx) => {
+      ring.r   += 0.7;
+      ring.life += 0.0055;
+      if (ring.r >= ring.maxR) { toRemove.push(idx); return; }
+
+      const alpha = Math.sin(ring.life * Math.PI) * 0.18;
+      ctx.beginPath();
+      ctx.arc(ring.cx, ring.cy, ring.r, 0, Math.PI*2);
+      ctx.strokeStyle = `rgba(45,181,163,${alpha})`;
+      ctx.lineWidth = 1.2;
+      ctx.stroke();
+
+      if (ring.r > 30) {
+        ctx.beginPath();
+        ctx.arc(ring.cx, ring.cy, ring.r * 0.6, 0, Math.PI*2);
+        ctx.strokeStyle = `rgba(125,217,207,${alpha * 0.6})`;
+        ctx.lineWidth = 0.7;
+        ctx.stroke();
+      }
+    });
+    toRemove.reverse().forEach(i => { rings.splice(i,1); spawnRing(); });
+
+    /* shimmer sparkles */
+    frame++;
+    if (frame % 3 === 0) {
+      const sx = Math.random() * W;
+      const sy = Math.random() * H;
+      const sg = ctx.createRadialGradient(sx, sy, 0, sx, sy, 3);
+      sg.addColorStop(0, 'rgba(196,154,60,.55)');
+      sg.addColorStop(1, 'transparent');
+      ctx.fillStyle = sg;
+      ctx.fillRect(sx-3, sy-3, 6, 6);
+    }
+
+    requestAnimationFrame(draw);
+  }
+  draw();
+})();
+
+/* ─── Philosophy canvas ─── */
+(function() {
+  const wrap = document.getElementById('philosophy-canvas-wrap');
+  const canvas = document.getElementById('philosophy-canvas');
+  if (!canvas || !wrap) return;
+  const ctx = canvas.getContext('2d');
+  let W, H;
+  function resize() {
+    W = canvas.width  = wrap.offsetWidth;
+    H = canvas.height = wrap.offsetHeight;
+  }
+  new ResizeObserver(resize).observe(wrap);
+  resize();
+
+  let t = 0;
+  function draw() {
+    ctx.clearRect(0,0,W,H);
+    const bg = ctx.createLinearGradient(0,0,W,H);
+    bg.addColorStop(0,'#0A1E28');
+    bg.addColorStop(1,'#061018');
+    ctx.fillStyle = bg; ctx.fillRect(0,0,W,H);
+
+    const cx = W/2, cy = H/2;
+    for (let i = 0; i < 5; i++) {
+      const r = (40 + i * 38) + Math.sin(t * 0.4 + i) * 8;
+      const a = 0.06 - i * 0.008;
+      ctx.beginPath();
+      ctx.arc(cx, cy, r, 0, Math.PI*2);
+      ctx.strokeStyle = `rgba(45,181,163,${a})`;
+      ctx.lineWidth = 1;
+      ctx.stroke();
+    }
+    /* flame */
+    ctx.save();
+    ctx.translate(cx, cy);
+    ctx.scale(1 + Math.sin(t*1.2)*0.04, 1 + Math.cos(t*0.9)*0.03);
+    const fg = ctx.createRadialGradient(0,0,2,0,0,18);
+    fg.addColorStop(0,'rgba(232,200,106,.8)');
+    fg.addColorStop(0.5,'rgba(196,154,60,.4)');
+    fg.addColorStop(1,'transparent');
+    ctx.fillStyle = fg;
+    ctx.beginPath(); ctx.arc(0,0,18,0,Math.PI*2); ctx.fill();
+    ctx.restore();
+
+    t += 0.018;
+    requestAnimationFrame(draw);
+  }
+  draw();
+})();
+
+/* ─── New arrivals ─── */
+const ARTWORKS = [
+  { id:4, name:'Esprit du Sahara', artist:'Fatima Al-Rashid', country:'Maroc', cat:'Peinture', price:750, badge:'Nouveau' },
+  { id:5, name:'Oya — Déesse des Tempêtes', artist:'Taiwo Adeyemi', country:'Nigeria', cat:'Sculpture', price:3200 },
+  { id:6, name:'Passage', artist:'Moussa Kéita', country:'Mali', cat:'Masque', price:1450, badge:'Rare' },
+  { id:7, name:'Tissu de Vie', artist:'Akua Asante', country:'Ghana', cat:'Textile', price:420 },
+];
+
+const grid = document.getElementById('new-arrivals');
+if (grid) {
+  ARTWORKS.forEach(art => {
+    const colors = ['#0A1E28,#1A4A5A','#1A0A28,#3A1A5A','#1A1A08,#3A3010','#081A0A,#103A1A'];
+    const grad = colors[art.id % colors.length];
+    const icons = { 'Peinture':'🖼️','Sculpture':'🗿','Masque':'🎭','Textile':'🧵','Céramique':'🏺' };
+    grid.innerHTML += `
+      <article class="product-card">
+        <a href="produit.html?id=${art.id}" style="display:block;">
+          <div class="product-card__image">
+            <div style="position:absolute;inset:0;background:linear-gradient(135deg,${grad});display:flex;align-items:center;justify-content:center;font-size:3rem;opacity:.4;">${icons[art.cat]||'✦'}</div>
+            ${art.badge ? `<span class="product-card__badge">${art.badge}</span>` : ''}
+            <button class="product-card__wishlist" onclick="event.preventDefault();WatemuraCart.toggleWishlist(${art.id})" aria-label="Favoris" data-wishlist-id="${art.id}">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+            </button>
+          </div>
+        </a>
+        <div class="product-card__body">
+          <span class="product-card__category">${art.cat} · ${art.country}</span>
+          <h3 class="product-card__name">${art.name}</h3>
+          <p class="product-card__artist">${art.artist}</p>
+          <div class="product-card__footer">
+            <span class="product-card__price">${WatemuraCart.formatPrice(art.price)}</span>
+            <button class="product-card__add" onclick="WatemuraCart.addToCart({id:${art.id},name:'${art.name}',price:${art.price},artist:'${art.artist}',stock:1})" aria-label="Ajouter au panier">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+            </button>
+          </div>
+        </div>
+      </article>`;
+  });
+}
+
+function handleNewsletter(e) {
+  e.preventDefault();
+  WatemuraCart.showToast('Merci ! Bienvenue dans la communauté Watemura.', 'info');
+  e.target.reset();
+}
+</script>
+</body>
+</html>

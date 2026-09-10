@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WATEMURA — Œuvre</title>
+  <link rel="stylesheet" href="css/watemura.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500&display=swap">
+  <style>
+    .product-detail-layout {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 64px;
+      align-items: start;
+      padding-block: 40px 80px;
+    }
+    @media (max-width: 900px) {
+      .product-detail-layout { grid-template-columns: 1fr; gap: 32px; }
+    }
+
+    /* ─── Gallery ─── */
+    .gallery {
+      position: sticky;
+      top: 88px;
+    }
+    .gallery__main {
+      aspect-ratio: 4/5;
+      border-radius: var(--r-lg);
+      overflow: hidden;
+      background: var(--bg-2);
+      position: relative;
+      margin-bottom: 12px;
+      cursor: zoom-in;
+    }
+    .gallery__main-img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      transition: transform 500ms var(--ease-out);
+    }
+    .gallery__main:hover .gallery__main-img { transform: scale(1.04); }
+    .gallery__main::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, transparent 65%, rgba(13,27,42,.35) 100%);
+      pointer-events: none;
+    }
+    .gallery__badge {
+      position: absolute;
+      top: 16px; left: 16px;
+      background: var(--ember);
+      color: var(--ink);
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      z-index: 1;
+    }
+    .gallery__zoom-hint {
+      position: absolute;
+      bottom: 16px; right: 16px;
+      z-index: 1;
+      background: rgba(13,27,42,.6);
+      color: var(--shimmer);
+      font-size: 0.7rem;
+      letter-spacing: 0.08em;
+      padding: 5px 10px;
+      border-radius: 20px;
+      display: flex; align-items: center; gap: 5px;
+    }
+    .gallery__thumbs {
+      display: flex; gap: 10px;
+      overflow-x: auto;
+    }
+    .gallery__thumb {
+      flex-shrink: 0;
+      width: 68px; height: 68px;
+      border-radius: var(--r-sm);
+      overflow: hidden;
+      background: var(--bg-2);
+      border: 2px solid transparent;
+      cursor: pointer;
+      transition: border-color var(--transition);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.5rem;
+    }
+    .gallery__thumb.active { border-color: var(--tide); }
+
+    /* ─── Product Info ─── */
+    .product-info { padding-top: 4px; }
+    .product-category-row {
+      display: flex; align-items: center; gap: 10px; margin-bottom: 12px;
+    }
+    .product-title {
+      font-family: var(--ff-disp);
+      font-size: clamp(1.8rem, 3vw, 2.6rem);
+      font-weight: 300;
+      line-height: 1.15;
+      margin-bottom: 6px;
+      text-wrap: balance;
+    }
+    .product-artist-link {
+      font-family: var(--ff-disp);
+      font-style: italic;
+      color: var(--tide);
+      font-size: 1.1rem;
+    }
+    .product-price-row {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      padding: 20px 0;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      margin-block: 20px;
+    }
+    .product-price-main {
+      font-family: var(--ff-disp);
+      font-size: 2.2rem;
+      font-weight: 600;
+      color: var(--tide);
+      font-variant-numeric: tabular-nums;
+    }
+    .product-price-note { font-size: .8rem; color: var(--text-2); }
+    .product-unique-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 14px;
+      background: rgba(196,154,60,.1);
+      border: 1px solid rgba(196,154,60,.3);
+      border-radius: 20px;
+      color: var(--ember);
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      font-weight: 500;
+    }
+
+    /* ─── Specs ─── */
+    .specs-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+    .spec-item {
+      padding: 12px;
+      background: var(--bg-2);
+      border-radius: var(--r-sm);
+      border: 1px solid var(--border);
+    }
+    .spec-label { font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: var(--text-2); margin-bottom: 3px; }
+    .spec-value { font-size: .9375rem; font-weight: 500; }
+
+    /* ─── Add to cart area ─── */
+    .add-to-cart-area {
+      position: sticky;
+      bottom: 0;
+      background: var(--bg);
+      border-top: 1px solid var(--border);
+      padding: 16px 0;
+      margin-top: 28px;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    @media (max-width: 900px) {
+      .add-to-cart-area { position: fixed; bottom: 0; left: 0; right: 0; padding: 16px 24px; z-index: 50; margin: 0; }
+    }
+
+    /* ─── Related ─── */
+    .related-section { background: var(--bg-2); padding-block: 64px; }
+  </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="nav nav--light-page" style="background:rgba(247,251,250,.95);border-bottom:1px solid var(--border);">
+  <a href="index.html" class="nav__logo">
+    <svg class="nav__logo-mark" viewBox="0 0 80 80" fill="none">
+      <path d="M40 10 Q65 25 65 40 Q65 62 40 72 Q15 62 15 40 Q15 25 40 10Z" fill="none" stroke="#1A6B7A" stroke-width="1.5" opacity="0.5"/>
+      <path d="M40 44 Q37 40 38 36 Q40 33 40 33 Q40 33 42 36 Q43 40 40 44Z" fill="#C49A3C"/>
+    </svg>
+    <div class="nav__brand">
+      <span class="nav__name" style="color:var(--tide);">WATEMURA</span>
+      <span class="nav__tagline" style="color:var(--text-2);">Rituels sacrés · Art conscient</span>
+    </div>
+  </a>
+  <ul class="nav__links">
+    <li><a href="catalogue.html" style="color:var(--text-2);">Catalogue</a></li>
+  </ul>
+  <div class="nav__actions">
+    <a href="compte.html" class="nav__icon-btn" style="color:var(--tide);" aria-label="Mon compte">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+    </a>
+    <a href="panier.html" class="nav__icon-btn" style="color:var(--tide);" aria-label="Panier">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+      <span class="nav__badge" data-cart-badge hidden>0</span>
+    </a>
+  </div>
+</nav>
+<div class="mobile-nav"><button class="mobile-nav__close">✕</button><a href="catalogue.html" class="mobile-nav__link">Catalogue</a></div>
+
+<main style="margin-top:72px;">
+  <div class="container">
+    <div style="padding-top:24px;">
+      <div class="breadcrumb" id="breadcrumb">
+        <a href="index.html">Accueil</a>
+        <span class="breadcrumb__sep">›</span>
+        <a href="catalogue.html">Catalogue</a>
+        <span class="breadcrumb__sep">›</span>
+        <span class="breadcrumb__current" id="bc-name">Œuvre</span>
+      </div>
+    </div>
+
+    <div class="product-detail-layout">
+      <!-- ─── Gallery ─── -->
+      <div class="gallery">
+        <div class="gallery__main" id="gallery-main">
+          <div id="gallery-img" style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:5rem;opacity:.3;">🗿</div>
+          <span class="gallery__badge" id="gallery-badge" hidden>Pièce unique</span>
+          <span class="gallery__zoom-hint">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.35-4.35"/><line x1="11" y1="8" x2="11" y2="14"/><line x1="8" y1="11" x2="14" y2="11"/></svg>
+            Agrandir
+          </span>
+        </div>
+        <div class="gallery__thumbs" id="gallery-thumbs"></div>
+      </div>
+
+      <!-- ─── Info ─── -->
+      <div class="product-info">
+        <div class="product-category-row">
+          <span class="t-label" id="p-cat">Sculpture · Ghana</span>
+          <span class="product-unique-badge" id="p-unique-badge" hidden>✦ Pièce unique</span>
+        </div>
+
+        <h1 class="product-title" id="p-name">Chargement…</h1>
+        <p style="margin-bottom:4px;">
+          <a class="product-artist-link" href="#" id="p-artist">—</a>
+        </p>
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">
+          <div class="stars">
+            <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+          </div>
+          <span style="font-size:.8rem;color:var(--text-2);">4,9 · 12 avis</span>
+        </div>
+
+        <div class="product-price-row">
+          <span class="product-price-main" id="p-price">—</span>
+          <span class="product-price-note">TTC · Livraison incluse · Certificat d'authenticité</span>
+        </div>
+
+        <!-- Description -->
+        <div id="p-desc" style="font-size:.9375rem;line-height:1.8;color:var(--text);margin-bottom:24px;"></div>
+
+        <!-- Specs -->
+        <div class="specs-grid" id="specs-grid"></div>
+
+        <!-- Add to cart -->
+        <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:16px;">
+          <div class="qty-input">
+            <button onclick="changeQty(-1)" aria-label="Diminuer">−</button>
+            <input type="number" id="qty-input" value="1" min="1" max="1" readonly>
+            <button onclick="changeQty(+1)" aria-label="Augmenter">+</button>
+          </div>
+          <button class="btn btn--primary btn--lg" style="flex:1;min-width:200px;" onclick="addProductToCart()" id="add-btn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+            Ajouter au panier
+          </button>
+          <button class="btn btn--ghost btn--icon" onclick="toggleWishBtn()" id="wish-btn" aria-label="Favoris" style="flex-shrink:0;">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" id="wish-icon"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+          </button>
+        </div>
+
+        <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px;">
+          <a href="panier.html" class="btn btn--ember btn--full" onclick="addProductToCart();return true;">
+            Acheter maintenant
+          </a>
+        </div>
+
+        <!-- Guarantees -->
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;">
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="font-size:1.2rem;flex-shrink:0;">📜</span>
+            <div><div style="font-size:.8rem;font-weight:500;">Certificat d'authenticité</div><div style="font-size:.75rem;color:var(--text-2);">Inclus avec chaque œuvre</div></div>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="font-size:1.2rem;flex-shrink:0;">📦</span>
+            <div><div style="font-size:.8rem;font-weight:500;">Emballage muséal</div><div style="font-size:.75rem;color:var(--text-2);">Protégé pour le transport</div></div>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="font-size:1.2rem;flex-shrink:0;">🌍</span>
+            <div><div style="font-size:.8rem;font-weight:500;">Commerce équitable</div><div style="font-size:.75rem;color:var(--text-2);">Artiste directement rémunéré</div></div>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <span style="font-size:1.2rem;flex-shrink:0;">↩️</span>
+            <div><div style="font-size:.8rem;font-weight:500;">Retour 14 jours</div><div style="font-size:.75rem;color:var(--text-2);">Si vous n'êtes pas satisfait</div></div>
+          </div>
+        </div>
+
+        <!-- Accordion -->
+        <div class="accordion__item mt-24">
+          <button class="accordion__btn">
+            L'histoire de l'œuvre
+            <svg class="accordion__icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="accordion__body">
+            <div class="accordion__content" id="p-story">—</div>
+          </div>
+        </div>
+        <div class="accordion__item">
+          <button class="accordion__btn">
+            Symbolisme & rituels
+            <svg class="accordion__icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="accordion__body">
+            <div class="accordion__content" id="p-symbolism">—</div>
+          </div>
+        </div>
+        <div class="accordion__item">
+          <button class="accordion__btn">
+            Livraison & conservation
+            <svg class="accordion__icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="accordion__body">
+            <div class="accordion__content">
+              Chaque œuvre est soigneusement emballée avec du papier de soie acide-libre, du carton renforcé et des mousses sur mesure. Les sculptures volumineuses sont expédiées en caisse bois sur mesure. Délai d'expédition : 3–5 jours ouvrés depuis notre dépôt européen (Paris). Livraison estimée : 5–10 jours ouvrés. Suivi en temps réel disponible dans votre espace client.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Related -->
+  <section class="related-section">
+    <div class="container">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:28px;flex-wrap:wrap;gap:12px;">
+        <div>
+          <p class="t-label mb-4">Du même univers</p>
+          <h2 class="t-heading">Œuvres similaires</h2>
+        </div>
+        <a href="catalogue.html" class="btn btn--ghost btn--sm">Voir tout le catalogue</a>
+      </div>
+      <div class="grid-4" id="related-grid"></div>
+    </div>
+  </section>
+</main>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer__bottom" style="border-top:none;padding-top:0;">
+      <a href="index.html" style="font-family:var(--ff-disp);color:var(--shimmer);opacity:.5;font-size:1.1rem;">WATEMURA</a>
+      <span class="footer__copy">© 2024 Watemura.</span>
+      <div class="footer__legal"><a href="#">CGV</a><a href="#">Confidentialité</a></div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/cart.js"></script>
+<script src="js/app.js"></script>
+<script>
+const PRODUCTS_DB = {
+  1: {
+    name:'Gardien des Eaux Ancestrales', artist:'Kofi Mensah', country:'Ghana',
+    cat:'Sculpture', catSlug:'sculptures', price:2400, unique:true, badge:'Vedette', stock:1,
+    desc:`Une œuvre magistrale taillée dans du <strong>mogno</strong> (acajou africain) par le maître-sculpteur Kofi Mensah. La figure debout — 87 cm de hauteur — représente un <em>obosom</em>, gardien spirituel des rivières dans la cosmologie akan. Les incisions géométriques sur le torse codent une prière ancienne pour la protection des eaux.`,
+    story:`Kofi Mensah a réalisé cette pièce après une résidence de trois mois sur les rives de la Volta. Il raconte : "Je voulais capturer non pas l'eau elle-même, mais la mémoire que l'eau contient. Chaque rivière se souvient de ceux qui l'ont traversée."`,
+    symbolism:`Dans la tradition akan, l'eau est le passage entre le monde des vivants et celui des ancêtres. Le Gardien des Eaux porte sur son épaule une calebasse — symbole de connaissance transmise. Les yeux mi-clos indiquent qu'il voit simultanément les deux mondes.`,
+    specs:[ ['Technique','Bois sculture à la main'], ['Matière','Mogno (Acajou africain)'], ['Dimensions','87 × 24 × 22 cm'], ['Poids','4,2 kg'], ['Année','2023'], ['Provenance','Kumasi, Ghana'] ],
+    thumbs:['🗿','🔍','📜'],
+    grad:'linear-gradient(135deg,#0A1E28,#1A4A5A)'
+  },
+  2: {
+    name:'Masque Nzambi — L\'Origine', artist:'Lukusa Kabongo', country:'RD Congo',
+    cat:'Masque rituel', catSlug:'masques', price:1850, unique:true, stock:1,
+    desc:`Coulé dans un <strong>alliage de cuivre et d'étain</strong> traditionnel selon les techniques millénaires du royaume Kuba, ce masque représente Nzambi Mpungu — l'Être Suprême dans la cosmologie bantoue. La surface finement ciselée reflète la lumière comme une surface d'eau agitée.`,
+    story:`Lukusa Kabongo est l'un des derniers forgerons-artistes de Kinshasa à maîtriser la technique de fonte à la cire perdue héritée de ses ancêtres du royaume Kuba. Chaque masque demande trois à quatre mois de travail.`,
+    symbolism:`Le masque Nzambi est traditionnellement porté lors des rituels de passage à l'âge adulte. Les losanges gravés représentent la dualité vie-mort. Les iris en spirale symbolisent l'eau primordiale dont tout est né.`,
+    specs:[ ['Technique','Fonte à la cire perdue'], ['Matière','Alliage cuivre-étain'], ['Dimensions','42 × 28 × 15 cm'], ['Poids','2,8 kg'], ['Année','2022'], ['Provenance','Kinshasa, RD Congo'] ],
+    thumbs:['🎭','🔍','📜'],
+    grad:'linear-gradient(135deg,#1A0A28,#3A1A5A)'
+  },
+  3: {
+    name:'Mémoires du Delta', artist:'Mamadou Diallo', country:'Sénégal',
+    cat:'Peinture', catSlug:'peintures', price:980, stock:1,
+    desc:`Huile sur toile de lin (120 × 90 cm). Mamadou Diallo peint les rives du fleuve Sénégal qu'il a traversé enfant lors d'un exode. Les couches successives de pigments ocre, bleu-vert et blanc forment une stratification qui évoque à la fois la géologie et la mémoire.`,
+    story:`"Je peins avec l'eau du fleuve de mon enfance. Littéralement. Je dilue mes pigments à l'huile avec de l'eau du Sénégal que je conserve en bouteille. C'est une façon de faire entrer le passé dans le présent."`,
+    symbolism:`Le delta dans la cosmologie wolof est un lieu de transformation : ni terre ni mer, ni vie ni mort, mais le passage entre les deux. Les silhouettes fantomatiques dans le fond représentent les ancêtres qui veillent.`,
+    specs:[ ['Technique','Huile sur lin'], ['Matière','Pigments naturels et huile'], ['Dimensions','120 × 90 cm'], ['Cadre','Non encadré'], ['Année','2024'], ['Provenance','Dakar, Sénégal'] ],
+    thumbs:['🖼️','🔍','📜'],
+    grad:'linear-gradient(45deg,#1A1A08,#3A3010)'
+  },
+};
+
+const RELATED_DEFAULT = [
+  {id:4,name:'Esprit du Sahara',artist:'Fatima Al-Rashid',price:750,cat:'Peinture',grad:'linear-gradient(135deg,#1A1A08,#3A2A10)',icon:'🖼️'},
+  {id:5,name:'Oya — Déesse des Tempêtes',artist:'Taiwo Adeyemi',price:3200,cat:'Sculpture',grad:'linear-gradient(135deg,#0A1A1A,#103A3A)',icon:'🗿'},
+  {id:6,name:'Passage',artist:'Moussa Kéita',price:1450,cat:'Masque',grad:'linear-gradient(135deg,#1A0A28,#2A1A3A)',icon:'🎭',badge:'Rare'},
+  {id:7,name:'Tissu de Vie',artist:'Akua Asante',price:420,cat:'Textile',grad:'linear-gradient(135deg,#081A0A,#103A1A)',icon:'🧵'},
+];
+
+let currentProduct = null;
+
+function loadProduct() {
+  const params = new URLSearchParams(location.search);
+  const id = parseInt(params.get('id')) || 1;
+  const p = PRODUCTS_DB[id] || PRODUCTS_DB[1];
+  currentProduct = { ...p, id };
+
+  document.title = `WATEMURA — ${p.name}`;
+  document.getElementById('bc-name').textContent = p.name;
+  document.getElementById('p-name').textContent = p.name;
+  document.getElementById('p-artist').textContent = p.artist + ' · ' + p.country;
+  document.getElementById('p-cat').textContent = `${p.cat} · ${p.country}`;
+  document.getElementById('p-price').textContent = WatemuraCart.formatPrice(p.price);
+  document.getElementById('p-desc').innerHTML = p.desc || '';
+  document.getElementById('p-story').textContent = p.story || '';
+  document.getElementById('p-symbolism').textContent = p.symbolism || '';
+
+  if (p.unique) {
+    document.getElementById('p-unique-badge').hidden = false;
+    document.getElementById('gallery-badge').hidden = false;
+    document.getElementById('gallery-badge').textContent = p.badge || 'Pièce unique';
+  }
+
+  /* Specs */
+  const sg = document.getElementById('specs-grid');
+  (p.specs || []).forEach(([label, val]) => {
+    sg.innerHTML += `<div class="spec-item"><div class="spec-label">${label}</div><div class="spec-value">${val}</div></div>`;
+  });
+
+  /* Gallery main */
+  document.getElementById('gallery-img').style.cssText = `
+    position:absolute;inset:0;background:${p.grad};
+    display:flex;align-items:center;justify-content:center;
+    font-size:5rem;opacity:.35;
+  `;
+  document.getElementById('gallery-img').textContent = p.thumbs?.[0] || '🗿';
+
+  /* Thumbs */
+  const thumbWrap = document.getElementById('gallery-thumbs');
+  (p.thumbs || []).forEach((icon, i) => {
+    const t = document.createElement('button');
+    t.className = 'gallery__thumb' + (i===0?' active':'');
+    t.style.background = p.grad;
+    t.innerHTML = `<span style="opacity:.5">${icon}</span>`;
+    t.onclick = () => {
+      document.querySelectorAll('.gallery__thumb').forEach(el => el.classList.remove('active'));
+      t.classList.add('active');
+    };
+    thumbWrap.appendChild(t);
+  });
+
+  /* wishlist state */
+  if (WatemuraCart.isWishlisted(id)) {
+    document.getElementById('wish-icon').setAttribute('fill','#C49A3C');
+    document.getElementById('wish-icon').setAttribute('stroke','#C49A3C');
+  }
+}
+
+function addProductToCart() {
+  if (!currentProduct) return;
+  const qty = parseInt(document.getElementById('qty-input').value);
+  for (let i = 0; i < qty; i++) {
+    WatemuraCart.addToCart({
+      id: currentProduct.id,
+      name: currentProduct.name,
+      price: currentProduct.price,
+      artist: currentProduct.artist,
+      stock: currentProduct.stock || 1,
+    });
+  }
+}
+
+function changeQty(delta) {
+  const inp = document.getElementById('qty-input');
+  const max = currentProduct?.stock || 1;
+  const newVal = Math.max(1, Math.min(max, parseInt(inp.value) + delta));
+  inp.value = newVal;
+}
+
+function toggleWishBtn() {
+  if (!currentProduct) return;
+  const inList = WatemuraCart.toggleWishlist(currentProduct.id).includes(currentProduct.id);
+  const icon = document.getElementById('wish-icon');
+  icon.setAttribute('fill', inList ? '#C49A3C' : 'none');
+  icon.setAttribute('stroke', inList ? '#C49A3C' : 'currentColor');
+}
+
+function loadRelated() {
+  const grid = document.getElementById('related-grid');
+  RELATED_DEFAULT.forEach(p => {
+    grid.innerHTML += `
+      <article class="product-card">
+        <a href="produit.html?id=${p.id}" style="display:block;">
+          <div class="product-card__image">
+            <div style="position:absolute;inset:0;background:${p.grad};display:flex;align-items:center;justify-content:center;font-size:2.5rem;opacity:.4;">${p.icon}</div>
+            ${p.badge?`<span class="product-card__badge">${p.badge}</span>`:''}
+          </div>
+        </a>
+        <div class="product-card__body">
+          <span class="product-card__category">${p.cat}</span>
+          <h3 class="product-card__name"><a href="produit.html?id=${p.id}" style="color:inherit;text-decoration:none;">${p.name}</a></h3>
+          <p class="product-card__artist">${p.artist}</p>
+          <div class="product-card__footer">
+            <span class="product-card__price">${WatemuraCart.formatPrice(p.price)}</span>
+            <button class="product-card__add" onclick="WatemuraCart.addToCart({id:${p.id},name:'${p.name}',price:${p.price},artist:'${p.artist}',stock:1})" aria-label="Ajouter">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+            </button>
+          </div>
+        </div>
+      </article>`;
+  });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  loadProduct();
+  loadRelated();
+});
+</script>
+</body>
+</html>

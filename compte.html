@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WATEMURA — Mon espace</title>
+  <link rel="stylesheet" href="css/watemura.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500&display=swap">
+  <style>
+    .account-layout {
+      display: grid;
+      grid-template-columns: 240px 1fr;
+      gap: 40px;
+      align-items: start;
+      padding-block: 40px 80px;
+    }
+    @media (max-width: 768px) {
+      .account-layout { grid-template-columns: 1fr; }
+      .account-sidebar { position: static; }
+    }
+
+    /* Sidebar */
+    .account-sidebar {
+      position: sticky;
+      top: 88px;
+    }
+    .account-avatar {
+      width: 72px; height: 72px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--tide), var(--flow));
+      display: flex; align-items: center; justify-content: center;
+      font-family: var(--ff-disp);
+      font-size: 1.8rem;
+      color: white;
+      margin-bottom: 12px;
+    }
+    .account-name {
+      font-family: var(--ff-disp);
+      font-size: 1.1rem;
+      font-weight: 400;
+    }
+    .account-email { font-size: .8rem; color: var(--text-2); margin-bottom: 24px; }
+    .account-nav { display: flex; flex-direction: column; gap: 2px; }
+    .account-nav-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 12px;
+      border-radius: var(--r-sm);
+      cursor: pointer;
+      font-size: .9rem;
+      color: var(--text-2);
+      text-decoration: none;
+      border: none; background: none;
+      width: 100%; text-align: left;
+      transition: all var(--transition);
+    }
+    .account-nav-item:hover { background: var(--bg-2); color: var(--text); }
+    .account-nav-item.active { background: rgba(26,107,122,.08); color: var(--tide); font-weight: 500; }
+    .account-nav-item svg { flex-shrink: 0; }
+
+    /* Panels */
+    .account-panel { display: none; }
+    .account-panel.active { display: block; }
+
+    /* Stats row */
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    @media (max-width: 560px) { .stats-row { grid-template-columns: 1fr 1fr; } }
+    .stat-tile {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      padding: 20px;
+    }
+    .stat-tile__val {
+      font-family: var(--ff-disp);
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--tide);
+      font-variant-numeric: tabular-nums;
+    }
+    .stat-tile__label { font-size: .75rem; color: var(--text-2); margin-top: 4px; }
+
+    /* Order list */
+    .order-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      overflow: hidden;
+      margin-bottom: 16px;
+      transition: box-shadow var(--transition);
+    }
+    .order-card:hover { box-shadow: var(--shadow-md); }
+    .order-card__header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .order-card__num {
+      font-family: var(--ff-disp);
+      font-size: 1rem;
+      font-weight: 400;
+      color: var(--tide);
+    }
+    .order-card__meta { font-size: .8rem; color: var(--text-2); }
+    .order-card__body { padding: 16px 20px; }
+    .order-card__items {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .order-card__item-thumb {
+      width: 48px; height: 48px;
+      border-radius: var(--r-sm);
+      background: var(--bg-2);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.2rem;
+      flex-shrink: 0;
+    }
+    .order-card__footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .order-card__total {
+      font-family: var(--ff-disp);
+      font-size: 1.1rem;
+      color: var(--tide);
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* Address cards */
+    .address-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      padding: 20px;
+      position: relative;
+    }
+    .address-card.default { border-color: var(--tide); }
+    .address-default-badge {
+      position: absolute;
+      top: 12px; right: 12px;
+      background: rgba(26,107,122,.1);
+      color: var(--tide);
+      font-size: .65rem;
+      letter-spacing: .08em;
+      padding: 3px 8px;
+      border-radius: 20px;
+      font-weight: 600;
+    }
+    .address-card__name { font-weight: 500; margin-bottom: 6px; }
+    .address-card__line { font-size: .875rem; color: var(--text-2); line-height: 1.7; }
+    .address-card__actions { display: flex; gap: 8px; margin-top: 14px; }
+
+    /* Wishlist */
+    .wishlist-empty {
+      text-align: center;
+      padding: 48px 24px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+    }
+
+    /* Profile form */
+    .profile-section {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-md);
+      padding: 24px;
+      margin-bottom: 20px;
+    }
+    .profile-section-title {
+      font-size: .7rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--text-2);
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="nav nav--light-page" style="background:rgba(247,251,250,.95);border-bottom:1px solid var(--border);">
+  <a href="index.html" class="nav__logo">
+    <svg class="nav__logo-mark" viewBox="0 0 80 80" fill="none">
+      <path d="M40 10 Q65 25 65 40 Q65 62 40 72 Q15 62 15 40 Q15 25 40 10Z" fill="none" stroke="#1A6B7A" stroke-width="1.5" opacity="0.5"/>
+      <path d="M40 44 Q37 40 38 36 Q40 33 40 33 Q40 33 42 36 Q43 40 40 44Z" fill="#C49A3C"/>
+    </svg>
+    <div class="nav__brand">
+      <span class="nav__name" style="color:var(--tide);">WATEMURA</span>
+      <span class="nav__tagline" style="color:var(--text-2);">Rituels sacrés · Art conscient</span>
+    </div>
+  </a>
+  <ul class="nav__links">
+    <li><a href="catalogue.html" style="color:var(--text-2);">Catalogue</a></li>
+  </ul>
+  <div class="nav__actions">
+    <a href="panier.html" class="nav__icon-btn" style="color:var(--tide);" aria-label="Panier">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+      <span class="nav__badge" data-cart-badge style="background:var(--ember);" hidden>0</span>
+    </a>
+  </div>
+</nav>
+
+<main style="margin-top:72px; background:var(--bg); min-height:calc(100vh - 72px);">
+  <div class="container">
+    <div style="padding-top:24px; margin-bottom:8px;">
+      <div class="breadcrumb">
+        <a href="index.html">Accueil</a>
+        <span class="breadcrumb__sep">›</span>
+        <span class="breadcrumb__current">Mon espace</span>
+      </div>
+    </div>
+
+    <div class="account-layout">
+      <!-- Sidebar -->
+      <aside class="account-sidebar">
+        <div class="account-avatar" id="user-avatar">A</div>
+        <div class="account-name" id="user-name">Aïssa Mbaye</div>
+        <div class="account-email" id="user-email">aissa@exemple.com</div>
+
+        <nav class="account-nav" aria-label="Navigation compte">
+          <button class="account-nav-item active" id="nav-dashboard" onclick="showPanel('dashboard')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+            Tableau de bord
+          </button>
+          <button class="account-nav-item" id="nav-commandes" onclick="showPanel('commandes')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            Mes commandes
+          </button>
+          <button class="account-nav-item" id="nav-suivi" onclick="showPanel('suivi')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            Suivi en temps réel
+          </button>
+          <button class="account-nav-item" id="nav-adresses" onclick="showPanel('adresses')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            Mes adresses
+          </button>
+          <button class="account-nav-item" id="nav-favoris" onclick="showPanel('favoris')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+            Mes favoris
+          </button>
+          <button class="account-nav-item" id="nav-profil" onclick="showPanel('profil')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            Mon profil
+          </button>
+          <hr class="divider" style="margin:12px 0;">
+          <button class="account-nav-item" style="color:#D04040;" onclick="logout()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
+            Déconnexion
+          </button>
+        </nav>
+      </aside>
+
+      <!-- Main content -->
+      <div>
+
+        <!-- ─── Dashboard ─── -->
+        <div class="account-panel active" id="panel-dashboard">
+          <h1 class="t-heading" style="margin-bottom:6px;" id="welcome-msg">Bonjour, Aïssa</h1>
+          <p class="t-subhead" style="color:var(--text-2);margin-bottom:28px;">Bienvenue dans votre espace Watemura</p>
+
+          <div class="stats-row">
+            <div class="stat-tile">
+              <div class="stat-tile__val" id="stat-orders">0</div>
+              <div class="stat-tile__label">Commandes passées</div>
+            </div>
+            <div class="stat-tile">
+              <div class="stat-tile__val" id="stat-wishlist">0</div>
+              <div class="stat-tile__label">Œuvres en favoris</div>
+            </div>
+            <div class="stat-tile">
+              <div class="stat-tile__val" id="stat-total">0 €</div>
+              <div class="stat-tile__label">Total investissements</div>
+            </div>
+          </div>
+
+          <!-- Recent order -->
+          <p class="t-label mb-16">Dernière commande</p>
+          <div id="recent-order-wrap">
+            <div style="padding:32px;text-align:center;background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);">
+              <p style="color:var(--text-2);font-size:.9rem;">Aucune commande pour le moment</p>
+              <a href="catalogue.html" class="btn btn--primary btn--sm" style="margin-top:14px;">Explorer le catalogue</a>
+            </div>
+          </div>
+
+          <!-- Quick links -->
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:28px;">
+            <a href="catalogue.html" class="card" style="padding:20px;text-decoration:none;display:flex;flex-direction:column;gap:8px;">
+              <span style="font-size:1.4rem;">🖼️</span>
+              <div style="font-weight:500;font-size:.9rem;">Découvrir de nouvelles œuvres</div>
+              <div style="font-size:.78rem;color:var(--text-2);">165 œuvres disponibles</div>
+            </a>
+            <div class="card" onclick="showPanel('suivi')" style="padding:20px;cursor:pointer;display:flex;flex-direction:column;gap:8px;">
+              <span style="font-size:1.4rem;">📍</span>
+              <div style="font-weight:500;font-size:.9rem;">Suivre mes livraisons</div>
+              <div style="font-size:.78rem;color:var(--text-2);">Suivi en temps réel</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ─── Commandes ─── -->
+        <div class="account-panel" id="panel-commandes">
+          <h2 class="t-heading" style="margin-bottom:24px;">Mes commandes</h2>
+          <div id="orders-list">
+            <div style="padding:40px;text-align:center;background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);">
+              <div style="font-size:2rem;margin-bottom:12px;">📦</div>
+              <p style="color:var(--text-2);">Aucune commande pour le moment</p>
+              <a href="catalogue.html" class="btn btn--primary btn--sm" style="margin-top:14px;">Commencer à collectionner</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- ─── Suivi ─── -->
+        <div class="account-panel" id="panel-suivi">
+          <h2 class="t-heading" style="margin-bottom:8px;">Suivi des livraisons</h2>
+          <p style="font-size:.875rem;color:var(--text-2);margin-bottom:28px;">Suivez l'acheminement de vos œuvres en temps réel</p>
+
+          <div id="tracking-content">
+            <!-- Filled by JS if orders exist -->
+            <div style="text-align:center;padding:48px;background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);">
+              <div style="font-size:2rem;margin-bottom:12px;">🌊</div>
+              <p style="color:var(--text-2);">Aucune livraison en cours</p>
+            </div>
+          </div>
+
+          <!-- Manual tracking -->
+          <div style="margin-top:24px;padding:20px;background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);">
+            <p class="t-label mb-12">Suivre par numéro de colis</p>
+            <div style="display:flex;gap:10px;">
+              <input type="text" class="form-input" id="tracking-num" placeholder="Ex: 6A00000000000 (Colissimo)" style="flex:1;">
+              <button class="btn btn--primary" onclick="trackPackage()">Suivre</button>
+            </div>
+            <div id="tracking-result" style="margin-top:14px;display:none;"></div>
+          </div>
+        </div>
+
+        <!-- ─── Adresses ─── -->
+        <div class="account-panel" id="panel-adresses">
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:24px;flex-wrap:wrap;gap:12px;">
+            <h2 class="t-heading">Mes adresses</h2>
+            <button class="btn btn--ghost btn--sm" onclick="showAddressForm()">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+              Ajouter une adresse
+            </button>
+          </div>
+
+          <div class="grid-2" style="margin-bottom:24px;">
+            <div class="address-card default">
+              <span class="address-default-badge">Principale</span>
+              <div class="address-card__name">Aïssa Mbaye</div>
+              <div class="address-card__line">
+                12 rue des Acacias<br>
+                75011 Paris<br>
+                France
+              </div>
+              <div style="font-size:.8rem;color:var(--text-2);margin-top:6px;">📞 +33 6 12 34 56 78</div>
+              <div class="address-card__actions">
+                <button class="btn btn--ghost btn--sm">Modifier</button>
+              </div>
+            </div>
+
+            <div class="address-card">
+              <div class="address-card__name">Mariame Coulibaly (Bureau)</div>
+              <div class="address-card__line">
+                45 avenue Haussmann<br>
+                75009 Paris<br>
+                France
+              </div>
+              <div class="address-card__actions">
+                <button class="btn btn--ghost btn--sm">Modifier</button>
+                <button class="btn btn--ghost btn--sm" onclick="WatemuraCart.showToast('Adresse définie comme principale','success')">Définir principale</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Add address form (hidden) -->
+          <div id="add-address-form" style="display:none;background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);padding:24px;">
+            <h3 style="font-family:var(--ff-disp);font-size:1.1rem;margin-bottom:20px;">Nouvelle adresse</h3>
+            <div style="display:flex;flex-direction:column;gap:14px;">
+              <div class="form-row">
+                <div class="form-group"><label class="form-label">Prénom</label><input type="text" class="form-input" placeholder="Prénom"></div>
+                <div class="form-group"><label class="form-label">Nom</label><input type="text" class="form-input" placeholder="Nom"></div>
+              </div>
+              <div class="form-group"><label class="form-label">Adresse</label><input type="text" class="form-input" placeholder="Rue et numéro"></div>
+              <div class="form-row">
+                <div class="form-group"><label class="form-label">Code postal</label><input type="text" class="form-input" placeholder="75000"></div>
+                <div class="form-group"><label class="form-label">Ville</label><input type="text" class="form-input" placeholder="Paris"></div>
+              </div>
+              <div style="display:flex;gap:10px;">
+                <button class="btn btn--primary" onclick="saveAddress()">Sauvegarder</button>
+                <button class="btn btn--ghost" onclick="hideAddressForm()">Annuler</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ─── Favoris ─── -->
+        <div class="account-panel" id="panel-favoris">
+          <h2 class="t-heading" style="margin-bottom:24px;">Mes favoris</h2>
+          <div id="wishlist-content" class="grid-auto"></div>
+        </div>
+
+        <!-- ─── Profil ─── -->
+        <div class="account-panel" id="panel-profil">
+          <h2 class="t-heading" style="margin-bottom:24px;">Mon profil</h2>
+
+          <div class="profile-section">
+            <div class="profile-section-title">Informations personnelles</div>
+            <div style="display:flex;flex-direction:column;gap:14px;">
+              <div class="form-row">
+                <div class="form-group"><label class="form-label">Prénom</label><input type="text" class="form-input" id="prof-prenom" value="Aïssa"></div>
+                <div class="form-group"><label class="form-label">Nom</label><input type="text" class="form-input" id="prof-nom" value="Mbaye"></div>
+              </div>
+              <div class="form-group"><label class="form-label">E-mail</label><input type="email" class="form-input" id="prof-email" value="aissa@exemple.com"></div>
+              <div class="form-group"><label class="form-label">Téléphone</label><input type="tel" class="form-input" id="prof-tel" value="+33 6 12 34 56 78"></div>
+              <button class="btn btn--primary btn--sm" style="align-self:flex-start;" onclick="saveProfile()">Enregistrer les modifications</button>
+            </div>
+          </div>
+
+          <div class="profile-section">
+            <div class="profile-section-title">Sécurité</div>
+            <div style="display:flex;flex-direction:column;gap:14px;">
+              <div class="form-group"><label class="form-label">Mot de passe actuel</label><input type="password" class="form-input" placeholder="••••••••"></div>
+              <div class="form-group"><label class="form-label">Nouveau mot de passe</label><input type="password" class="form-input" placeholder="••••••••"></div>
+              <div class="form-group"><label class="form-label">Confirmer le nouveau mot de passe</label><input type="password" class="form-input" placeholder="••••••••"></div>
+              <button class="btn btn--ghost btn--sm" style="align-self:flex-start;" onclick="WatemuraCart.showToast('Mot de passe modifié','success')">Changer le mot de passe</button>
+            </div>
+          </div>
+
+          <div class="profile-section">
+            <div class="profile-section-title">Préférences de communication</div>
+            <div style="display:flex;flex-direction:column;gap:12px;">
+              <label style="display:flex;align-items:center;gap:10px;cursor:pointer;font-size:.9rem;">
+                <input type="checkbox" checked style="accent-color:var(--tide);"> Nouvelles acquisitions et expositions
+              </label>
+              <label style="display:flex;align-items:center;gap:10px;cursor:pointer;font-size:.9rem;">
+                <input type="checkbox" checked style="accent-color:var(--tide);"> Récits d'artistes et histoires des œuvres
+              </label>
+              <label style="display:flex;align-items:center;gap:10px;cursor:pointer;font-size:.9rem;">
+                <input type="checkbox" style="accent-color:var(--tide);"> Offres et promotions exclusives
+              </label>
+              <label style="display:flex;align-items:center;gap:10px;cursor:pointer;font-size:.9rem;">
+                <input type="checkbox" checked style="accent-color:var(--tide);"> Mises à jour de commandes et livraisons
+              </label>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</main>
+
+<script src="js/cart.js"></script>
+<script src="js/app.js"></script>
+<script>
+const WISHLIST_ARTWORKS = {
+  1:{ name:'Gardien des Eaux Ancestrales', artist:'Kofi Mensah', price:2400, grad:'linear-gradient(135deg,#0A1E28,#1A4A5A)', icon:'🗿' },
+  2:{ name:'Masque Nzambi — L\'Origine', artist:'Lukusa Kabongo', price:1850, grad:'linear-gradient(135deg,#1A0A28,#3A1A5A)', icon:'🎭' },
+  4:{ name:'Esprit du Sahara', artist:'Fatima Al-Rashid', price:750, grad:'linear-gradient(135deg,#1A1A08,#3A2A10)', icon:'🖼️' },
+  5:{ name:'Oya — Déesse des Tempêtes', artist:'Taiwo Adeyemi', price:3200, grad:'linear-gradient(135deg,#0A1A1A,#103A3A)', icon:'🗿' },
+};
+
+function showPanel(name) {
+  document.querySelectorAll('.account-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.account-nav-item').forEach(n => n.classList.remove('active'));
+  document.getElementById(`panel-${name}`).classList.add('active');
+  document.getElementById(`nav-${name}`).classList.add('active');
+  history.replaceState(null,'','compte.html#' + name);
+}
+
+function initAccount() {
+  // Stats
+  const orders = JSON.parse(localStorage.getItem('watemura_orders') || '[]');
+  const wishlist = WatemuraCart.isWishlisted ? [] : [];
+  const wl = JSON.parse(localStorage.getItem('watemura_wishlist') || '[]');
+  const totalSpent = orders.reduce((s,o) => s + (o.total||0), 0);
+
+  document.getElementById('stat-orders').textContent = orders.length;
+  document.getElementById('stat-wishlist').textContent = wl.length;
+  document.getElementById('stat-total').textContent = WatemuraCart.formatPrice(totalSpent);
+
+  // Recent order
+  if (orders.length > 0) {
+    const o = orders[0];
+    const d = new Date(o.date).toLocaleDateString('fr-FR', { day:'numeric', month:'long', year:'numeric' });
+    const statusLabel = { confirmed:'Confirmée', shipped:'Expédiée', delivered:'Livrée', transit:'En transit' };
+    const statusClass = { confirmed:'pending', shipped:'shipped', delivered:'delivered', transit:'transit' };
+    document.getElementById('recent-order-wrap').innerHTML = `
+      <div class="order-card">
+        <div class="order-card__header">
+          <div>
+            <div class="order-card__num">${o.id}</div>
+            <div class="order-card__meta">Passée le ${d}</div>
+          </div>
+          <span class="status-badge status-badge--${statusClass[o.status]||'pending'}">
+            <span class="status-badge--dot"></span>
+            ${statusLabel[o.status]||'Confirmée'}
+          </span>
+        </div>
+        <div class="order-card__body">
+          <div class="order-card__footer">
+            <div style="font-size:.875rem;color:var(--text-2);">${o.items?.length||0} œuvre${(o.items?.length||0)>1?'s':''}</div>
+            <span class="order-card__total">${WatemuraCart.formatPrice(o.total)}</span>
+          </div>
+        </div>
+      </div>`;
+    renderOrdersList(orders);
+    renderTracking(orders);
+  }
+
+  // Wishlist
+  renderWishlist(wl);
+
+  // Check hash
+  const hash = location.hash.replace('#','');
+  if (hash && document.getElementById(`panel-${hash}`)) showPanel(hash);
+}
+
+function renderOrdersList(orders) {
+  const el = document.getElementById('orders-list');
+  if (orders.length === 0) return;
+  const statusLabel = { confirmed:'Confirmée', shipped:'Expédiée', delivered:'Livrée', transit:'En transit' };
+  const statusClass = { confirmed:'pending', shipped:'shipped', delivered:'delivered', transit:'transit' };
+  el.innerHTML = '';
+  orders.forEach(o => {
+    const d = new Date(o.date).toLocaleDateString('fr-FR', { day:'numeric', month:'long', year:'numeric' });
+    el.innerHTML += `
+      <div class="order-card">
+        <div class="order-card__header">
+          <div>
+            <div class="order-card__num">${o.id}</div>
+            <div class="order-card__meta">Passée le ${d} · ${o.delivery||'Standard'}</div>
+          </div>
+          <span class="status-badge status-badge--${statusClass[o.status]||'pending'}">
+            <span class="status-badge--dot"></span>
+            ${statusLabel[o.status]||'Confirmée'}
+          </span>
+        </div>
+        <div class="order-card__body">
+          <div class="order-card__items">
+            ${(o.items||[]).map(i=>`<div class="order-card__item-thumb" style="background:linear-gradient(135deg,#0A1E28,#1A4A5A)"><span style="opacity:.4;">🎨</span></div>`).join('')}
+            ${(o.items||[]).map(i=>`<div style="min-width:0;"><div style="font-size:.875rem;font-weight:500;">${i.name}</div><div style="font-size:.78rem;color:var(--text-2);">× ${i.qty}</div></div>`).join('')}
+          </div>
+          <div class="order-card__footer">
+            <button class="btn btn--ghost btn--sm" onclick="showPanel('suivi')">Suivre</button>
+            <span class="order-card__total">${WatemuraCart.formatPrice(o.total)}</span>
+          </div>
+        </div>
+      </div>`;
+  });
+}
+
+function renderTracking(orders) {
+  if (orders.length === 0) return;
+  const o = orders[0];
+  const el = document.getElementById('tracking-content');
+  el.innerHTML = `
+    <div class="card" style="padding:24px;margin-bottom:16px;">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;flex-wrap:wrap;gap:10px;">
+        <div>
+          <p class="t-label mb-4">Commande ${o.id}</p>
+          <p style="font-size:.875rem;color:var(--text-2);">Livraison via ${o.delivery||'Colissimo'}</p>
+        </div>
+        <span class="status-badge status-badge--transit"><span class="status-badge--dot"></span>En préparation</span>
+      </div>
+      <div class="timeline">
+        <div class="timeline__item done">
+          <div class="timeline__dot">✓</div>
+          <div class="timeline__content">
+            <div class="timeline__event">Commande reçue et confirmée</div>
+            <div class="timeline__date">${new Date(o.date).toLocaleDateString('fr-FR',{day:'numeric',month:'long'})}</div>
+          </div>
+        </div>
+        <div class="timeline__item active">
+          <div class="timeline__dot">◎</div>
+          <div class="timeline__content">
+            <div class="timeline__event">Préparation et emballage</div>
+            <div class="timeline__date">En cours</div>
+            <div class="timeline__desc">Votre œuvre est soigneusement conditionnée dans un emballage muséal acide-libre.</div>
+          </div>
+        </div>
+        <div class="timeline__item">
+          <div class="timeline__dot">3</div>
+          <div class="timeline__content">
+            <div class="timeline__event">Prise en charge transporteur</div>
+            <div class="timeline__date">Dans 2–3 jours ouvrés</div>
+          </div>
+        </div>
+        <div class="timeline__item">
+          <div class="timeline__dot">4</div>
+          <div class="timeline__content">
+            <div class="timeline__event">En transit</div>
+            <div class="timeline__date">Dans 3–5 jours ouvrés</div>
+          </div>
+        </div>
+        <div class="timeline__item">
+          <div class="timeline__dot">5</div>
+          <div class="timeline__content">
+            <div class="timeline__event">Livraison chez vous</div>
+            <div class="timeline__date">Dans ${o.eta||'5–10 jours ouvrés'}</div>
+          </div>
+        </div>
+      </div>
+    </div>`;
+}
+
+function renderWishlist(ids) {
+  const el = document.getElementById('wishlist-content');
+  if (!ids || ids.length === 0) {
+    el.innerHTML = `
+      <div class="wishlist-empty" style="grid-column:1/-1;">
+        <div style="font-size:2rem;margin-bottom:12px;">♡</div>
+        <p style="color:var(--text-2);">Aucune œuvre dans vos favoris</p>
+        <a href="catalogue.html" class="btn btn--primary btn--sm" style="margin-top:14px;">Explorer le catalogue</a>
+      </div>`;
+    return;
+  }
+  el.innerHTML = '';
+  ids.forEach(id => {
+    const art = WISHLIST_ARTWORKS[id];
+    if (!art) return;
+    el.innerHTML += `
+      <article class="product-card">
+        <a href="produit.html?id=${id}" style="display:block;">
+          <div class="product-card__image">
+            <div style="position:absolute;inset:0;background:${art.grad};display:flex;align-items:center;justify-content:center;font-size:2.5rem;opacity:.4;">${art.icon}</div>
+            <button class="product-card__wishlist active" onclick="event.preventDefault();WatemuraCart.toggleWishlist(${id});renderWishlist(JSON.parse(localStorage.getItem('watemura_wishlist')||'[]'))" aria-label="Retirer des favoris" data-wishlist-id="${id}" aria-pressed="true" style="color:#C49A3C;">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="#C49A3C" stroke="#C49A3C" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+            </button>
+          </div>
+        </a>
+        <div class="product-card__body">
+          <h3 class="product-card__name"><a href="produit.html?id=${id}" style="color:inherit;text-decoration:none;">${art.name}</a></h3>
+          <p class="product-card__artist">${art.artist}</p>
+          <div class="product-card__footer">
+            <span class="product-card__price">${WatemuraCart.formatPrice(art.price)}</span>
+            <button class="product-card__add" onclick="WatemuraCart.addToCart({id:${id},name:'${art.name.replace(/'/g,"\\'")}',price:${art.price},artist:'${art.artist}',stock:1})" aria-label="Ajouter au panier">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+            </button>
+          </div>
+        </div>
+      </article>`;
+  });
+}
+
+function showAddressForm() {
+  document.getElementById('add-address-form').style.display = 'block';
+}
+function hideAddressForm() {
+  document.getElementById('add-address-form').style.display = 'none';
+}
+function saveAddress() {
+  WatemuraCart.showToast('Adresse enregistrée', 'success');
+  hideAddressForm();
+}
+function saveProfile() {
+  WatemuraCart.showToast('Profil mis à jour', 'success');
+}
+function logout() {
+  WatemuraCart.showToast('Déconnecté de votre espace', 'info');
+  setTimeout(() => location.href = 'index.html', 1200);
+}
+function trackPackage() {
+  const num = document.getElementById('tracking-num').value.trim();
+  const result = document.getElementById('tracking-result');
+  if (!num) { WatemuraCart.showToast('Entrez un numéro de colis', 'error'); return; }
+  result.style.display = 'block';
+  result.innerHTML = `<div style="padding:12px;background:rgba(45,181,163,.06);border:1px solid rgba(45,181,163,.15);border-radius:var(--r-sm);font-size:.875rem;color:var(--text-2);">Colis <strong style="color:var(--tide);">${num}</strong> · Dernier événement : En transit — Centre de tri Paris Nord. Livraison estimée : 2–3 jours ouvrés.</div>`;
+}
+
+document.addEventListener('DOMContentLoaded', initAccount);
+</script>
+</body>
+</html>

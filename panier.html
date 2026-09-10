@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WATEMURA — Panier</title>
+  <link rel="stylesheet" href="css/watemura.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500&display=swap">
+  <style>
+    .cart-layout {
+      display: grid;
+      grid-template-columns: 1fr 360px;
+      gap: 40px;
+      align-items: start;
+      padding-block: 40px 80px;
+    }
+    @media (max-width: 900px) {
+      .cart-layout { grid-template-columns: 1fr; }
+      .cart-summary-col { order: -1; }
+    }
+
+    .cart-item {
+      display: grid;
+      grid-template-columns: 100px 1fr auto;
+      gap: 20px;
+      align-items: center;
+      padding: 20px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    @media (max-width: 560px) {
+      .cart-item { grid-template-columns: 80px 1fr; }
+      .cart-item__actions { grid-column: 1/-1; display: flex; justify-content: space-between; align-items: center; }
+    }
+    .cart-item__thumb {
+      aspect-ratio: 3/4;
+      border-radius: var(--r-sm);
+      overflow: hidden;
+      background: var(--bg-2);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 2rem;
+      position: relative;
+    }
+    .cart-item__info { min-width: 0; }
+    .cart-item__name {
+      font-family: var(--ff-disp);
+      font-size: 1.05rem;
+      line-height: 1.2;
+      margin-bottom: 4px;
+    }
+    .cart-item__artist { font-size: .8rem; color: var(--text-2); margin-bottom: 10px; }
+    .cart-item__price {
+      font-family: var(--ff-disp);
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: var(--tide);
+      font-variant-numeric: tabular-nums;
+    }
+    .cart-item__actions {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 12px;
+    }
+    .cart-item__remove {
+      background: none; border: none; cursor: pointer;
+      color: var(--text-2);
+      font-size: .75rem;
+      display: flex; align-items: center; gap: 4px;
+      transition: color var(--transition);
+      padding: 0;
+    }
+    .cart-item__remove:hover { color: #D04040; }
+
+    /* Summary card */
+    .summary-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-lg);
+      padding: 28px;
+      position: sticky;
+      top: 88px;
+    }
+    .summary-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 8px 0;
+      font-size: .9375rem;
+      font-variant-numeric: tabular-nums;
+    }
+    .summary-row--total {
+      border-top: 1px solid var(--border);
+      margin-top: 8px;
+      padding-top: 16px;
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+    .summary-row--total .summary-val {
+      font-family: var(--ff-disp);
+      font-size: 1.5rem;
+      color: var(--tide);
+    }
+
+    .promo-wrap { margin-block: 16px; }
+    .promo-form { display: flex; gap: 8px; }
+    .promo-input {
+      flex: 1;
+      padding: 9px 12px;
+      border: 1px solid var(--border-2);
+      border-radius: var(--r-sm);
+      background: var(--bg-2);
+      color: var(--text);
+      font-size: .875rem;
+    }
+    .promo-input:focus { outline: none; border-color: var(--flow); }
+    .promo-applied {
+      display: flex; align-items: center; gap: 8px;
+      padding: 8px 12px;
+      background: rgba(45,181,163,.08);
+      border: 1px solid rgba(45,181,163,.2);
+      border-radius: var(--r-sm);
+      font-size: .8125rem;
+      color: var(--flow);
+      margin-top: 8px;
+      display: none;
+    }
+
+    /* Empty state */
+    .cart-empty {
+      text-align: center;
+      padding: 80px 24px;
+    }
+    .cart-empty__icon {
+      width: 96px; height: 96px;
+      margin: 0 auto 24px;
+      border-radius: 50%;
+      background: var(--bg-2);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 2.5rem;
+    }
+
+    /* Trust badges */
+    .trust-row {
+      display: flex;
+      gap: 12px;
+      margin-top: 20px;
+      flex-direction: column;
+    }
+    .trust-item {
+      display: flex; align-items: center; gap: 10px;
+      font-size: .78rem; color: var(--text-2);
+    }
+    .trust-icon {
+      width: 30px; height: 30px;
+      border-radius: 50%;
+      background: var(--bg-2);
+      display: flex; align-items: center; justify-content: center;
+      font-size: .9rem; flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="nav nav--light-page" style="background:rgba(247,251,250,.95);border-bottom:1px solid var(--border);">
+  <a href="index.html" class="nav__logo">
+    <svg class="nav__logo-mark" viewBox="0 0 80 80" fill="none">
+      <path d="M40 10 Q65 25 65 40 Q65 62 40 72 Q15 62 15 40 Q15 25 40 10Z" fill="none" stroke="#1A6B7A" stroke-width="1.5" opacity="0.5"/>
+      <path d="M40 44 Q37 40 38 36 Q40 33 40 33 Q40 33 42 36 Q43 40 40 44Z" fill="#C49A3C"/>
+    </svg>
+    <div class="nav__brand">
+      <span class="nav__name" style="color:var(--tide);">WATEMURA</span>
+      <span class="nav__tagline" style="color:var(--text-2);">Rituels sacrés · Art conscient</span>
+    </div>
+  </a>
+  <ul class="nav__links">
+    <li><a href="catalogue.html" style="color:var(--text-2);">Catalogue</a></li>
+  </ul>
+  <div class="nav__actions">
+    <a href="compte.html" class="nav__icon-btn" style="color:var(--tide);" aria-label="Mon compte">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+    </a>
+    <a href="panier.html" class="nav__icon-btn" style="color:var(--tide);" aria-label="Panier">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+      <span class="nav__badge" data-cart-badge style="background:var(--ember);" hidden>0</span>
+    </a>
+  </div>
+</nav>
+
+<main style="margin-top:72px; background:var(--bg); min-height: calc(100vh - 72px);">
+  <div class="container">
+    <div style="padding-top:28px; margin-bottom:8px;">
+      <div class="breadcrumb">
+        <a href="index.html">Accueil</a>
+        <span class="breadcrumb__sep">›</span>
+        <span class="breadcrumb__current">Mon panier</span>
+      </div>
+    </div>
+    <h1 class="t-heading" style="margin-bottom:4px;">Mon panier</h1>
+    <p class="t-label" id="cart-count-label" style="margin-bottom:32px;">0 œuvre</p>
+
+    <!-- Empty state (shown when cart is empty) -->
+    <div class="cart-empty" id="cart-empty" hidden>
+      <div class="cart-empty__icon">🛒</div>
+      <h2 class="t-subhead" style="color:var(--text-2); margin-bottom:12px;">Votre panier est vide</h2>
+      <p style="font-size:.9rem;color:var(--text-2);max-width:340px;margin:0 auto 28px;line-height:1.7;">
+        Découvrez notre catalogue d'œuvres africaines d'exception — sculptures, peintures, masques et installations.
+      </p>
+      <a href="catalogue.html" class="btn btn--primary btn--lg">Explorer le catalogue</a>
+    </div>
+
+    <div class="cart-layout" id="cart-main">
+      <!-- Items -->
+      <div>
+        <div id="cart-items"></div>
+
+        <!-- Saved for later / Recently viewed -->
+        <div style="margin-top:40px;">
+          <p class="t-label mb-16">Continuer vos achats</p>
+          <div style="display:flex;gap:12px;flex-wrap:wrap;">
+            <a href="catalogue.html" class="btn btn--ghost btn--sm">← Retour au catalogue</a>
+            <a href="catalogue.html?cat=sculptures" class="btn btn--ghost btn--sm">Sculptures</a>
+            <a href="catalogue.html?cat=peintures" class="btn btn--ghost btn--sm">Peintures</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Summary -->
+      <div class="cart-summary-col">
+        <div class="summary-card">
+          <h2 class="t-heading" style="font-size:1.1rem;margin-bottom:20px;">Résumé de commande</h2>
+
+          <div class="summary-row">
+            <span style="color:var(--text-2);">Sous-total</span>
+            <span id="subtotal-val" class="summary-val">—</span>
+          </div>
+          <div class="summary-row">
+            <span style="color:var(--text-2);">Livraison</span>
+            <span style="color:var(--flow);font-weight:500;">Incluse</span>
+          </div>
+          <div class="summary-row">
+            <span style="color:var(--text-2);">TVA (20%)</span>
+            <span id="tva-val" class="summary-val">—</span>
+          </div>
+
+          <!-- Promo -->
+          <div class="promo-wrap">
+            <div class="promo-form">
+              <input type="text" class="promo-input" id="promo-input" placeholder="Code promotionnel" aria-label="Code promo">
+              <button class="btn btn--ghost btn--sm" onclick="applyPromo()">Appliquer</button>
+            </div>
+            <div class="promo-applied" id="promo-applied">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+              Code WATEMURA10 appliqué — 10% de réduction
+              <button onclick="removePromo()" style="background:none;border:none;cursor:pointer;margin-left:auto;color:inherit;font-size:1rem;padding:0;">✕</button>
+            </div>
+          </div>
+
+          <div class="summary-row" id="promo-row" hidden>
+            <span style="color:var(--flow);">Réduction (10%)</span>
+            <span id="promo-val" style="color:var(--flow);">—</span>
+          </div>
+
+          <div class="summary-row summary-row--total">
+            <span>Total</span>
+            <span class="summary-val" id="total-val">—</span>
+          </div>
+
+          <a href="commande.html" class="btn btn--primary btn--lg btn--full" style="margin-top:20px;" id="checkout-btn">
+            Passer la commande →
+          </a>
+          <p style="font-size:.72rem;color:var(--text-2);text-align:center;margin-top:10px;">
+            Paiement sécurisé · SSL · 3D Secure
+          </p>
+
+          <!-- Payment icons -->
+          <div style="display:flex;gap:8px;justify-content:center;margin-top:14px;flex-wrap:wrap;">
+            <span style="padding:3px 8px;border:1px solid var(--border);border-radius:4px;font-size:.7rem;color:var(--text-2);">VISA</span>
+            <span style="padding:3px 8px;border:1px solid var(--border);border-radius:4px;font-size:.7rem;color:var(--text-2);">Mastercard</span>
+            <span style="padding:3px 8px;border:1px solid var(--border);border-radius:4px;font-size:.7rem;color:var(--text-2);">PayPal</span>
+            <span style="padding:3px 8px;border:1px solid var(--border);border-radius:4px;font-size:.7rem;color:var(--text-2);">Virement</span>
+          </div>
+
+          <!-- Trust -->
+          <div class="trust-row">
+            <div class="trust-item"><div class="trust-icon">🔒</div>Paiement 100% sécurisé et chiffré</div>
+            <div class="trust-item"><div class="trust-icon">↩️</div>Retour gratuit sous 14 jours</div>
+            <div class="trust-item"><div class="trust-icon">📜</div>Certificat d'authenticité inclus</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script src="js/cart.js"></script>
+<script src="js/app.js"></script>
+<script>
+let promoActive = false;
+
+const ICONS = { sculptures:'🗿', peintures:'🖼️', masques:'🎭', textiles:'🧵', ceramiques:'🏺', installations:'✨' };
+const GRADS = ['linear-gradient(135deg,#0A1E28,#1A4A5A)','linear-gradient(135deg,#1A0A28,#3A1A5A)','linear-gradient(45deg,#1A1A08,#3A3010)'];
+
+function renderCart() {
+  const cart = WatemuraCart.getCart();
+  const empty = document.getElementById('cart-empty');
+  const main  = document.getElementById('cart-main');
+  const count = cart.reduce((s,i) => s+i.qty, 0);
+
+  document.getElementById('cart-count-label').textContent = `${count} œuvre${count>1?'s':''}`;
+
+  if (cart.length === 0) {
+    empty.hidden = false;
+    main.hidden  = true;
+    return;
+  }
+  empty.hidden = true;
+  main.hidden  = false;
+
+  const itemsEl = document.getElementById('cart-items');
+  itemsEl.innerHTML = '';
+  cart.forEach(item => {
+    const div = document.createElement('div');
+    div.className = 'cart-item';
+    div.innerHTML = `
+      <div class="cart-item__thumb" style="background:${GRADS[item.id % GRADS.length]};">
+        <span style="opacity:.4;">${ICONS[item.cat] || '🎨'}</span>
+      </div>
+      <div class="cart-item__info">
+        <h3 class="cart-item__name"><a href="produit.html?id=${item.id}" style="color:inherit;text-decoration:none;">${item.name}</a></h3>
+        <p class="cart-item__artist">${item.artist || ''}</p>
+        <div class="qty-input" style="width:fit-content;margin-top:8px;">
+          <button onclick="changeItemQty(${item.id}, ${item.qty - 1})" aria-label="Diminuer">−</button>
+          <input type="number" value="${item.qty}" readonly style="pointer-events:none;">
+          <button onclick="changeItemQty(${item.id}, ${item.qty + 1})" aria-label="Augmenter">+</button>
+        </div>
+      </div>
+      <div class="cart-item__actions">
+        <span class="cart-item__price">${WatemuraCart.formatPrice(item.price * item.qty)}</span>
+        <span style="font-size:.75rem;color:var(--text-2);">${WatemuraCart.formatPrice(item.price)} / pièce</span>
+        <button class="cart-item__remove" onclick="removeItem(${item.id})">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>
+          Supprimer
+        </button>
+      </div>`;
+    itemsEl.appendChild(div);
+  });
+
+  updateTotals();
+}
+
+function changeItemQty(id, qty) {
+  WatemuraCart.updateQty(id, qty);
+  renderCart();
+}
+
+function removeItem(id) {
+  WatemuraCart.removeFromCart(id);
+  renderCart();
+  WatemuraCart.showToast('Œuvre retirée du panier');
+}
+
+function updateTotals() {
+  const subtotal = WatemuraCart.getCartTotal();
+  const tva = subtotal * 0.2 / 1.2;
+  const discount = promoActive ? subtotal * 0.10 : 0;
+  const total = subtotal - discount;
+
+  document.getElementById('subtotal-val').textContent = WatemuraCart.formatPrice(subtotal - tva);
+  document.getElementById('tva-val').textContent = WatemuraCart.formatPrice(tva);
+  document.getElementById('total-val').textContent = WatemuraCart.formatPrice(total);
+
+  if (promoActive) {
+    document.getElementById('promo-row').hidden = false;
+    document.getElementById('promo-val').textContent = '−' + WatemuraCart.formatPrice(discount);
+  } else {
+    document.getElementById('promo-row').hidden = true;
+  }
+}
+
+function applyPromo() {
+  const code = document.getElementById('promo-input').value.trim().toUpperCase();
+  if (code === 'WATEMURA10') {
+    promoActive = true;
+    document.getElementById('promo-applied').style.display = 'flex';
+    document.getElementById('promo-input').disabled = true;
+    updateTotals();
+    WatemuraCart.showToast('Code promo appliqué !', 'success');
+  } else {
+    WatemuraCart.showToast('Code promotionnel invalide', 'error');
+  }
+}
+
+function removePromo() {
+  promoActive = false;
+  document.getElementById('promo-applied').style.display = 'none';
+  document.getElementById('promo-input').disabled = false;
+  document.getElementById('promo-input').value = '';
+  updateTotals();
+}
+
+document.addEventListener('DOMContentLoaded', renderCart);
+document.addEventListener('cart:updated', renderCart);
+</script>
+</body>
+</html>

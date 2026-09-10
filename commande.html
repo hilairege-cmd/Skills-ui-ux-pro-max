@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WATEMURA — Commander</title>
+  <link rel="stylesheet" href="css/watemura.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500&display=swap">
+  <style>
+    .checkout-layout {
+      display: grid;
+      grid-template-columns: 1fr 340px;
+      gap: 48px;
+      align-items: start;
+      padding-block: 40px 80px;
+    }
+    @media (max-width: 900px) {
+      .checkout-layout { grid-template-columns: 1fr; }
+    }
+
+    /* Steps bar */
+    .checkout-steps-bar {
+      padding: 28px 0 32px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 36px;
+    }
+
+    /* Step panels */
+    .step-panel { display: none; }
+    .step-panel.active { display: block; }
+
+    .step-section-title {
+      font-family: var(--ff-disp);
+      font-size: 1.35rem;
+      font-weight: 400;
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .step-section-title span {
+      width: 28px; height: 28px;
+      border-radius: 50%;
+      background: var(--tide);
+      color: white;
+      font-size: .8rem;
+      font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+    }
+
+    /* Delivery options */
+    .delivery-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 16px;
+      border: 2px solid var(--border);
+      border-radius: var(--r-md);
+      cursor: pointer;
+      margin-bottom: 10px;
+      transition: all var(--transition);
+    }
+    .delivery-option:hover { border-color: var(--tide); }
+    .delivery-option.selected {
+      border-color: var(--tide);
+      background: rgba(26,107,122,.04);
+    }
+    .delivery-option input[type="radio"] {
+      margin-top: 2px; flex-shrink: 0;
+      accent-color: var(--tide);
+    }
+    .delivery-option__info { flex: 1; }
+    .delivery-option__name { font-weight: 500; font-size: .9375rem; }
+    .delivery-option__desc { font-size: .8125rem; color: var(--text-2); margin-top: 2px; }
+    .delivery-option__price {
+      font-family: var(--ff-disp);
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--tide);
+      white-space: nowrap;
+    }
+    .delivery-option__price.free { color: var(--flow); }
+
+    /* Payment methods */
+    .payment-tab-row {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+    .payment-tab {
+      flex: 1;
+      min-width: 100px;
+      padding: 12px;
+      border: 2px solid var(--border);
+      border-radius: var(--r-md);
+      background: var(--surface);
+      cursor: pointer;
+      text-align: center;
+      font-size: .8125rem;
+      font-weight: 500;
+      color: var(--text-2);
+      transition: all var(--transition);
+    }
+    .payment-tab:hover { border-color: var(--tide); color: var(--tide); }
+    .payment-tab.active { border-color: var(--tide); background: rgba(26,107,122,.05); color: var(--tide); }
+    .payment-tab__icon { font-size: 1.2rem; display: block; margin-bottom: 4px; }
+
+    .payment-panel { display: none; }
+    .payment-panel.active { display: block; }
+
+    .card-number-wrap { position: relative; }
+    .card-brand-icons {
+      position: absolute; right: 12px; top: 50%;
+      transform: translateY(-50%);
+      display: flex; gap: 4px;
+    }
+    .card-brand-icons span {
+      padding: 1px 5px;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      font-size: .62rem;
+      color: var(--text-2);
+    }
+
+    /* Order summary card */
+    .order-summary {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-lg);
+      padding: 24px;
+      position: sticky;
+      top: 88px;
+    }
+    .order-item {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .order-item:last-of-type { border-bottom: none; }
+    .order-item__thumb {
+      width: 52px; height: 52px;
+      border-radius: var(--r-sm);
+      background: var(--bg-2);
+      flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.3rem;
+    }
+    .order-item__name { font-size: .875rem; font-weight: 500; flex: 1; line-height: 1.3; }
+    .order-item__price { font-family: var(--ff-disp); font-size: 1rem; color: var(--tide); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+    /* Confirmation */
+    .confirm-hero {
+      text-align: center;
+      padding: 60px 24px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--r-lg);
+      margin-bottom: 32px;
+    }
+    .confirm-icon {
+      width: 80px; height: 80px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--tide), var(--flow));
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto 20px;
+      font-size: 2rem;
+    }
+    .order-number-display {
+      font-family: var(--ff-disp);
+      font-size: 1.5rem;
+      color: var(--tide);
+      letter-spacing: 0.08em;
+      margin: 8px 0;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Nav (minimal for checkout) -->
+<nav style="position:fixed;top:0;left:0;right:0;z-index:100;height:64px;background:var(--bg);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,60px);">
+  <a href="index.html" style="font-family:var(--ff-disp);font-size:1.2rem;letter-spacing:.08em;color:var(--tide);text-decoration:none;">WATEMURA</a>
+  <div style="display:flex;align-items:center;gap:8px;">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--flow)" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+    <span style="font-size:.75rem;color:var(--text-2);">Commande sécurisée</span>
+  </div>
+  <a href="panier.html" style="font-size:.8125rem;color:var(--text-2);text-decoration:none;">← Panier</a>
+</nav>
+
+<main style="margin-top:64px; background:var(--bg); min-height:calc(100vh - 64px);">
+  <div class="container">
+
+    <!-- Steps bar -->
+    <div class="checkout-steps-bar">
+      <div class="steps" id="checkout-steps">
+        <div class="step active" id="s1">
+          <div class="step__num">1</div>
+          <span class="step__label">Informations</span>
+        </div>
+        <div class="step" id="s2">
+          <div class="step__num">2</div>
+          <span class="step__label">Livraison</span>
+        </div>
+        <div class="step" id="s3">
+          <div class="step__num">3</div>
+          <span class="step__label">Paiement</span>
+        </div>
+        <div class="step" id="s4">
+          <div class="step__num">4</div>
+          <span class="step__label">Confirmation</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="checkout-layout">
+      <!-- Left: steps -->
+      <div>
+
+        <!-- ─── Step 1: Informations ─── -->
+        <div class="step-panel active" id="panel-1">
+          <h2 class="step-section-title"><span>1</span> Informations personnelles</h2>
+          <form id="form-info" novalidate>
+            <div style="display:flex;flex-direction:column;gap:16px;">
+              <div class="form-row">
+                <div class="form-group">
+                  <label class="form-label" for="c-prenom">Prénom *</label>
+                  <input type="text" class="form-input" id="c-prenom" placeholder="Aïssa" required autocomplete="given-name">
+                </div>
+                <div class="form-group">
+                  <label class="form-label" for="c-nom">Nom *</label>
+                  <input type="text" class="form-input" id="c-nom" placeholder="Diallo" required autocomplete="family-name">
+                </div>
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="c-email">E-mail *</label>
+                <input type="email" class="form-input" id="c-email" placeholder="aissa@exemple.com" required autocomplete="email">
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="c-tel">Téléphone *</label>
+                <input type="tel" class="form-input" id="c-tel" placeholder="+33 6 00 00 00 00" required autocomplete="tel">
+              </div>
+              <hr class="divider">
+              <h3 class="step-section-title" style="border-bottom:none;margin-bottom:4px;"><span style="background:var(--flow);">↓</span> Adresse de livraison</h3>
+              <div class="form-group">
+                <label class="form-label" for="c-addr1">Adresse ligne 1 *</label>
+                <input type="text" class="form-input" id="c-addr1" placeholder="12 rue des Acacias" required autocomplete="address-line1">
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="c-addr2">Adresse ligne 2</label>
+                <input type="text" class="form-input" id="c-addr2" placeholder="Appartement, étage…" autocomplete="address-line2">
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label class="form-label" for="c-cp">Code postal *</label>
+                  <input type="text" class="form-input" id="c-cp" placeholder="75001" required autocomplete="postal-code">
+                </div>
+                <div class="form-group">
+                  <label class="form-label" for="c-ville">Ville *</label>
+                  <input type="text" class="form-input" id="c-ville" placeholder="Paris" required autocomplete="address-level2">
+                </div>
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="c-pays">Pays *</label>
+                <select class="form-select form-input" id="c-pays" required autocomplete="country">
+                  <option value="FR" selected>France</option>
+                  <option value="BE">Belgique</option>
+                  <option value="CH">Suisse</option>
+                  <option value="LU">Luxembourg</option>
+                  <option value="SN">Sénégal</option>
+                  <option value="CI">Côte d'Ivoire</option>
+                  <option value="CM">Cameroun</option>
+                  <option value="CD">RD Congo</option>
+                  <option value="MA">Maroc</option>
+                  <option value="NG">Nigeria</option>
+                  <option value="GH">Ghana</option>
+                  <option value="OTHER">Autre</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label class="form-item" style="display:flex;align-items:center;gap:10px;cursor:pointer;">
+                  <input type="checkbox" id="c-save-addr" style="accent-color:var(--tide);">
+                  <span style="font-size:.875rem;">Sauvegarder cette adresse dans mon compte</span>
+                </label>
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="c-note">Note pour la livraison</label>
+                <textarea class="form-textarea" id="c-note" placeholder="Instructions spéciales, code d'accès…" style="min-height:72px;"></textarea>
+              </div>
+            </div>
+            <div style="display:flex;justify-content:flex-end;margin-top:24px;">
+              <button type="button" class="btn btn--primary btn--lg" onclick="goToStep(2)">
+                Continuer → Livraison
+              </button>
+            </div>
+          </form>
+        </div>
+
+        <!-- ─── Step 2: Livraison ─── -->
+        <div class="step-panel" id="panel-2">
+          <h2 class="step-section-title"><span>2</span> Mode de livraison</h2>
+
+          <label class="delivery-option selected" id="d1" onclick="selectDelivery('d1','Colissimo Express')">
+            <input type="radio" name="delivery" value="express" checked>
+            <div class="delivery-option__info">
+              <div class="delivery-option__name">Colissimo Express</div>
+              <div class="delivery-option__desc">Livraison en 5–7 jours ouvrés · Suivi inclus</div>
+              <div class="delivery-option__desc" style="margin-top:4px;">📦 Emballage muséal standard</div>
+            </div>
+            <span class="delivery-option__price free">Incluse</span>
+          </label>
+
+          <label class="delivery-option" id="d2" onclick="selectDelivery('d2','Chronopost Signature')">
+            <input type="radio" name="delivery" value="chrono">
+            <div class="delivery-option__info">
+              <div class="delivery-option__name">Chronopost Signature</div>
+              <div class="delivery-option__desc">Livraison en 2–3 jours ouvrés · Signature requise</div>
+              <div class="delivery-option__desc" style="margin-top:4px;">🛡️ Assurance valeur déclarée incluse</div>
+            </div>
+            <span class="delivery-option__price">25 €</span>
+          </label>
+
+          <label class="delivery-option" id="d3" onclick="selectDelivery('d3','Remise en main propre — Paris')">
+            <input type="radio" name="delivery" value="pickup">
+            <div class="delivery-option__info">
+              <div class="delivery-option__name">Remise en main propre — Paris</div>
+              <div class="delivery-option__desc">Notre espace · 18 rue de la Galerie, 75003 Paris</div>
+              <div class="delivery-option__desc" style="margin-top:4px;">📍 Sur rendez-vous · Mar–Sam 10h–18h</div>
+            </div>
+            <span class="delivery-option__price free">Gratuit</span>
+          </label>
+
+          <label class="delivery-option" id="d4" onclick="selectDelivery('d4','Livraison internationale')">
+            <input type="radio" name="delivery" value="intl">
+            <div class="delivery-option__info">
+              <div class="delivery-option__name">Livraison internationale</div>
+              <div class="delivery-option__desc">DHL Express · 7–14 jours ouvrés selon destination</div>
+              <div class="delivery-option__desc" style="margin-top:4px;">🌍 Formalités douanières gérées par Watemura</div>
+            </div>
+            <span class="delivery-option__price">Sur devis</span>
+          </label>
+
+          <div style="margin-top:24px;padding:16px;background:rgba(196,154,60,.06);border:1px solid rgba(196,154,60,.2);border-radius:var(--r-md);">
+            <div style="display:flex;gap:10px;align-items:flex-start;">
+              <span style="font-size:1.1rem;">ℹ️</span>
+              <p style="font-size:.8125rem;color:var(--text-2);line-height:1.6;">
+                Toutes nos œuvres sont emballées avec des matériaux acide-libres et expédiées dans des caisses renforcées.
+                Un numéro de suivi vous sera envoyé par e-mail dès l'expédition.
+              </p>
+            </div>
+          </div>
+
+          <div style="display:flex;gap:12px;justify-content:space-between;margin-top:28px;flex-wrap:wrap;">
+            <button class="btn btn--ghost" onclick="goToStep(1)">← Retour</button>
+            <button class="btn btn--primary btn--lg" onclick="goToStep(3)">Continuer → Paiement</button>
+          </div>
+        </div>
+
+        <!-- ─── Step 3: Paiement ─── -->
+        <div class="step-panel" id="panel-3">
+          <h2 class="step-section-title"><span>3</span> Mode de paiement</h2>
+
+          <div class="payment-tab-row">
+            <button class="payment-tab active" id="tab-card" onclick="selectPayment('card')">
+              <span class="payment-tab__icon">💳</span>
+              Carte bancaire
+            </button>
+            <button class="payment-tab" id="tab-paypal" onclick="selectPayment('paypal')">
+              <span class="payment-tab__icon">🅿️</span>
+              PayPal
+            </button>
+            <button class="payment-tab" id="tab-virement" onclick="selectPayment('virement')">
+              <span class="payment-tab__icon">🏦</span>
+              Virement
+            </button>
+          </div>
+
+          <!-- Card panel -->
+          <div class="payment-panel active" id="pp-card">
+            <div style="display:flex;flex-direction:column;gap:16px;">
+              <div class="form-group">
+                <label class="form-label" for="card-name">Nom sur la carte *</label>
+                <input type="text" class="form-input" id="card-name" placeholder="AÏSSA DIALLO" autocomplete="cc-name">
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="card-num">Numéro de carte *</label>
+                <div class="card-number-wrap">
+                  <input type="text" class="form-input" id="card-num" placeholder="•••• •••• •••• ••••" maxlength="19" autocomplete="cc-number" oninput="formatCardNum(this)">
+                  <div class="card-brand-icons">
+                    <span>VISA</span><span>MC</span>
+                  </div>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label class="form-label" for="card-exp">Date d'expiration *</label>
+                  <input type="text" class="form-input" id="card-exp" placeholder="MM / AA" maxlength="7" autocomplete="cc-exp" oninput="formatExp(this)">
+                </div>
+                <div class="form-group">
+                  <label class="form-label" for="card-cvc">CVC *</label>
+                  <input type="text" class="form-input" id="card-cvc" placeholder="•••" maxlength="4" autocomplete="cc-csc">
+                </div>
+              </div>
+              <div style="padding:12px;background:rgba(45,181,163,.05);border:1px solid rgba(45,181,163,.15);border-radius:var(--r-sm);display:flex;gap:10px;align-items:center;">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--flow)" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+                <span style="font-size:.78rem;color:var(--text-2);">Paiement sécurisé 3D Secure · Vos données ne sont jamais stockées.</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- PayPal panel -->
+          <div class="payment-panel" id="pp-paypal">
+            <div style="text-align:center;padding:40px 20px;background:var(--bg-2);border-radius:var(--r-md);border:1px solid var(--border);">
+              <div style="font-size:2.5rem;margin-bottom:12px;">🅿️</div>
+              <p style="font-size:.9375rem;color:var(--text-2);line-height:1.7;">
+                Vous serez redirigé vers PayPal pour finaliser votre paiement de manière sécurisée.<br>
+                Aucune information bancaire n'est partagée avec Watemura.
+              </p>
+            </div>
+          </div>
+
+          <!-- Virement panel -->
+          <div class="payment-panel" id="pp-virement">
+            <div style="padding:20px;background:var(--bg-2);border-radius:var(--r-md);border:1px solid var(--border);">
+              <p class="t-label mb-12">Coordonnées bancaires</p>
+              <div style="display:flex;flex-direction:column;gap:8px;font-size:.875rem;">
+                <div style="display:flex;gap:8px;"><strong style="min-width:80px;color:var(--text-2);">Bénéficiaire</strong> <span>WATEMURA SARL</span></div>
+                <div style="display:flex;gap:8px;"><strong style="min-width:80px;color:var(--text-2);">IBAN</strong> <span style="font-variant-numeric:tabular-nums;">FR76 3000 4028 3700 0123 4567 891</span></div>
+                <div style="display:flex;gap:8px;"><strong style="min-width:80px;color:var(--text-2);">BIC</strong> <span>BNPAFRPPXXX</span></div>
+                <div style="display:flex;gap:8px;"><strong style="min-width:80px;color:var(--text-2);">Référence</strong> <span id="transfer-ref" style="color:var(--tide);font-weight:500;">WATE-2024-XXXX</span></div>
+              </div>
+              <p style="font-size:.78rem;color:var(--text-2);margin-top:16px;line-height:1.6;">
+                ⚠️ Votre commande sera réservée 5 jours ouvrés en attente de réception du virement.
+                L'œuvre sera expédiée dès confirmation du paiement.
+              </p>
+            </div>
+          </div>
+
+          <div style="margin-top:16px;">
+            <label style="display:flex;align-items:flex-start;gap:10px;cursor:pointer;">
+              <input type="checkbox" id="accept-cgv" style="margin-top:2px;accent-color:var(--tide);" required>
+              <span style="font-size:.8125rem;color:var(--text-2);line-height:1.5;">
+                J'accepte les <a href="#" style="color:var(--tide);">Conditions Générales de Vente</a> et la
+                <a href="#" style="color:var(--tide);">Politique de confidentialité</a> de Watemura. *
+              </span>
+            </label>
+          </div>
+
+          <div style="display:flex;gap:12px;justify-content:space-between;margin-top:24px;flex-wrap:wrap;">
+            <button class="btn btn--ghost" onclick="goToStep(2)">← Retour</button>
+            <button class="btn btn--ember btn--lg" onclick="placeOrder()">
+              🔒 Confirmer et payer
+            </button>
+          </div>
+        </div>
+
+        <!-- ─── Step 4: Confirmation ─── -->
+        <div class="step-panel" id="panel-4">
+          <div class="confirm-hero">
+            <div class="confirm-icon">✓</div>
+            <p class="t-label mb-8">Commande confirmée</p>
+            <h2 class="t-heading">Merci pour votre confiance</h2>
+            <p class="order-number-display" id="order-num">WT-2024-0000</p>
+            <p style="font-size:.9rem;color:var(--text-2);max-width:440px;margin:12px auto 0;line-height:1.7;">
+              Un e-mail de confirmation vous a été envoyé. Votre œuvre sera préparée avec soin
+              et expédiée sous 3–5 jours ouvrés.
+            </p>
+          </div>
+
+          <!-- Order details -->
+          <div class="card" style="padding:24px;margin-bottom:24px;">
+            <p class="t-label mb-16">Détails de la commande</p>
+            <div style="display:flex;flex-direction:column;gap:10px;font-size:.875rem;">
+              <div style="display:flex;justify-content:space-between;"><span style="color:var(--text-2);">Numéro de commande</span><span id="confirm-num" style="font-weight:500;color:var(--tide);">—</span></div>
+              <div style="display:flex;justify-content:space-between;"><span style="color:var(--text-2);">Mode de livraison</span><span id="confirm-delivery">—</span></div>
+              <div style="display:flex;justify-content:space-between;"><span style="color:var(--text-2);">Livraison estimée</span><span id="confirm-eta">—</span></div>
+              <div style="display:flex;justify-content:space-between;"><span style="color:var(--text-2);">Total payé</span><span id="confirm-total" style="font-family:var(--ff-disp);font-size:1.1rem;color:var(--tide);">—</span></div>
+            </div>
+          </div>
+
+          <!-- Timeline preview -->
+          <div class="card" style="padding:24px;margin-bottom:32px;">
+            <p class="t-label mb-16">Prochaines étapes</p>
+            <div class="timeline">
+              <div class="timeline__item done">
+                <div class="timeline__dot">✓</div>
+                <div class="timeline__content">
+                  <div class="timeline__event">Commande confirmée</div>
+                  <div class="timeline__date">Maintenant</div>
+                </div>
+              </div>
+              <div class="timeline__item active">
+                <div class="timeline__dot">◎</div>
+                <div class="timeline__content">
+                  <div class="timeline__event">Préparation de l'œuvre</div>
+                  <div class="timeline__date" id="eta-prep">Dans 1–2 jours ouvrés</div>
+                  <div class="timeline__desc">Vérification, nettoyage et emballage muséal</div>
+                </div>
+              </div>
+              <div class="timeline__item">
+                <div class="timeline__dot">3</div>
+                <div class="timeline__content">
+                  <div class="timeline__event">Expédition</div>
+                  <div class="timeline__date" id="eta-ship">Dans 3–5 jours ouvrés</div>
+                </div>
+              </div>
+              <div class="timeline__item">
+                <div class="timeline__dot">4</div>
+                <div class="timeline__content">
+                  <div class="timeline__event">Livraison chez vous</div>
+                  <div class="timeline__date" id="eta-del">Dans 5–10 jours ouvrés</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div style="display:flex;gap:12px;flex-wrap:wrap;">
+            <a href="compte.html#commandes" class="btn btn--primary">Suivre ma commande →</a>
+            <a href="catalogue.html" class="btn btn--ghost">Continuer mes achats</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right: summary -->
+      <div>
+        <div class="order-summary">
+          <p class="t-label mb-12">Résumé</p>
+          <div id="summary-items">
+            <!-- JS rendered -->
+          </div>
+          <div style="border-top:1px solid var(--border);padding-top:16px;margin-top:4px;">
+            <div style="display:flex;justify-content:space-between;font-size:.875rem;padding:4px 0;color:var(--text-2);">
+              <span>Sous-total</span><span id="sum-sub">—</span>
+            </div>
+            <div style="display:flex;justify-content:space-between;font-size:.875rem;padding:4px 0;color:var(--text-2);">
+              <span>Livraison</span><span style="color:var(--flow);">Incluse</span>
+            </div>
+            <div style="display:flex;justify-content:space-between;padding:10px 0 0;font-size:1rem;font-weight:600;">
+              <span>Total</span>
+              <span style="font-family:var(--ff-disp);font-size:1.3rem;color:var(--tide);" id="sum-total">—</span>
+            </div>
+          </div>
+          <div style="margin-top:16px;padding:12px;background:rgba(45,181,163,.05);border-radius:var(--r-sm);font-size:.75rem;color:var(--text-2);line-height:1.6;">
+            📜 Certificat d'authenticité inclus<br>
+            📦 Emballage muséal<br>
+            🌍 Commerce équitable · Artiste rémunéré directement
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script src="js/cart.js"></script>
+<script>
+let currentStep = 1;
+let selectedDelivery = 'Colissimo Express';
+
+function goToStep(step) {
+  if (step === 2) {
+    const name = document.getElementById('c-prenom').value.trim();
+    const email = document.getElementById('c-email').value.trim();
+    if (!name || !email) {
+      WatemuraCart.showToast('Veuillez remplir les champs obligatoires (*)', 'error');
+      return;
+    }
+  }
+  if (step === 3 && currentStep === 2) { /* ok */ }
+  if (step === 4 && currentStep === 3) { /* validated in placeOrder */ return; }
+
+  currentStep = step;
+
+  document.querySelectorAll('.step-panel').forEach(p => p.classList.remove('active'));
+  document.getElementById(`panel-${step}`).classList.add('active');
+
+  // update steps bar
+  [1,2,3,4].forEach(n => {
+    const el = document.getElementById(`s${n}`);
+    el.classList.remove('active','done');
+    if (n < step) el.classList.add('done');
+    if (n === step) el.classList.add('active');
+  });
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function selectDelivery(id, name) {
+  document.querySelectorAll('.delivery-option').forEach(o => o.classList.remove('selected'));
+  document.getElementById(id).classList.add('selected');
+  selectedDelivery = name;
+}
+
+function selectPayment(type) {
+  document.querySelectorAll('.payment-tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.payment-panel').forEach(p => p.classList.remove('active'));
+  document.getElementById(`tab-${type}`).classList.add('active');
+  document.getElementById(`pp-${type}`).classList.add('active');
+}
+
+function formatCardNum(el) {
+  let v = el.value.replace(/\D/g,'').slice(0,16);
+  el.value = v.replace(/(.{4})/g,'$1 ').trim();
+}
+function formatExp(el) {
+  let v = el.value.replace(/\D/g,'').slice(0,4);
+  if (v.length > 2) v = v.slice(0,2) + ' / ' + v.slice(2);
+  el.value = v;
+}
+
+function placeOrder() {
+  if (!document.getElementById('accept-cgv').checked) {
+    WatemuraCart.showToast('Veuillez accepter les CGV pour continuer', 'error');
+    return;
+  }
+  const orderNum = 'WT-' + new Date().getFullYear() + '-' + Math.floor(1000 + Math.random() * 9000);
+  document.getElementById('order-num').textContent = orderNum;
+  document.getElementById('confirm-num').textContent = orderNum;
+  document.getElementById('confirm-delivery').textContent = selectedDelivery;
+  document.getElementById('confirm-eta').textContent = '5–10 jours ouvrés';
+  document.getElementById('confirm-total').textContent = WatemuraCart.formatPrice(WatemuraCart.getCartTotal());
+  document.getElementById('sum-total').textContent = WatemuraCart.formatPrice(WatemuraCart.getCartTotal());
+  document.getElementById('transfer-ref').textContent = orderNum;
+
+  // Save order
+  const orders = JSON.parse(localStorage.getItem('watemura_orders') || '[]');
+  orders.unshift({
+    id: orderNum,
+    date: new Date().toISOString(),
+    items: WatemuraCart.getCart(),
+    total: WatemuraCart.getCartTotal(),
+    status: 'confirmed',
+    delivery: selectedDelivery,
+    eta: '5–10 jours ouvrés'
+  });
+  localStorage.setItem('watemura_orders', JSON.stringify(orders));
+  WatemuraCart.clearCart();
+
+  // Go to step 4
+  currentStep = 4;
+  document.querySelectorAll('.step-panel').forEach(p => p.classList.remove('active'));
+  document.getElementById('panel-4').classList.add('active');
+  [1,2,3,4].forEach(n => {
+    const el = document.getElementById(`s${n}`);
+    el.classList.remove('active','done');
+    if (n < 4) el.classList.add('done');
+    if (n === 4) el.classList.add('active');
+  });
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function renderSummary() {
+  const cart = WatemuraCart.getCart();
+  const itemsEl = document.getElementById('summary-items');
+  const GRADS = ['linear-gradient(135deg,#0A1E28,#1A4A5A)','linear-gradient(135deg,#1A0A28,#3A1A5A)'];
+  itemsEl.innerHTML = '';
+  cart.forEach(item => {
+    itemsEl.innerHTML += `
+      <div class="order-item">
+        <div class="order-item__thumb" style="background:${GRADS[item.id % 2]};">
+          <span style="opacity:.4;">🎨</span>
+        </div>
+        <div class="order-item__name">${item.name} <span style="color:var(--text-2)">× ${item.qty}</span></div>
+        <span class="order-item__price">${WatemuraCart.formatPrice(item.price * item.qty)}</span>
+      </div>`;
+  });
+  const total = WatemuraCart.getCartTotal();
+  document.getElementById('sum-sub').textContent = WatemuraCart.formatPrice(total);
+  document.getElementById('sum-total').textContent = WatemuraCart.formatPrice(total);
+  document.getElementById('confirm-total').textContent = WatemuraCart.formatPrice(total);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  renderSummary();
+  const ref = 'WATE-' + new Date().getFullYear() + '-' + Math.floor(1000+Math.random()*9000);
+  document.getElementById('transfer-ref').textContent = ref;
+});
+</script>
+</body>
+</html>
